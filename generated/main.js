@@ -8108,7 +8108,7 @@ var _user$project$App$countryFlag = function (country) {
 						_elm_lang$html$Html_Attributes$src(
 						A2(
 							_elm_lang$core$Basics_ops['++'],
-							'/static/flags/',
+							'static/flags/',
 							A2(_elm_lang$core$Basics_ops['++'], country, '.png')))
 					]),
 				_elm_lang$core$Native_List.fromArray(
