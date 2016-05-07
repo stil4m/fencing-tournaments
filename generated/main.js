@@ -8350,7 +8350,7 @@ var _user$project$App$loadDataCommand = A3(
 			_elm_lang$core$Basics$toString(x));
 	},
 	_user$project$App$NewData,
-	A2(_evancz$elm_http$Http$get, _user$project$EventDecoder$decodeEvents, 'http://localhost:8000/index.json'));
+	A2(_evancz$elm_http$Http$get, _user$project$EventDecoder$decodeEvents, './index.json'));
 var _user$project$App$main = {
 	main: _elm_lang$html$Html_App$program(
 		{
