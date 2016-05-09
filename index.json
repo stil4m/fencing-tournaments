@@ -1,4 +1,79 @@
 [ {
+  "c" : "DEN",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "t" : [ [ "S", "F", "F", "I" ], [ "S", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 8
+  },
+  "l" : "Copenhagen",
+  "n" : "Trekanten International - Nordic Championships Foil 2016"
+}, {
+  "c" : "DEN",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "t" : [ [ "J", "F", "F", "I" ], [ "U12", "F", "F", "I" ], [ "U14", "F", "F", "I" ], [ "U10", "F", "X", "I" ], [ "J", "F", "M", "I" ], [ "U12", "F", "M", "I" ], [ "C", "F", "F", "I" ], [ "C", "F", "M", "I" ], [ "U14", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 8
+  },
+  "l" : "Kobenhavn",
+  "n" : "Trekanten International - Nordic Championships Foil 2016"
+}, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "t" : [ [ "C", "S", "M", "I" ], [ "C", "S", "M", "E" ], [ "C", "S", "F", "I" ], [ "C", "S", "F", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 8
+  },
+  "l" : "Künzelsau",
+  "n" : "Deutsche A-Jugend-Meisterschaft"
+}, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "t" : [ [ "S", "E", "F", "I" ], [ "S", "E", "F", "E" ], [ "S", "E", "M", "I" ], [ "S", "E", "M", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 8
+  },
+  "l" : "Leipzig",
+  "n" : "Deutsche Meisterschaften"
+}, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "t" : [ [ "C", "F", "M", "E" ], [ "C", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 8
+  },
+  "l" : "Tuttlingen",
+  "n" : "Deutsche A-Jugend-Meisterschaft"
+}, {
   "c" : "GBR",
   "s" : {
     "y" : 2016,
