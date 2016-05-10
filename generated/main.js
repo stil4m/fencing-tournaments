@@ -2828,13 +2828,21 @@ var _elm_lang$core$Native_Platform = function() {
 
 function addPublicModule(object, name, main)
 {
-	var embed = main ? makeEmbed(name, main) : mainIsUndefined(name);
+	var init = main ? makeEmbed(name, main) : mainIsUndefined(name);
 
-	object['embed'] = embed;
+	object['worker'] = function worker(flags)
+	{
+		return init(undefined, flags, false);
+	}
+
+	object['embed'] = function embed(domNode, flags)
+	{
+		return init(domNode, flags, true);
+	}
 
 	object['fullscreen'] = function fullscreen(flags)
 	{
-		return embed(document.body, flags);
+		return init(document.body, flags, true);
 	};
 }
 
@@ -2865,11 +2873,15 @@ function errorHtml(message)
 
 function makeEmbed(moduleName, main)
 {
-	return function embed(rootDomNode, flags)
+	return function embed(rootDomNode, flags, withRenderer)
 	{
 		try
 		{
 			var program = mainToProgram(moduleName, main);
+			if (!withRenderer)
+			{
+				program.renderer = dummyRenderer;
+			}
 			return makeEmbedHelp(moduleName, program, rootDomNode, flags);
 		}
 		catch (e)
@@ -2878,6 +2890,11 @@ function makeEmbed(moduleName, main)
 			throw e;
 		}
 	};
+}
+
+function dummyRenderer()
+{
+	return { update: function() {} };
 }
 
 
@@ -6509,6 +6526,13 @@ function applyFacts(domNode, eventNode, facts)
 				applyAttrsNS(domNode, value);
 				break;
 
+			case 'value':
+				if (domNode[key] !== value)
+				{
+					domNode[key] = value;
+				}
+				break;
+
 			default:
 				domNode[key] = value;
 				break;
@@ -6828,16 +6852,6 @@ function diffFacts(a, b, category)
 {
 	var diff;
 
-	// add new stuff
-	for (var bKey in b)
-	{
-		if (!(bKey in a))
-		{
-			diff = diff || {};
-			diff[bKey] = b[bKey];
-		}
-	}
-
 	// look for changes and removals
 	for (var aKey in a)
 	{
@@ -6885,6 +6899,16 @@ function diffFacts(a, b, category)
 
 		diff = diff || {};
 		diff[aKey] = bValue;
+	}
+
+	// add new stuff
+	for (var bKey in b)
+	{
+		if (!(bKey in a))
+		{
+			diff = diff || {};
+			diff[bKey] = b[bKey];
+		}
 	}
 
 	return diff;
@@ -7400,6 +7424,9 @@ var _elm_lang$html$Html_Attributes$type$ = function (value) {
 var _elm_lang$html$Html_Attributes$value = function (value) {
 	return A2(_elm_lang$html$Html_Attributes$stringProperty, 'value', value);
 };
+var _elm_lang$html$Html_Attributes$defaultValue = function (value) {
+	return A2(_elm_lang$html$Html_Attributes$stringProperty, 'defaultValue', value);
+};
 var _elm_lang$html$Html_Attributes$placeholder = function (value) {
 	return A2(_elm_lang$html$Html_Attributes$stringProperty, 'placeholder', value);
 };
@@ -7646,6 +7673,111 @@ var _elm_lang$html$Html_Attributes$classList = function (list) {
 				A2(_elm_lang$core$List$filter, _elm_lang$core$Basics$snd, list))));
 };
 var _elm_lang$html$Html_Attributes$style = _elm_lang$virtual_dom$VirtualDom$style;
+
+var _elm_lang$html$Html_Events$keyCode = A2(_elm_lang$core$Json_Decode_ops[':='], 'keyCode', _elm_lang$core$Json_Decode$int);
+var _elm_lang$html$Html_Events$targetChecked = A2(
+	_elm_lang$core$Json_Decode$at,
+	_elm_lang$core$Native_List.fromArray(
+		['target', 'checked']),
+	_elm_lang$core$Json_Decode$bool);
+var _elm_lang$html$Html_Events$targetValue = A2(
+	_elm_lang$core$Json_Decode$at,
+	_elm_lang$core$Native_List.fromArray(
+		['target', 'value']),
+	_elm_lang$core$Json_Decode$string);
+var _elm_lang$html$Html_Events$defaultOptions = _elm_lang$virtual_dom$VirtualDom$defaultOptions;
+var _elm_lang$html$Html_Events$onWithOptions = _elm_lang$virtual_dom$VirtualDom$onWithOptions;
+var _elm_lang$html$Html_Events$on = _elm_lang$virtual_dom$VirtualDom$on;
+var _elm_lang$html$Html_Events$onFocus = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'focus',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onBlur = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'blur',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onSubmitOptions = _elm_lang$core$Native_Utils.update(
+	_elm_lang$html$Html_Events$defaultOptions,
+	{preventDefault: true});
+var _elm_lang$html$Html_Events$onSubmit = function (msg) {
+	return A3(
+		_elm_lang$html$Html_Events$onWithOptions,
+		'submit',
+		_elm_lang$html$Html_Events$onSubmitOptions,
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onCheck = function (tagger) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'change',
+		A2(_elm_lang$core$Json_Decode$map, tagger, _elm_lang$html$Html_Events$targetChecked));
+};
+var _elm_lang$html$Html_Events$onInput = function (tagger) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'input',
+		A2(_elm_lang$core$Json_Decode$map, tagger, _elm_lang$html$Html_Events$targetValue));
+};
+var _elm_lang$html$Html_Events$onMouseOut = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'mouseout',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onMouseOver = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'mouseover',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onMouseLeave = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'mouseleave',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onMouseEnter = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'mouseenter',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onMouseUp = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'mouseup',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onMouseDown = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'mousedown',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onDoubleClick = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'dblclick',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$onClick = function (msg) {
+	return A2(
+		_elm_lang$html$Html_Events$on,
+		'click',
+		_elm_lang$core$Json_Decode$succeed(msg));
+};
+var _elm_lang$html$Html_Events$Options = F2(
+	function (a, b) {
+		return {stopPropagation: a, preventDefault: b};
+	});
+
+var _elm_lang$html$Html_Lazy$lazy3 = _elm_lang$virtual_dom$VirtualDom$lazy3;
+var _elm_lang$html$Html_Lazy$lazy2 = _elm_lang$virtual_dom$VirtualDom$lazy2;
+var _elm_lang$html$Html_Lazy$lazy = _elm_lang$virtual_dom$VirtualDom$lazy;
 
 //import Dict, List, Maybe, Native.Scheduler //
 
@@ -8005,6 +8137,10 @@ var _evancz$elm_http$Http$post = F3(
 			A2(_evancz$elm_http$Http$send, _evancz$elm_http$Http$defaultSettings, request));
 	});
 
+var _user$project$AppTypes$Category = F4(
+	function (a, b, c, d) {
+		return {ageGroup: a, weapon: b, gender: c, composition: d};
+	});
 var _user$project$AppTypes$SimpleDate = F3(
 	function (a, b, c) {
 		return {year: a, month: b, day: c};
@@ -8012,10 +8148,6 @@ var _user$project$AppTypes$SimpleDate = F3(
 var _user$project$AppTypes$Event = F6(
 	function (a, b, c, d, e, f) {
 		return {country: a, startDate: b, endDate: c, tournaments: d, location: e, name: f};
-	});
-var _user$project$AppTypes$Category = F4(
-	function (a, b, c, d) {
-		return {ctor: 'Category', _0: a, _1: b, _2: c, _3: d};
 	});
 
 var _user$project$EventDecoder$simpleDateDecoder = A4(
@@ -8039,55 +8171,83 @@ var _user$project$EventDecoder$decodeEvent = A7(
 	A2(_elm_lang$core$Json_Decode_ops[':='], 'n', _elm_lang$core$Json_Decode$string));
 var _user$project$EventDecoder$decodeEvents = _elm_lang$core$Json_Decode$list(_user$project$EventDecoder$decodeEvent);
 
-var _user$project$App$update = F2(
-	function (action, model) {
-		var _p0 = action;
-		switch (_p0.ctor) {
-			case 'NoOp':
-				return {ctor: '_Tuple2', _0: model, _1: _elm_lang$core$Platform_Cmd$none};
-			case 'FetchFailed':
-				return {
-					ctor: '_Tuple2',
-					_0: _elm_lang$core$Native_Utils.update(
-						model,
-						{
-							message: _elm_lang$core$Maybe$Just(_p0._0)
-						}),
-					_1: _elm_lang$core$Platform_Cmd$none
-				};
-			default:
-				return {
-					ctor: '_Tuple2',
-					_0: _elm_lang$core$Native_Utils.update(
-						model,
-						{events: _p0._0}),
-					_1: _elm_lang$core$Platform_Cmd$none
-				};
-		}
+var _user$project$FilterSelect$asOptions = _elm_lang$core$List$map(
+	function (_p0) {
+		var _p1 = _p0;
+		return A2(
+			_elm_lang$html$Html$option,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$value(_p1._0)
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html$text(_p1._1)
+				]));
 	});
-var _user$project$App$fixZero = function (x) {
+var _user$project$FilterSelect$filterSelect = F3(
+	function (placeHolder, options, f) {
+		return A2(
+			_elm_lang$html$Html$select,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class('form-control'),
+					A2(
+					_elm_lang$html$Html_Events$on,
+					'change',
+					A2(
+						_elm_lang$core$Json_Decode$map,
+						function (x) {
+							return _elm_lang$core$Native_Utils.eq(x, '') ? f(_elm_lang$core$Maybe$Nothing) : f(
+								_elm_lang$core$Maybe$Just(x));
+						},
+						_elm_lang$html$Html_Events$targetValue))
+				]),
+			A2(
+				_elm_lang$core$List_ops['::'],
+				A2(
+					_elm_lang$html$Html$option,
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_elm_lang$html$Html_Attributes$value('')
+						]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							A2(
+							_elm_lang$html$Html$i,
+							_elm_lang$core$Native_List.fromArray(
+								[]),
+							_elm_lang$core$Native_List.fromArray(
+								[
+									_elm_lang$html$Html$text(placeHolder)
+								]))
+						])),
+				_user$project$FilterSelect$asOptions(options)));
+	});
+
+var _user$project$EventRow$fixZero = function (x) {
 	return (_elm_lang$core$Native_Utils.cmp(x, 10) < 0) ? A2(
 		_elm_lang$core$Basics_ops['++'],
 		'0',
 		_elm_lang$core$Basics$toString(x)) : _elm_lang$core$Basics$toString(x);
 };
-var _user$project$App$dateText = function (d) {
+var _user$project$EventRow$dateText = function (d) {
 	return _elm_lang$html$Html$text(
 		A2(
 			_elm_lang$core$Basics_ops['++'],
-			_user$project$App$fixZero(d.year),
+			_user$project$EventRow$fixZero(d.year),
 			A2(
 				_elm_lang$core$Basics_ops['++'],
 				'-',
 				A2(
 					_elm_lang$core$Basics_ops['++'],
-					_user$project$App$fixZero(d.month),
+					_user$project$EventRow$fixZero(d.month),
 					A2(
 						_elm_lang$core$Basics_ops['++'],
 						'-',
-						_user$project$App$fixZero(d.day))))));
+						_user$project$EventRow$fixZero(d.day))))));
 };
-var _user$project$App$countryFlag = function (country) {
+var _user$project$EventRow$countryFlag = function (country) {
 	return A2(
 		_elm_lang$html$Html$span,
 		_elm_lang$core$Native_List.fromArray(
@@ -8117,39 +8277,39 @@ var _user$project$App$countryFlag = function (country) {
 				A2(_elm_lang$core$Basics_ops['++'], ' ', country))
 			]));
 };
-var _user$project$App$eventLink = function (_p1) {
-	var _p2 = _p1;
-	var _p4 = _p2.startDate;
+var _user$project$EventRow$eventLink = function (_p0) {
+	var _p1 = _p0;
+	var _p3 = _p1.startDate;
 	return A2(
 		_elm_lang$core$Basics_ops['++'],
 		'./',
 		A2(
 			_elm_lang$core$Basics_ops['++'],
-			_user$project$App$fixZero(_p4.year),
+			_user$project$EventRow$fixZero(_p3.year),
 			A2(
 				_elm_lang$core$Basics_ops['++'],
 				'/',
 				A2(
 					_elm_lang$core$Basics_ops['++'],
-					_user$project$App$fixZero(_p4.month),
+					_user$project$EventRow$fixZero(_p3.month),
 					A2(
 						_elm_lang$core$Basics_ops['++'],
 						'/',
 						A2(
 							_elm_lang$core$Basics_ops['++'],
-							_user$project$App$fixZero(_p4.year),
+							_user$project$EventRow$fixZero(_p3.year),
 							A2(
 								_elm_lang$core$Basics_ops['++'],
-								_user$project$App$fixZero(_p4.month),
+								_user$project$EventRow$fixZero(_p3.month),
 								A2(
 									_elm_lang$core$Basics_ops['++'],
-									_user$project$App$fixZero(_p4.day),
+									_user$project$EventRow$fixZero(_p3.day),
 									A2(
 										_elm_lang$core$Basics_ops['++'],
 										'-',
 										A2(
 											_elm_lang$core$Basics_ops['++'],
-											_p2.country,
+											_p1.country,
 											A2(
 												_elm_lang$core$Basics_ops['++'],
 												'-',
@@ -8157,19 +8317,19 @@ var _user$project$App$eventLink = function (_p1) {
 													_elm_lang$core$Regex$replace,
 													_elm_lang$core$Regex$All,
 													_elm_lang$core$Regex$regex(' '),
-													function (_p3) {
+													function (_p2) {
 														return '_';
 													},
-													_p2.location))))))))))));
+													_p1.location))))))))))));
 };
-var _user$project$App$visitButton = function (event) {
+var _user$project$EventRow$visitButton = function (event) {
 	return A2(
 		_elm_lang$html$Html$a,
 		_elm_lang$core$Native_List.fromArray(
 			[
 				_elm_lang$html$Html_Attributes$class('btn btn-primary btn-sm'),
 				_elm_lang$html$Html_Attributes$href(
-				_user$project$App$eventLink(event))
+				_user$project$EventRow$eventLink(event))
 			]),
 		_elm_lang$core$Native_List.fromArray(
 			[
@@ -8183,7 +8343,7 @@ var _user$project$App$visitButton = function (event) {
 					[]))
 			]));
 };
-var _user$project$App$eventRow = function (event) {
+var _user$project$EventRow$view = function (event) {
 	return A2(
 		_elm_lang$html$Html$tr,
 		_elm_lang$core$Native_List.fromArray(
@@ -8196,7 +8356,7 @@ var _user$project$App$eventRow = function (event) {
 					[]),
 				_elm_lang$core$Native_List.fromArray(
 					[
-						_user$project$App$dateText(event.startDate)
+						_user$project$EventRow$dateText(event.startDate)
 					])),
 				A2(
 				_elm_lang$html$Html$td,
@@ -8204,7 +8364,7 @@ var _user$project$App$eventRow = function (event) {
 					[]),
 				_elm_lang$core$Native_List.fromArray(
 					[
-						_user$project$App$countryFlag(event.country)
+						_user$project$EventRow$countryFlag(event.country)
 					])),
 				A2(
 				_elm_lang$html$Html$td,
@@ -8228,10 +8388,97 @@ var _user$project$App$eventRow = function (event) {
 					[]),
 				_elm_lang$core$Native_List.fromArray(
 					[
-						_user$project$App$visitButton(event)
+						_user$project$EventRow$visitButton(event)
 					]))
 			]));
 };
+
+var _user$project$App$patchFilter = F2(
+	function (model, f) {
+		var eventFilter = model.eventFilter;
+		var newEventFilter = f(eventFilter);
+		return _elm_lang$core$Native_Utils.update(
+			model,
+			{eventFilter: newEventFilter});
+	});
+var _user$project$App$update = F2(
+	function (action, model) {
+		var _p0 = action;
+		switch (_p0.ctor) {
+			case 'NoOp':
+				return {ctor: '_Tuple2', _0: model, _1: _elm_lang$core$Platform_Cmd$none};
+			case 'FetchFailed':
+				return {
+					ctor: '_Tuple2',
+					_0: _elm_lang$core$Native_Utils.update(
+						model,
+						{
+							message: _elm_lang$core$Maybe$Just(_p0._0)
+						}),
+					_1: _elm_lang$core$Platform_Cmd$none
+				};
+			case 'SetGenderFilter':
+				return {
+					ctor: '_Tuple2',
+					_0: A2(
+						_user$project$App$patchFilter,
+						model,
+						function (old) {
+							return _elm_lang$core$Native_Utils.update(
+								old,
+								{gender: _p0._0});
+						}),
+					_1: _elm_lang$core$Platform_Cmd$none
+				};
+			case 'SetAgeGroupFilter':
+				return {
+					ctor: '_Tuple2',
+					_0: A2(
+						_user$project$App$patchFilter,
+						model,
+						function (old) {
+							return _elm_lang$core$Native_Utils.update(
+								old,
+								{ageGroup: _p0._0});
+						}),
+					_1: _elm_lang$core$Platform_Cmd$none
+				};
+			case 'SetWeaponFilter':
+				return {
+					ctor: '_Tuple2',
+					_0: A2(
+						_user$project$App$patchFilter,
+						model,
+						function (old) {
+							return _elm_lang$core$Native_Utils.update(
+								old,
+								{weapon: _p0._0});
+						}),
+					_1: _elm_lang$core$Platform_Cmd$none
+				};
+			case 'SetCompositionFilter':
+				return {
+					ctor: '_Tuple2',
+					_0: A2(
+						_user$project$App$patchFilter,
+						model,
+						function (old) {
+							return _elm_lang$core$Native_Utils.update(
+								old,
+								{composition: _p0._0});
+						}),
+					_1: _elm_lang$core$Platform_Cmd$none
+				};
+			default:
+				return {
+					ctor: '_Tuple2',
+					_0: _elm_lang$core$Native_Utils.update(
+						model,
+						{events: _p0._0}),
+					_1: _elm_lang$core$Platform_Cmd$none
+				};
+		}
+	});
 var _user$project$App$tableHeaders = A2(
 	_elm_lang$html$Html$thead,
 	_elm_lang$core$Native_List.fromArray(
@@ -8296,47 +8543,219 @@ var _user$project$App$tableHeaders = A2(
 						[]))
 				]))
 		]));
-var _user$project$App$view = function (x) {
-	var _p5 = x.message;
-	if (_p5.ctor === 'Just') {
+var _user$project$App$filterSelectClass = 'col-md-2 col-sm-3 col-xs-3';
+var _user$project$App$tournamentComplies = F2(
+	function (f, cat) {
 		return A2(
-			_elm_lang$html$Html$div,
-			_elm_lang$core$Native_List.fromArray(
-				[]),
-			_elm_lang$core$Native_List.fromArray(
-				[
-					_elm_lang$html$Html$text(_p5._0)
-				]));
-	} else {
-		return A2(
-			_elm_lang$html$Html$table,
+			_elm_lang$core$List$all,
+			_elm_lang$core$Maybe$withDefault(true),
 			_elm_lang$core$Native_List.fromArray(
 				[
-					_elm_lang$html$Html_Attributes$class('table table-condensed table-striped table-hover')
-				]),
-			_elm_lang$core$Native_List.fromArray(
-				[
-					_user$project$App$tableHeaders,
 					A2(
-					_elm_lang$html$Html$tbody,
-					_elm_lang$core$Native_List.fromArray(
-						[]),
-					A2(_elm_lang$core$List$map, _user$project$App$eventRow, x.events))
+					_elm_lang$core$Maybe$map,
+					F2(
+						function (x, y) {
+							return _elm_lang$core$Native_Utils.eq(x, y);
+						})(cat.ageGroup),
+					f.ageGroup),
+					A2(
+					_elm_lang$core$Maybe$map,
+					F2(
+						function (x, y) {
+							return _elm_lang$core$Native_Utils.eq(x, y);
+						})(cat.weapon),
+					f.weapon),
+					A2(
+					_elm_lang$core$Maybe$map,
+					F2(
+						function (x, y) {
+							return _elm_lang$core$Native_Utils.eq(x, y);
+						})(cat.gender),
+					f.gender),
+					A2(
+					_elm_lang$core$Maybe$map,
+					F2(
+						function (x, y) {
+							return _elm_lang$core$Native_Utils.eq(x, y);
+						})(cat.composition),
+					f.composition)
 				]));
-	}
-};
+	});
+var _user$project$App$compliesEventFilter = F2(
+	function (f, event) {
+		return A2(
+			_elm_lang$core$List$any,
+			_user$project$App$tournamentComplies(f),
+			event.tournaments);
+	});
 var _user$project$App$subscriptions = function (m) {
 	return _elm_lang$core$Platform_Sub$none;
 };
 var _user$project$App$model = {
 	message: _elm_lang$core$Maybe$Nothing,
 	events: _elm_lang$core$Native_List.fromArray(
-		[])
+		[]),
+	eventFilter: {weapon: _elm_lang$core$Maybe$Nothing, gender: _elm_lang$core$Maybe$Nothing, ageGroup: _elm_lang$core$Maybe$Nothing, composition: _elm_lang$core$Maybe$Nothing}
 };
-var _user$project$App$Model = F2(
-	function (a, b) {
-		return {events: a, message: b};
+var _user$project$App$EventFilter = F4(
+	function (a, b, c, d) {
+		return {weapon: a, gender: b, ageGroup: c, composition: d};
 	});
+var _user$project$App$Model = F3(
+	function (a, b, c) {
+		return {events: a, message: b, eventFilter: c};
+	});
+var _user$project$App$SetCompositionFilter = function (a) {
+	return {ctor: 'SetCompositionFilter', _0: a};
+};
+var _user$project$App$SetWeaponFilter = function (a) {
+	return {ctor: 'SetWeaponFilter', _0: a};
+};
+var _user$project$App$SetAgeGroupFilter = function (a) {
+	return {ctor: 'SetAgeGroupFilter', _0: a};
+};
+var _user$project$App$SetGenderFilter = function (a) {
+	return {ctor: 'SetGenderFilter', _0: a};
+};
+var _user$project$App$eventFilters = A2(
+	_elm_lang$html$Html$div,
+	_elm_lang$core$Native_List.fromArray(
+		[
+			_elm_lang$html$Html_Attributes$class('row')
+		]),
+	_elm_lang$core$Native_List.fromArray(
+		[
+			A2(
+			_elm_lang$html$Html$div,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class(_user$project$App$filterSelectClass)
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A3(
+					_user$project$FilterSelect$filterSelect,
+					'Select Gender',
+					_elm_lang$core$Native_List.fromArray(
+						[
+							{ctor: '_Tuple2', _0: 'M', _1: 'Male'},
+							{ctor: '_Tuple2', _0: 'F', _1: 'Female'},
+							{ctor: '_Tuple2', _0: 'X', _1: 'Mixed'}
+						]),
+					_user$project$App$SetGenderFilter)
+				])),
+			A2(
+			_elm_lang$html$Html$div,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class(_user$project$App$filterSelectClass)
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A3(
+					_user$project$FilterSelect$filterSelect,
+					'Select Weapon',
+					_elm_lang$core$Native_List.fromArray(
+						[
+							{ctor: '_Tuple2', _0: 'F', _1: 'Foil'},
+							{ctor: '_Tuple2', _0: 'S', _1: 'Sabre'},
+							{ctor: '_Tuple2', _0: 'E', _1: 'Epee'}
+						]),
+					_user$project$App$SetWeaponFilter)
+				])),
+			A2(
+			_elm_lang$html$Html$div,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class(_user$project$App$filterSelectClass)
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A3(
+					_user$project$FilterSelect$filterSelect,
+					'Select Category',
+					_elm_lang$core$Native_List.fromArray(
+						[
+							{ctor: '_Tuple2', _0: 'S', _1: 'Senior'},
+							{ctor: '_Tuple2', _0: 'J', _1: 'Junior'},
+							{ctor: '_Tuple2', _0: 'C', _1: 'Cadet'},
+							{ctor: '_Tuple2', _0: 'U15', _1: 'Under 15'},
+							{ctor: '_Tuple2', _0: 'U14', _1: 'Under 14'},
+							{ctor: '_Tuple2', _0: 'U13', _1: 'Under 13'},
+							{ctor: '_Tuple2', _0: 'U12', _1: 'Under 12'},
+							{ctor: '_Tuple2', _0: 'U11', _1: 'Under 11'},
+							{ctor: '_Tuple2', _0: 'U10', _1: 'Under 10'},
+							{ctor: '_Tuple2', _0: 'U9', _1: 'Under 9'},
+							{ctor: '_Tuple2', _0: 'U8', _1: 'Under 8'},
+							{ctor: '_Tuple2', _0: 'O40', _1: 'Over 40'},
+							{ctor: '_Tuple2', _0: 'O50', _1: 'Over 50'},
+							{ctor: '_Tuple2', _0: 'O60', _1: 'Over 60'},
+							{ctor: '_Tuple2', _0: 'O70', _1: 'Over 70'}
+						]),
+					_user$project$App$SetAgeGroupFilter)
+				])),
+			A2(
+			_elm_lang$html$Html$div,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class(_user$project$App$filterSelectClass)
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A3(
+					_user$project$FilterSelect$filterSelect,
+					'Select Composition',
+					_elm_lang$core$Native_List.fromArray(
+						[
+							{ctor: '_Tuple2', _0: 'I', _1: 'Individual'},
+							{ctor: '_Tuple2', _0: 'E', _1: 'Team'}
+						]),
+					_user$project$App$SetCompositionFilter)
+				]))
+		]));
+var _user$project$App$view = function (x) {
+	var _p1 = x.message;
+	if (_p1.ctor === 'Just') {
+		return A2(
+			_elm_lang$html$Html$div,
+			_elm_lang$core$Native_List.fromArray(
+				[]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html$text(_p1._0)
+				]));
+	} else {
+		return A2(
+			_elm_lang$html$Html$div,
+			_elm_lang$core$Native_List.fromArray(
+				[]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_user$project$App$eventFilters,
+					A2(
+					_elm_lang$html$Html$table,
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_elm_lang$html$Html_Attributes$class('table table-condensed table-striped table-hover')
+						]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_user$project$App$tableHeaders,
+							A2(
+							_elm_lang$html$Html$tbody,
+							_elm_lang$core$Native_List.fromArray(
+								[]),
+							A2(
+								_elm_lang$core$List$map,
+								_elm_lang$html$Html_Lazy$lazy(_user$project$EventRow$view),
+								A2(
+									_elm_lang$core$List$filter,
+									_user$project$App$compliesEventFilter(x.eventFilter),
+									x.events)))
+						]))
+				]));
+	}
+};
 var _user$project$App$NewData = function (a) {
 	return {ctor: 'NewData', _0: a};
 };
