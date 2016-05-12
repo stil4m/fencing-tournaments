@@ -8158,4 +8158,49 @@
   },
   "l" : "Udine",
   "n" : "Alpe Adria"
+}, {
+  "c" : "FIN",
+  "s" : {
+    "y" : 2009,
+    "m" : 10,
+    "d" : 17
+  },
+  "t" : [ [ "S", "E", "F", "I" ], [ "S", "E", "M", "I" ] ],
+  "e" : {
+    "y" : 2009,
+    "m" : 10,
+    "d" : 17
+  },
+  "l" : "Turku",
+  "n" : "Kupittaa tournament, épée masculine / Kupittaa tournament, épée féminine"
+}, {
+  "c" : "GBR",
+  "s" : {
+    "y" : 2009,
+    "m" : 10,
+    "d" : 17
+  },
+  "t" : [ [ "S", "F", "M", "I" ], [ "J", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2009,
+    "m" : 10,
+    "d" : 17
+  },
+  "l" : "Londres",
+  "n" : "Eden Cup / Leon Paul satellite fleuret masculin"
+}, {
+  "c" : "POR",
+  "s" : {
+    "y" : 2009,
+    "m" : 10,
+    "d" : 17
+  },
+  "t" : [ [ "J", "E", "M", "I" ], [ "J", "E", "F", "I" ] ],
+  "e" : {
+    "y" : 2009,
+    "m" : 10,
+    "d" : 17
+  },
+  "l" : "Ponte de Sor",
+  "n" : "Coupe du Monde Ponte de Sor"
 } ]
