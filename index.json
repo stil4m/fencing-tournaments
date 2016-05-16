@@ -1,4 +1,34 @@
 [ {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "t" : [ [ "J", "E", "F", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "l" : "Duisburg",
+  "n" : "Duisburger Degencup"
+}, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "t" : [ [ "U12", "F", "F", "I" ], [ "U9", "F", "X", "I" ], [ "U14", "F", "F", "I" ], [ "U12", "F", "M", "I" ], [ "U10", "F", "M", "I" ], [ "U14", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "l" : "Lütjensee",
+  "n" : "Lütjensee-Youngster-Cup"
+}, {
   "c" : "DEN",
   "s" : {
     "y" : 2016,
@@ -28,6 +58,21 @@
   },
   "l" : "Kobenhavn",
   "n" : "Trekanten International - Nordic Championships Foil 2016"
+}, {
+  "c" : "GBR",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "t" : [ [ "S", "S", "F", "I" ], [ "S", "E", "F", "I" ], [ "S", "S", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 7
+  },
+  "l" : "Londres",
+  "n" : "Tournoi satellite / Cole Cup"
 }, {
   "c" : "GER",
   "s" : {
