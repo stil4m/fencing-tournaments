@@ -29,6 +29,21 @@
   "l" : "Lütjensee",
   "n" : "Lütjensee-Youngster-Cup"
 }, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 13
+  },
+  "t" : [ [ "S", "F", "M", "I" ], [ "U13", "F", "F", "I" ], [ "J", "F", "M", "I" ], [ "C", "F", "F", "I" ], [ "C", "F", "M", "I" ], [ "U14", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 16
+  },
+  "l" : "Duisburg",
+  "n" : "Internationales Montan-Turnier"
+}, {
   "c" : "DEN",
   "s" : {
     "y" : 2016,
@@ -328,6 +343,21 @@
   },
   "l" : "Prague",
   "n" : "European Olympic Games Qualification"
+}, {
+  "c" : "GBR",
+  "s" : {
+    "y" : 2016,
+    "m" : 4,
+    "d" : 16
+  },
+  "t" : [ [ "S", "S", "F", "I" ], [ "S", "E", "F", "I" ], [ "S", "F", "F", "I" ], [ "S", "F", "M", "I" ], [ "S", "S", "M", "I" ], [ "S", "E", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 4,
+    "d" : 17
+  },
+  "l" : "London",
+  "n" : "British Fencing Championships 2016"
 }, {
   "c" : "GER",
   "s" : {
