@@ -29,6 +29,36 @@
   "l" : "Schwerin",
   "n" : "Petermännchen-Pokal"
 }, {
+  "c" : "ISL",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 21
+  },
+  "t" : [ [ "S", "S", "F", "I" ], [ "S", "S", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 21
+  },
+  "l" : "Reykjavik",
+  "n" : "Tournoi satellite sabre féminin / Tournoi satellite sabre masculin"
+}, {
+  "c" : "FRA",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 20
+  },
+  "t" : [ [ "S", "E", "M", "I" ], [ "S", "E", "M", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 21
+  },
+  "l" : "Paris",
+  "n" : "Challenge SNCF Réseau"
+}, {
   "c" : "GER",
   "s" : {
     "y" : 2016,
@@ -39,10 +69,40 @@
   "e" : {
     "y" : 2016,
     "m" : 5,
-    "d" : 22
+    "d" : 21
   },
   "l" : "Tauberbischofsheim",
-  "n" : "30. Reinhold-Würth-Cup"
+  "n" : "Reinhold-Würth-Cup / Coupe du Monde par équipes"
+}, {
+  "c" : "ITA",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 20
+  },
+  "t" : [ [ "S", "E", "F", "I" ], [ "S", "E", "F", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 21
+  },
+  "l" : "Legnano",
+  "n" : "Coupe du Monde / Coupe du monde par équipes"
+}, {
+  "c" : "CRO",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "t" : [ [ "S", "E", "F", "I" ], [ "S", "E", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 15
+  },
+  "l" : "Split",
+  "n" : "St Duje' s Cup / St Duje Cup"
 }, {
   "c" : "GER",
   "s" : {
@@ -74,6 +134,36 @@
   "l" : "Lütjensee",
   "n" : "Lütjensee-Youngster-Cup"
 }, {
+  "c" : "CHN",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 13
+  },
+  "t" : [ [ "S", "S", "F", "I" ], [ "S", "S", "F", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "l" : "Foshan",
+  "n" : "Coupe du Monde / Coupe du Monde par équipes"
+}, {
+  "c" : "ESP",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 13
+  },
+  "t" : [ [ "S", "S", "M", "I" ], [ "S", "S", "M", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "l" : "Madrid",
+  "n" : "Villa de Madrid / Coupe du Monde par équipes"
+}, {
   "c" : "GER",
   "s" : {
     "y" : 2016,
@@ -88,6 +178,21 @@
   },
   "l" : "Duisburg",
   "n" : "Internationales Montan-Turnier"
+}, {
+  "c" : "RUS",
+  "s" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 13
+  },
+  "t" : [ [ "S", "F", "M", "I" ], [ "S", "F", "M", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 5,
+    "d" : 14
+  },
+  "l" : "St-Petersbourg",
+  "n" : "Fleuret de St-Petersbourg / Coupe du Monde par équipe"
 }, {
   "c" : "DEN",
   "s" : {

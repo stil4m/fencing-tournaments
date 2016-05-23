@@ -3205,10 +3205,11 @@ function toEffect(isCmd, home, taggers, value)
 {
 	function applyTaggers(x)
 	{
-		while (taggers)
+		var temp = taggers;
+		while (temp)
 		{
-			x = taggers.tagger(x);
-			taggers = taggers.rest;
+			x = temp.tagger(x);
+			temp = temp.rest;
 		}
 		return x;
 	}
@@ -5531,7 +5532,10 @@ function badOneOf(problems)
 	return { tag: 'oneOf', problems: problems };
 }
 
-var bad = { tag: 'fail' };
+function bad(msg)
+{
+	return { tag: 'fail', msg: msg };
+}
 
 function badToString(problem)
 {
@@ -5567,7 +5571,8 @@ function badToString(problem)
 
 			case 'fail':
 				return 'I ran into a `fail` decoder'
-					+ (context === '_' ? '' : ' at ' + context);
+					+ (context === '_' ? '' : ' at ' + context)
+					+ ': ' + problem.msg;
 		}
 	}
 }
@@ -5614,14 +5619,19 @@ function runHelp(decoder, value)
 				: badPrimitive('a Bool', value);
 
 		case 'int':
-			var isNotInt =
-				typeof value !== 'number'
-				|| !(-2147483647 < value && value < 2147483647 && (value | 0) === value)
-				|| !(isFinite(value) && !(value % 1));
+			if (typeof value !== 'number') {
+				return badPrimitive('an Int', value);
+			}
 
-			return isNotInt
-				? badPrimitive('an Int', value)
-				: ok(value);
+			if (-2147483647 < value && value < 2147483647 && (value | 0) === value) {
+				return ok(value);
+			}
+
+			if (isFinite(value) && !(value % 1)) {
+				return ok(value);
+			}
+
+			return badPrimitive('an Int', value);
 
 		case 'float':
 			return (typeof value === 'number')
@@ -5701,7 +5711,7 @@ function runHelp(decoder, value)
 		case 'key-value':
 			if (typeof value !== 'object' || value === null || value instanceof Array)
 			{
-				return err('an object', value);
+				return badPrimitive('an object', value);
 			}
 
 			var keyValuePairs = _elm_lang$core$Native_List.Nil;
@@ -5790,7 +5800,7 @@ function runHelp(decoder, value)
 			return badOneOf(errors);
 
 		case 'fail':
-			return bad;
+			return bad(decoder.msg);
 
 		case 'succeed':
 			return ok(decoder.msg);
