@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Leverkusen",
+    "name" : "Präsidentenpokal Schüler",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "11593796-e29e-45e6-a169-4daef8bc7c0b",
+    "path" : "/2016/04/20160409-GER-Leverkusen/EQUIPE_MIXED_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d0469c7b-5db4-4e11-aa03-eaf0db76460e",
+    "path" : "/2016/04/20160409-GER-Leverkusen/EQUIPE_MIXED_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e18fe802-8780-44ca-919e-e15d5eb3a83a",
+    "path" : "/2016/04/20160409-GER-Leverkusen/EQUIPE_MIXED_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "449a9b52-ff90-4850-9ca3-e61c949df167",
+    "path" : "/2016/04/20160409-GER-Leverkusen/EQUIPE_MIXED_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "556a6285-a747-4600-a29f-799e8607b389",
+    "path" : "/2016/04/20160409-GER-Leverkusen/EQUIPE_MIXED_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "385f0fd2-9282-445a-9b2d-7f3449186c0f",
+    "path" : "/2016/04/20160409-GER-Leverkusen/EQUIPE_MIXED_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

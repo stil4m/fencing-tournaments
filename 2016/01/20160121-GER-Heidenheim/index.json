@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Heidenheimer Pokal",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "287bf0f2-3bb5-4ad3-8b75-76f99aa8527d",
+    "path" : "/2016/01/20160121-GER-Heidenheim/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a6a31fe6-abbe-49d4-a65b-6a4d955e11ed",
+    "path" : "/2016/01/20160121-GER-Heidenheim/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

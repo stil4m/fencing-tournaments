@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Stuttgart BadCannstatt",
+    "name" : "Adolf-Ermer-Plakette",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0d40e74c-2fdf-45bc-b63f-9315b9fcfdad",
+    "path" : "/2016/01/20160116-GER-Stuttgart_BadCannstatt/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

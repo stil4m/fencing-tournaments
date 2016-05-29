@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Montreux",
+    "name" : "Championnats d'Europe",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9fe5bcd0-61c5-441b-b035-1bf4fb8712f3",
+    "path" : "/2015/06/20150605-SUI-Montreux/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cd026a59-f108-4ac1-a761-f45600ca8c59",
+    "path" : "/2015/06/20150605-SUI-Montreux/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "626e424f-fff9-45b4-96e6-3837309c1951",
+    "path" : "/2015/06/20150605-SUI-Montreux/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "49b19d25-c179-425d-b3d5-c9c65de2800f",
+    "path" : "/2015/06/20150605-SUI-Montreux/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e82ce3c5-f022-4dc8-bec4-a1679ee619c0",
+    "path" : "/2015/06/20150605-SUI-Montreux/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "966af8f7-4003-4eb5-a99e-741b94cbd663",
+    "path" : "/2015/06/20150605-SUI-Montreux/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7116ddf0-b00a-47f7-8130-6ea1537c6053",
+    "path" : "/2015/06/20150605-SUI-Montreux/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "841f6c6a-4f0a-4f0d-8ae2-c68b2c757e22",
+    "path" : "/2015/06/20150605-SUI-Montreux/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c25f331b-ae75-4268-8b9b-ae6e681223c2",
+    "path" : "/2015/06/20150605-SUI-Montreux/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a8075dd9-7c1b-49f7-a14f-e67b41922335",
+    "path" : "/2015/06/20150605-SUI-Montreux/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "844aa7c3-4975-4627-8843-110a44f565c8",
+    "path" : "/2015/06/20150605-SUI-Montreux/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

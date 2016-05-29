@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "CGO",
+    "city" : "Brazaville",
+    "name" : "Jeux africains",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "47a00089-568d-4893-bf15-48ccc21de482",
+    "path" : "/2015/09/20150902-CGO-Brazaville/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "08c91a11-5921-4461-a860-af4072a30204",
+    "path" : "/2015/09/20150902-CGO-Brazaville/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f4845216-b3cc-4d9e-9723-a624655ae69e",
+    "path" : "/2015/09/20150902-CGO-Brazaville/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a9445876-e632-486a-939a-1f29ab4f9756",
+    "path" : "/2015/09/20150902-CGO-Brazaville/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "da271688-e9e4-4481-945b-e4befc65a23e",
+    "path" : "/2015/09/20150902-CGO-Brazaville/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e7adee11-5fc6-4d0e-a6ae-4f213caf4a12",
+    "path" : "/2015/09/20150902-CGO-Brazaville/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "cec1769a-8489-4d15-8ad8-a9c900b2193c",
+    "path" : "/2015/09/20150902-CGO-Brazaville/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6ec4de91-fa64-486a-aac1-91e6e6293778",
+    "path" : "/2015/09/20150902-CGO-Brazaville/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5bd8fed8-6631-4162-981b-d17c526614ca",
+    "path" : "/2015/09/20150902-CGO-Brazaville/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8e7fe695-ab92-458d-8040-4856a7489e60",
+    "path" : "/2015/09/20150902-CGO-Brazaville/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "586b1021-f116-41a4-ae2a-698d83731573",
+    "path" : "/2015/09/20150902-CGO-Brazaville/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c8b7c240-fbbb-4260-901f-939d4a1d0ccb",
+    "path" : "/2015/09/20150902-CGO-Brazaville/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

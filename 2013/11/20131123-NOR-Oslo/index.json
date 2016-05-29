@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "NOR",
+    "city" : "Oslo",
+    "name" : "Tournoi satellite épée masculine / Tournoi satellite épée féminine",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "24cb863c-8ff2-434d-8645-c95567975f58",
+    "path" : "/2013/11/20131123-NOR-Oslo/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1e428e4c-c302-4627-b7a2-545f86dec814",
+    "path" : "/2013/11/20131123-NOR-Oslo/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

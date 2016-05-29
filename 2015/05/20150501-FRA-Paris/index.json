@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Paris",
+    "name" : "Challenge SNCF Réseau",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4651854a-6208-4898-942f-d5f6aa7d6c9d",
+    "path" : "/2015/05/20150501-FRA-Paris/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2de740db-d4f1-4cd7-bbc4-f935fe1984b1",
+    "path" : "/2015/05/20150501-FRA-Paris/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

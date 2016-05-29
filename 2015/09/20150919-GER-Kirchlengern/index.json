@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Kirchlengern",
+    "name" : "Quernheimer Spatzenturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e97d822a-a5fc-4058-97f1-d094aa654066",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0078a7c9-32a8-48a8-bf36-81dff9187fa1",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "80c06505-2840-4332-9afe-2b3e12cad9d4",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "622fc9d3-c548-46a2-b012-f8c52f106fcf",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a9020770-4a55-4a67-b5ad-2a951be85fd1",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4470da8e-6d7e-4125-a518-79124c1daf6f",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2e318d34-4ea1-4833-be7b-321fd99ffe72",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "40c26c56-0b86-4889-8a9c-dede7439cf44",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a3971ab0-ec75-4125-a1ef-b8b3225f0073",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a7a7b73b-ed78-41dd-8830-ff7e48da21cf",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3e173539-b2b1-4033-bc59-b3c16822f77f",
+    "path" : "/2015/09/20150919-GER-Kirchlengern/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

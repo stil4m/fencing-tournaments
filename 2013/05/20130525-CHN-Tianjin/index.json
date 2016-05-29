@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Tianjin",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e928adf4-f981-4caf-9bb5-777e1f2dfff3",
+    "path" : "/2013/05/20130525-CHN-Tianjin/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SEN",
+    "city" : "Dakar",
+    "name" : "Coupe du monde / Coupe du monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4df2a587-9570-45fc-b5c0-f9aba3a58c1d",
+    "path" : "/2014/02/20140207-SEN-Dakar/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3e0abbd0-3d3c-4df6-94f7-2ba36d753256",
+    "path" : "/2014/02/20140207-SEN-Dakar/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

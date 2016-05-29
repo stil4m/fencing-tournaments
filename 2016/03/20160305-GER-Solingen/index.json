@@ -1,0 +1,298 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Solingen",
+    "name" : "Rheinische Mannschaftsmeisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7645ac84-3408-451f-bea5-5e3aacfaf0ed",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "67e3a55b-8ee5-43c6-b514-0bc92623a708",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7dd7521a-b8a4-46cf-99fc-aef32365c978",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "61c9ef91-dad9-4b70-9f56-ce45bbabb645",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f7623578-c384-4206-adb8-840b42251ba2",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "309ead29-1c67-48be-be95-bc293e203c5b",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cfef9920-ee42-4934-8631-afe4bb24dded",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7e037628-063c-4a18-98bc-942a1205fcbd",
+    "path" : "/2016/03/20160305-GER-Solingen/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "bb0d386b-dc03-44eb-80aa-14e49bba69dd",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7dba92c9-d7f9-41d1-9a8f-50b37705ad3c",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "07822da4-2bdc-49c2-9584-67d1e928e4fc",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_FEMALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "cf02ebd6-58d9-43bf-9443-f5e5dddd4305",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e5eedb48-a51a-4258-9296-ba7fb2ac6d3a",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7bfc1009-56f0-449a-a352-792ff6f20e83",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_FEMALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "af76fda2-05de-431b-833a-a97a5d735d21",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f8dd5c48-1c51-48a8-bbd7-af44e3ca5875",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "eca6b8e8-7533-4e1b-9615-76a8c33c6630",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_MALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1ff14308-51a8-45a9-a7ea-871e34da37bc",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a9a72efe-bbbf-4e5e-95f0-3fc41a563846",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "20a1676f-3b82-4750-961c-2608e4d2bd5c",
+    "path" : "/2016/03/20160305-GER-Solingen/INDIVIDUAL_MALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

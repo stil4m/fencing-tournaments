@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GRE",
+    "city" : "Athènes",
+    "name" : "Coupe Akropolis / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "07e55977-0c76-4b0f-833a-a892cc75261c",
+    "path" : "/2013/04/20130426-GRE-Athenes/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4c435bc9-99b9-4add-8d3c-c848625bf372",
+    "path" : "/2013/04/20130426-GRE-Athenes/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

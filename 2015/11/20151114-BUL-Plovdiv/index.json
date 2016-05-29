@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "BUL",
+    "city" : "Plovdiv",
+    "name" : "Coupe du Monde / Women's Sabre Junior World Cup / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "af859d1c-70e3-4af0-beee-892172f5ff38",
+    "path" : "/2015/11/20151114-BUL-Plovdiv/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8cd495f3-43fd-496f-8f56-f542a33de282",
+    "path" : "/2015/11/20151114-BUL-Plovdiv/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ea3d6354-58f8-4c4b-a589-3902a91808dd",
+    "path" : "/2015/11/20151114-BUL-Plovdiv/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

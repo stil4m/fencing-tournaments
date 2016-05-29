@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Madrid",
+    "name" : "Villa de Madrid / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "987a3431-8989-45fc-8b34-bdb95685e9bb",
+    "path" : "/2015/05/20150501-ESP-Madrid/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "60a3ef7b-16c5-48c6-9738-40acce5ce991",
+    "path" : "/2015/05/20150501-ESP-Madrid/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

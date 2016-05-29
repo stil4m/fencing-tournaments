@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Schwenningen",
+    "name" : "Württembergische B-Jgd Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "29036da4-0383-411a-a3f1-0a618e3e04f7",
+    "path" : "/2016/01/20160130-GER-Schwenningen/EQUIPE_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e1f30c55-b3e5-4d06-9cb9-28931d6126b1",
+    "path" : "/2016/01/20160130-GER-Schwenningen/EQUIPE_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d03598cb-e523-4e30-a6c6-c22b26a645a2",
+    "path" : "/2016/01/20160130-GER-Schwenningen/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "fb6ffe5c-e792-41a5-856e-9bdeee1a6ede",
+    "path" : "/2016/01/20160130-GER-Schwenningen/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d5c66471-6132-496d-82fc-d2d35803cbb6",
+    "path" : "/2016/01/20160130-GER-Schwenningen/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5602244a-0b66-46c3-8dbf-d33328558cfe",
+    "path" : "/2016/01/20160130-GER-Schwenningen/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4e1d619e-3768-48c8-a8ca-a9c2e38bb661",
+    "path" : "/2016/01/20160130-GER-Schwenningen/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

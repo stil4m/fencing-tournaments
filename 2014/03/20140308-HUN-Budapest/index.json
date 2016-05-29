@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Gerevich-Kovacs-Karpati Grand Prix for the Mol Cup",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "73c0510d-97c2-4c1b-87f2-08bf57887b3a",
+    "path" : "/2014/03/20140308-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

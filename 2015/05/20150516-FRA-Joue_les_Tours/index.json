@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Joué les Tours",
+    "name" : "CHAMPIONNATS DE FRANCE",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "efca635c-8291-476c-b4e1-0478bf769182",
+    "path" : "/2015/05/20150516-FRA-Joue_les_Tours/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "b73d4daa-3f6d-47cd-8b6f-5b2df2040f8b",
+    "path" : "/2015/05/20150516-FRA-Joue_les_Tours/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3dbe5199-270f-41f7-bacb-7e184fb3827c",
+    "path" : "/2015/05/20150516-FRA-Joue_les_Tours/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "32b221db-76fa-4c00-9bca-959cfdf5d5ca",
+    "path" : "/2015/05/20150516-FRA-Joue_les_Tours/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

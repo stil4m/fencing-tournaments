@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Turku",
+    "name" : "Kupittaa tournament, épée masculine / Coupe du Monde / Kupittaa tournament, épée féminine",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "59c90e5f-25af-4094-aad0-e6042056593c",
+    "path" : "/2015/10/20151017-FIN-Turku/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "20da447f-a170-42cd-b65c-3337f8bb42cb",
+    "path" : "/2015/10/20151017-FIN-Turku/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b8b26377-ea35-4e46-9517-5715cdfba085",
+    "path" : "/2015/10/20151017-FIN-Turku/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

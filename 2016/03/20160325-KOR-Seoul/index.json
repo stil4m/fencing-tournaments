@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "KOR",
+    "city" : "Seoul",
+    "name" : "Grand Prix",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "268a0c3d-6fb4-4ce7-8a79-a538d0f112dd",
+    "path" : "/2016/03/20160325-KOR-Seoul/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8071835b-d751-4d6a-ae6d-6fe67d9b60be",
+    "path" : "/2016/03/20160325-KOR-Seoul/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

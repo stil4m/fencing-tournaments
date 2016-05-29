@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Duisburg",
+    "name" : "Duisburger Degencup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b10e1657-3e93-4f5c-b0ae-4178d9e0dc94",
+    "path" : "/2016/05/20160514-GER-Duisburg/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

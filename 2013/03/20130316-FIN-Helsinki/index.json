@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Helsinki",
+    "name" : "Tournoi satellite sabre masculin",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "52b74476-0bd5-40f5-99c3-8f0435380de6",
+    "path" : "/2013/03/20130316-FIN-Helsinki/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

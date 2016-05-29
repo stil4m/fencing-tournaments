@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "VEN",
+    "city" : "Margarita Island",
+    "name" : "Coupe du monde / Coupe du monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6ae3b228-11e2-4cca-b843-5bd517ed7445",
+    "path" : "/2014/11/20141101-VEN-Margarita_Island/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f588f762-7e66-42ae-9f4d-55723ebc2859",
+    "path" : "/2014/11/20141101-VEN-Margarita_Island/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

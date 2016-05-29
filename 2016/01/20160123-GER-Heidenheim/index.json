@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Voith Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f0575f64-ec79-4a39-8265-23aa4d54fcdc",
+    "path" : "/2016/01/20160123-GER-Heidenheim/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

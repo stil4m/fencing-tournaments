@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Orléans",
+    "name" : "Trophée BNP-Paribas / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "70a5b324-8071-42c1-86ae-77e783d74028",
+    "path" : "/2015/10/20151030-FRA-Orleans/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5b06fc9e-0010-42aa-bdfd-4e41aa97abe8",
+    "path" : "/2015/10/20151030-FRA-Orleans/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

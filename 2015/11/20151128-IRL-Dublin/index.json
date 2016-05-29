@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "IRL",
+    "city" : "Dublin",
+    "name" : "Tournoi satellite épée masculine",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a706e61d-ab22-461e-bca3-61cc7f5d60d1",
+    "path" : "/2015/11/20151128-IRL-Dublin/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

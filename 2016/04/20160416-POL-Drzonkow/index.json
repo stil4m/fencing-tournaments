@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Drzonkow",
+    "name" : "Youngster-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "1e91cb4b-d0bb-4765-9e01-1ca46900db0d",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ac9d4257-7b29-48df-820e-4777dfbd409c",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "48d0c1d0-81e3-4293-b7ac-7afd17bc8165",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5eb175bb-0917-4b57-a1ae-27b0eacf956c",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "355637f5-9325-4f65-8373-bc4f0b9401d2",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b83369f1-e604-4a2f-a62e-ee0e44220c85",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4bfb27e9-0083-4d4e-aa0a-b2c311ebeced",
+    "path" : "/2016/04/20160416-POL-Drzonkow/INDIVIDUAL_MIXED_U9_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U9",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

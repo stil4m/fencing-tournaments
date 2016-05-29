@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Dormagen",
+    "name" : "Jugendpokal",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "32c21bff-293d-4cef-85d0-2345860b05a8",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "175ca9c8-8940-4e13-acca-0e527185685d",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_FEMALE_U10_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c37d5b6b-e7d5-4f43-860a-6a0524b708d9",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_FEMALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "214deacc-da57-438b-a730-fcffac99fb7c",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_FEMALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8e4b6124-1fec-4317-87a0-0044272584c4",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_FEMALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "23ae084e-fd68-47ce-8f02-44dd0880b1ce",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_FEMALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d4724542-2858-4847-95e8-d04b01803de2",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4c3c994f-afc1-48e4-b24f-29f712cc05b6",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_MALE_U10_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "68710ad7-5203-48fc-96c0-0dc05086187e",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_MALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1204c3e5-ec03-4dff-bd20-31b8bafd141a",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e9f05eab-f8c6-4b07-81c3-7124a7ed0de4",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_MALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7ee2dabc-4df0-4c6b-8300-622ce73bb242",
+    "path" : "/2015/05/20150502-GER-Dormagen/INDIVIDUAL_MALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

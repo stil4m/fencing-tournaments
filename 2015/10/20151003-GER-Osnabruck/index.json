@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Osnabrück",
+    "name" : "North-German-Open",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4497c9a7-db6a-498b-b194-af6035c98025",
+    "path" : "/2015/10/20151003-GER-Osnabruck/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

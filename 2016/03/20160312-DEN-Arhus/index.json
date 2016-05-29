@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Arhus",
+    "name" : "Jysk B+U - Ranglistestævne",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2da45357-67d4-4a09-8ca2-7ed539fce7db",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5b05a958-a95d-4924-be06-43b6d7720c66",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "391cb1ae-695b-48b9-9f8d-456a691985e1",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "cf1e3f89-23d2-4d01-bab5-c3bb2e400f35",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9e29511a-37a3-458e-9a3e-0fab027fa753",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4894efc7-6c6d-436b-9793-00aa82f5a8bf",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "83f95f60-aee9-4d23-bf0e-500432c1fd18",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5c76bdad-89fb-44db-ba5c-f2e1a0f0a595",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "41b5ff7c-2341-4fae-bc08-977aa5345e8f",
+    "path" : "/2016/03/20160312-DEN-Arhus/INDIVIDUAL_MIXED_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

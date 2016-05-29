@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Oranienburg",
+    "name" : "Offene Benefiz-Seniorensportspiele Brandenburg",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ae6ebbc7-b6c0-480d-9b45-39f24c93c63f",
+    "path" : "/2015/06/20150620-GER-Oranienburg/INDIVIDUAL_FEMALE_O40_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "94e7a3a4-fd93-4866-9603-b2b1414a1eea",
+    "path" : "/2015/06/20150620-GER-Oranienburg/INDIVIDUAL_MALE_O40_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0372cd26-7c8e-4daa-b71d-22c13e7227f6",
+    "path" : "/2015/06/20150620-GER-Oranienburg/INDIVIDUAL_MALE_O40_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

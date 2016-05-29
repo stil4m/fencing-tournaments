@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GUA",
+    "city" : "Guatemala",
+    "name" : "Championnats Panaméricains Juniors",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "fa0d2570-1a1e-49c3-b8ae-18b9ead4b2c0",
+    "path" : "/2014/02/20140224-GUA-Guatemala/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1cf3fdca-ebc7-46ac-8232-484c663cfc63",
+    "path" : "/2014/02/20140224-GUA-Guatemala/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "727231ad-c979-4030-9c42-50eb2a6276b0",
+    "path" : "/2014/02/20140224-GUA-Guatemala/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "103341b9-310c-4bd1-9e0f-093d0e1ffe03",
+    "path" : "/2014/02/20140224-GUA-Guatemala/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4849dbaf-b505-4508-868d-5cb1a2e12cc2",
+    "path" : "/2014/02/20140224-GUA-Guatemala/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "793c9347-7e48-4860-aae1-59e7a4e6132d",
+    "path" : "/2014/02/20140224-GUA-Guatemala/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

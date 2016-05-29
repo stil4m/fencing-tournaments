@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Nürnberg",
+    "name" : "2015 Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0ca627b7-d563-4d2f-b386-66321900c7cf",
+    "path" : "/2015/05/20150509-GER-Nurnberg/EQUIPE_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7c312721-f1d7-4341-a2d1-d60798b9e8c3",
+    "path" : "/2015/05/20150509-GER-Nurnberg/EQUIPE_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8b34c431-b66d-4ae5-95c7-b37024804e19",
+    "path" : "/2015/05/20150509-GER-Nurnberg/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "49ca7725-0a08-4004-84a6-c1a830ff39de",
+    "path" : "/2015/05/20150509-GER-Nurnberg/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bad Segeberg",
+    "name" : "Nord-Ostsee-Pokal",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ab7bdf1a-d3dd-4683-9b91-cb7098628d47",
+    "path" : "/2015/10/20151031-GER-Bad_Segeberg/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

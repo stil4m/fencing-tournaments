@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "THA",
+    "city" : "Bangkok",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7b7fde8d-cb98-4d04-8cb7-20c84366a3fb",
+    "path" : "/2014/10/20141031-THA-Bangkok/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "afb0716c-95df-4c9b-b1fb-ab057bb6a344",
+    "path" : "/2014/10/20141031-THA-Bangkok/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Hof",
+    "name" : "Internat. Juniorenturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "033d9b31-0480-4fdb-b74b-9ae5ffd0990c",
+    "path" : "/2015/10/20151010-GER-Hof/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b1e7f138-536d-49a1-9ffc-539ccd739560",
+    "path" : "/2015/10/20151010-GER-Hof/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e51745cf-389b-428c-80f5-9e4b392282aa",
+    "path" : "/2015/10/20151010-GER-Hof/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "64865303-bb61-4494-8a4f-71c04b6c90d0",
+    "path" : "/2015/10/20151010-GER-Hof/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

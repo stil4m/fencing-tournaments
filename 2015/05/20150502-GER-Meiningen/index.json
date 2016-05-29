@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Meiningen",
+    "name" : "2015 Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cd85e2b8-24cb-441d-8a1b-74a7db12974d",
+    "path" : "/2015/05/20150502-GER-Meiningen/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "10d5c73f-86d7-4447-86ea-98f6abc38e9f",
+    "path" : "/2015/05/20150502-GER-Meiningen/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

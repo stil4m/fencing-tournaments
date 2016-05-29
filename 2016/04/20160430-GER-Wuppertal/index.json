@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Wuppertal",
+    "name" : "Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ae64ccdb-f8f1-42aa-ba59-bfbbc5501ea7",
+    "path" : "/2016/04/20160430-GER-Wuppertal/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7ba93a50-b71e-4121-bbde-413a918f22e2",
+    "path" : "/2016/04/20160430-GER-Wuppertal/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

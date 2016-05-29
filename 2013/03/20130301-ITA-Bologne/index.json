@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Bologne",
+    "name" : "Coupe du Monde / Coupe du Monde équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "66170001-19a7-4149-a1a3-9c5eee93858f",
+    "path" : "/2013/03/20130301-ITA-Bologne/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c28558a3-4747-49ab-945d-7048e8ababb7",
+    "path" : "/2013/03/20130301-ITA-Bologne/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

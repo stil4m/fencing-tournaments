@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Normann-Jørgensen Cup",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6917bbe9-c73d-4eec-97b5-277d4bf7091e",
+    "path" : "/2014/01/20140104-DEN-Copenhague/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

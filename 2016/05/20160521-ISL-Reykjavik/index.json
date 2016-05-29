@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ISL",
+    "city" : "Reykjavik",
+    "name" : "Tournoi satellite sabre féminin / Tournoi satellite sabre masculin",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2dfb6198-ccbf-4668-b364-2d3a59e41eb6",
+    "path" : "/2016/05/20160521-ISL-Reykjavik/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f65b5884-6de9-4761-af3f-4121eb057429",
+    "path" : "/2016/05/20160521-ISL-Reykjavik/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

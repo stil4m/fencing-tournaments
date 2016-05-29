@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CRC",
+    "city" : "San-Jose",
+    "name" : "Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8c943b86-c2c7-47a3-ad8c-255abbfd33c3",
+    "path" : "/2015/09/20150920-CRC-San-Jose/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

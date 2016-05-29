@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Coupe Heracles Junior",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b954c6d2-9ef4-40ad-ab4d-012098d3041a",
+    "path" : "/2013/02/20130216-HUN-Budapest/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5967fcaa-d250-4b63-9fce-c31e734bae9b",
+    "path" : "/2013/02/20130216-HUN-Budapest/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e730ab21-fbbf-4dd6-bec4-b51f199f04c5",
+    "path" : "/2013/02/20130216-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ffb1186-056d-430b-86b0-9b0ad67607fa",
+    "path" : "/2013/02/20130216-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

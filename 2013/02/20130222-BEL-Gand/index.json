@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BEL",
+    "city" : "Gand",
+    "name" : "Challenge Yves Brasseur / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f67ca1bf-9fc1-4306-9f34-79292387237b",
+    "path" : "/2013/02/20130222-BEL-Gand/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5ef9cd2f-62ec-48b6-8c83-df160b31fc8b",
+    "path" : "/2013/02/20130222-BEL-Gand/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

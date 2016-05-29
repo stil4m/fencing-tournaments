@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CRO",
+    "city" : "Zagreb",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5adb0002-e0cc-46a7-ac3c-ee232870d292",
+    "path" : "/2014/01/20140118-CRO-Zagreb/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

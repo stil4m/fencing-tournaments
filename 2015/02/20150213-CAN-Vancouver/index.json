@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CAN",
+    "city" : "Vancouver",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0d35661d-d177-436f-aef0-98ec3244685e",
+    "path" : "/2015/02/20150213-CAN-Vancouver/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9bdc7648-d3c3-4340-a919-49542aa6474e",
+    "path" : "/2015/02/20150213-CAN-Vancouver/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

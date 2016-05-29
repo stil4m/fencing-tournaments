@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Genève",
+    "name" : "Cadet Circuit",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3a50c75d-8449-443d-99ff-c0b896be5d0c",
+    "path" : "/2015/10/20151010-SUI-Geneve/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "720ab4f6-e90c-44c2-852d-4efc8de48fed",
+    "path" : "/2015/10/20151010-SUI-Geneve/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

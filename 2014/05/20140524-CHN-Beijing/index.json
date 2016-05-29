@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Beijing",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f0559582-b826-421d-9e3a-8c61c1d654dc",
+    "path" : "/2014/05/20140524-CHN-Beijing/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

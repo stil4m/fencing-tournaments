@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Varsovie",
+    "name" : "Sabre de Wolodyjowski / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b2ae401d-3fda-4e85-8d42-6f14c2e2b857",
+    "path" : "/2015/02/20150220-POL-Varsovie/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7d6a3546-0cf5-439e-a9c3-cf4583420cdb",
+    "path" : "/2015/02/20150220-POL-Varsovie/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

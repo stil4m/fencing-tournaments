@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "München",
+    "name" : "Münchener Kindl",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a3ffb301-ff78-4dc7-be28-311e0a816cae",
+    "path" : "/2015/10/20151024-GER-Munchen/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

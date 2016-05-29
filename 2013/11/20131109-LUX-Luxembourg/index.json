@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "LUX",
+    "city" : "Luxembourg",
+    "name" : "X Challenge J.-B. Coulon / Ier challenge Colette Flesch",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "10e26738-8a64-4b0c-8ab5-6717ee47e97f",
+    "path" : "/2013/11/20131109-LUX-Luxembourg/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "828d30eb-39c9-4d63-b814-5ecb0950c094",
+    "path" : "/2013/11/20131109-LUX-Luxembourg/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

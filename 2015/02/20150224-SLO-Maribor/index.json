@@ -1,0 +1,354 @@
+{
+  "eventInformation" : {
+    "country" : "SLO",
+    "city" : "Maribor",
+    "name" : "2015 European Junior/Cadet Championships",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2c655389-cda3-43d3-9c1f-d4f027eb568f",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "50525f16-129e-42ad-b3b5-83d15a6462b1",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "54b81136-7364-4443-a6fe-331b9b98e610",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7f5445b6-6d45-4700-a1d8-4f8848b8f7e4",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9d080707-6cd5-41e0-9b61-4cd54449c79b",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "22e6b3c6-e27b-4aae-a6f4-129d824b10e2",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "53c7d340-9aa1-4157-a81f-09a7c07f5a6e",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c6bf6054-ed2b-4c47-9118-e018e37e409b",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "30a90f40-d6cf-4499-a5a2-5742cee999e6",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "fe88c498-bc29-4b96-b69b-c3984c534e34",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c93300ee-55d2-476e-a90a-178516622d02",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "63d564a9-dd8a-4eb6-8737-5da3845e5501",
+    "path" : "/2015/02/20150224-SLO-Maribor/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c0057622-22f7-41dd-b649-ed85902e3506",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cde4393a-b95c-4389-a983-169d1d6ac2e3",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9d9eac59-a572-4dd7-914a-e3ca7d40f226",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "69b6cf30-d4f3-4c26-a944-629135ea79e0",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8c78e589-25a5-47c6-9382-bd357a145945",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d8fd308d-f65a-4393-bd90-e9241cf15167",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d32e992c-98f4-4200-9626-52ef52d4f417",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "69fedf3a-b6c8-40ce-940e-b91f7615a04f",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a48098a3-ef6f-4673-bb87-30eee5c0daf7",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1458f60c-3a2b-4fe7-a296-25a82d54d784",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6f95d857-ef7f-4d8a-8f0e-fd0c55fddcc6",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "96909fd0-8d79-4e0f-b3fd-5cf145358cb3",
+    "path" : "/2015/02/20150224-SLO-Maribor/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "RUS",
+    "city" : "Moscou",
+    "name" : "Sabre de Moscou / Grand Prix / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "91211b0d-f3c6-4601-b76f-177661c900a0",
+    "path" : "/2014/03/20140321-RUS-Moscou/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2f99898d-17d0-428d-9b6e-b80837791448",
+    "path" : "/2014/03/20140321-RUS-Moscou/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4434fa06-a08b-4cdd-a364-00fa0caa5b18",
+    "path" : "/2014/03/20140321-RUS-Moscou/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

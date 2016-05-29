@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ARG",
+    "city" : "Buenos Aires",
+    "name" : "Jockey Club Argentino / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5788462c-2156-4dc5-84cd-7f8dcf6e0974",
+    "path" : "/2013/05/20130524-ARG-Buenos_Aires/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "099b90fa-f2ba-45f2-a31c-2149fbd4587c",
+    "path" : "/2013/05/20130524-ARG-Buenos_Aires/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

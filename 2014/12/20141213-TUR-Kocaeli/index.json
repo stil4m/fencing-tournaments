@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Kocaeli",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d6831b81-4804-4989-bb25-3ce0a24f64a5",
+    "path" : "/2014/12/20141213-TUR-Kocaeli/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9a40e592-de9b-4686-af30-5d98f6e31214",
+    "path" : "/2014/12/20141213-TUR-Kocaeli/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "152a6ec2-c4c3-423f-b464-d3d7debf0809",
+    "path" : "/2014/12/20141213-TUR-Kocaeli/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5b655d38-b391-4396-8c43-3dfa4a25c8c5",
+    "path" : "/2014/12/20141213-TUR-Kocaeli/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Leipzig",
+    "name" : "Coupe du Monde \"Sparkassen-Weltcup\" / Coupe du monde par équipes \"Sparkassen-Weltcup\"",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "af1a0c8f-a97e-4205-bb97-8fdbb8b75b17",
+    "path" : "/2014/02/20140207-GER-Leipzig/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cd907018-ca6b-4344-a53c-841a93b72b08",
+    "path" : "/2014/02/20140207-GER-Leipzig/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

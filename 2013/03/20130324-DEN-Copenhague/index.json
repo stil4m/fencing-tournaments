@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Tournoi satellite fleuret féminin",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d693f74f-cad1-41b0-9d8d-a2d963670ebb",
+    "path" : "/2013/03/20130324-DEN-Copenhague/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

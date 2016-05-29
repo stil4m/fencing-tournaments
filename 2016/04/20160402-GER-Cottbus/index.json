@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Cottbus",
+    "name" : "Brandenburgische B-Jugend Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a47a3af7-936e-451c-9383-b2633787854b",
+    "path" : "/2016/04/20160402-GER-Cottbus/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "df18838c-7318-4ed7-a7ae-ac0c2b5712c2",
+    "path" : "/2016/04/20160402-GER-Cottbus/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

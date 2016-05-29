@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2f71b534-9f3d-4d55-90b3-e3db4a9c2fd5",
+    "path" : "/2014/09/20140921-HUN-Budapest/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

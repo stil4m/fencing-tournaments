@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BRA",
+    "city" : "Rio de Janeiro",
+    "name" : "Epée internationale / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3755a4b4-0819-4302-bd93-01b497640a4c",
+    "path" : "/2013/05/20130517-BRA-Rio_de_Janeiro/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ecb16bb1-ced7-464e-a463-ce4ce21b4f49",
+    "path" : "/2013/05/20130517-BRA-Rio_de_Janeiro/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

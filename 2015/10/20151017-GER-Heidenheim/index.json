@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "U23-Q + Jun.-QC Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4e142ff0-7361-48c5-9b3b-b4d27afc3075",
+    "path" : "/2015/10/20151017-GER-Heidenheim/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

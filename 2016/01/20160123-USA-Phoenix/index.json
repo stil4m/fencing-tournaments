@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "Phoenix",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b1dd0045-d66c-4794-a76f-5f2599f829d6",
+    "path" : "/2016/01/20160123-USA-Phoenix/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "05a853e8-d3d2-4074-a8e2-a7cd0a14352d",
+    "path" : "/2016/01/20160123-USA-Phoenix/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

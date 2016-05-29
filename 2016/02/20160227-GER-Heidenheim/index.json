@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Mini Marathon",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "62fd4769-3263-4d06-928c-2c3ee1f7fa24",
+    "path" : "/2016/02/20160227-GER-Heidenheim/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "eebc1ae9-2c08-41b4-a2d3-8f5a0bc9ba15",
+    "path" : "/2016/02/20160227-GER-Heidenheim/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "815dd904-d894-4d9d-9ce9-7ca2c8afe3b3",
+    "path" : "/2016/02/20160227-GER-Heidenheim/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "60c2f80f-4a66-444b-9567-2d3238df51b5",
+    "path" : "/2016/02/20160227-GER-Heidenheim/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6c5d32ca-f9fc-48d1-8b95-ce3a5bd63c6c",
+    "path" : "/2016/02/20160227-GER-Heidenheim/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "09bbc937-0e9f-4261-974b-4ad8cbe8809e",
+    "path" : "/2016/02/20160227-GER-Heidenheim/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

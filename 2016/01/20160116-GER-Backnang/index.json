@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Backnang",
+    "name" : "Backnanger Jugend-Degen",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cd6872ec-a584-4b1a-a0bc-7e6d848b2030",
+    "path" : "/2016/01/20160116-GER-Backnang/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b9c644a9-5e0a-4896-ad01-0d595c1d404f",
+    "path" : "/2016/01/20160116-GER-Backnang/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a373aad2-0439-4b9a-b1be-0af8d5cb9f0c",
+    "path" : "/2016/01/20160116-GER-Backnang/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f79f8017-02f8-41f4-8a00-b4a9bb58e9b9",
+    "path" : "/2016/01/20160116-GER-Backnang/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Bolzano",
+    "name" : "Coupe du Monde / Coupe du Monde équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5f2e07a7-b981-47b8-a21b-4d95fbba10e3",
+    "path" : "/2014/02/20140228-ITA-Bolzano/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "98926f13-2ba0-4b2e-b520-253884c78a5b",
+    "path" : "/2014/02/20140228-ITA-Bolzano/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

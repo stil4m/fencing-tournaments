@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Istanbul",
+    "name" : "Tournoi satellite / Tournoi satellite sabre masculin",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "17060a29-1424-4c13-ab1e-32e246e3549d",
+    "path" : "/2016/01/20160109-TUR-Istanbul/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9b12ed9a-f248-48c2-92ff-e6fc8435fae6",
+    "path" : "/2016/01/20160109-TUR-Istanbul/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

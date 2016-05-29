@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ISR",
+    "city" : "Maalot",
+    "name" : "Coupe du Monde *",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "92dd676f-b1b6-4c45-bca5-17cc85e6afd2",
+    "path" : "/2015/10/20151003-ISR-Maalot/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

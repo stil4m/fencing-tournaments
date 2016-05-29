@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Helsinki",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cbbe1411-da27-4545-84cb-4324465854b6",
+    "path" : "/2014/11/20141108-FIN-Helsinki/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8fbda78b-fa62-4706-a107-83fc725091a8",
+    "path" : "/2014/11/20141108-FIN-Helsinki/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

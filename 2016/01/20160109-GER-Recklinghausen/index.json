@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Recklinghausen",
+    "name" : "Recklinghäuser Schneeballschlacht",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7e12331e-ff22-457d-87b2-aa0636564602",
+    "path" : "/2016/01/20160109-GER-Recklinghausen/INDIVIDUAL_FEMALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "33cdce9b-2493-44a6-ad7c-a9564622342f",
+    "path" : "/2016/01/20160109-GER-Recklinghausen/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3a84d148-dfa1-4881-a2f8-c77725c3a3c3",
+    "path" : "/2016/01/20160109-GER-Recklinghausen/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "306190cc-34af-4062-b4cb-1ab2b920506b",
+    "path" : "/2016/01/20160109-GER-Recklinghausen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "91b419be-4577-467c-ab34-6aad7c1803ad",
+    "path" : "/2016/01/20160109-GER-Recklinghausen/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5e82b385-db94-4adf-b01c-3fb1d630b3cd",
+    "path" : "/2016/01/20160109-GER-Recklinghausen/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

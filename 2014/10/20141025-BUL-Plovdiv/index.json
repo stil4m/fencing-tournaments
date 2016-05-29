@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BUL",
+    "city" : "Plovdiv",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2eec83ae-3f85-45cb-a859-3330f7fef43d",
+    "path" : "/2014/10/20141025-BUL-Plovdiv/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "010688fe-dfcf-4c7c-92f1-2cf05ccd27be",
+    "path" : "/2014/10/20141025-BUL-Plovdiv/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Saalfeld",
+    "name" : "Deutsche Junioren Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 29
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "78b00757-6f5e-4726-a1ea-6858732befea",
+    "path" : "/2015/11/20151128-GER-Saalfeld/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8f5ba036-bdbe-449f-9b98-4eba680518ef",
+    "path" : "/2015/11/20151128-GER-Saalfeld/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

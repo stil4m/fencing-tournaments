@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "KOR",
+    "city" : "Séoul",
+    "name" : "SK Trophée Séoul / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "215450c4-68d4-48a6-a457-d266be360ff7",
+    "path" : "/2013/04/20130426-KOR-Seoul/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "17ee4973-2862-4a5b-8cc0-98bbe0269682",
+    "path" : "/2013/04/20130426-KOR-Seoul/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "031a57c2-a10a-435c-8feb-001b76d45188",
+    "path" : "/2013/04/20130426-KOR-Seoul/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

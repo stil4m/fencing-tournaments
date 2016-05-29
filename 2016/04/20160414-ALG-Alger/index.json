@@ -1,0 +1,158 @@
+{
+  "eventInformation" : {
+    "country" : "ALG",
+    "city" : "Alger",
+    "name" : "Championnats de qualification - Afrique * / Championnats de qualification- Afrique * / Championnats d'Afrique *",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "860c4a3b-08c6-48fe-924f-7251bd5fe6ac",
+    "path" : "/2016/04/20160414-ALG-Alger/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "86de69dd-8c21-4c22-b37c-53743f32d1e0",
+    "path" : "/2016/04/20160414-ALG-Alger/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0c6f695f-9ac9-4831-8c20-32ee726b24ca",
+    "path" : "/2016/04/20160414-ALG-Alger/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "70e1e465-6b7d-4038-a3e6-bd7253180a5a",
+    "path" : "/2016/04/20160414-ALG-Alger/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "af30aa8e-ff01-4366-8b7d-59d48c175cc9",
+    "path" : "/2016/04/20160414-ALG-Alger/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7c9e0250-89ad-4a38-8c2d-376d1f1bd707",
+    "path" : "/2016/04/20160414-ALG-Alger/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c25a0639-f7e5-4b81-ad16-d69f67e5ab13",
+    "path" : "/2016/04/20160414-ALG-Alger/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3e2649e8-1f83-4843-b351-8fe920e7f35f",
+    "path" : "/2016/04/20160414-ALG-Alger/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c2eb70f3-5d27-4d17-9978-1cb907795c67",
+    "path" : "/2016/04/20160414-ALG-Alger/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "588d70f6-bffc-4bf2-8fb4-6e81aeadd9a0",
+    "path" : "/2016/04/20160414-ALG-Alger/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

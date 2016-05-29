@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Xuzhou",
+    "name" : "Tournoi international",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8dfd05c1-47a7-4cf6-982c-dc12744cd513",
+    "path" : "/2013/04/20130427-CHN-Xuzhou/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "CRC",
+    "city" : "San-Jose",
+    "name" : "Championnats de qualification panaméricains * / Championnats de qualifications panaméricains *",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9bde8713-1fa7-4d41-b7b6-19ec247752b7",
+    "path" : "/2016/04/20160415-CRC-San-Jose/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "76d6f2a5-c349-4b62-a44c-f410fc3613eb",
+    "path" : "/2016/04/20160415-CRC-San-Jose/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "98f63d5e-f4d8-4e6c-be2f-980d5c89ea1a",
+    "path" : "/2016/04/20160415-CRC-San-Jose/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "59825ea0-491a-4f7e-bb03-92b323812a1b",
+    "path" : "/2016/04/20160415-CRC-San-Jose/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1016d7b7-eae9-4d2c-ab87-9fa2c5081da8",
+    "path" : "/2016/04/20160415-CRC-San-Jose/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "77c05961-9a09-42f7-830b-dd9677c5da64",
+    "path" : "/2016/04/20160415-CRC-San-Jose/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

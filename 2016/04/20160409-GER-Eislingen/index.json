@@ -1,0 +1,158 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Eislingen",
+    "name" : "Eislinger EMAG-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3fc71b22-a264-4a95-94b6-dbdf5edb9f8c",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e918454b-c346-426b-8df7-26afce6995e2",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_FEMALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ed15b3d5-5c0b-4503-84df-285abf320e56",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_FEMALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8d3a7997-c879-4a01-88f6-f431607a926e",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_FEMALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "b63ba8aa-e064-4545-8399-ff0359bc7b31",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_FEMALE_U15_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U15",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5fd988e9-cce1-4ae1-936c-8fe90318c5f6",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "bcde9bf1-e3a5-4b06-a6d2-539de50c4cec",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_MALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "47a1cbc9-48eb-416b-b28b-5510832f4104",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_MALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "6c78b5c7-a048-47f2-8d7c-d84e70da0239",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_MALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9ce897d2-5056-45b8-8136-49ee12743414",
+    "path" : "/2016/04/20160409-GER-Eislingen/INDIVIDUAL_MALE_U15_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U15",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

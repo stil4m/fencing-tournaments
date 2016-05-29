@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Essen",
+    "name" : "U23-Q + Jun.-QC Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8c43111d-3bb0-48b9-a97e-bc515814fd17",
+    "path" : "/2016/02/20160213-GER-Essen/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

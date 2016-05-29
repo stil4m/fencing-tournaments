@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Tauberbischofsheim",
+    "name" : "Reinhold-Würth-Cup / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "61b09cb8-573e-45ed-a2b6-bbd31fc3a634",
+    "path" : "/2015/05/20150501-GER-Tauberbischofsheim/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d7fde28d-e08b-4d6f-86e5-bb8e313ae019",
+    "path" : "/2015/05/20150501-GER-Tauberbischofsheim/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

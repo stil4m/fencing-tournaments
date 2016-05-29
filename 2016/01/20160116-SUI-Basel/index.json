@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Basel",
+    "name" : "Trophee Maître Roger Nigon",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6abfc5e2-c877-48e5-8890-dc4004ee9ef4",
+    "path" : "/2016/01/20160116-SUI-Basel/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e39e6de3-76ee-4749-b7eb-612d3836b02d",
+    "path" : "/2016/01/20160116-SUI-Basel/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

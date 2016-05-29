@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bonn",
+    "name" : "Löwe von Bonn / Coupe du Monde par équipes Löwe von Bonn",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c63fc2d4-0aaa-407b-8ad9-f6b4d621dc32",
+    "path" : "/2013/03/20130322-GER-Bonn/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "44977b8f-b1c6-4668-866d-5fbb67e3d634",
+    "path" : "/2013/03/20130322-GER-Bonn/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

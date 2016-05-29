@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "Boston",
+    "name" : "Absolute Fencing Gear Sabre Grand Prix",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ba6e0a5c-a292-41c9-92bf-84dd77a12e83",
+    "path" : "/2015/12/20151212-USA-Boston/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "519d20b1-be07-4db5-b850-4c17e14ca200",
+    "path" : "/2015/12/20151212-USA-Boston/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

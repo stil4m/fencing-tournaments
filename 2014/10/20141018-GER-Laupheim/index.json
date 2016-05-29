@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Laupheim",
+    "name" : "Uhlmann-Cup",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cc63cea0-4029-46a1-b3de-9dc698b8989b",
+    "path" : "/2014/10/20141018-GER-Laupheim/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

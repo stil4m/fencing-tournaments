@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Dormagen",
+    "name" : "Preis der Chemiestadt",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a1ad4e01-e68c-4c4f-ad57-8daa4277ed5e",
+    "path" : "/2013/11/20131130-GER-Dormagen/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a14271ad-2800-4e91-9430-9b2eb5f199e5",
+    "path" : "/2013/11/20131130-GER-Dormagen/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

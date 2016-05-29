@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ARG",
+    "city" : "Buenos Aires",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "88f6333a-57ff-4280-918f-17b499ae8671",
+    "path" : "/2015/02/20150213-ARG-Buenos_Aires/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9d9269bb-2652-46bf-834a-f5fd21ee5583",
+    "path" : "/2015/02/20150213-ARG-Buenos_Aires/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

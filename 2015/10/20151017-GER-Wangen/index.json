@@ -1,0 +1,88 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Wangen",
+    "name" : "Stefan-Pokal-Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9c3a345a-5b38-46c2-86fc-75aefd656a4a",
+    "path" : "/2015/10/20151017-GER-Wangen/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "09ed26e5-300f-4c2e-afc2-6465068092e6",
+    "path" : "/2015/10/20151017-GER-Wangen/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4224a78a-7d19-478d-abf2-45c152e9c791",
+    "path" : "/2015/10/20151017-GER-Wangen/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2cc276ed-581b-4d12-834e-502ce74a0d76",
+    "path" : "/2015/10/20151017-GER-Wangen/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e9e37bf1-7d84-447f-876b-b8fd835edee9",
+    "path" : "/2015/10/20151017-GER-Wangen/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

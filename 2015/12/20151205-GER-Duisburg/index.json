@@ -1,0 +1,130 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Duisburg",
+    "name" : "Nikolaus-Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4c780c4b-c16a-4dc4-817a-364645483738",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9a352607-2346-4f0f-9cf8-8a51258aabe8",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_FEMALE_O40_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "22a97fbf-6b47-4f94-a3e6-15a365e725c5",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "cebd28d4-a9a1-4a07-8929-a7dc606dc446",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3e3a68a5-fb63-44fb-8798-8cf2ec859700",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_MALE_O40_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c89c9719-b990-4d65-b5c9-0c1598fea6a7",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7f2e9af5-d6c5-44df-b6fc-f515c858d8bc",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b4190b57-0d38-44be-b602-0339b1f2cdf7",
+    "path" : "/2015/12/20151205-GER-Duisburg/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

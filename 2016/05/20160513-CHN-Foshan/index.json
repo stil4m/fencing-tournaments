@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Foshan",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6c3ee42e-802c-477a-8b4e-b40001eb4f43",
+    "path" : "/2016/05/20160513-CHN-Foshan/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4192c063-acd7-4b9a-ade4-dbce3cea17f5",
+    "path" : "/2016/05/20160513-CHN-Foshan/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

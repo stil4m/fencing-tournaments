@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Marseille",
+    "name" : "Grand Prix",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3a0a6cbd-71f2-4ee4-bac7-fdbe95e7f24c",
+    "path" : "/2014/05/20140523-FRA-Marseille/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

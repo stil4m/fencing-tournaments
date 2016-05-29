@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SWE",
+    "city" : "Stockholm",
+    "name" : "SAF Pokalen",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ad2024e2-9a52-46c5-b6f4-2f6b04e80cb4",
+    "path" : "/2013/01/20130112-SWE-Stockholm/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "07709fbc-ae71-49ed-b59c-235b8f94a96f",
+    "path" : "/2013/01/20130112-SWE-Stockholm/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

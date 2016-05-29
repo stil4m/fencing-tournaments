@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "CRO",
+    "city" : "Zagreb",
+    "name" : "Championnats d'Europe",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9721de0e-a343-4435-a6de-f36f48967c23",
+    "path" : "/2013/06/20130616-CRO-Zagreb/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "53c8858c-c4f1-49d2-871e-860d02f51c83",
+    "path" : "/2013/06/20130616-CRO-Zagreb/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0b4a10b7-bd1b-4a85-86a0-790d0e550447",
+    "path" : "/2013/06/20130616-CRO-Zagreb/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8bb9509c-a5bb-48f7-ad33-a930849b2911",
+    "path" : "/2013/06/20130616-CRO-Zagreb/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1b63f0bc-429f-4fd1-a1dc-d4294e79aed3",
+    "path" : "/2013/06/20130616-CRO-Zagreb/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "32a323dc-1744-4cfe-a10b-1119b4943f16",
+    "path" : "/2013/06/20130616-CRO-Zagreb/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "43ee5154-ad62-4de0-a6bf-123da9722597",
+    "path" : "/2013/06/20130616-CRO-Zagreb/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "80747c98-471a-43bd-9ccd-6247c791ba2c",
+    "path" : "/2013/06/20130616-CRO-Zagreb/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d23a96a1-ee08-4018-b3b3-2485d0144b07",
+    "path" : "/2013/06/20130616-CRO-Zagreb/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3f187e24-974f-4a56-942e-19f7f1b9ce38",
+    "path" : "/2013/06/20130616-CRO-Zagreb/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a3d78f9c-d586-412b-8456-ae3078201bd3",
+    "path" : "/2013/06/20130616-CRO-Zagreb/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "47c79c66-df87-4f1e-acd9-4634a155b6e1",
+    "path" : "/2013/06/20130616-CRO-Zagreb/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

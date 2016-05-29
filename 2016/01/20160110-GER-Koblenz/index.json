@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Koblenz",
+    "name" : "Csaba Körmöczi Gedächtnisturnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4bafdc56-3a8f-4a80-9d7c-cedb0f997094",
+    "path" : "/2016/01/20160110-GER-Koblenz/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

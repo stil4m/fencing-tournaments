@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "EGY",
+    "city" : "Le Caire",
+    "name" : "Championnats d'Afrique",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e1a1681b-4bfc-4433-9eec-25f3dce66f23",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "912d8c16-b396-491b-814a-f33cf3eb5855",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "52e21d69-acf1-4674-9e6d-48169f8879c8",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0722599a-88a5-4c18-8023-2a39a7956ac4",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5ff1103b-2157-40c9-be9d-6d8011b577f1",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b405d026-a874-4a61-91b9-0d865f3ed6cd",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "738bf65d-03f0-40a4-b1a5-c0bac8d90578",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4f37c88d-ec41-4b7f-bd2a-056c83ec71b7",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "64d2f118-ecd4-4ad7-93ca-a690d84a5556",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9557c018-a8fb-40f0-9c4b-2c355667707d",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "79bda643-cb7e-445e-8706-4c419bc37869",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "75460cd1-6642-4654-9de9-91f5801af317",
+    "path" : "/2014/06/20140620-EGY-Le_Caire/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

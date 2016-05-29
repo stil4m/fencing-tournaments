@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Shanghai",
+    "name" : "Championnats asiatiques",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b1e122f5-b80d-44d5-ac4d-fe078305ac64",
+    "path" : "/2013/06/20130604-CHN-Shanghai/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d9d177a9-948b-4240-9b54-b7a5e2b0da25",
+    "path" : "/2013/06/20130604-CHN-Shanghai/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "62955bf4-ff59-4520-a045-1f768c04d54d",
+    "path" : "/2013/06/20130604-CHN-Shanghai/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "dd268052-c239-4da8-bc21-e821404e5775",
+    "path" : "/2013/06/20130604-CHN-Shanghai/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bc372522-3d06-4d9d-862d-a5d87020bcc6",
+    "path" : "/2013/06/20130604-CHN-Shanghai/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "16973a45-6cd6-457e-9d5b-14ab393d0158",
+    "path" : "/2013/06/20130604-CHN-Shanghai/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4fc73287-ab67-42ba-90ae-4f16ce9f0a99",
+    "path" : "/2013/06/20130604-CHN-Shanghai/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "900f7efe-f3e2-494d-9d2d-a6dc73f7adec",
+    "path" : "/2013/06/20130604-CHN-Shanghai/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3a763b67-d7d4-4d86-82fd-c0b1b5727d31",
+    "path" : "/2013/06/20130604-CHN-Shanghai/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5dfa7f27-c8d1-4350-baa7-860dec919bfe",
+    "path" : "/2013/06/20130604-CHN-Shanghai/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "93e01800-469f-4f1f-9436-8c46b9ac0aa0",
+    "path" : "/2013/06/20130604-CHN-Shanghai/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a6a9d099-997e-4299-969c-d80b9e26565a",
+    "path" : "/2013/06/20130604-CHN-Shanghai/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

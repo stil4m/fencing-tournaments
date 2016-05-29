@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "St-Maur",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c1334c0e-1cf7-438b-b291-967ca75ef8ee",
+    "path" : "/2015/11/20151106-FRA-St-Maur/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "01c4d856-1d38-4257-b893-36d789364470",
+    "path" : "/2015/11/20151106-FRA-St-Maur/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

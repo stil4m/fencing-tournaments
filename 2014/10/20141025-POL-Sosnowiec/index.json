@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Sosnowiec",
+    "name" : "Coupe du Monde / Coupe du monde par equipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "97f7d756-9a60-4e45-9195-b4495f49d8bb",
+    "path" : "/2014/10/20141025-POL-Sosnowiec/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0c5741e6-2191-4600-b25d-1db2a5cbb233",
+    "path" : "/2014/10/20141025-POL-Sosnowiec/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Barcelone",
+    "name" : "Ciudad de Barcelona / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8bdc3426-0d7e-4842-b0f2-54f834042667",
+    "path" : "/2013/03/20130308-ESP-Barcelone/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "80937ade-b674-4bc2-97d2-bb8f86ccff43",
+    "path" : "/2013/03/20130308-ESP-Barcelone/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

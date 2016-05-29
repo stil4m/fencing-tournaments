@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "La Coruña",
+    "name" : "Tournoi Ciudad de A Coruña / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "243d86ff-5474-4a4e-b7a4-2cfcbbeacb17",
+    "path" : "/2013/02/20130222-ESP-La_Coruna/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d21a00f9-b810-4359-954e-6705db25abc4",
+    "path" : "/2013/02/20130222-ESP-La_Coruna/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

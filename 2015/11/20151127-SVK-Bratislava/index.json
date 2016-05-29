@@ -1,0 +1,88 @@
+{
+  "eventInformation" : {
+    "country" : "SVK",
+    "city" : "Bratislava",
+    "name" : "Mémorial de Martinengo / Coupe du Monde par équipes / Memorial de Martinengo",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "771a1802-bc93-40b1-8dff-10934df965c2",
+    "path" : "/2015/11/20151127-SVK-Bratislava/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ba35751b-2ece-4e69-9335-8211697368a4",
+    "path" : "/2015/11/20151127-SVK-Bratislava/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "23d44a4f-67b6-4c61-ab3a-bb21cc9dbeef",
+    "path" : "/2015/11/20151127-SVK-Bratislava/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c85779b0-3b87-480a-b465-a6cf210a43e2",
+    "path" : "/2015/11/20151127-SVK-Bratislava/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0332d5cd-fe42-4972-904a-8f44607e1d8b",
+    "path" : "/2015/11/20151127-SVK-Bratislava/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

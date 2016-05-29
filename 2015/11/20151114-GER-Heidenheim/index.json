@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Cadet Circuit",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b6e786de-2936-4e1f-a1a9-96b9481ae384",
+    "path" : "/2015/11/20151114-GER-Heidenheim/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f0a95171-afc9-4e7b-90b7-fa3486e7c0dd",
+    "path" : "/2015/11/20151114-GER-Heidenheim/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

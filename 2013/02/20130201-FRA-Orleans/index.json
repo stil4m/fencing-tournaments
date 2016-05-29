@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Orléans",
+    "name" : "Trophée BNP-Paribas",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6f34e14e-acf6-4321-b164-90d42327a8c7",
+    "path" : "/2013/02/20130201-FRA-Orleans/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

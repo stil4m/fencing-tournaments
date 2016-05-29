@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Jena",
+    "name" : "Fair Resort Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f25d4155-c3e3-403d-9d9e-3031495bf79b",
+    "path" : "/2016/01/20160123-GER-Jena/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

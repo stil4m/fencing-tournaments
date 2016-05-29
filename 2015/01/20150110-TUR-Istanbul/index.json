@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Istanbul",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a317e092-21bf-4d0b-b0a6-a8b550a21c1f",
+    "path" : "/2015/01/20150110-TUR-Istanbul/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ac6b9ee4-aa3d-43d7-865b-583ada733d9c",
+    "path" : "/2015/01/20150110-TUR-Istanbul/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

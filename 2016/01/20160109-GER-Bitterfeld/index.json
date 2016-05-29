@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bitterfeld",
+    "name" : "Off. Landesmeisterschaft Sachsen-Anhalt",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e87f7fc9-53bf-4fee-94c7-3f6218f2f72a",
+    "path" : "/2016/01/20160109-GER-Bitterfeld/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "adaa2d10-6d43-4e29-ae99-69e30bbb3bf2",
+    "path" : "/2016/01/20160109-GER-Bitterfeld/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "72f185ee-d822-4518-89e0-39b7edd4fae5",
+    "path" : "/2016/01/20160109-GER-Bitterfeld/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f2a7818f-2664-49d4-9037-758465c6eccd",
+    "path" : "/2016/01/20160109-GER-Bitterfeld/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

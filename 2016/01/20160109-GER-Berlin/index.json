@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Berlin",
+    "name" : "U23 European Circuit 56. Weisser Bär",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6b7709db-307e-47fa-8648-b8f7c79b5a8a",
+    "path" : "/2016/01/20160109-GER-Berlin/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

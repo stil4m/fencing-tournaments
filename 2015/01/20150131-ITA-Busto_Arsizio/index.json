@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Busto Arsizio",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "761ec0bf-f7df-4c3c-8faf-0a8d376fd45a",
+    "path" : "/2015/01/20150131-ITA-Busto_Arsizio/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

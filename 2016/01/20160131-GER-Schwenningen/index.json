@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Schwenningen",
+    "name" : "Schwenninger Florett Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "278c9c75-5d30-46d4-b6b6-751f4b651e32",
+    "path" : "/2016/01/20160131-GER-Schwenningen/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7bdc5ed4-3306-4c99-b7ea-3f6b899593d7",
+    "path" : "/2016/01/20160131-GER-Schwenningen/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Udine",
+    "name" : "Alpe Adria",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a9ed5718-2052-4228-9153-8d1c4216f3c9",
+    "path" : "/2013/01/20130104-ITA-Udine/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1bb73e75-dc2f-47c2-b421-ec90776efa1e",
+    "path" : "/2013/01/20130104-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9c20ba0c-2f88-43b6-8ff9-1c4baf02d1a0",
+    "path" : "/2013/01/20130104-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "06de6731-2468-4ca1-8ea0-0f7a9538a50c",
+    "path" : "/2013/01/20130104-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

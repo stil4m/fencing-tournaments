@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Berne",
+    "name" : "Grand Prix de Berne",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "62620637-c817-4348-bc80-7048f19dd57c",
+    "path" : "/2014/05/20140510-SUI-Berne/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

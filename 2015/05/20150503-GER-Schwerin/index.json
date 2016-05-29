@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Schwerin",
+    "name" : "Landesmeisterschaften Mecklenburg-Vorpommern",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "11d5b681-a9db-424c-90a7-ed9d2df49d08",
+    "path" : "/2015/05/20150503-GER-Schwerin/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "454e3302-8e31-460a-8318-edef28d70278",
+    "path" : "/2015/05/20150503-GER-Schwerin/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f29f7150-dc5f-418e-af91-cadfca8871e7",
+    "path" : "/2015/05/20150503-GER-Schwerin/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b47ad7ca-478e-4251-a23d-34a9426d8a62",
+    "path" : "/2015/05/20150503-GER-Schwerin/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

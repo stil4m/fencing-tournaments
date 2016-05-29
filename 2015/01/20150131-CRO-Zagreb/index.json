@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CRO",
+    "city" : "Zagreb",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e2bed9be-9287-4b60-9634-520615631fff",
+    "path" : "/2015/01/20150131-CRO-Zagreb/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8f17b024-7a72-4cee-bbfb-1c682aaeb300",
+    "path" : "/2015/01/20150131-CRO-Zagreb/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

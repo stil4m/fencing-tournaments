@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Dormagen",
+    "name" : "Preis der Chemiestadt / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ab34ef73-d660-4363-af92-605955658158",
+    "path" : "/2014/12/20141206-GER-Dormagen/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5e61fb71-d28e-4b04-b033-acf3e187c486",
+    "path" : "/2014/12/20141206-GER-Dormagen/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f6bef798-e37a-4392-be48-b839ea122ac3",
+    "path" : "/2014/12/20141206-GER-Dormagen/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "AUT",
+    "city" : "Mödling",
+    "name" : "Wappen von Mödling / Wappen Von Mödling",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c7aa3461-3c84-46ee-bc72-0f4183c2ffa9",
+    "path" : "/2014/01/20140118-AUT-Modling/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6fe8a65a-91fc-47fc-8d34-6ad639cf72b0",
+    "path" : "/2014/01/20140118-AUT-Modling/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

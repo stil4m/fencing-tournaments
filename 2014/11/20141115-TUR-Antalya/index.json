@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Antalya",
+    "name" : "Tournoi satellite / Tournoi satellite fleuret masculin",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e4c117fc-750b-4369-b0ba-9e602f163539",
+    "path" : "/2014/11/20141115-TUR-Antalya/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a9f20137-f5bb-44d6-aef6-c7c2cd1d4a58",
+    "path" : "/2014/11/20141115-TUR-Antalya/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "AUT",
+    "city" : "Feldkirch",
+    "name" : "33. Internationales Monfort Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "501bba8f-70ee-4d4f-8fb1-1a905acf7e51",
+    "path" : "/2015/11/20151121-AUT-Feldkirch/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a32c88dc-9de6-4abe-b6f8-4de024f03eb3",
+    "path" : "/2015/11/20151121-AUT-Feldkirch/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8dc5d387-5889-4407-9154-c8f9a66d15e8",
+    "path" : "/2015/11/20151121-AUT-Feldkirch/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "65fd65de-db4a-4e05-9e03-b5a3480db36f",
+    "path" : "/2015/11/20151121-AUT-Feldkirch/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

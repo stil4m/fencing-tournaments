@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Pliezhausen",
+    "name" : "Neckar-Schönbuch-Cup",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5a3c75b0-7db7-4514-b863-5f47877595fd",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/EQUIPE_MIXED_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "357c009b-8ce1-4c6e-bcd0-2e432fe843d4",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "81e8fd59-c01d-459e-837d-ab93f3da6182",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d8e2f7a2-c185-4cc5-8e60-f19bcf65a643",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "80a1a71f-a64d-4f0a-a012-0592f4cdb041",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "01cd2fd1-39d6-4e70-99d4-0acf623491a3",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "11f7609c-4210-440d-a3e4-c82aed85674c",
+    "path" : "/2015/11/20151121-GER-Pliezhausen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

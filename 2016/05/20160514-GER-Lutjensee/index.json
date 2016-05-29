@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Lütjensee",
+    "name" : "Lütjensee-Youngster-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6883ac98-9624-4bef-b5f3-8186c44ab282",
+    "path" : "/2016/05/20160514-GER-Lutjensee/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b2305bf7-a542-4341-94bc-b89738f8a7a1",
+    "path" : "/2016/05/20160514-GER-Lutjensee/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8199034a-09f4-4ecf-bd0b-695da98db5a4",
+    "path" : "/2016/05/20160514-GER-Lutjensee/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "bbbb74bc-fcb8-482b-8df0-7d1be9e1c732",
+    "path" : "/2016/05/20160514-GER-Lutjensee/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d65a5c20-cc5c-4f50-b82f-cfe245bf921d",
+    "path" : "/2016/05/20160514-GER-Lutjensee/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e7927ae0-2d12-497b-8d73-44823d125e1c",
+    "path" : "/2016/05/20160514-GER-Lutjensee/INDIVIDUAL_MIXED_U9_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U9",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

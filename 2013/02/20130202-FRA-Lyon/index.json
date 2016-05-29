@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Lyon",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "30970ae8-082e-4080-9442-4e938896ae48",
+    "path" : "/2013/02/20130202-FRA-Lyon/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

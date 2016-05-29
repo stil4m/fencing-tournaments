@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Varsovie",
+    "name" : "Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "17e8ff5e-7839-4088-bd34-1f7854a30eff",
+    "path" : "/2016/02/20160221-POL-Varsovie/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

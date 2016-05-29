@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bitterfeld",
+    "name" : "Bitterfelder Schwert",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c5abf85b-1fae-48e4-8081-db46914bb3f0",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/EQUIPE_MIXED_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5ca3ab4b-b988-4cc5-9415-0cfee24f515e",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "03e25824-0777-4402-9030-6bbc583a34b5",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_FEMALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6bbe5a67-16b6-41a7-b48c-2f8b3c7f4e46",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f389296a-6673-47f1-a65f-f980546e341e",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3aec3d16-349c-4ad9-8b7c-0af18cbe1b44",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "129ace4c-ca68-426c-820c-94cd6e35ac86",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1e61de91-e39c-4489-9608-69e6eaa6646e",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "91a4d985-4a02-4473-bc61-29524e258f98",
+    "path" : "/2015/09/20150926-GER-Bitterfeld/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

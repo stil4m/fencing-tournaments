@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "Phoenix",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ab967780-f6e8-4ea7-b167-c7e1dd3db67a",
+    "path" : "/2013/02/20130202-USA-Phoenix/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "fce367a9-0d8e-4894-8708-e098479da77e",
+    "path" : "/2013/02/20130202-USA-Phoenix/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

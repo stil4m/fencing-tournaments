@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Tauberbischofsheim",
+    "name" : "Deutsche Samsung Meisterschaften",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7b4fbf64-626b-4de8-a848-15538e7e4abf",
+    "path" : "/2016/03/20160319-GER-Tauberbischofsheim/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e9aac8b1-8a0a-4061-821d-50db70c35a0f",
+    "path" : "/2016/03/20160319-GER-Tauberbischofsheim/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "717df16a-e809-4193-9e2a-834fae7689f4",
+    "path" : "/2016/03/20160319-GER-Tauberbischofsheim/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ac1e8dea-21df-49af-aee7-9f6f9aa00bc2",
+    "path" : "/2016/03/20160319-GER-Tauberbischofsheim/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

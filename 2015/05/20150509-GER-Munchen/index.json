@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "München",
+    "name" : "2015 Deutsche B-Jugend Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e0a02874-0e37-4664-b4d3-cc3e4397d82b",
+    "path" : "/2015/05/20150509-GER-Munchen/EQUIPE_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b2c5a6e6-fe48-489d-9c5c-f1ce4af0cba5",
+    "path" : "/2015/05/20150509-GER-Munchen/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6e4ba685-fa21-4445-b93f-d9e17717f6ad",
+    "path" : "/2015/05/20150509-GER-Munchen/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

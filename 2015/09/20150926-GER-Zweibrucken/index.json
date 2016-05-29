@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Zweibrücken",
+    "name" : "Heinrich-Petri-Gedächtnisturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6c80aa68-b80f-471d-a224-4d2ce9976e86",
+    "path" : "/2015/09/20150926-GER-Zweibrucken/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d739c37a-4a18-483a-bc44-2af96586f468",
+    "path" : "/2015/09/20150926-GER-Zweibrucken/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "42fbfb4e-5c92-4d92-8600-d05a7c64b9b1",
+    "path" : "/2015/09/20150926-GER-Zweibrucken/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "56116bed-06de-4f72-b8fd-b396cd37d0f1",
+    "path" : "/2015/09/20150926-GER-Zweibrucken/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2c222ac3-5e64-4005-a9be-ba3ccb4beefe",
+    "path" : "/2015/09/20150926-GER-Zweibrucken/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "27d4411b-a783-4569-aac5-a035b67d605d",
+    "path" : "/2015/09/20150926-GER-Zweibrucken/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

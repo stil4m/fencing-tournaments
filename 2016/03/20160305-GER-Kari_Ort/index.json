@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Kari Ort",
+    "name" : "Kari Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "949daf3c-0a6c-4851-b49c-a318515ac237",
+    "path" : "/2016/03/20160305-GER-Kari_Ort/INDIVIDUAL_MIXED_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

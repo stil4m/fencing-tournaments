@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Duisburg",
+    "name" : "Duisburger Degencup",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "87858285-67f5-4fd4-88e5-a08a5cd85a8c",
+    "path" : "/2015/05/20150523-GER-Duisburg/INDIVIDUAL_MALE_O40_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b6a81441-8720-4716-b2b5-53055c753cf1",
+    "path" : "/2015/05/20150523-GER-Duisburg/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

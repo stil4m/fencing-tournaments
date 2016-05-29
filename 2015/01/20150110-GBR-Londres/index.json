@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GBR",
+    "city" : "Londres",
+    "name" : "Eden Cup / Leon Paul satellite fleuret masculin",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "adef1046-19f0-4752-9bff-7e6e64f37fab",
+    "path" : "/2015/01/20150110-GBR-Londres/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1df07c4b-5de7-43c4-86c8-9d8dbbab50a3",
+    "path" : "/2015/01/20150110-GBR-Londres/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

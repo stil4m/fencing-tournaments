@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Eislingen",
+    "name" : "Cadet Circuit",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b3309e7c-3a4a-48c5-be78-78e89ced88e9",
+    "path" : "/2015/12/20151212-GER-Eislingen/EQUIPE_MIXED_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4de32f20-6262-4831-b578-71f6b7bf459a",
+    "path" : "/2015/12/20151212-GER-Eislingen/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5859e888-768d-42db-a578-7e13a8871657",
+    "path" : "/2015/12/20151212-GER-Eislingen/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

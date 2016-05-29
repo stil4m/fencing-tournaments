@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Friedrichshafen",
+    "name" : "Int. IBF Jugendliga Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "da3baf50-4374-4027-a253-342c1fb78961",
+    "path" : "/2015/04/20150418-GER-Friedrichshafen/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6eaffbc2-6a30-4aad-a11a-830600d03244",
+    "path" : "/2015/04/20150418-GER-Friedrichshafen/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b673f927-5cc7-4b05-8fbc-959318fce857",
+    "path" : "/2015/04/20150418-GER-Friedrichshafen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7bf59068-c6eb-42a7-861d-fa8efb885a36",
+    "path" : "/2015/04/20150418-GER-Friedrichshafen/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

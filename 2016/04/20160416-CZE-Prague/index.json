@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "CZE",
+    "city" : "Prague",
+    "name" : "European Olympic Games Qualification",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "39087c8a-b0c5-4ce6-96df-bea95e3fcc01",
+    "path" : "/2016/04/20160416-CZE-Prague/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e99eeb3a-3c40-4421-8534-9d23473d47b8",
+    "path" : "/2016/04/20160416-CZE-Prague/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8f3d6d21-5bd9-4660-9efe-64b95cbae22c",
+    "path" : "/2016/04/20160416-CZE-Prague/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e0661e36-5dea-4eac-be4c-cd5c85645495",
+    "path" : "/2016/04/20160416-CZE-Prague/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9f08a8a0-6ca0-4520-811b-60bf8ae3d92c",
+    "path" : "/2016/04/20160416-CZE-Prague/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0e920181-558c-4cfb-8d31-65f58a137856",
+    "path" : "/2016/04/20160416-CZE-Prague/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "Phoenix",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5f79b4fb-7d74-42d5-9a84-4613a210823e",
+    "path" : "/2015/01/20150124-USA-Phoenix/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ac9ea036-78b6-48c4-b61a-8f656b2b5145",
+    "path" : "/2015/01/20150124-USA-Phoenix/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

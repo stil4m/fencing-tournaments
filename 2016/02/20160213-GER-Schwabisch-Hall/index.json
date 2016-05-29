@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Schwäbisch-Hall",
+    "name" : "Hoolgaascht Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "88aba37e-bdd1-4798-b206-0d1a7561fdfb",
+    "path" : "/2016/02/20160213-GER-Schwabisch-Hall/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3cd7be44-fe0c-404c-b43a-40e41c680a02",
+    "path" : "/2016/02/20160213-GER-Schwabisch-Hall/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6ca44a90-86fc-4f2f-b57a-10f610bc083a",
+    "path" : "/2016/02/20160213-GER-Schwabisch-Hall/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d279f8d0-cb40-4efa-9668-2eb8158a6536",
+    "path" : "/2016/02/20160213-GER-Schwabisch-Hall/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Cottbus",
+    "name" : "Youngster Cup Finale",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "334c974f-48bf-4f04-b4c5-d53f203686bf",
+    "path" : "/2015/06/20150627-GER-Cottbus/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7374c29f-fae1-4e53-ba5a-7fc2d6bc5666",
+    "path" : "/2015/06/20150627-GER-Cottbus/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "920682f9-c73c-46ad-8972-141918ed1726",
+    "path" : "/2015/06/20150627-GER-Cottbus/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "72f92296-d219-43be-bfbc-85ed88afe3cd",
+    "path" : "/2015/06/20150627-GER-Cottbus/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ad7d581a-3fef-4d68-b512-839d72f042f8",
+    "path" : "/2015/06/20150627-GER-Cottbus/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "83503863-9a29-4365-9654-f9dee04bcf89",
+    "path" : "/2015/06/20150627-GER-Cottbus/INDIVIDUAL_MIXED_U9_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U9",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

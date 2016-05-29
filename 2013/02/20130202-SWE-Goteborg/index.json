@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SWE",
+    "city" : "Göteborg",
+    "name" : "Vigor Challenge",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "747cdd14-7a7f-4a3d-926d-ddcad8d6e9c3",
+    "path" : "/2013/02/20130202-SWE-Goteborg/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bb41195e-59de-40d6-9069-91124859b6c0",
+    "path" : "/2013/02/20130202-SWE-Goteborg/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

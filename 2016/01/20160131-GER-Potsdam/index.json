@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Potsdam",
+    "name" : "Coupe En Garde",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "258ea9a5-90ec-424d-b2a3-bc7d4b5c2730",
+    "path" : "/2016/01/20160131-GER-Potsdam/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c56e7922-5a88-43ea-bee3-0c886ec55771",
+    "path" : "/2016/01/20160131-GER-Potsdam/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

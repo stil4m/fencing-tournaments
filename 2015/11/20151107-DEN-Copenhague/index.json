@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Tournoi satellite épée masculine / Tournoi satellite épée féminine",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4a8cc843-6222-406d-bc5e-1aa24967c68d",
+    "path" : "/2015/11/20151107-DEN-Copenhague/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9217e954-98d1-42a0-b85f-e47e4a764d76",
+    "path" : "/2015/11/20151107-DEN-Copenhague/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Venise",
+    "name" : "Coupe Ville de Venise",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cdbb7408-19c1-485a-a674-a75ca637a50c",
+    "path" : "/2013/03/20130316-ITA-Venise/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

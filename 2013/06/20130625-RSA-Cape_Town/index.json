@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "RSA",
+    "city" : "Cape Town",
+    "name" : "Championnats d'Afrique",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7b97cb04-f9cb-499d-a230-99a2b255b1b7",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ea55bf50-b58e-4040-8d1b-53d9bf20a365",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5812db68-4f97-4746-b638-897d8a137864",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "74addd43-650f-4d73-90e7-0ed02ea572ce",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "025b2ec5-8a57-48e0-b4e0-19678e33efac",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "edba62e7-4580-4fc2-bbf3-7c38e3d238f5",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "01c7effd-1f8b-4227-b357-71b044f9f28d",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "44832749-effb-4a12-8e03-90ca7404cb08",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6a28252e-3a7d-4273-afe9-58bcbbe70b03",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f70316eb-ee0c-4b4d-a2cd-57315b7193b3",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ed87c1f2-d07f-46d5-a96b-6e87dc9e5bc5",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "67de200d-04a5-4182-a0a6-da4310003752",
+    "path" : "/2013/06/20130625-RSA-Cape_Town/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

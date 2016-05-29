@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "SRB",
+    "city" : "Novi Sad",
+    "name" : "European Championships for Juniors",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3c9a1d4e-68d0-4c6b-9078-cd0d74ff7b0e",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a30b3905-1234-4c1e-b10b-98ad40295b35",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d5bc955b-9482-4dc9-9bcb-c23110dd84cb",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ad506a4a-397f-4ca4-83ca-2b74619c34ad",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f45c5913-b484-4d5c-be0c-b8ce4cc76dce",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6b693e9e-55c8-4457-be7b-33915ae38bdc",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ff2fabac-2baa-4b8c-a48b-bc09ef6a9b23",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a0485326-0c47-4665-a6e0-2811eadc16cc",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "41de696f-43ed-437f-9e55-e24e7dff6ee7",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5185af55-7b64-41c1-9b35-03a6328f54ce",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c1b4ef9b-f929-413b-b96f-962fb4899d6b",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b86da1ad-352a-4215-bc6c-2e2865123864",
+    "path" : "/2016/03/20160305-SRB-Novi_Sad/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

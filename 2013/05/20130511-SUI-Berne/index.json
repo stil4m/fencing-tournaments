@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Berne",
+    "name" : "TISSOT Grand Prix de Berne",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cabe2856-e745-402c-b953-9a8c47179670",
+    "path" : "/2013/05/20130511-SUI-Berne/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

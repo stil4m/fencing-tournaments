@@ -1,0 +1,214 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Haueneberstein",
+    "name" : "Hauenebersteiner Florett Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "92c14d8a-4c1f-408d-96ff-83f816a7c5e3",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3d4b9fa3-27b3-4466-9056-f72bd5f9f991",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "94f181cb-479b-43ab-a34d-428bf7a53793",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5e15a310-af29-478b-8302-8742bdac2d89",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2c140322-9dee-4a72-bf36-3e95a23f02c1",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "20674eca-8bce-4c27-ab85-31a99864d16f",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "82677d41-1575-41a4-b163-1e78bb6f9d05",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "429629d8-7abe-4ada-846c-7f0307f04c16",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c14565cb-725b-416c-ba7a-6264e2f72b61",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4b837091-dedc-4744-b7ab-78a1b8ce9b5f",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4be33858-6143-4144-8557-ea74e10c0151",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c877f1c1-0d75-467e-b31d-e6981e15b650",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7a7c330d-8b74-4a30-841b-94b343dc9ada",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b37b2950-0c12-4ece-9bcc-f3c240f54559",
+    "path" : "/2016/01/20160130-GER-Haueneberstein/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

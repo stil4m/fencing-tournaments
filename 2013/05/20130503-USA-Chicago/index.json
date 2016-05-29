@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "Chicago",
+    "name" : "Absolute Fencing Korfanty World Cup",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "68df1dbf-051e-48f8-a43a-7e2012038c0d",
+    "path" : "/2013/05/20130503-USA-Chicago/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ea2ead8c-f5d9-4bfe-8e86-c5374f3971d6",
+    "path" : "/2013/05/20130503-USA-Chicago/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5f72e053-2e8b-4680-9118-a4f97bade151",
+    "path" : "/2013/05/20130503-USA-Chicago/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "b986d32c-e217-4acb-957b-3595f6ba1587",
+    "path" : "/2013/05/20130503-USA-Chicago/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

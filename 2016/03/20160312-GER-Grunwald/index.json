@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Grünwald",
+    "name" : "Deutsche Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "438b23e5-6af3-4aa3-b7e2-02abd5a3859d",
+    "path" : "/2016/03/20160312-GER-Grunwald/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "534c9b76-656f-448d-8cc4-127ee2bd0b3b",
+    "path" : "/2016/03/20160312-GER-Grunwald/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "948fdcb0-4dca-4e4c-ad42-ad138ad5255f",
+    "path" : "/2016/03/20160312-GER-Grunwald/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f0f23abc-c7cc-477d-8d00-1391f5801929",
+    "path" : "/2016/03/20160312-GER-Grunwald/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

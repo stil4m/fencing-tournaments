@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Böblingen",
+    "name" : "Offene Böblinger Stadtmeisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "981c2072-36ab-4738-8556-01538d69c73a",
+    "path" : "/2015/04/20150425-GER-Boblingen/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "72ffb934-14e7-430c-a0c3-bd7d9568e048",
+    "path" : "/2015/04/20150425-GER-Boblingen/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "396a0c80-bdb1-4e8c-a44b-7b806496c7b0",
+    "path" : "/2015/04/20150425-GER-Boblingen/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0948f8e1-b650-42f8-8089-00d32de99df4",
+    "path" : "/2015/04/20150425-GER-Boblingen/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "60a2b073-274c-4a53-ba00-5f8b30a70c91",
+    "path" : "/2015/04/20150425-GER-Boblingen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "84558633-b6ba-44d2-b59d-2f0f548eaa32",
+    "path" : "/2015/04/20150425-GER-Boblingen/INDIVIDUAL_MIXED_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

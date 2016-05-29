@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Dourdan",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8256a55b-400e-432f-9061-ecf5c3c72cac",
+    "path" : "/2016/01/20160123-FRA-Dourdan/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9752503b-b828-4627-ba8e-f498acd8f04e",
+    "path" : "/2016/01/20160123-FRA-Dourdan/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

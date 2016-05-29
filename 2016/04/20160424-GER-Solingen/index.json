@@ -1,0 +1,158 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Solingen",
+    "name" : "Pokal der Stadtsparkasse",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f1484f42-4cb8-40ad-8a2d-b607bd9df39a",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_FEMALE_U10_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ccca4312-3cc0-4ec9-83d0-2ddd03e9178a",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_FEMALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4cc7e38f-7de8-4799-8f7d-1028d71429e8",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_FEMALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d3794bda-e0e6-4129-b8e0-5b4118c53be2",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_FEMALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5eac1575-0fac-4267-bad1-a897c9601c40",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_FEMALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "295b32f3-a706-4269-9264-8fa0d35ea665",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_MALE_U10_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3381fa22-e7fb-4046-ae3e-31dceda8fe53",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_MALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "711f9926-e76c-4fc0-a671-e46ab01290b0",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ef63ef92-4964-4534-90a2-4eb94aadf321",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_MALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "77d253ad-9d92-4726-811e-35f5a68334f7",
+    "path" : "/2016/04/20160424-GER-Solingen/INDIVIDUAL_MALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

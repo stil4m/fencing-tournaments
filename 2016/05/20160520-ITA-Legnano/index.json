@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Legnano",
+    "name" : "Coupe du Monde / Coupe du monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e67ac431-dda3-45f9-b719-9a919f020f6f",
+    "path" : "/2016/05/20160520-ITA-Legnano/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "860d22ba-fcc5-44a6-8ef5-c8ab48086212",
+    "path" : "/2016/05/20160520-ITA-Legnano/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

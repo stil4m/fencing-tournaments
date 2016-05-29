@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Shanghai",
+    "name" : "Grand Prix",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "95bc0db6-b05e-4fcb-ae14-af68cd3df3fd",
+    "path" : "/2015/05/20150515-CHN-Shanghai/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9873354c-1d5e-4e2c-b4d8-f8e397d58cd5",
+    "path" : "/2015/05/20150515-CHN-Shanghai/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

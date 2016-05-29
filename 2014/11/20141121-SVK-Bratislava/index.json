@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "SVK",
+    "city" : "Bratislava",
+    "name" : "Memorial de Martinengo / Coupe du Monde par équipes / Mémorial de Martinengo",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3bb22a98-eb08-4f9e-a055-e427d2f72d91",
+    "path" : "/2014/11/20141121-SVK-Bratislava/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "627b6946-faf2-49b5-9652-219293cf7576",
+    "path" : "/2014/11/20141121-SVK-Bratislava/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b86ea873-ac2e-46c7-87b2-75f2226b5e9e",
+    "path" : "/2014/11/20141121-SVK-Bratislava/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5000b1b7-3566-4089-8609-09e0820c793d",
+    "path" : "/2014/11/20141121-SVK-Bratislava/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5c0dda57-ecd8-4150-94b7-4710c32330aa",
+    "path" : "/2014/11/20141121-SVK-Bratislava/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4e525216-d446-44b7-bd0c-0b48f27fdf53",
+    "path" : "/2014/11/20141121-SVK-Bratislava/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Gdańsk",
+    "name" : "Buzdygan",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5f767600-2f7a-491d-a74a-cd52d03a766c",
+    "path" : "/2015/12/20151220-POL-Gdansk/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "549073eb-6d9f-4dfc-829a-32a8381d9430",
+    "path" : "/2015/12/20151220-POL-Gdansk/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

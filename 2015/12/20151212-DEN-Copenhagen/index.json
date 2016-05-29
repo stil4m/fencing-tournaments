@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhagen",
+    "name" : "Cadet Circuit",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "93e6aa26-fa10-4f73-a12e-a7a788578de7",
+    "path" : "/2015/12/20151212-DEN-Copenhagen/EQUIPE_MIXED_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3a33926a-4340-4e80-b929-31eda1ec1463",
+    "path" : "/2015/12/20151212-DEN-Copenhagen/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "16bc8eaf-c030-4c55-8c87-62bfd3f01ef7",
+    "path" : "/2015/12/20151212-DEN-Copenhagen/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

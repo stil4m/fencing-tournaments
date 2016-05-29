@@ -1,0 +1,214 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Kobenhavn",
+    "name" : "2016 Danmarksmesterskaber for B + U",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a27386ba-d8f1-4a43-ae0c-3ac8ee722499",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cba8afa9-f6fe-446e-b05f-85cd25f95902",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3125588c-df6f-41d5-89c8-08a3d54ed689",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_FEMALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "06c8569b-3e34-491b-acb1-27c4caeb9952",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8e3c609a-202c-40ff-9343-7c9e228d1180",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "26c1a3d2-579a-4f59-85e8-7abf007cd05e",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_FEMALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "90f334a2-2146-41c4-99f5-7cfa3c1aa693",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a8643384-d17e-478d-83a4-dd7186a99650",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c7572889-5266-4c47-9ec0-f45e559ad7d5",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "33141ceb-83f1-4299-bd43-7c6b4ebe16bc",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6c399dc3-3799-4f0e-9fbe-dc7042b322ee",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f9a5bcc2-6005-4b19-9e1a-e5aba6177499",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MALE_U14_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "cb768dc0-cacb-4118-8e49-c7ddcaa6a824",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MIXED_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "dc6c8ade-e241-4873-a537-dea912519741",
+    "path" : "/2016/01/20160116-DEN-Kobenhavn/INDIVIDUAL_MIXED_U10_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Burgsteinfurt",
+    "name" : "Internationales Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e0c7f646-101d-40e2-8d22-8873ecafedf6",
+    "path" : "/2015/11/20151114-GER-Burgsteinfurt/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "LUX",
+    "city" : "Luxembourg",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f387a8ed-48e7-427b-9bc7-94d3b6b24694",
+    "path" : "/2014/09/20140920-LUX-Luxembourg/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

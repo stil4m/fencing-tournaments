@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "RUS",
+    "city" : "St-Petersbourg",
+    "name" : "Fleuret de St-Petersbourg / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b1ad3145-64da-4001-9d3e-994bfe1053d9",
+    "path" : "/2014/02/20140226-RUS-St-Petersbourg/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4f400c6c-8933-418e-87ec-e7391491fe01",
+    "path" : "/2014/02/20140226-RUS-St-Petersbourg/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6016ffaf-462d-4721-a4dd-641b10ba3687",
+    "path" : "/2014/02/20140226-RUS-St-Petersbourg/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

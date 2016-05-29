@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Aix-en-Provence",
+    "name" : "Challenge Licciardi",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b6ce294a-4a28-49a3-a422-4a2d1320f2cc",
+    "path" : "/2013/02/20130216-FRA-Aix-en-Provence/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

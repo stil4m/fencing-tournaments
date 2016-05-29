@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Dijon",
+    "name" : "Tournoi de la ville de Dijon",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4dc05ee3-9e0d-44e0-bee5-48a6bc3a7540",
+    "path" : "/2016/01/20160117-FRA-Dijon/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

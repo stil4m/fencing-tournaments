@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BRA",
+    "city" : "Rio de Janeiro",
+    "name" : "2016 World Championships",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "fcaf2020-64ed-452d-a71e-cfca1bd2c9a7",
+    "path" : "/2016/04/20160425-BRA-Rio_de_Janeiro/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6fbc168c-4bdc-4e85-afb6-235f0a7e5f53",
+    "path" : "/2016/04/20160425-BRA-Rio_de_Janeiro/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

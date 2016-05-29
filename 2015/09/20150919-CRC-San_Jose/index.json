@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CRC",
+    "city" : "San José",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f22faf81-9b2d-403a-a010-4f8cd2295109",
+    "path" : "/2015/09/20150919-CRC-San_Jose/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

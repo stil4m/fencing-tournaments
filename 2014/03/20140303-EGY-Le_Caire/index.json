@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "EGY",
+    "city" : "Le Caire",
+    "name" : "Championnats d'Afrique juniors",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "bd5a293b-c2b4-41fb-9661-3556a9d79cc7",
+    "path" : "/2014/03/20140303-EGY-Le_Caire/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "74e5e87f-8878-4009-9541-9e4cfd3b2364",
+    "path" : "/2014/03/20140303-EGY-Le_Caire/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2055bbf5-4a46-4e65-9d16-26f84c2fd0d0",
+    "path" : "/2014/03/20140303-EGY-Le_Caire/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f1b74be6-8cbb-405b-9752-e12ec452aca1",
+    "path" : "/2014/03/20140303-EGY-Le_Caire/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cefe8435-b1a8-49f8-91ae-f3aa0e3e3fb4",
+    "path" : "/2014/03/20140303-EGY-Le_Caire/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "645c99d3-37b6-4938-abc9-9f2e93dad22f",
+    "path" : "/2014/03/20140303-EGY-Le_Caire/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

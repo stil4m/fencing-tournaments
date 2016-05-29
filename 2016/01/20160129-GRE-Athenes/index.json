@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GRE",
+    "city" : "Athènes",
+    "name" : "Coupe du Monde / Coupe du Monde équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 29
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5a0310b3-d0fc-4d73-97ad-72c69ba15d0a",
+    "path" : "/2016/01/20160129-GRE-Athenes/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2efc4bf5-61eb-4f03-8563-f4d1fb16310c",
+    "path" : "/2016/01/20160129-GRE-Athenes/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

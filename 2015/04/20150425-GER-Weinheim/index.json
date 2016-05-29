@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Weinheim",
+    "name" : "Deutsche Junioren Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "62af95b6-386d-4a6e-a22a-86475cb40dda",
+    "path" : "/2015/04/20150425-GER-Weinheim/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d87dea2d-9b1b-4489-ad35-767f938184e3",
+    "path" : "/2015/04/20150425-GER-Weinheim/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "dc3aa00e-45da-4c8a-bc46-0f7ea680cdc4",
+    "path" : "/2015/04/20150425-GER-Weinheim/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0a6bee61-aa60-4718-bf23-5a8f773e4552",
+    "path" : "/2015/04/20150425-GER-Weinheim/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

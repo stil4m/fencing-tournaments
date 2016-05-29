@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Heidenheimer Pokal / Coupe du Monde par équipes Heidenheimer Pokal",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "31ef40e1-01b5-4a2e-81d5-aa0801cfcb9e",
+    "path" : "/2013/02/20130215-GER-Heidenheim/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "98e953e0-1db5-4ebf-a362-d4289c1438d1",
+    "path" : "/2013/02/20130215-GER-Heidenheim/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

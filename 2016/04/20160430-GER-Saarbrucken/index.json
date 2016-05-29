@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Saarbrücken",
+    "name" : "Deutsche Junioren Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f35ce1d5-7efc-462a-a202-068ae4588171",
+    "path" : "/2016/04/20160430-GER-Saarbrucken/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "40d44728-fba3-49fe-a45e-1aaf9fa8c332",
+    "path" : "/2016/04/20160430-GER-Saarbrucken/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d73c92c4-d0e7-4ab4-bbd1-e81768bf91a1",
+    "path" : "/2016/04/20160430-GER-Saarbrucken/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c12863e9-f3d3-4003-b86d-be8a7a5ed3c1",
+    "path" : "/2016/04/20160430-GER-Saarbrucken/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

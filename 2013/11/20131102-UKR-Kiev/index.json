@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "UKR",
+    "city" : "Kiev",
+    "name" : "The Golden Gate Cup",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cf3a63e0-e33d-4981-b421-11a6d9251928",
+    "path" : "/2013/11/20131102-UKR-Kiev/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "70e2e6bf-1d1d-40bb-b889-dea0f4db118a",
+    "path" : "/2013/11/20131102-UKR-Kiev/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8022e7b3-069f-40fd-9363-3857aa746643",
+    "path" : "/2013/11/20131102-UKR-Kiev/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Backnang",
+    "name" : "Backnanger Schüler- und Jugenddegen",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5fddbd9f-8fe1-4b9a-8f17-c07d988380f3",
+    "path" : "/2015/11/20151114-GER-Backnang/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ff31cb81-1ee3-4d95-a7c3-63c27c56d031",
+    "path" : "/2015/11/20151114-GER-Backnang/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b0624ead-f8e0-4174-bbfe-0a9e8c18a949",
+    "path" : "/2015/11/20151114-GER-Backnang/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "82c7d0c1-d6c8-4f46-8041-724b31a4343d",
+    "path" : "/2015/11/20151114-GER-Backnang/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "72a569a9-ae7a-43bb-9c2c-7d8465f62a52",
+    "path" : "/2015/11/20151114-GER-Backnang/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

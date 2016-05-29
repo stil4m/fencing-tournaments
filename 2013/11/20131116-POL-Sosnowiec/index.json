@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Sosnowiec",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c18090c9-cfed-4366-8213-d6e886857554",
+    "path" : "/2013/11/20131116-POL-Sosnowiec/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "cf3b3a67-643c-4831-a772-ea8e2ad0c800",
+    "path" : "/2013/11/20131116-POL-Sosnowiec/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

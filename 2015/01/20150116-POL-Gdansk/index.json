@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Gdansk",
+    "name" : "The Artus Court PKO BP / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f7689d30-08b8-447a-885a-fa47a55bf3f9",
+    "path" : "/2015/01/20150116-POL-Gdansk/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7f7cb674-f579-4f25-8e2b-7753738d5243",
+    "path" : "/2015/01/20150116-POL-Gdansk/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

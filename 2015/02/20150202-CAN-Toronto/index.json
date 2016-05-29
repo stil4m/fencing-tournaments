@@ -1,0 +1,270 @@
+{
+  "eventInformation" : {
+    "country" : "CAN",
+    "city" : "Toronto",
+    "name" : "Championnats Panaméricains Juniors / Championnats Panaméricains / Championnats Panaméricains Cadets",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "160b8fd9-e4a6-43ba-b67f-c7a85facc5cd",
+    "path" : "/2015/02/20150202-CAN-Toronto/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4746be39-ae42-4b21-94b0-c3fa7d2dc277",
+    "path" : "/2015/02/20150202-CAN-Toronto/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4382274c-98a9-4898-a96c-542317c36f00",
+    "path" : "/2015/02/20150202-CAN-Toronto/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "eda35bea-239b-4642-8e16-0dfa577da3d0",
+    "path" : "/2015/02/20150202-CAN-Toronto/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "86a7640d-ec48-40d6-8ce0-d4534dae06d6",
+    "path" : "/2015/02/20150202-CAN-Toronto/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "354ac355-7d09-4a64-ab8d-1f9cd91b62f6",
+    "path" : "/2015/02/20150202-CAN-Toronto/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "65427395-2d9d-48b3-8a1c-1e5a60cf8bd6",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "701fa9f7-7ccd-4e05-a19d-20980f323eb0",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "457b345d-1dc7-469d-8041-804d635bf308",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "6fe0d3f6-4ef3-4990-8785-ed932d9b565b",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4e34593c-b952-46d8-94a9-84c20fd280f7",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "41b612da-ada3-43df-a548-265415babe0e",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "93b95c1e-06b8-4a1c-9e26-4c3145173736",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a1f40ce4-c082-45f9-b6d8-1ba73e8c6a60",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "52b34913-c8e7-44ea-9ac0-289289a5cc44",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e987db94-a3b0-4072-add8-0dbd9fa41c48",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "49c8e12b-b367-4117-8414-ec8f1632d567",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3c1dd6e3-da86-4a81-b44d-1f6f9479f9f2",
+    "path" : "/2015/02/20150202-CAN-Toronto/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

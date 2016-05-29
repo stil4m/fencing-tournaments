@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ALG",
+    "city" : "Alger",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "238979c9-fb45-4588-a437-9f0f617fc5ca",
+    "path" : "/2016/02/20160205-ALG-Alger/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ff968f6c-c8ab-47d2-a41e-f09d15e4701b",
+    "path" : "/2016/02/20160205-ALG-Alger/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Friedrichshafen",
+    "name" : "Zeppelin-Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a3a20dda-eeff-4d22-866c-b23db1102cc1",
+    "path" : "/2016/02/20160206-GER-Friedrichshafen/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

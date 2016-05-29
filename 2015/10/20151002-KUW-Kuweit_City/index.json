@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "KUW",
+    "city" : "Kuweit City",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e198bddc-36ac-4053-9ac7-ef5274ac3dff",
+    "path" : "/2015/10/20151002-KUW-Kuweit_City/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d9ccf93a-a5dd-4f3b-a241-c1d547ecf6d6",
+    "path" : "/2015/10/20151002-KUW-Kuweit_City/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

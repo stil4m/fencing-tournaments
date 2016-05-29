@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Esslingen",
+    "name" : "U23 European Circuit Esslinger Burg Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ce00a78b-6d02-4cfd-acd1-57c91c09f131",
+    "path" : "/2016/01/20160123-GER-Esslingen/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

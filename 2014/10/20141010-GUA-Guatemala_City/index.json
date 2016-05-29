@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GUA",
+    "city" : "Guatemala City",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b114d43f-5c46-4a18-8896-a7744db35b3b",
+    "path" : "/2014/10/20141010-GUA-Guatemala_City/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "10b819b3-af88-429b-a234-ff4cd473800c",
+    "path" : "/2014/10/20141010-GUA-Guatemala_City/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

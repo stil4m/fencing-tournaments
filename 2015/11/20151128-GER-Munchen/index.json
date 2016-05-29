@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "München",
+    "name" : "U23 European Circuit Münchener Schwert/Nymphenburger Schloss",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 29
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "afc2a0fe-09cd-4c36-9e17-ea4aaa43e76b",
+    "path" : "/2015/11/20151128-GER-Munchen/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2859f114-e103-4b53-ac27-73095827ca26",
+    "path" : "/2015/11/20151128-GER-Munchen/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,228 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Duisburg",
+    "name" : "Internationales Montan-Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "af35f789-7795-4adf-a510-039dcd5a3e95",
+    "path" : "/2015/05/20150522-GER-Duisburg/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7b348953-78ac-44df-b7e2-65dde65686f2",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "37885697-635b-41ad-8aff-680ccfb8d482",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_O40_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e2d5d5e3-5084-4173-882c-2b8953c13fe9",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "80926795-3a0a-4dd1-80d4-651219ffd82f",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a78ee47a-4976-4006-ac42-489a5e0c4338",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7ddbdea2-7ee4-40af-97d3-6ff25b22d916",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "718800d4-b5b2-401e-b73b-93902363fd1d",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a79e2a62-0527-4bcf-b133-f65e3ff7f444",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ca0d8b8b-2eba-4b43-aeaf-3ed0a37588df",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_O40_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "O40",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6be41325-c522-48f7-acfc-22586906c5f7",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "802cba0b-47b9-4eef-bb15-823422c41504",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1beedee6-38b5-4ac0-a08c-ce6765844c2d",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d279dd4a-394e-4c90-999b-d0b04823cbec",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "67f18363-4274-4e32-91ce-a01d53ad85ab",
+    "path" : "/2015/05/20150522-GER-Duisburg/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

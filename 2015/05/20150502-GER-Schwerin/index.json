@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Schwerin",
+    "name" : "Petermännchen-Pokal",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9424e46a-c721-4991-ba0c-c86911e34101",
+    "path" : "/2015/05/20150502-GER-Schwerin/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a5bb84f5-963c-4ed8-b737-24e77cae0e56",
+    "path" : "/2015/05/20150502-GER-Schwerin/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0db9a691-f2d8-4922-ac35-7ba45c7cdf02",
+    "path" : "/2015/05/20150502-GER-Schwerin/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "cade6890-ea75-4a30-afc7-f013a7ad9d3f",
+    "path" : "/2015/05/20150502-GER-Schwerin/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

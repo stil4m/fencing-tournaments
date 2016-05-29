@@ -1,0 +1,214 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Güstrow",
+    "name" : "Landesmeisterschaften Mecklenburg-Vorpommern",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0461281f-66ae-475d-bbaa-f426ee5344d7",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f92a88be-cf4b-4048-b130-129f8d84caa6",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "634701f3-3c6a-4f81-8114-020538c1d5bd",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "73c5abe9-5572-49e8-98db-03e0ab4dcf1f",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b4dbdade-732f-48b0-b253-ee6abcef80ee",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0c9558c1-99ff-4a92-903e-8f41c6441254",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ea2bc636-e7c1-4bfc-85d3-ebf444e83c52",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e8799b7a-fbf9-42b2-a362-1b4c3689221f",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c25351bd-cc3b-4a25-9919-57fc5091d813",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0ac534d2-d682-4896-8f44-bf747b8da01d",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8196d254-1cdf-4581-b1f1-0a37799ece8d",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "b638cd02-5825-4916-9487-73348aa22a29",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ec1a08fc-40ea-4332-97f7-499fcc3fc020",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MIXED_U12_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "bf06dbbe-4a9a-4d17-b61f-f1338f7733c4",
+    "path" : "/2015/12/20151219-GER-Gustrow/INDIVIDUAL_MIXED_U14_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

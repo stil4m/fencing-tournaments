@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Espoo (Helsinki)",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "1bd550e6-108d-423c-aa15-c654763e0720",
+    "path" : "/2015/11/20151107-FIN-Espoo_(Helsinki)/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7941fd62-d652-4802-b9e4-6057f8a9573e",
+    "path" : "/2015/11/20151107-FIN-Espoo_(Helsinki)/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

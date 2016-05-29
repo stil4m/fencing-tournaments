@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BEL",
+    "city" : "Sint-Niklaas",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cb7c9160-e804-4317-8301-b027f5ef1f2f",
+    "path" : "/2016/02/20160219-BEL-Sint-Niklaas/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8271b225-c501-41b2-8671-1280e0dff076",
+    "path" : "/2016/02/20160219-BEL-Sint-Niklaas/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Championnats du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8e5b089d-b671-4d82-8390-7f0366093dbf",
+    "path" : "/2013/08/20130805-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c1d000c3-f7a0-4990-93d9-bf9f39d9a84a",
+    "path" : "/2013/08/20130805-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5f194442-17e5-4749-8e75-b7ae5e3ac5c9",
+    "path" : "/2013/08/20130805-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a0112260-72d7-4263-9f41-94d77cc0776a",
+    "path" : "/2013/08/20130805-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "098263e0-5da2-4bfd-853a-aea489bf8761",
+    "path" : "/2013/08/20130805-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

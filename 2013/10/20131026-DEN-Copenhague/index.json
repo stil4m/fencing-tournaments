@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Tournoi satellite épée masculine / Tournoi satellite épée féminine",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 10,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 10,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ca80922d-7943-47b4-9b43-4dd08c657516",
+    "path" : "/2013/10/20131026-DEN-Copenhague/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 10,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "29a23d70-ccf6-418c-afd0-5566773947ae",
+    "path" : "/2013/10/20131026-DEN-Copenhague/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 10,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

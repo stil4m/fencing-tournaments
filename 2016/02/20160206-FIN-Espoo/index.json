@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Espoo",
+    "name" : "Espoo Fencing Challenge 2016",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c0a123f0-673c-45c5-8f8c-0a1cadda8926",
+    "path" : "/2016/02/20160206-FIN-Espoo/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8354825d-ad52-48bd-b2c8-7426b01f3dbf",
+    "path" : "/2016/02/20160206-FIN-Espoo/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

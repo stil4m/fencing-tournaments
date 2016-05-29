@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Warszawa",
+    "name" : "V PUCHAR POLSKI SENIOREK W SZPADZIE KOBIET - Puchar Europy do lat 23",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d461f357-cce6-419c-ab80-04b11b27e37d",
+    "path" : "/2016/03/20160312-POL-Warszawa/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

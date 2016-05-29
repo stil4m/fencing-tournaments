@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Madrid",
+    "name" : "Villa de Madrid / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "beac320a-3011-4307-aca9-ae6a618234f9",
+    "path" : "/2013/02/20130208-ESP-Madrid/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "02a4ad83-a5c4-4c73-aefd-f5fe1ebcbd1e",
+    "path" : "/2013/02/20130208-ESP-Madrid/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

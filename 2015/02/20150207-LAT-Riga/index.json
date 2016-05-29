@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "LAT",
+    "city" : "Riga",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b0f54d57-8c7e-4c6c-95ff-e41ecbbe8904",
+    "path" : "/2015/02/20150207-LAT-Riga/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Xuzhou",
+    "name" : "Tournoi International / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0525dbbd-441f-452f-9879-84277ec49f86",
+    "path" : "/2014/11/20141114-CHN-Xuzhou/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0bcd9df7-ac25-4c9d-9675-157c0b1526fd",
+    "path" : "/2014/11/20141114-CHN-Xuzhou/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

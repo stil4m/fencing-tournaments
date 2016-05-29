@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "MEX",
+    "city" : "Cancun",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2b1b1fe1-f8aa-43f5-b142-33aeb46c39d3",
+    "path" : "/2016/03/20160305-MEX-Cancun/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "NED",
+    "city" : "Amsterdam",
+    "name" : "Tournoi satellite fleuret masculin / Tournoi satellite sabre masculin",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e3512a65-ff4b-4a12-848b-5e1777777940",
+    "path" : "/2013/11/20131109-NED-Amsterdam/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ed067a2d-69e2-4082-b99e-83a9149dc652",
+    "path" : "/2013/11/20131109-NED-Amsterdam/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

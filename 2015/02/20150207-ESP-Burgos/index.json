@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Burgos",
+    "name" : "Ciudad de Burgos / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "30ee099a-842e-4f6f-b306-b426bb3e509b",
+    "path" : "/2015/02/20150207-ESP-Burgos/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "684e6198-3146-46ab-a291-cccf36f2075d",
+    "path" : "/2015/02/20150207-ESP-Burgos/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

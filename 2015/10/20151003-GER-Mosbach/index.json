@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Mosbach",
+    "name" : "Toto-Lotto-Cup",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e6f13095-04c2-4118-a39a-a7a77da89a35",
+    "path" : "/2015/10/20151003-GER-Mosbach/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Tuttlingen",
+    "name" : "Württembergische A-Jugend Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e12bd3a4-c457-401c-9025-a912d02f8381",
+    "path" : "/2016/03/20160306-GER-Tuttlingen/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "de829283-7210-40cd-b1f2-c70534530dcf",
+    "path" : "/2016/03/20160306-GER-Tuttlingen/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f069f0ce-291e-4a51-b80b-f345d88c5466",
+    "path" : "/2016/03/20160306-GER-Tuttlingen/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5abb8d8f-677a-4b03-9b05-c93b633c0345",
+    "path" : "/2016/03/20160306-GER-Tuttlingen/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

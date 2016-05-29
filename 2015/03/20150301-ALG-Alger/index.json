@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "ALG",
+    "city" : "Alger",
+    "name" : "Championnats d'Afrique cadets juniors / Championnats d'Afrique cadets juniors-Team / Championnats d'Afrique cadets et juniors",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "31542611-dff9-4c8c-8be4-aaf45fca7505",
+    "path" : "/2015/03/20150301-ALG-Alger/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0555a751-043c-4e34-93ef-bfd5ec5a8a36",
+    "path" : "/2015/03/20150301-ALG-Alger/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7abb27ef-89b5-4fc1-abc2-ac78235bafa3",
+    "path" : "/2015/03/20150301-ALG-Alger/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b95b6e60-c7f9-45b3-a428-57a8dfd4e8a7",
+    "path" : "/2015/03/20150301-ALG-Alger/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e1a079ab-6bfb-481b-a632-892bde14284e",
+    "path" : "/2015/03/20150301-ALG-Alger/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8ac21ede-14f9-4a62-8f56-00f89bb49d0f",
+    "path" : "/2015/03/20150301-ALG-Alger/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "fa9b5fe1-243d-44bf-836b-979680f7ea93",
+    "path" : "/2015/03/20150301-ALG-Alger/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "65ba6e6d-7264-4747-8411-d05c580b291c",
+    "path" : "/2015/03/20150301-ALG-Alger/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d17d4840-e894-4db4-8423-6cfdad282c73",
+    "path" : "/2015/03/20150301-ALG-Alger/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "95eb8d7e-5032-4460-8e34-aeab529acea7",
+    "path" : "/2015/03/20150301-ALG-Alger/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b16932bd-366d-451f-b026-ad353b7cef92",
+    "path" : "/2015/03/20150301-ALG-Alger/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

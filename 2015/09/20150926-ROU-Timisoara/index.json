@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ROU",
+    "city" : "Timisoara",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0ef82062-aa14-429c-afce-76b56dc622c0",
+    "path" : "/2015/09/20150926-ROU-Timisoara/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6f82bec1-3e07-4712-98e4-1c2ea1dcb0ea",
+    "path" : "/2015/09/20150926-ROU-Timisoara/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

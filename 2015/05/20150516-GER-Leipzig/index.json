@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Leipzig",
+    "name" : "2015 Deutsche Meisterschaften",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c27fe57a-ee52-4612-873c-996d2b84c224",
+    "path" : "/2015/05/20150516-GER-Leipzig/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a4bb9e06-6b82-4ac8-a063-f13af5e550d0",
+    "path" : "/2015/05/20150516-GER-Leipzig/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7d075d1c-7d4e-4f7b-b690-2135922b29ee",
+    "path" : "/2015/05/20150516-GER-Leipzig/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c8b8e9fb-3901-48a6-a022-9579d4e178da",
+    "path" : "/2015/05/20150516-GER-Leipzig/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

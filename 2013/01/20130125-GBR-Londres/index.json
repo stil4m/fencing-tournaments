@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GBR",
+    "city" : "Londres",
+    "name" : "Beazley Trophy / Corble Cup",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "53fc3890-709b-4e0d-95f0-57cd96fb69a3",
+    "path" : "/2013/01/20130125-GBR-Londres/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "aec4ca05-cde3-4743-b80d-a774ba2e6941",
+    "path" : "/2013/01/20130125-GBR-Londres/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

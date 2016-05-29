@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Nürnberg",
+    "name" : "Bayerische Schulmeisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "debad05d-acf9-486d-ae78-c523c10f96b8",
+    "path" : "/2015/06/20150628-GER-Nurnberg/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "558d29b1-753f-42b8-838f-4fe1cd9dd3f3",
+    "path" : "/2015/06/20150628-GER-Nurnberg/EQUIPE_MIXED_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "73b6a3b3-12f8-49e3-ac2c-386e3748c713",
+    "path" : "/2015/06/20150628-GER-Nurnberg/EQUIPE_MIXED_U12_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

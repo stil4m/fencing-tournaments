@@ -1,0 +1,256 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Düren",
+    "name" : "Rheinische Schüler Meisterschaften",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c2460330-f9d5-45b1-b924-f0167970bb76",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2b7efe09-6a41-482e-87f5-d52866f4fca2",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U10_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "879e1d78-a76d-45ee-b308-556556e1a6da",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d6604ac8-0032-4389-89c4-8791dbc4871a",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6a3eeda4-a1a6-401d-9e91-3f4657781fe6",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "095c1a70-dd91-47b5-b071-db905a02b40c",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1603d1a3-a604-4d7e-b5e9-692349ecc5ce",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a254ccf4-beb6-4c90-a963-cf9fbb1d0cd4",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_FEMALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "cce1a400-be17-43b0-91f9-f27bb07c1281",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f1a9997b-3879-4138-86c9-e0606544349b",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5f25b074-692c-48d1-aaa4-98cd73714779",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U10_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "294e8d42-527a-4077-95d9-daa8bd4be7e7",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9fa43330-f9b5-4f86-95a4-8024bb6e9721",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e72a855b-80b8-45bb-87ce-2e036a72b1b6",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U11_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "005dc506-c38b-4b0c-bd0a-09449de814e7",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5ae02783-5d65-4678-a1b4-d680be23f91b",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b69b6e04-82f5-4f29-8a65-47ec1b446d19",
+    "path" : "/2016/05/20160521-GER-Duren/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

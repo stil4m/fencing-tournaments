@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Varsovie",
+    "name" : "Sabre de Wolodyjowski",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "038a2da9-6d33-473b-8f5d-991ef1450245",
+    "path" : "/2014/05/20140517-POL-Varsovie/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

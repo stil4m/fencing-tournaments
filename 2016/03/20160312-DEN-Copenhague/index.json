@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Normann Jørgensen Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6235dd10-779c-41f1-a536-5a703447092b",
+    "path" : "/2016/03/20160312-DEN-Copenhague/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

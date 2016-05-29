@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Cottbus",
+    "name" : "Brandenburgische A-Jugend Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9414809e-ded6-4507-8ce0-29af2e1be318",
+    "path" : "/2016/04/20160403-GER-Cottbus/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8d598921-ff9f-40b1-9c7a-566ff903e971",
+    "path" : "/2016/04/20160403-GER-Cottbus/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

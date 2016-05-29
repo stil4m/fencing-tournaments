@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "IRI",
+    "city" : "Teheran",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a5d431b9-82ae-4c08-81e3-4ab4ab464c71",
+    "path" : "/2015/01/20150110-IRI-Teheran/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

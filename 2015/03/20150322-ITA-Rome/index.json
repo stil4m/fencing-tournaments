@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Rome",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "72c64020-158f-440e-8ef7-93cc9299266a",
+    "path" : "/2015/03/20150322-ITA-Rome/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

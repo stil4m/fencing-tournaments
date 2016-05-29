@@ -1,0 +1,158 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Weinheim",
+    "name" : "Bergstraßen-Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d1685375-70cf-48a1-9d63-ee08eb23c123",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "01d26f93-bb1b-4a70-8d62-8f8626b454ba",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_FEMALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "659d180d-3a0d-4923-9572-b3ea45a0d277",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ed4f6284-b4fe-4696-8c76-2018b8db830a",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1bd47d23-d76f-4c3b-8567-93f12bae5211",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c430e162-bd84-4b51-bad6-a8c494071e87",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "08c41b9f-0c8f-4888-81c7-d04f8cec2616",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "94c3addc-d538-409a-b41f-ba63bad04888",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "025279b3-d344-4619-ba67-5cce7d774c4b",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "112a8529-7292-4b7b-8ce0-ed7af8ac7036",
+    "path" : "/2016/03/20160312-GER-Weinheim/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

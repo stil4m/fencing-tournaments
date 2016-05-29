@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Westend Grand Prix \"in Memoriam Sakovics Jozsef\" / Westend Grand Prix \"in Memoriam Vass Imre\"",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "37627ea1-017a-4f48-9bd1-96a76579bafa",
+    "path" : "/2015/03/20150320-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4189a75b-7c11-407a-a417-81f7da391ec5",
+    "path" : "/2015/03/20150320-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

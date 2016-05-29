@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ALG",
+    "city" : "Alger",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "185307b2-0b15-49d5-afee-71cd188b392f",
+    "path" : "/2015/03/20150307-ALG-Alger/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Beijing",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6d9dd614-4354-4d1b-8989-e38a67a9b055",
+    "path" : "/2015/05/20150501-CHN-Beijing/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "189c22f5-9aa8-450a-b89a-40f6991d2fb0",
+    "path" : "/2015/05/20150501-CHN-Beijing/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

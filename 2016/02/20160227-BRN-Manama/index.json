@@ -1,0 +1,130 @@
+{
+  "eventInformation" : {
+    "country" : "BRN",
+    "city" : "Manama",
+    "name" : "Championnats asiatiques juniors / Championnats asiatiques juniors-Team",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "65e6470d-0c69-4e4d-b013-c69bd727d50e",
+    "path" : "/2016/02/20160227-BRN-Manama/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9bc1e4ce-1b19-4455-9cb3-e443a74acb4c",
+    "path" : "/2016/02/20160227-BRN-Manama/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "694c47e6-552f-49f0-87dd-3afa085f306e",
+    "path" : "/2016/02/20160227-BRN-Manama/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "886c1646-aa88-439b-b704-6ef6093a0d70",
+    "path" : "/2016/02/20160227-BRN-Manama/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e927d9c1-7d06-4eb8-a8a8-1418e1bca36d",
+    "path" : "/2016/02/20160227-BRN-Manama/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b7c23785-18e1-4959-92a4-599e718bd412",
+    "path" : "/2016/02/20160227-BRN-Manama/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "71e65790-cf63-46c8-ab7e-6570732321e2",
+    "path" : "/2016/02/20160227-BRN-Manama/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "68b77ed8-dc0f-486a-8a42-4129fe195ef3",
+    "path" : "/2016/02/20160227-BRN-Manama/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

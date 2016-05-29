@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "CRO",
+    "city" : "Porec",
+    "name" : "Champ du monde juniors-cadets",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7bb5ec94-d838-4660-9818-135a4be1a094",
+    "path" : "/2013/04/20130409-CRO-Porec/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "22d53595-6111-4eef-832f-d50d8e8d3d36",
+    "path" : "/2013/04/20130409-CRO-Porec/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "eb5358f7-aa21-4e34-817b-2d63fe538524",
+    "path" : "/2013/04/20130409-CRO-Porec/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "812d3ea5-9110-4283-bb4d-089ef8b9b137",
+    "path" : "/2013/04/20130409-CRO-Porec/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a046b893-5e80-4f70-8ba8-d5ce643139ed",
+    "path" : "/2013/04/20130409-CRO-Porec/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c005410a-8be6-424e-a5ac-0939932a9e51",
+    "path" : "/2013/04/20130409-CRO-Porec/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "BUL",
+    "city" : "Plovdiv",
+    "name" : "European U23 Championships",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9c6100c2-e984-44ef-abbb-ca4d48f3ae9c",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9d702dad-e8fc-4ac6-975d-d3369fe5e3a7",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "4cd989a9-af23-4d07-8de4-2c7c59aadb1f",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7ba5b791-2f4c-48ff-a2a0-fb2d5f582743",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d44a1b91-5f2b-4687-92fc-aad8d68a13cf",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3e080acf-df3c-4452-aaef-d3f6b3d32a15",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "939b1b12-d048-4f80-bf81-56ff66f5f46d",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "95b39d67-a86d-4c99-9054-a13a74645045",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "05cbb6d1-d95c-47fc-821e-8eba3411dfd0",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "88ea44dd-5242-4a33-9a90-4ff52782dd0d",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2c7be3c0-1acd-4ff6-b30f-5ba0a95a7744",
+    "path" : "/2016/04/20160401-BUL-Plovdiv/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

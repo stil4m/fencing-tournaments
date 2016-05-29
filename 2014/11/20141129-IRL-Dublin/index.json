@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "IRL",
+    "city" : "Dublin",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 29
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 29
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "52e49bf1-5fb4-48f4-9879-26aacbcf2ea0",
+    "path" : "/2014/11/20141129-IRL-Dublin/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

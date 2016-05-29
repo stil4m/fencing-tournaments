@@ -1,0 +1,214 @@
+{
+  "eventInformation" : {
+    "country" : "RSA",
+    "city" : "Limpopo",
+    "name" : "Limpopo Open",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8f37de32-ec0e-41b1-bcbf-dd72ae9a0af1",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b61f0ede-149c-43be-bc71-4542742fc8dc",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9523f03a-b111-4ebe-b4e2-a825012605f7",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1cff5a0b-d936-43cb-9e74-22b862fdfb5c",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "db719372-b661-4b50-aeaf-b1be314a651e",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a797758a-c7b5-4bce-bcda-40451bf381a6",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "432d7791-01db-4ea2-a849-fc6d38249883",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c2b436ce-a672-423a-bc58-1c34356d4421",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "08dba22b-006b-411c-8d46-6a291b3e3fe7",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "16ba9bc9-0703-4d81-ae85-6ab9ed2d38a1",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "b8c054f3-bd9b-4626-a2c2-96c353a437f7",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "083c72b1-02dc-4c90-a06f-edac6a4566df",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1fd46073-1530-4d6b-b8a8-49abc7331a68",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MIXED_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "bdd95a3f-b4e0-43b6-ace1-223f8d6026d8",
+    "path" : "/2015/12/20151205-RSA-Limpopo/INDIVIDUAL_MIXED_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MIXED",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

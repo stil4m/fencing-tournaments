@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "937ab306-a419-4e03-ab21-1b51e6bb2cce",
+    "path" : "/2014/02/20140207-HUN-Budapest/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "55fc1b09-12e6-4b1a-9e2d-7f80d993dfdf",
+    "path" : "/2014/02/20140207-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

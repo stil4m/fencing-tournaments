@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Krakow",
+    "name" : "Wawel Dragon Trophy",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "354550c7-8a61-4863-9509-b52aeddd8aa6",
+    "path" : "/2016/01/20160108-POL-Krakow/EQUIPE_MIXED_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MIXED",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bf33b847-5f60-4a7f-9086-9cd8ed0ae7b6",
+    "path" : "/2016/01/20160108-POL-Krakow/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0a73dd4d-5c10-488a-b71e-6c9fc1cfd7e0",
+    "path" : "/2016/01/20160108-POL-Krakow/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

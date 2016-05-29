@@ -1,0 +1,158 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Fürth",
+    "name" : "Bayerische Junioren Meisterschaften",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "051203e7-33cf-4acb-b028-78e6a3ee9892",
+    "path" : "/2015/07/20150704-GER-Furth/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7a4d099d-6f11-4b76-92c6-e2cf1642fd52",
+    "path" : "/2015/07/20150704-GER-Furth/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7dcb7c4e-1135-4fd0-bfef-c67fbfbabf04",
+    "path" : "/2015/07/20150704-GER-Furth/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8976f889-753c-435b-9303-7f34d94f57b8",
+    "path" : "/2015/07/20150704-GER-Furth/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d406340b-89fd-4c49-8323-b2e5db0eb481",
+    "path" : "/2015/07/20150704-GER-Furth/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e383d49d-b904-42fe-9403-e77b13fe886a",
+    "path" : "/2015/07/20150704-GER-Furth/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "cd9a60a6-eca3-4f2e-8eda-515f3a3638f4",
+    "path" : "/2015/07/20150704-GER-Furth/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5ecf68f4-3d85-40fd-9c17-94eb5e12ae8d",
+    "path" : "/2015/07/20150704-GER-Furth/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e78bc13a-9d19-4f46-9246-fd10349ea5a8",
+    "path" : "/2015/07/20150704-GER-Furth/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "97f0e7d2-966c-41ec-aaa0-26daf6994354",
+    "path" : "/2015/07/20150704-GER-Furth/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

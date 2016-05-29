@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "467194a0-9d1f-4a93-b628-150d7e91e2c4",
+    "path" : "/2015/10/20151030-HUN-Budapest/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0dbdb7d8-62a7-4e11-8bf7-5e7bf8bdd514",
+    "path" : "/2015/10/20151030-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

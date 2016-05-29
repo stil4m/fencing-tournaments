@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Ciudad Real",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6a59bf85-056d-4146-b700-a9dbadba5031",
+    "path" : "/2013/12/20131214-ESP-Ciudad_Real/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

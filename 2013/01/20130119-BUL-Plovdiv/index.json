@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "BUL",
+    "city" : "Plovdiv",
+    "name" : "Glaive D’Asparoukh",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cba04fb2-de7d-446b-aedd-da2e1f5b7153",
+    "path" : "/2013/01/20130119-BUL-Plovdiv/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

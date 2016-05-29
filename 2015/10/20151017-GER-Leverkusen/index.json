@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Leverkusen",
+    "name" : "Internationales Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "130ef070-1519-434c-a121-a945b1be7a71",
+    "path" : "/2015/10/20151017-GER-Leverkusen/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

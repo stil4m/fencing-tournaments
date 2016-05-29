@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Moers",
+    "name" : "Sparkassen-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cb638c8e-1ccf-4727-b241-e9c334914f48",
+    "path" : "/2016/02/20160206-GER-Moers/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

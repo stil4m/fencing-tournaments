@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POR",
+    "city" : "Ponte de Sor",
+    "name" : "Coupe du Monde Ponte de Sor",
+    "startDate" : {
+      "y" : 2009,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2009,
+      "m" : 10,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "aeae94d1-cd0e-4c48-b2d4-dc24d63e95fb",
+    "path" : "/2009/10/20091017-POR-Ponte_de_Sor/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2009,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "16d301c6-11e0-4454-9eec-e979837a8018",
+    "path" : "/2009/10/20091017-POR-Ponte_de_Sor/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2009,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

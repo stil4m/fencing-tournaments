@@ -1,0 +1,158 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Krefeld",
+    "name" : "Lajos-Csire-Gedächtnisturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0486408c-a040-4f7b-a573-2cd85b69b02d",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7707ca2c-fb8c-4ff0-b5b7-878d1b33e5af",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "908abada-4b15-4cee-a6fc-fb29f19f7bed",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "378fc887-e5d7-497a-a88c-a01743dcac3a",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "36c7f25c-2df3-4140-9927-60d8d7da1ab2",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2e29cc13-9d63-4cdd-98a7-f73510016496",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "49524b52-302b-4832-a531-65debbce6e87",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5bb1e02a-cc17-4233-b835-aa7d6d015901",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8b8f9af9-3006-4fe5-a3b0-466f7bcefb7b",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "858f1c7d-0c43-441b-b58d-629985780a4d",
+    "path" : "/2015/09/20150926-GER-Krefeld/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

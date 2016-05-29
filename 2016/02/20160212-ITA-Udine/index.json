@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Udine",
+    "name" : "Alpe Adria / Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b4e3153b-e124-4640-a00e-b954446cb435",
+    "path" : "/2016/02/20160212-ITA-Udine/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "251bbc55-d3cd-456d-8916-0002e123e673",
+    "path" : "/2016/02/20160212-ITA-Udine/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3bd41cd0-8769-42a0-8433-13a16afae9de",
+    "path" : "/2016/02/20160212-ITA-Udine/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5ade5487-07e1-410b-82c8-c16f0ec4ed57",
+    "path" : "/2016/02/20160212-ITA-Udine/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "713f1e05-6b4a-4c64-b86e-6573c3763522",
+    "path" : "/2016/02/20160212-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cfb23ef3-cacb-4291-a53d-266162e7cc30",
+    "path" : "/2016/02/20160212-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

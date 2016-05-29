@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CAN",
+    "city" : "Vancouver - British Columbia",
+    "name" : "Vancouver Grand Prix - Absolute Fencing",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "adfcc0e2-2632-45f3-90b8-8c490a8acd50",
+    "path" : "/2013/03/20130323-CAN-Vancouver_-_British_Columbia/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

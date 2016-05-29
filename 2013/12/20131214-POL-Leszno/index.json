@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Leszno",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3045e2d4-b1a1-4d09-b0dd-e709f749a270",
+    "path" : "/2013/12/20131214-POL-Leszno/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "dc472951-a26b-4344-b69f-0f823a522864",
+    "path" : "/2013/12/20131214-POL-Leszno/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ALG",
+    "city" : "Alger",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "79a10195-4e71-4776-9d22-5afbdd18c589",
+    "path" : "/2016/02/20160213-ALG-Alger/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ce0da4fd-a567-4265-a462-afe80dc2d0e4",
+    "path" : "/2016/02/20160213-ALG-Alger/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

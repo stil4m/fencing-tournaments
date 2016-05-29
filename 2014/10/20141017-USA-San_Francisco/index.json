@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "San Francisco",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0f4a9a6b-e9f9-4608-908a-3d47e6543652",
+    "path" : "/2014/10/20141017-USA-San_Francisco/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "41342d3f-0997-4c92-941f-2f5b28210c0a",
+    "path" : "/2014/10/20141017-USA-San_Francisco/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

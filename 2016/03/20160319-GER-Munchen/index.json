@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "München",
+    "name" : "Luitpold-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "25c0de7c-ee91-4969-8a82-ad67dc079fc7",
+    "path" : "/2016/03/20160319-GER-Munchen/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f03068d8-845e-45b4-ba8e-d4ba38d6edae",
+    "path" : "/2016/03/20160319-GER-Munchen/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d8ec38bf-fd64-4cf1-8992-ae63b0c8814d",
+    "path" : "/2016/03/20160319-GER-Munchen/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e7a3f140-83ab-42bd-a795-83ac55ba3dcb",
+    "path" : "/2016/03/20160319-GER-Munchen/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

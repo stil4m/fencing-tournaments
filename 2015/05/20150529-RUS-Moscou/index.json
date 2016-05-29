@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "RUS",
+    "city" : "Moscou",
+    "name" : "Moscow saber Grand Prix",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 29
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2a2a01b7-bf33-4cd0-b516-e0e796d1c3a9",
+    "path" : "/2015/05/20150529-RUS-Moscou/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "db6c3350-ade2-4664-99ad-2585c63cc479",
+    "path" : "/2015/05/20150529-RUS-Moscou/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

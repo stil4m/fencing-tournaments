@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Szczecin",
+    "name" : "Youngster Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e35e18ac-185d-48e6-a3b1-bfb675d2048f",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "52dfcd57-ac0e-403c-9406-42a44310e01e",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ede749ee-5350-460c-8556-5e2ad4d9f795",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8976e475-9ed6-4a6b-961f-4030a3e3ecbd",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "192de410-8329-4b73-98be-71752a6c6117",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "bff3fe23-a703-468b-b8e4-99b79e6d8ca5",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2e0425db-a8ed-49ea-9c38-bf7e0d0838f2",
+    "path" : "/2016/01/20160110-POL-Szczecin/INDIVIDUAL_MIXED_U9_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U9",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Künzelsau",
+    "name" : "Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4c7c97f2-8725-4f78-94d0-577fc85f5d03",
+    "path" : "/2016/05/20160507-GER-Kunzelsau/EQUIPE_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "199c1e6f-82fc-4b71-87b7-7050cf0d2222",
+    "path" : "/2016/05/20160507-GER-Kunzelsau/EQUIPE_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c6a05ebd-5bf4-4f64-a60e-642331392bc8",
+    "path" : "/2016/05/20160507-GER-Kunzelsau/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1ef03211-e56b-4371-a117-4b6b6a9b6b2a",
+    "path" : "/2016/05/20160507-GER-Kunzelsau/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

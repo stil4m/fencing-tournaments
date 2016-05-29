@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Nanjing",
+    "name" : "Tournoi International / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5b08b205-1143-4dc2-bbc6-7d01ec31a4df",
+    "path" : "/2015/11/20151113-CHN-Nanjing/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e88b9a24-a5e9-4c81-b513-893ebf64df0e",
+    "path" : "/2015/11/20151113-CHN-Nanjing/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

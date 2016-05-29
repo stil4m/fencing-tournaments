@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ESA",
+    "city" : "San Salvador",
+    "name" : "Copa del Mundo",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "71bc389a-a63c-4426-a803-1b9775d3d0be",
+    "path" : "/2014/11/20141108-ESA-San_Salvador/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

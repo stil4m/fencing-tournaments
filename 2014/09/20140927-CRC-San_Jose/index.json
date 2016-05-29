@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CRC",
+    "city" : "San José",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b62fa874-f559-4c54-a31c-3edaebc9126b",
+    "path" : "/2014/09/20140927-CRC-San_Jose/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "957d0bd2-c8cb-4fe9-99c3-8e172fe13b55",
+    "path" : "/2014/09/20140927-CRC-San_Jose/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

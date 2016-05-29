@@ -1,0 +1,130 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Schwerin",
+    "name" : "Petermännchen-Pokal",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "39cc0894-e967-47cf-a47b-6a96b45082e1",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "dba7cdab-75a4-4642-a78c-d5ecd1b03e21",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9cf09454-6700-4418-b279-a1998ea91fbf",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3245034a-87be-444c-91cc-d33a45f70950",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d30f82cb-bd70-492a-aae1-243c1eceea65",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7bd4af1b-307b-4d46-8b38-a3205e329ee7",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f6f146cb-0876-4448-a7f3-0392abcd1dbe",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8bf1ec7b-bff8-480a-8e6d-d4cb8aa67f2e",
+    "path" : "/2016/05/20160521-GER-Schwerin/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

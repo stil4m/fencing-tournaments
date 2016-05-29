@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Esslingen",
+    "name" : "Postmichel-Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "959a48a0-c9b7-4834-a5de-621c4af1f4aa",
+    "path" : "/2016/01/20160124-GER-Esslingen/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "076a9538-4df9-4513-8df8-447eefe1695f",
+    "path" : "/2016/01/20160124-GER-Esslingen/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

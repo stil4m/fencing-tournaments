@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "RUS",
+    "city" : "Moscou",
+    "name" : "Sabre de Moscou / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9b07d374-d605-49fd-b240-b2b7e162f1a0",
+    "path" : "/2013/03/20130322-RUS-Moscou/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "438daf8e-fa5d-45d3-99ec-10dbaa27fcff",
+    "path" : "/2013/03/20130322-RUS-Moscou/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "43fe1b90-351e-4f7d-8bc5-c8b73ea29d46",
+    "path" : "/2013/03/20130322-RUS-Moscou/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

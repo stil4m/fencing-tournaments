@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Ulm",
+    "name" : "2015 Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2edd300b-e245-4a5f-b8bb-affecba75d30",
+    "path" : "/2015/05/20150509-GER-Ulm/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "65c5098f-b4f0-489c-a9e9-c3354fcaf4bc",
+    "path" : "/2015/05/20150509-GER-Ulm/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

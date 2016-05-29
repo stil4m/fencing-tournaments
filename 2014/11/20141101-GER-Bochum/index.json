@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bochum",
+    "name" : "Tournoi international",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "70ba3965-818e-4aa2-b9ec-788d4d83614d",
+    "path" : "/2014/11/20141101-GER-Bochum/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

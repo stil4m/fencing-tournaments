@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Tournoi satellite fleuret masculin",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6c7a1d5a-eabf-441e-b534-90b3c9847487",
+    "path" : "/2013/05/20130511-DEN-Copenhague/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

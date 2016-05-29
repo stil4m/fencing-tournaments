@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "St.Gallen",
+    "name" : "2016 Championnats suisses U17/U20",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "97947a52-f1ef-4679-bc34-0df340c17b78",
+    "path" : "/2015/11/20151121-SUI-St.Gallen/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1af73d1a-97fe-4111-89cb-c9e91b3d96e0",
+    "path" : "/2015/11/20151121-SUI-St.Gallen/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b21e15f4-a6f8-4170-8364-cd060d94cc80",
+    "path" : "/2015/11/20151121-SUI-St.Gallen/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "62151c39-4629-44a2-95b3-ed63877b9d08",
+    "path" : "/2015/11/20151121-SUI-St.Gallen/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

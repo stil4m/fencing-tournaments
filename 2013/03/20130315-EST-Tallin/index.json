@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "EST",
+    "city" : "Tallin",
+    "name" : "Glaive de Tallin / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "392b100e-9fbb-4660-a871-dbed876141f0",
+    "path" : "/2013/03/20130315-EST-Tallin/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4b142781-bac9-4c15-bc2a-40d7143de583",
+    "path" : "/2013/03/20130315-EST-Tallin/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Wuxi",
+    "name" : "Championnats de qualification Asie-Océanie / Championnats asiatiques *",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5b93921a-539b-4f7f-8500-e3af31ff6d0a",
+    "path" : "/2016/04/20160411-CHN-Wuxi/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bbae829e-1f72-42df-ac93-b3c1cd02e268",
+    "path" : "/2016/04/20160411-CHN-Wuxi/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e90059df-fbd5-4d5b-b70f-e51f0823ab6e",
+    "path" : "/2016/04/20160411-CHN-Wuxi/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ba559008-9181-4002-8096-fbb57bc80351",
+    "path" : "/2016/04/20160411-CHN-Wuxi/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "650da12a-38c5-475d-a0dd-91dfbe9ead09",
+    "path" : "/2016/04/20160411-CHN-Wuxi/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c0b35228-d32f-4678-9b10-2b4110ae45c8",
+    "path" : "/2016/04/20160411-CHN-Wuxi/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8533fafc-0e44-4042-bbfc-65806bc96078",
+    "path" : "/2016/04/20160411-CHN-Wuxi/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9f482d33-6b71-45be-8f89-23bb1cf27d04",
+    "path" : "/2016/04/20160411-CHN-Wuxi/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7b99a2a1-d3f6-4253-8892-bf1244af53c7",
+    "path" : "/2016/04/20160411-CHN-Wuxi/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "6b340bd1-6e4a-4fd7-8139-2ec45da48e55",
+    "path" : "/2016/04/20160411-CHN-Wuxi/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ec0d17fc-f8f6-442d-bc46-c54d7884ad72",
+    "path" : "/2016/04/20160411-CHN-Wuxi/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "715fc8f1-34d1-417e-b289-1fea595ea033",
+    "path" : "/2016/04/20160411-CHN-Wuxi/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

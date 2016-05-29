@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Sosnowiec",
+    "name" : "Coupe du Monde / Coupe du monde par equipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "925b47e8-84ff-47ec-8466-6a26682295a6",
+    "path" : "/2015/10/20151023-POL-Sosnowiec/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9a66f9ee-9b5c-4952-9cfd-eb0afb4d64a0",
+    "path" : "/2015/10/20151023-POL-Sosnowiec/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0eb69e66-6c7b-4f96-851d-fd3e985176fc",
+    "path" : "/2015/10/20151023-POL-Sosnowiec/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

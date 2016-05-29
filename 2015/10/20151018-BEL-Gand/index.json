@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "BEL",
+    "city" : "Gand",
+    "name" : "Tournoi satellite sabre masculin",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3ef20139-b51f-4d3d-8b2f-16010a5f66de",
+    "path" : "/2015/10/20151018-BEL-Gand/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

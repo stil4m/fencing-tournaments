@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bonn",
+    "name" : "Rheinische Mannschaftsmeisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "bdf479bb-aff4-4c03-b6d8-877dfddf61ca",
+    "path" : "/2015/11/20151117-GER-Bonn/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Reutlingen",
+    "name" : "Achalm-Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "16626045-73c0-45ee-b61a-4c22a56de0df",
+    "path" : "/2015/04/20150418-GER-Reutlingen/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "61707196-9f3c-49ff-8c1f-97a2bd0bbf63",
+    "path" : "/2015/04/20150418-GER-Reutlingen/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "044ca0b6-8b08-4e8f-866c-44373813b31d",
+    "path" : "/2015/04/20150418-GER-Reutlingen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

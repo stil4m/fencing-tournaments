@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Rome",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7a1a81c5-2140-4994-858a-dca6d3b7d7ad",
+    "path" : "/2016/03/20160319-ITA-Rome/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

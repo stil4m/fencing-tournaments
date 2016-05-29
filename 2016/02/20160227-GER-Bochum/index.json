@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bochum",
+    "name" : "Schlägel- und Eisen-Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5cf8f25b-4838-42e4-a630-e1cf359b8fb0",
+    "path" : "/2016/02/20160227-GER-Bochum/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9262de75-7955-4334-9738-5b976fd56e1f",
+    "path" : "/2016/02/20160227-GER-Bochum/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3f591c8b-6918-48ed-b58c-7c2af7744410",
+    "path" : "/2016/02/20160227-GER-Bochum/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "8741826e-fdb6-4eab-9532-4a5cb7859b5a",
+    "path" : "/2016/02/20160227-GER-Bochum/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7c8dc662-aec9-470b-981a-eca425eae836",
+    "path" : "/2016/02/20160227-GER-Bochum/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4259413c-9302-46c7-a5f0-a9a9b7af6d85",
+    "path" : "/2016/02/20160227-GER-Bochum/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

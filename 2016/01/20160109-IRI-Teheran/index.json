@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "IRI",
+    "city" : "Teheran",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2cf46115-e248-4a2b-b947-e708e0942f77",
+    "path" : "/2016/01/20160109-IRI-Teheran/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

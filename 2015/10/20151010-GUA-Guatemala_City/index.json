@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GUA",
+    "city" : "Guatemala City",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5f8bf10c-df4c-4718-8046-e126f5a3e858",
+    "path" : "/2015/10/20151010-GUA-Guatemala_City/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "87bc26ac-ef5c-4533-ba2f-6ec62f3a10af",
+    "path" : "/2015/10/20151010-GUA-Guatemala_City/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

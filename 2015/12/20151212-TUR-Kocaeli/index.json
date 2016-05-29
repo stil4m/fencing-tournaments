@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Kocaeli",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3c6b5473-4165-4fce-9075-efed9b83e807",
+    "path" : "/2015/12/20151212-TUR-Kocaeli/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a6002d02-c46f-4b36-8e04-26a970f99c70",
+    "path" : "/2015/12/20151212-TUR-Kocaeli/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

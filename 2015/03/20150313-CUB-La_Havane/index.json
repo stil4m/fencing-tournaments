@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CUB",
+    "city" : "La Havane",
+    "name" : "Grand Prix",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e6b44899-a9f7-48fb-a2f1-cfdeb2c4cf08",
+    "path" : "/2015/03/20150313-CUB-La_Havane/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5af6c110-1f5a-4a28-aefc-4f37441f7385",
+    "path" : "/2015/03/20150313-CUB-La_Havane/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

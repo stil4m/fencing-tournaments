@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Turin",
+    "name" : "Grand Prix",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 29
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "892dbd26-f03f-454f-a0ff-11c92cb0cdcc",
+    "path" : "/2015/11/20151127-ITA-Turin/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ec811e8b-dd03-45fc-9242-ec54a6bec00c",
+    "path" : "/2015/11/20151127-ITA-Turin/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

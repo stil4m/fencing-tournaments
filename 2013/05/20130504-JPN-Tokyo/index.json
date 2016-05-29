@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "JPN",
+    "city" : "Tokyo",
+    "name" : "Prince Takamado WC",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f56be911-55fb-4691-9c9a-3578902dba56",
+    "path" : "/2013/05/20130504-JPN-Tokyo/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

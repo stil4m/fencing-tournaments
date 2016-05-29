@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "SLO",
+    "city" : "Maribor",
+    "name" : "Championnats d’Europe juniors-Team / Championnats d’Europe juniors",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d85607ab-7368-467c-ae4b-6ceb76263b8d",
+    "path" : "/2015/03/20150301-SLO-Maribor/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "717976d0-38e6-4923-898a-b025f1fc4749",
+    "path" : "/2015/03/20150301-SLO-Maribor/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7e17afe8-6d4f-49cc-acd6-ae54be683220",
+    "path" : "/2015/03/20150301-SLO-Maribor/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ecd39cf8-5a1d-4d85-8e8c-2392e31f1a06",
+    "path" : "/2015/03/20150301-SLO-Maribor/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1a66086c-58f6-429a-86bd-acb427321327",
+    "path" : "/2015/03/20150301-SLO-Maribor/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "655db925-d376-4ca7-816b-b9136c79f938",
+    "path" : "/2015/03/20150301-SLO-Maribor/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "42b8c789-3c4f-4f7c-844b-4aba785a617d",
+    "path" : "/2015/03/20150301-SLO-Maribor/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c13d850e-2a07-47df-8584-03619ed7dd2e",
+    "path" : "/2015/03/20150301-SLO-Maribor/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3a5da137-45e9-46b0-ba44-5563d3e0dbff",
+    "path" : "/2015/03/20150301-SLO-Maribor/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

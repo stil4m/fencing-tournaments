@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bonn",
+    "name" : "Löwe von Bonn",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "24bb94b3-b24c-45b8-b823-7f91fe732a4a",
+    "path" : "/2016/02/20160205-GER-Bonn/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8ac64926-d33a-4678-b35d-060392a15a68",
+    "path" : "/2016/02/20160205-GER-Bonn/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

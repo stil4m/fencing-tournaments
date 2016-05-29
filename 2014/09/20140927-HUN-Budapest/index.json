@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Coupe Heracles Junior / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "bf682a22-72b9-4fc9-8a6f-4480968f23b6",
+    "path" : "/2014/09/20140927-HUN-Budapest/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "256581e4-f7ad-4fea-b467-58c1634b0b20",
+    "path" : "/2014/09/20140927-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "29f79d1d-d5e1-47e2-b47c-ac7202742776",
+    "path" : "/2014/09/20140927-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

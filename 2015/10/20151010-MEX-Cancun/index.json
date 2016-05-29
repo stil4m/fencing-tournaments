@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "MEX",
+    "city" : "Cancun",
+    "name" : "Coupe du Monde / Tournoi satellite / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "133cfb28-8308-416d-9149-53b553a1ae18",
+    "path" : "/2015/10/20151010-MEX-Cancun/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "602395e0-2599-484d-82e4-412e46761583",
+    "path" : "/2015/10/20151010-MEX-Cancun/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "dd9192a4-679e-4441-9413-a0b4f03d00b5",
+    "path" : "/2015/10/20151010-MEX-Cancun/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

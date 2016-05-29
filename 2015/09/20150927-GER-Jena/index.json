@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Jena",
+    "name" : "Internationales Juniorinnen Turnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3f6c7cdb-0deb-47a5-91d8-5d616586ad7f",
+    "path" : "/2015/09/20150927-GER-Jena/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

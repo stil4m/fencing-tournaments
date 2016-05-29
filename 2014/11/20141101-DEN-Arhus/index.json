@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Arhus",
+    "name" : "Tournoi satellite épée masculine / Tournoi satellite épée féminine",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2d60bef5-a3eb-43a5-b2c5-a157fd85a156",
+    "path" : "/2014/11/20141101-DEN-Arhus/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0e2b525f-0703-4412-a08f-83ccad879da5",
+    "path" : "/2014/11/20141101-DEN-Arhus/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

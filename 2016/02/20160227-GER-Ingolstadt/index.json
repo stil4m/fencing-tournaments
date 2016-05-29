@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Ingolstadt",
+    "name" : "Ludwig-Meider-Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "bd337b29-1282-4319-8fd1-8d169a159c9c",
+    "path" : "/2016/02/20160227-GER-Ingolstadt/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "40dbee72-d944-4f68-9156-169d72b3012b",
+    "path" : "/2016/02/20160227-GER-Ingolstadt/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c5cbc407-a014-49e5-8300-7b66ec82e4e5",
+    "path" : "/2016/02/20160227-GER-Ingolstadt/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "11461196-d90b-4cd6-8457-2b6ea72fdd46",
+    "path" : "/2016/02/20160227-GER-Ingolstadt/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

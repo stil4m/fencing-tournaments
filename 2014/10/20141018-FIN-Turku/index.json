@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Turku",
+    "name" : "Kupittaa tournament, épée masculine / Kupittaa tournament, épée féminine",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a1e986bf-70b5-4349-885f-8d8ac556d8d3",
+    "path" : "/2014/10/20141018-FIN-Turku/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5ad08d8d-55a6-4961-8df2-97d55918bfcc",
+    "path" : "/2014/10/20141018-FIN-Turku/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

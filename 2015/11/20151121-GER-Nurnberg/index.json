@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Nürnberg",
+    "name" : "Deutsche Junioren Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "15dd5dfd-ed6e-4023-931f-7741acdc8cb1",
+    "path" : "/2015/11/20151121-GER-Nurnberg/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "37448d53-03c6-4a33-8e35-8499e5dbe2a7",
+    "path" : "/2015/11/20151121-GER-Nurnberg/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "fbea3b6a-b7fe-41b6-bbb1-0aad5d26d589",
+    "path" : "/2015/11/20151121-GER-Nurnberg/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5573ab62-1c99-4811-be7e-6ef7e0f31091",
+    "path" : "/2015/11/20151121-GER-Nurnberg/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

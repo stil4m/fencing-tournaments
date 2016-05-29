@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Bursa",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "8f4f400d-1b42-41aa-885d-2d8bb18937fe",
+    "path" : "/2014/10/20141012-TUR-Bursa/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

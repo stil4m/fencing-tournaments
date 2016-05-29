@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "KOR",
+    "city" : "Suwon City",
+    "name" : "Championnats asiatiques",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "67523518-8f9b-4a95-9fb7-6ce24e8a712a",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c63aa38c-f1dc-4f93-838b-ed466c7725b5",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e4235808-0628-4b91-8970-69f0b56862fa",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f6c686a2-dc7b-450f-bf73-1dd56efcd757",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cb7b6d66-872a-4cff-90f2-61ea9b860cb0",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "285f3dfe-d87a-4333-b184-ed5cd503861b",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "d6c3900a-c17a-4296-8a48-860c6dbdaf60",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "54636917-bdd0-4be4-a1d0-5450fe8e48e8",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "bdc0329f-4c23-4ad3-9d88-3729bf640709",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "02257e34-f211-4b54-ac56-f2c6c2517c6f",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bf7441ad-9b9a-4fbf-99b4-1d35cbea8302",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "50a0d0dc-685f-4f01-bc64-e52e3af2ebcf",
+    "path" : "/2014/07/20140702-KOR-Suwon_City/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

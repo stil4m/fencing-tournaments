@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SRB",
+    "city" : "Belgrade",
+    "name" : "Belgrade Trophy",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3add5358-eef6-4a9a-abdc-bc951caa015b",
+    "path" : "/2013/11/20131130-SRB-Belgrade/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "62412aea-de57-4866-a7a3-8f1efbb07fc9",
+    "path" : "/2013/11/20131130-SRB-Belgrade/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

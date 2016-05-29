@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "FIN",
+    "city" : "Espoo - Helsinki suburb",
+    "name" : "Young Lions World Cup",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "43271544-0d58-4879-b1dd-6b200d2516ed",
+    "path" : "/2013/11/20131130-FIN-Espoo_-_Helsinki_suburb/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

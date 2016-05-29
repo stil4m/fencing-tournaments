@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "SIN",
+    "city" : "Singapore",
+    "name" : "Championnats asiatiques",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 30
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "31b05057-fd68-466a-a229-d5e90f04d1e5",
+    "path" : "/2015/06/20150625-SIN-Singapore/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5a3911d5-21ae-4170-a046-9cea9bb54f7e",
+    "path" : "/2015/06/20150625-SIN-Singapore/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ca331b17-8917-415b-8b0e-7461068b3466",
+    "path" : "/2015/06/20150625-SIN-Singapore/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "18a96dd8-04e3-4e4b-9f7f-48b6acb17170",
+    "path" : "/2015/06/20150625-SIN-Singapore/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "abe23487-84d9-4b45-8e75-cbd805e69aa9",
+    "path" : "/2015/06/20150625-SIN-Singapore/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7ab26f6d-89da-40eb-9666-3f8c0db4f202",
+    "path" : "/2015/06/20150625-SIN-Singapore/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7b21c058-7a90-42d1-9f02-c761e62f80ec",
+    "path" : "/2015/06/20150625-SIN-Singapore/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2547bd79-0a59-4a14-83c2-57d923f3ebb0",
+    "path" : "/2015/06/20150625-SIN-Singapore/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "6952dc5c-c303-4aa9-8b05-60e1c7a90ad7",
+    "path" : "/2015/06/20150625-SIN-Singapore/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "149ce917-44f8-4446-ae15-468e861c6982",
+    "path" : "/2015/06/20150625-SIN-Singapore/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c6e97db2-f710-4d9c-961a-51fa8aa592fc",
+    "path" : "/2015/06/20150625-SIN-Singapore/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

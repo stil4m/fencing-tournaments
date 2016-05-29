@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Osnabrück",
+    "name" : "Trophäe der Friedensstadt Osnabrück",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c28d5148-a1b4-4917-aabe-fbfd16b5a150",
+    "path" : "/2015/10/20151004-GER-Osnabruck/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Paris",
+    "name" : "Challenge SNCF Réseau",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e7230b3c-0612-4db9-8b04-537eb139d207",
+    "path" : "/2016/05/20160520-FRA-Paris/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "aca7d257-0ea1-4353-bb1b-cbf2bcc8e320",
+    "path" : "/2016/05/20160520-FRA-Paris/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

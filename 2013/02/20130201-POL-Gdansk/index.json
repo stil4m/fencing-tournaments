@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Gdansk",
+    "name" : "The Artus Court PKO BP",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cfb0292b-48c7-463a-96fa-845456e8557e",
+    "path" : "/2013/02/20130201-POL-Gdansk/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

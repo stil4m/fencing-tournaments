@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Padoue",
+    "name" : "Trophée Luxardo / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "dec95311-7da4-4d09-ab3d-55f4ceffba51",
+    "path" : "/2014/02/20140214-ITA-Padoue/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9697a538-fdbd-42bf-9a2f-64be5406fa69",
+    "path" : "/2014/02/20140214-ITA-Padoue/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

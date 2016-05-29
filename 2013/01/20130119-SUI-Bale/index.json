@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Bâle",
+    "name" : "Trophée Maître Roger Nigon",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "681ce9a4-9c93-40fe-902d-566a4bc4e506",
+    "path" : "/2013/01/20130119-SUI-Bale/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

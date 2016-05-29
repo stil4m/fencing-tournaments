@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "KSA",
+    "city" : "Dammam",
+    "name" : "Championnats asiatiques juniors / Championnats asiatiques juniors-Team",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b10d6038-28cc-49d4-84e5-fc8ab47de3ec",
+    "path" : "/2016/02/20160222-KSA-Dammam/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f21869fa-eadf-4959-88cd-aa60788a8568",
+    "path" : "/2016/02/20160222-KSA-Dammam/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "700de38f-e180-4c70-be70-a6363427109b",
+    "path" : "/2016/02/20160222-KSA-Dammam/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "439928d8-ecbc-4cbe-a521-385b4df755ed",
+    "path" : "/2016/02/20160222-KSA-Dammam/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

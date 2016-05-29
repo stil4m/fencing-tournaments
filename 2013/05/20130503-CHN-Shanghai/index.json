@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CHN",
+    "city" : "Shanghai",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "539a7d3d-c213-428d-ada6-a26cac9afa11",
+    "path" : "/2013/05/20130503-CHN-Shanghai/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "398cb997-02c7-447d-99cb-daa31ec2db1e",
+    "path" : "/2013/05/20130503-CHN-Shanghai/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

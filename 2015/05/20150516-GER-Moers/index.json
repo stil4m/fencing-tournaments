@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Moers",
+    "name" : "2015 Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "473bb49e-f2df-4a35-9468-f221b540ef65",
+    "path" : "/2015/05/20150516-GER-Moers/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0a287022-d9a6-4e38-aab4-145cf9585a19",
+    "path" : "/2015/05/20150516-GER-Moers/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a92ea3a7-d6fa-487b-b45b-08f86795995c",
+    "path" : "/2015/05/20150516-GER-Moers/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "631d85f4-255c-4dcf-9a23-beb9843fcb70",
+    "path" : "/2015/05/20150516-GER-Moers/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

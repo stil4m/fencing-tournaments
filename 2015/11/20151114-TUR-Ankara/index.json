@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Ankara",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5788efdb-9411-4acc-ad49-613e74af154c",
+    "path" : "/2015/11/20151114-TUR-Ankara/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ea6cfe66-57e5-452f-b099-c802c407154e",
+    "path" : "/2015/11/20151114-TUR-Ankara/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

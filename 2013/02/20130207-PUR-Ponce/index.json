@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "PUR",
+    "city" : "Ponce",
+    "name" : "Championnats Panaméricains Juniors",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "35faa27c-d507-40ba-8ead-776645b73a1b",
+    "path" : "/2013/02/20130207-PUR-Ponce/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d331e929-d051-4419-9f29-49f84207a6da",
+    "path" : "/2013/02/20130207-PUR-Ponce/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e3bf6df2-15e1-40bf-80f7-68ea7634d58e",
+    "path" : "/2013/02/20130207-PUR-Ponce/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2073bf1d-df4f-4dfd-ae22-b28fd3178356",
+    "path" : "/2013/02/20130207-PUR-Ponce/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ccb46550-111c-4656-b5e0-d3512f972d12",
+    "path" : "/2013/02/20130207-PUR-Ponce/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8ead4d8d-faf4-43aa-848a-8db940725e91",
+    "path" : "/2013/02/20130207-PUR-Ponce/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

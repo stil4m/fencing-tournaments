@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Paris",
+    "name" : "Challenge Réseau Ferré de France – trophée Monal",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "fbc3d81c-cd04-4494-a8b6-7b69f9c2c1ea",
+    "path" : "/2014/05/20140502-FRA-Paris/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "83031983-51af-4e81-af43-c49a2a4c8895",
+    "path" : "/2014/05/20140502-FRA-Paris/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 5,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

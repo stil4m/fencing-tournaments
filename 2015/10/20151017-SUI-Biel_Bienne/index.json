@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Biel Bienne",
+    "name" : "Prona Masters Bienne",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2c635c60-e856-4748-b506-d414eccb1bb9",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "40481b21-f278-46e5-b056-99f070d5c0a2",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bab47ef2-fd93-4dc1-9ff6-c2bfbcf8ddd8",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8a208fa1-bb03-4c1a-985e-f071dfb68f49",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0a1bd7ee-c064-448a-ac76-9dcb2c4ba646",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1a48d4c1-b0db-4b1b-9481-492697e4ae0b",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "03008f9f-1e17-4c3a-8192-05cc8e596823",
+    "path" : "/2015/10/20151017-SUI-Biel_Bienne/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

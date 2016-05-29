@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ROU",
+    "city" : "Timisoara",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9b715f74-7ab1-40b0-8bd8-c61796da20c6",
+    "path" : "/2014/09/20140927-ROU-Timisoara/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 9,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

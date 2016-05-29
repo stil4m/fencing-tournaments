@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GRE",
+    "city" : "Thessaloniki",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "88dabc19-4715-4712-a0e9-dbc494d1008e",
+    "path" : "/2014/10/20141018-GRE-Thessaloniki/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

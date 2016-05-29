@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Berne",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3396516b-d4bd-4064-8384-00b91d5f8d1a",
+    "path" : "/2014/10/20141024-SUI-Berne/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8507e4b3-705c-40a9-a8c9-0b939f90629c",
+    "path" : "/2014/10/20141024-SUI-Berne/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

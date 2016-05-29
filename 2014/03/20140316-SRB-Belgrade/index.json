@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "SRB",
+    "city" : "Belgrade",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "dc9b6a32-7aa8-4590-9e88-8bb8374c3690",
+    "path" : "/2014/03/20140316-SRB-Belgrade/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

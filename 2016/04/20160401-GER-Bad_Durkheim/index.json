@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bad Dürkheim",
+    "name" : "Deutsche Seniorenmeisterschaften",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "bfe315a2-ebd6-4f7b-8ce6-b08375228d0b",
+    "path" : "/2016/04/20160401-GER-Bad_Durkheim/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "69f12bb5-b94c-4fbc-882c-8fa879300412",
+    "path" : "/2016/04/20160401-GER-Bad_Durkheim/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "240e3e8f-08a6-453d-b7f3-8c11abb09881",
+    "path" : "/2016/04/20160401-GER-Bad_Durkheim/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "46548054-0a7a-4881-bef6-293c5db90ee5",
+    "path" : "/2016/04/20160401-GER-Bad_Durkheim/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7e0eb784-38d0-4953-834e-320b559851a8",
+    "path" : "/2016/04/20160401-GER-Bad_Durkheim/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "982cff54-76de-4c7c-b4e9-772748491a92",
+    "path" : "/2016/04/20160401-GER-Bad_Durkheim/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

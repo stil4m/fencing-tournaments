@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "IRI",
+    "city" : "Teheran",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ff24afe7-eede-4560-b38a-b63651a15dc9",
+    "path" : "/2013/12/20131214-IRI-Teheran/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "579f124a-c3d0-4da5-b7ba-5c469bbbfdc4",
+    "path" : "/2013/12/20131214-IRI-Teheran/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 12,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

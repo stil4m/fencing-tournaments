@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bonn",
+    "name" : "Löwe von Bonn / Coupe du Monde par équipes Löwe von Bonn",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4622615d-b6f1-4c9d-b0b2-259722945bd6",
+    "path" : "/2015/02/20150206-GER-Bonn/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "81b94dcc-2941-4f17-9e44-4cfbbfbbbc30",
+    "path" : "/2015/02/20150206-GER-Bonn/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Dourdan",
+    "name" : "Coupe de la Ville de Dourdan / Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "46b1c9f7-e5d4-4b5f-85ab-d05a9d9e9bbc",
+    "path" : "/2014/01/20140118-FRA-Dourdan/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a95c9ec2-6a2e-4197-b7b9-50ac506b5e08",
+    "path" : "/2014/01/20140118-FRA-Dourdan/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

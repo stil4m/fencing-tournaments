@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GEO",
+    "city" : "Tbilisi",
+    "name" : "Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5b61eb55-e975-40f3-ba59-9c07ca8b2c35",
+    "path" : "/2015/10/20151011-GEO-Tbilisi/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

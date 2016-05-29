@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "MEX",
+    "city" : "Cancun",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "70efd59a-50a4-4468-9778-2437348516f6",
+    "path" : "/2014/12/20141216-MEX-Cancun/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

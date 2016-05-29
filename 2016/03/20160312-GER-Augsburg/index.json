@@ -1,0 +1,214 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Augsburg",
+    "name" : "Bayerische Degen Meisterschaften",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "1b02c3bf-a9e2-4f13-ada2-70dde983198d",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ae3c9c4-798f-46ce-b66e-cc9835a96684",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7ef5b81a-4aa2-495c-b78b-9bedf57e4f9d",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ee513a8-94c3-4092-a193-fbdd8bcdc998",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b9d3bd44-e7b0-4f49-9638-dbfe21c7c099",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4d85e7b3-5d29-4650-a83b-00dc7d2fba55",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e957fa69-3ebe-4787-9563-7a5a1895ce9e",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "81da947e-e02e-4ca6-a154-1a1e58261e50",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "59342adf-fdd9-46b0-90f4-ab939dac11a4",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5df9674b-3343-4b85-b78c-8f2d080e87e6",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "13744b5e-a9f8-4d8c-bde1-634cdcc8e13c",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a66e36e6-d0da-4d79-9667-87e90a05e2e7",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bd6f80f7-b2ad-4bdb-afd4-5d95265cc962",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "779e39c2-9720-4e43-93ce-dc6a8cda3032",
+    "path" : "/2016/03/20160312-GER-Augsburg/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

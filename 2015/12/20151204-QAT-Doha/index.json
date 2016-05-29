@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "QAT",
+    "city" : "Doha",
+    "name" : "Grand Prix du Qatar 2015",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e9f156db-cb2e-4a56-bd02-d1ee4bce3954",
+    "path" : "/2015/12/20151204-QAT-Doha/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0ac9e201-d07b-4fd5-980f-e2941bf77650",
+    "path" : "/2015/12/20151204-QAT-Doha/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

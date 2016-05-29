@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Aix-en-Provence",
+    "name" : "Challenge Licciardi / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "438afdc7-8e81-4917-9604-f0a6c333a8d6",
+    "path" : "/2015/01/20150131-FRA-Aix-en-Provence/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 2,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5dddf3f0-e581-445b-908b-37c8b8228203",
+    "path" : "/2015/01/20150131-FRA-Aix-en-Provence/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 31
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

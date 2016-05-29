@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Segovia",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9b54cf4b-8442-4d09-be11-5aed890125ff",
+    "path" : "/2015/01/20150110-ESP-Segovia/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

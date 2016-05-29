@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ISR",
+    "city" : "Maalot",
+    "name" : "Coupe de la Paix",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "884b8f72-9ae9-4ed2-9d0b-e35572ebf2e9",
+    "path" : "/2013/02/20130216-ISR-Maalot/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

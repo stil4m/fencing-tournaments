@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "NED",
+    "city" : "Amsterdam",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0a7a7ad9-32e2-4c69-90b7-f0c8b676a038",
+    "path" : "/2015/11/20151108-NED-Amsterdam/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "JOR",
+    "city" : "Amman",
+    "name" : "Championnats asiatiques juniors",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c00d7ab1-873a-463c-a6c1-f95cfd7dd9ac",
+    "path" : "/2014/03/20140312-JOR-Amman/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b55948b6-4550-483f-8765-cc0c375f628c",
+    "path" : "/2014/03/20140312-JOR-Amman/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "be836a6b-3fd5-4db6-8e59-34a65363ce8b",
+    "path" : "/2014/03/20140312-JOR-Amman/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e4def17c-6e74-4fcc-8301-1f2c332600fa",
+    "path" : "/2014/03/20140312-JOR-Amman/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "117f409b-2e8a-4d9c-9400-8b3b4db6e4dd",
+    "path" : "/2014/03/20140312-JOR-Amman/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d7297517-a057-4cf3-8dd5-d3ceacc65162",
+    "path" : "/2014/03/20140312-JOR-Amman/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GRE",
+    "city" : "Athen",
+    "name" : "Coupe Akropolis",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 29
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 31
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d970b636-b6ac-4599-b98f-b9bf6b365acb",
+    "path" : "/2016/01/20160129-GRE-Athen/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f528de1d-4985-415a-9c2a-b1f2a29ed72e",
+    "path" : "/2016/01/20160129-GRE-Athen/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Göppingen",
+    "name" : "European U23 Circuit",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "459c8c9c-6da1-4503-a3ff-82a7a2060bb2",
+    "path" : "/2016/02/20160220-GER-Goppingen/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

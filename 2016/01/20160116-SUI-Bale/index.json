@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Bâle",
+    "name" : "Trophée Maître Roger Nigon / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "dd1b2649-dc14-40bd-915c-e61978a71814",
+    "path" : "/2016/01/20160116-SUI-Bale/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cfdbda25-e510-496d-9566-19086a07104a",
+    "path" : "/2016/01/20160116-SUI-Bale/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

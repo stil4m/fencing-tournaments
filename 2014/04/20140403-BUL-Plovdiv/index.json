@@ -1,0 +1,256 @@
+{
+  "eventInformation" : {
+    "country" : "BUL",
+    "city" : "Plovdiv",
+    "name" : "Champ du monde juniors-cadets",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ddd3e696-04d8-48e9-bb9e-227b8f330541",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7c25c5cd-8200-41aa-8a5c-cacf99e2f285",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "66f5bf7d-a72b-4be5-8398-c69664f1271d",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3ac28d27-5a2b-4af3-9025-5b5b1ba17aa6",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f23b359c-4d40-48ce-b0a8-13b7bcc571d1",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7e0a35fe-f385-4c6a-b99e-6366aabd736c",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "eed432d7-22dc-42f7-bd5b-48f7d4741a40",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9de1d875-5630-40b8-b05c-67cad0b5eabe",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e722ff72-3d18-4741-a6b6-6583fe4d5521",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "74d538c8-5526-4016-8366-dc8602b9190b",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f0409124-79b5-4146-a313-31d9abbf7b62",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "fa514817-ead9-4063-babb-c26564e2b054",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "65158941-265b-431e-86b6-9d155ed37230",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "58c01e76-df36-439e-a01c-2e3e2f49052d",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "98818115-1c4d-4ac8-aa86-dbd1db731253",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "67f53d42-7b93-45d0-b3c3-c81fc9d06b5b",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "842514ca-e3b1-4a8b-9f3e-d42ffe6f6c08",
+    "path" : "/2014/04/20140403-BUL-Plovdiv/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 4,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

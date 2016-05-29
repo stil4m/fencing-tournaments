@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GBR",
+    "city" : "London",
+    "name" : "British Fencing Championships 2016",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "01994503-4a53-41f6-a1ba-3ee9c0ba4af2",
+    "path" : "/2016/04/20160416-GBR-London/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f991a9ef-5086-4722-b484-e85ee82a2417",
+    "path" : "/2016/04/20160416-GBR-London/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "97024f0a-34f2-4dfc-80b9-eb3746d04565",
+    "path" : "/2016/04/20160416-GBR-London/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "622b949a-f987-4119-a8ef-1baf16cabc5e",
+    "path" : "/2016/04/20160416-GBR-London/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "49f77be6-e61a-4a39-8a07-3742dab84e21",
+    "path" : "/2016/04/20160416-GBR-London/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e5037423-afee-4349-b049-4e986c0a9f52",
+    "path" : "/2016/04/20160416-GBR-London/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

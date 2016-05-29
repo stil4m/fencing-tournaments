@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "CRC",
+    "city" : "San José",
+    "name" : "Championnats Panaméricains",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "deff34c6-95be-43b4-b730-41af97869cc1",
+    "path" : "/2014/06/20140601-CRC-San_Jose/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b5806311-9915-4309-b947-c8149f1b5727",
+    "path" : "/2014/06/20140601-CRC-San_Jose/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "5b42ed63-826c-4379-8a24-f707df1c24c6",
+    "path" : "/2014/06/20140601-CRC-San_Jose/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ca97a41d-93e1-4a56-bb97-ba7c7790cb20",
+    "path" : "/2014/06/20140601-CRC-San_Jose/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f550524e-bc15-4c02-a351-8a2283698e90",
+    "path" : "/2014/06/20140601-CRC-San_Jose/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9dbc28b4-4dc6-4b5b-b9ea-457336391a43",
+    "path" : "/2014/06/20140601-CRC-San_Jose/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2b057bf0-8e78-44bd-afd1-b803c684778d",
+    "path" : "/2014/06/20140601-CRC-San_Jose/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "480cc548-09a4-4546-a5b6-88cecda22247",
+    "path" : "/2014/06/20140601-CRC-San_Jose/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "234b2cf6-8bd3-40f5-a534-27430dee0a9d",
+    "path" : "/2014/06/20140601-CRC-San_Jose/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c9d6987a-d83b-4a5a-b54c-7e8a89f398f8",
+    "path" : "/2014/06/20140601-CRC-San_Jose/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d888b57a-a0cd-48df-a42e-2606a3ccc978",
+    "path" : "/2014/06/20140601-CRC-San_Jose/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "71ca7803-f2de-4521-8e98-4822d13adb62",
+    "path" : "/2014/06/20140601-CRC-San_Jose/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 6,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

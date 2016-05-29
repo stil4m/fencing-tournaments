@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "RUS",
+    "city" : "St-Petersbourg",
+    "name" : "Fleuret de St-Petersbour / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "71e37521-32c6-44f3-99f8-2cb97fd05122",
+    "path" : "/2015/05/20150501-RUS-St-Petersbourg/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "749346a7-da16-48a6-b474-96508cf1bc40",
+    "path" : "/2015/05/20150501-RUS-St-Petersbourg/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

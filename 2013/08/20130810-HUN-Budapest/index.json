@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Championnats du Monde",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 10
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "44e77132-e6c5-4971-9d78-4d45c2900dd6",
+    "path" : "/2013/08/20130810-HUN-Budapest/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e6197291-3faa-446b-ba28-58dc87f6f531",
+    "path" : "/2013/08/20130810-HUN-Budapest/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b731c253-573f-4118-aded-0b2a20145403",
+    "path" : "/2013/08/20130810-HUN-Budapest/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "74ab7c51-3238-4dd7-9ecb-0d36dcfd02cd",
+    "path" : "/2013/08/20130810-HUN-Budapest/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "54a0cc09-ca9f-4fea-bad0-33c4691320b8",
+    "path" : "/2013/08/20130810-HUN-Budapest/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8d6467de-cf12-47a1-9fbd-22a4fb5563b6",
+    "path" : "/2013/08/20130810-HUN-Budapest/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 8,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

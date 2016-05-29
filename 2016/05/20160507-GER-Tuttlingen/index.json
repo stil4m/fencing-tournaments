@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Tuttlingen",
+    "name" : "Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "bc431a2b-3f7c-41b3-a908-b1af78033761",
+    "path" : "/2016/05/20160507-GER-Tuttlingen/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e5fd201a-05a4-4c60-b3c1-d37037b36b70",
+    "path" : "/2016/05/20160507-GER-Tuttlingen/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

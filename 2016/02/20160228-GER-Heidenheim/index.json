@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Hellenstein-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "4047319f-c49a-4dad-b6e9-5d19d68d65a4",
+    "path" : "/2016/02/20160228-GER-Heidenheim/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a499661e-9e1d-431b-9e4f-11cad9afbfc9",
+    "path" : "/2016/02/20160228-GER-Heidenheim/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

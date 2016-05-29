@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Antalya",
+    "name" : "Tournoi international / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e2d0244c-3b89-4682-a4ad-070488843599",
+    "path" : "/2013/03/20130315-TUR-Antalya/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0fb998cc-a49e-4af8-9543-0993626d5e9b",
+    "path" : "/2013/03/20130315-TUR-Antalya/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

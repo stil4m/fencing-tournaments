@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "JPN",
+    "city" : "Tokyo",
+    "name" : "Prince Takamodo WC / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "527f3998-db18-4de4-983a-5ff1471c6847",
+    "path" : "/2014/11/20141107-JPN-Tokyo/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "74a1ac47-da28-44da-8c94-bd58d25ca647",
+    "path" : "/2014/11/20141107-JPN-Tokyo/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 11,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

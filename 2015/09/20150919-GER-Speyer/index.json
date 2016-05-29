@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Speyer",
+    "name" : "Pokalturnier um die Salierkrone",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "86eac29c-4e2b-45f7-85be-4a675e2e481b",
+    "path" : "/2015/09/20150919-GER-Speyer/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8420b573-308d-4323-ade3-b7db8bb1c52e",
+    "path" : "/2015/09/20150919-GER-Speyer/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0492a45f-63a8-4161-a8d0-07e4ac3b7df2",
+    "path" : "/2015/09/20150919-GER-Speyer/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7404e9fd-37eb-45ed-9087-b3ecdadcd804",
+    "path" : "/2015/09/20150919-GER-Speyer/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f712e960-8ec4-42ae-a0fd-f5f9d79216a4",
+    "path" : "/2015/09/20150919-GER-Speyer/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8417f09c-e05c-42e9-b919-3d4d2e9cbc97",
+    "path" : "/2015/09/20150919-GER-Speyer/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

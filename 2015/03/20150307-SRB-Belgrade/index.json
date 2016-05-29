@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SRB",
+    "city" : "Belgrade",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5f0223da-a05c-4c54-ba1f-0fc4bd801a5a",
+    "path" : "/2015/03/20150307-SRB-Belgrade/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "bdb335f1-86f1-4df3-80fb-ca8bce50de37",
+    "path" : "/2015/03/20150307-SRB-Belgrade/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

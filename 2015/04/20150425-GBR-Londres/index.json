@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GBR",
+    "city" : "Londres",
+    "name" : "Tournoi satellite / Cole Cup",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a3040d4e-6ae1-454d-a474-6f2f8d499c3f",
+    "path" : "/2015/04/20150425-GBR-Londres/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "02052a20-e58e-4648-a7e1-62712ffa849c",
+    "path" : "/2015/04/20150425-GBR-Londres/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "dd3e3f00-98d7-453f-8ad2-da5ee15fbe1d",
+    "path" : "/2015/04/20150425-GBR-Londres/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

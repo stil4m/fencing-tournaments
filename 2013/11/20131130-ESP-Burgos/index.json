@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Burgos",
+    "name" : "Ciudad de Burgos",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3a2e97bd-086a-4c85-8451-7950ff28b025",
+    "path" : "/2013/11/20131130-ESP-Burgos/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,214 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Hoffnungsthal",
+    "name" : "Int. Jugendturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "15609b17-5dd2-4b22-952b-cfe85b2feadc",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c38b4eb6-f2bc-4808-b948-659339b608ec",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f427e3e2-dfb0-4a69-93ee-b00a4554d716",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3112dea8-f828-4dce-ba04-0949d636e03a",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c2064345-2895-40d9-b3d9-df2f9d1ab811",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cb2a70f0-72e4-4d11-9f68-18cf914b3fd2",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3fe7d55b-0416-42a3-9945-31fbc626682d",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ec31ac81-ba1e-40fa-a685-a2e6d2d4de68",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4271a722-5bfb-4bee-a324-b995a43fd307",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2cda686c-a136-46da-ba7a-7e7ce984061a",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3d789562-01d2-4387-8ba6-0980820f1833",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3cf9d1e0-3380-45da-bdcd-bab50f89a1eb",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "965c0d0f-76f5-4052-a1b8-c44be5f08fc6",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bc6c6b25-a077-40d3-a96a-c8ee15b57828",
+    "path" : "/2015/09/20150919-GER-Hoffnungsthal/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Leverkusen",
+    "name" : "Deutsche Junioren Meisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "def34874-0057-427f-ac4b-e3d1bb89a53a",
+    "path" : "/2015/04/20150425-GER-Leverkusen/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b1c2588a-18ba-4c8c-bd7d-aaa293c7fa17",
+    "path" : "/2015/04/20150425-GER-Leverkusen/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "770eb83d-4bb5-4fd5-ae1c-47dfb8a33380",
+    "path" : "/2015/04/20150425-GER-Leverkusen/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bf1b29b5-559f-454c-af60-33f556a00114",
+    "path" : "/2015/04/20150425-GER-Leverkusen/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 4,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

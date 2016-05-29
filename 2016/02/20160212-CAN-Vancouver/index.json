@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CAN",
+    "city" : "Vancouver",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "38422c3e-2fca-4aeb-9ea9-efd9f14322b7",
+    "path" : "/2016/02/20160212-CAN-Vancouver/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "78abc92c-e95b-4f71-80ef-557e535c0934",
+    "path" : "/2016/02/20160212-CAN-Vancouver/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

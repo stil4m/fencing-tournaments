@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Terrassa (Barcelona)",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2db683fe-99ef-4d59-a8ac-ca5e300117a9",
+    "path" : "/2014/02/20140201-ESP-Terrassa_(Barcelona)/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

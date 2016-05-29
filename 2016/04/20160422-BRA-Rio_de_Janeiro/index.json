@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BRA",
+    "city" : "Rio de Janeiro",
+    "name" : "Grand Prix",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "af908369-16f2-4543-b1ab-186bb88a6823",
+    "path" : "/2016/04/20160422-BRA-Rio_de_Janeiro/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9e8bbf4b-eaf9-4214-8d07-a7fcbd14ffd5",
+    "path" : "/2016/04/20160422-BRA-Rio_de_Janeiro/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

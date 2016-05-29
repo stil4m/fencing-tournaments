@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Westend Grand Prix \"in Memoriam Sakovics Jozsef\"",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "956f1592-86fd-4fd8-b716-d21fa40c92e5",
+    "path" : "/2014/02/20140201-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

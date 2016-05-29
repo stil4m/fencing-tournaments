@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "SVK",
+    "city" : "Bratislava",
+    "name" : "Mémorial de Martinengo / Memorial de Martinengo",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0cd73d07-6a82-45d8-b7b6-158805147ba1",
+    "path" : "/2013/11/20131116-SVK-Bratislava/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ab1cc5e-1493-4d56-856f-1d4e456ad478",
+    "path" : "/2013/11/20131116-SVK-Bratislava/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f4c34dae-790c-438d-a1cc-db48f71ee392",
+    "path" : "/2013/11/20131116-SVK-Bratislava/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

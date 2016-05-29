@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Stralsund",
+    "name" : "Int. Stralsunder Degenturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6bc01c00-08ea-4b0c-a0c2-d535c8f9fb8f",
+    "path" : "/2015/07/20150725-GER-Stralsund/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "044ef0f1-687a-42c6-abc1-944fb5a86e5c",
+    "path" : "/2015/07/20150725-GER-Stralsund/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

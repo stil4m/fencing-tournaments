@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "FRA",
+    "city" : "Paris",
+    "name" : "Challenge International de Paris",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f7d614d4-81a0-4baf-b108-40505c133850",
+    "path" : "/2013/01/20130125-FRA-Paris/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e03b76bd-f875-44b0-9b4e-1e9b446bdeef",
+    "path" : "/2013/01/20130125-FRA-Paris/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Turin",
+    "name" : "Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 21
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 22
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7734ecc0-d6a3-4937-8c64-66a15492b961",
+    "path" : "/2014/03/20140321-ITA-Turin/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c2b49491-1ebd-48a9-86a1-bf16b986b54c",
+    "path" : "/2014/03/20140321-ITA-Turin/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

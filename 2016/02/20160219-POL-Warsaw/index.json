@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "POL",
+    "city" : "Warsaw",
+    "name" : "Sabr De Wolodyjowski",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 19
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 21
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "967cb688-a33c-4173-803a-92484c7c220f",
+    "path" : "/2016/02/20160219-POL-Warsaw/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3928e4ab-5e19-4d85-8f19-6935e566f30b",
+    "path" : "/2016/02/20160219-POL-Warsaw/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

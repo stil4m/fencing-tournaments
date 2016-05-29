@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "QAT",
+    "city" : "Doha",
+    "name" : "Grand Prix du Qatar 2013 / World Cup / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cc8d715e-e597-48d7-9883-e24a5ebde315",
+    "path" : "/2013/01/20130118-QAT-Doha/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 21
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "630b520d-4ca8-4e62-bc0c-3ec23a8ffd4a",
+    "path" : "/2013/01/20130118-QAT-Doha/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2f277c96-b976-4649-aba1-3ea7001c4ed4",
+    "path" : "/2013/01/20130118-QAT-Doha/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 1,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

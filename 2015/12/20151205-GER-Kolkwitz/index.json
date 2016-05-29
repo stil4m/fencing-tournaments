@@ -1,0 +1,130 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Kolkwitz",
+    "name" : "Lauermann-Cup",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "96bb4aa8-b58e-4004-b282-e26b770b1332",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "43cd01f0-c757-4912-a630-313715dd7643",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6cda7eba-3b21-4aea-b906-bc3680ec645e",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "200f66d3-d345-4d35-89bd-39541b4bf30e",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e5300b2c-ce85-4d93-97bf-7668ba33471e",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7ed20c77-118c-4c83-a519-29595183897e",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "731d33fc-7887-4240-810a-7205cf22a75a",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8c1fe382-2c13-456c-8108-02f3d6356f7d",
+    "path" : "/2015/12/20151205-GER-Kolkwitz/INDIVIDUAL_MIXED_U9_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 12,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U9",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

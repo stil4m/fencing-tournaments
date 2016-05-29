@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "AUT",
+    "city" : "Mödling",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "93c4bf61-0ff8-49b7-8375-1bdca9ab784f",
+    "path" : "/2016/01/20160109-AUT-Modling/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 1,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

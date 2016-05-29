@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Györ",
+    "name" : "Coupe Heracles Junior",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5572bd46-285c-4497-ba79-c7fa305acf76",
+    "path" : "/2015/09/20150926-HUN-Gyor/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 9,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

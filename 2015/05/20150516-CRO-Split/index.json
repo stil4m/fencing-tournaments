@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "CRO",
+    "city" : "Split",
+    "name" : "Tournoi satellite epee feminine / Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c878bcfe-27b0-4ecc-9526-91188984f704",
+    "path" : "/2015/05/20150516-CRO-Split/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "feda42fc-8645-4ffc-a2fe-345c331763f5",
+    "path" : "/2015/05/20150516-CRO-Split/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

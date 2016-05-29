@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bamberg",
+    "name" : "Bayerische Mannschaftsmeisterschaft",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6902f70d-bf40-4974-813f-f0c98575347c",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d57df80c-d4bb-4945-a5d6-1e00e636d009",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "97d612c6-14b3-4dab-99c6-e8095a335634",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "776b0b9c-0e1e-4f2d-b3e1-1190c86f2b3a",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "327561f5-9200-4f09-928e-3d4552dfb552",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "80394ed9-02fe-4af3-a189-c699f87a1c2e",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "441e21b1-9b3b-48c3-b09f-b96ee7104e25",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e5ac4291-b4e4-43fc-89b3-796de4b6039f",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "07095cc7-e6ef-44bb-9e39-9eb1681cff13",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "15dbc732-cd2f-4035-968b-a91bd1ea171f",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "48302d07-f3f7-4e67-a29f-0ea18b2ce88f",
+    "path" : "/2015/07/20150711-GER-Bamberg/EQUIPE_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

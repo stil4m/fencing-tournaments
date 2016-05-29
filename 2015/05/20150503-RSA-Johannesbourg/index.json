@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "RSA",
+    "city" : "Johannesbourg",
+    "name" : "Coupe du monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "961af7b3-9196-4c98-b0c4-f6c152db3625",
+    "path" : "/2015/05/20150503-RSA-Johannesbourg/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

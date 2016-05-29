@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "SRB",
+    "city" : "Novi Sad",
+    "name" : "European Championships for Cadets",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "d3870d52-6212-4036-9453-515fbb758c84",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1374927b-b44f-4e38-8c00-e9e8fff6ce7f",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "09802fd1-ad2e-4f85-ad31-12cd3bda90c6",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/EQUIPE_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a23f2640-89db-4470-bc1f-9bc4895267cf",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5a8f4e78-81b3-4009-9e5f-8d659ae2d3bd",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3b5ee431-459b-4952-9d51-efc7d62ac61f",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/EQUIPE_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "e57ea323-d4a1-404b-a36e-80f8b202df3f",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "83ef7ff4-5adf-4aac-aaf8-09b84576b1b3",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2322a698-f439-44e7-8785-99a3753a6496",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "23631f8c-df3e-40fd-897c-3d353259f713",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "410c053a-0193-4438-ba23-2fc8bf71dad4",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 29
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "03150d14-c5d1-4a2d-a77c-b93490d820fa",
+    "path" : "/2016/02/20160229-SRB-Novi_Sad/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

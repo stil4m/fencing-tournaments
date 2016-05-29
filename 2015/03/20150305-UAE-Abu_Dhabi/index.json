@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "UAE",
+    "city" : "Abu Dhabi",
+    "name" : "Championnats asiatiques juniors / Championnats asiatiques juniors-Team",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5e714850-593d-45f2-8150-b1a3f8c4791f",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "59c79273-dcc8-41bb-a62c-198456620bc3",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1863da3d-c8e7-412e-a43c-fd481ee9e487",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "c5682845-5010-4385-8309-ad9ebd1647b3",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "405ed15d-f0bf-429a-9842-f94470a4b2d0",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c14d8a9e-25a0-4af2-8b91-1da6a816b511",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "615b9086-4fbd-405a-adaf-a73569e5e5dc",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a04cee99-f84c-4595-9fb1-6d57173bacc2",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "22e83e20-917e-4e9c-b1e4-b26804e2a3ec",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "59324175-cc5f-4b12-8e53-707afefeccdf",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "fd45e279-696a-48b5-b017-5806504cd465",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "fe9e0dc8-11da-4ef7-a41f-639e63f15106",
+    "path" : "/2015/03/20150305-UAE-Abu_Dhabi/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

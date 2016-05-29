@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ISR",
+    "city" : "Maalot",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e90bd792-8326-4a00-9d2c-bfee4c034bd2",
+    "path" : "/2015/05/20150509-ISR-Maalot/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

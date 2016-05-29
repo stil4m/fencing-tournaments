@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhague",
+    "name" : "Tournoi satellite fleuret masculin / Tournoi satellite fleuret féminin",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f698f561-0d88-4594-99b5-ded9f94a0580",
+    "path" : "/2015/05/20150509-DEN-Copenhague/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 10
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "71be9ee4-f554-41a9-92c1-745aec7cbb7e",
+    "path" : "/2015/05/20150509-DEN-Copenhague/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 5,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

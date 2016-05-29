@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "VEN",
+    "city" : "Caracas",
+    "name" : "Coupe du monde / Coupe du monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 9
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 10
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9e4214b4-b599-4487-a4bb-d40ccb096beb",
+    "path" : "/2015/10/20151009-VEN-Caracas/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f1051b28-f595-47fb-b2cb-f2c7b73f652d",
+    "path" : "/2015/10/20151009-VEN-Caracas/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 10,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

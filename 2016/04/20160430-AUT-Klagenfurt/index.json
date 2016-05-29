@@ -1,0 +1,130 @@
+{
+  "eventInformation" : {
+    "country" : "AUT",
+    "city" : "Klagenfurt",
+    "name" : "14. Alpe Adria Jugendturnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "49e3bc6a-5d81-47c0-b127-a16b3a067edc",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "dda35ddb-01b3-4632-9cc2-bf8e994b6a1f",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1a660c78-3a43-40fd-9925-8a2a253e99c2",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a6e1859b-4c6b-4283-8a24-59edc3a6c584",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "109eeecc-1521-4fb3-9fa6-bfc76ad11c06",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3ae947ef-d45e-4849-8ab9-cb1a37c4adc9",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ebb843cf-2ab9-4a12-b0d0-7d47240a729a",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 30
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9f6ed9e4-16db-43dd-90e6-16320fd49b80",
+    "path" : "/2016/04/20160430-AUT-Klagenfurt/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

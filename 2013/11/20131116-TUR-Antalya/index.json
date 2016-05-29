@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "TUR",
+    "city" : "Antalya",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 17
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "82dce85f-0089-475d-a3b2-9934e983c4d4",
+    "path" : "/2013/11/20131116-TUR-Antalya/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6a4157b4-e9dc-4a06-a2e9-b6f99d5b5bcb",
+    "path" : "/2013/11/20131116-TUR-Antalya/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 11,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

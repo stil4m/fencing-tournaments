@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "CUB",
+    "city" : "La Havane",
+    "name" : "Grand Prix / Copa Villa La Habana / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0b4a2ef6-520c-451d-83df-46b0d2d5de57",
+    "path" : "/2013/05/20130523-CUB-La_Havane/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a1558558-3904-498d-a0b3-6f20123e6ffe",
+    "path" : "/2013/05/20130523-CUB-La_Havane/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f7d6a373-88b7-4024-9946-2d3251ca5681",
+    "path" : "/2013/05/20130523-CUB-La_Havane/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 5,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

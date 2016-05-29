@@ -1,0 +1,200 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "Championnats d’Europe juniors / Championnats d’Europe juniors-Team / Gerevich-Kovacs-Karpati Grand Prix for the Mol Cup",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "18fd3e6b-450e-4285-b5b2-769a3327045b",
+    "path" : "/2013/03/20130303-HUN-Budapest/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d1456579-d108-4322-8965-eeb747d9a931",
+    "path" : "/2013/03/20130303-HUN-Budapest/EQUIPE_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ee960c00-c88d-4001-821a-9c723d3e7935",
+    "path" : "/2013/03/20130303-HUN-Budapest/EQUIPE_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0c699cad-e9e7-40f3-ada7-8b17fce240af",
+    "path" : "/2013/03/20130303-HUN-Budapest/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e42f5933-4f09-431d-860f-0556433ebae4",
+    "path" : "/2013/03/20130303-HUN-Budapest/EQUIPE_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a44f46cc-ea94-4364-bb40-5b8037d0c9c2",
+    "path" : "/2013/03/20130303-HUN-Budapest/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "9f65e820-8b8c-4e18-b62d-06a7cffe0fe7",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ab816df3-3cd3-48cc-944a-1b8ab39f82cd",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c9f8f16f-b4b6-455f-baf9-cb25fa202ac6",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "db124bdf-738e-46d5-b905-fda260496380",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "c539468d-e0f0-426f-9bd9-f33bb4ead71d",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "145048c2-9f97-4750-bdd4-28edf44cb29a",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1446bfb9-3a36-47c7-bb1e-d82430fbb57a",
+    "path" : "/2013/03/20130303-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 3,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

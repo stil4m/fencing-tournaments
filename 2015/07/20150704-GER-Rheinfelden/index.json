@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Rheinfelden",
+    "name" : "Offene Südbadische Meisterschaften",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "258d8511-4cff-4003-9b1b-06cf0be725b0",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6c00e947-5785-4204-b752-ef3921c328f9",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d04e1adf-1136-4245-8356-55d10fba08c1",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "86e63709-b86f-4592-9920-d58b339b1f4d",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0c766b4e-017d-4c82-bd76-ee41006fc0f6",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2a68b709-1740-4d6d-be59-d8251e63c64d",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8dc46361-5f97-4608-b22c-06eaa293592e",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1a1f987a-a734-4d08-9da9-0b3b606893a6",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a9e1f190-f8d9-4af8-8798-ee7076e241f1",
+    "path" : "/2015/07/20150704-GER-Rheinfelden/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 7,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

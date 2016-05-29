@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Castrop-Rauxel",
+    "name" : "Castrop-Rauxeler Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "24e21eb2-e281-4c42-a75d-8cafed8447cb",
+    "path" : "/2016/04/20160424-GER-Castrop-Rauxel/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

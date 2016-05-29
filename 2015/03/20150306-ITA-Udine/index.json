@@ -1,0 +1,88 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Udine",
+    "name" : "Alpe Adria / Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 6
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "dd33c4a8-8a99-48c8-af22-36f212f2541e",
+    "path" : "/2015/03/20150306-ITA-Udine/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ef3b9f8f-0332-45ea-8d73-d75da2281b16",
+    "path" : "/2015/03/20150306-ITA-Udine/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "608d9560-aa6f-46cd-9dc2-1c8034695b76",
+    "path" : "/2015/03/20150306-ITA-Udine/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "971a787d-da61-4568-ac1f-38c414d78b6f",
+    "path" : "/2015/03/20150306-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d7eb6617-7922-4755-9d23-2c7d158de9dc",
+    "path" : "/2015/03/20150306-ITA-Udine/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 3,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

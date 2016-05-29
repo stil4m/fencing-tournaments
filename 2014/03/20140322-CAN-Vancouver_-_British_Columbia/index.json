@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "CAN",
+    "city" : "Vancouver - British Columbia",
+    "name" : "Victor Gantsevich Grand Prix",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 22
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f4bbea7b-0e6a-46b7-bbd1-7e95fade2869",
+    "path" : "/2014/03/20140322-CAN-Vancouver_-_British_Columbia/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 22
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

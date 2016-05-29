@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "MEX",
+    "city" : "Cancun",
+    "name" : "Coupe du Monde",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 12
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ccbe3f3e-c41f-4ae4-80d8-287df5799728",
+    "path" : "/2014/10/20141011-MEX-Cancun/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

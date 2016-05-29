@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Backnang",
+    "name" : "Backnanger Degen",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "6ee6ba6e-acf5-4736-ae6f-6b83d10fae57",
+    "path" : "/2016/03/20160305-GER-Backnang/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "36f32f09-ed9d-4402-b4b1-6d10112011b3",
+    "path" : "/2016/03/20160305-GER-Backnang/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

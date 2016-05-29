@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Genève",
+    "name" : "Tournoi Satellite",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "93946bac-2a7b-4cf0-b311-67157e07f90b",
+    "path" : "/2014/10/20141004-SUI-Geneve/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

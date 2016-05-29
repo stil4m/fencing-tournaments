@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "BUL",
+    "city" : "Sofia",
+    "name" : "Tournoi satellite",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 13
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "cc0368ec-f2b2-460b-aa9b-bb861688a8c9",
+    "path" : "/2016/03/20160312-BUL-Sofia/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d5e33372-190c-4e31-94e0-9e236880a8ed",
+    "path" : "/2016/03/20160312-BUL-Sofia/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

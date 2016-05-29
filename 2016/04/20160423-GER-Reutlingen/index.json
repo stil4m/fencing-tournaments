@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Reutlingen",
+    "name" : "Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5aaa245d-aad2-4ca6-84a1-9cef85995349",
+    "path" : "/2016/04/20160423-GER-Reutlingen/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b32380b5-6f7c-4093-bba7-824a3c53a0c0",
+    "path" : "/2016/04/20160423-GER-Reutlingen/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 4,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "MEX",
+    "city" : "Cancun",
+    "name" : "Tournoi satellite / Coupe du Monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9c344741-0196-42a9-ba7e-c1cb29ec8f34",
+    "path" : "/2014/10/20141015-MEX-Cancun/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 19
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6fc800ec-78c0-4eeb-8551-820ff5a45833",
+    "path" : "/2014/10/20141015-MEX-Cancun/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 10,
+      "d" : 17
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

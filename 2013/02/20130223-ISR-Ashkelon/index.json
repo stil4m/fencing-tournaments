@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "ISR",
+    "city" : "Ashkelon",
+    "name" : "Int. Hapoel games",
+    "startDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 23
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "22f6c1eb-5e78-4fa1-8e6d-731a7d786947",
+    "path" : "/2013/02/20130223-ISR-Ashkelon/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2013,
+      "m" : 2,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

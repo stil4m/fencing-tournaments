@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "DEN",
+    "city" : "Copenhagen",
+    "name" : "Trekanten International - Nordic Championships Foil 2016",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b99a4507-430d-4ab4-bbc7-e41a50f48083",
+    "path" : "/2016/05/20160507-DEN-Copenhagen/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a6796bb7-c769-4e4f-900d-a4aabe55723a",
+    "path" : "/2016/05/20160507-DEN-Copenhagen/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

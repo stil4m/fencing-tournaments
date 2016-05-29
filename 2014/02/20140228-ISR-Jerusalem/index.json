@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "ISR",
+    "city" : "Jerusalem",
+    "name" : "Championnats d’Europe juniors",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "949d0e2c-6d59-411d-8f0e-69f7027efcff",
+    "path" : "/2014/02/20140228-ISR-Jerusalem/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "99780bb8-bfb2-4c30-a3b5-b3bd172e22c2",
+    "path" : "/2014/02/20140228-ISR-Jerusalem/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "36513ef8-a406-486f-935b-36d7cf0a9c8d",
+    "path" : "/2014/02/20140228-ISR-Jerusalem/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "ebb4f425-16d4-4ae1-b421-1bef410d19bf",
+    "path" : "/2014/02/20140228-ISR-Jerusalem/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b4d354ac-0876-4a7a-a81f-dbfff2ff06fc",
+    "path" : "/2014/02/20140228-ISR-Jerusalem/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 2,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "06b91e77-abaa-4488-a141-d8a9d0118ad1",
+    "path" : "/2014/02/20140228-ISR-Jerusalem/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 3,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

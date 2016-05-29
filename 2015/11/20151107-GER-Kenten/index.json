@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Kenten",
+    "name" : "Willy-Schlegelmilch-Gedächtnisturnier",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "127d43ee-240d-4426-8874-00de75a9eb1b",
+    "path" : "/2015/11/20151107-GER-Kenten/EQUIPE_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3273c91c-91b7-4abc-947c-af97c97ea4e4",
+    "path" : "/2015/11/20151107-GER-Kenten/EQUIPE_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 8
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a0efef4e-25fd-4f32-b0d3-000c8fff638e",
+    "path" : "/2015/11/20151107-GER-Kenten/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a01ed0ff-96ba-4acd-b42c-2dd35663d810",
+    "path" : "/2015/11/20151107-GER-Kenten/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 11,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

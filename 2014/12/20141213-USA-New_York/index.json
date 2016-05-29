@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "USA",
+    "city" : "New York",
+    "name" : "Absolute Fencing Gear New York Sabre Grand Prix",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 14
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "348f1bba-6024-4f1f-8903-b97f380031e6",
+    "path" : "/2014/12/20141213-USA-New_York/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3e5e212e-d2a3-42f4-ab12-f05ba217c01f",
+    "path" : "/2014/12/20141213-USA-New_York/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 12,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

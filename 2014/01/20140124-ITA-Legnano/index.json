@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ITA",
+    "city" : "Legnano",
+    "name" : "Coupe du monde / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5678ec05-314d-45f5-84ae-ad0f4384f7c5",
+    "path" : "/2014/01/20140124-ITA-Legnano/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d85a146b-0188-4dea-ac81-f2d2f08fc170",
+    "path" : "/2014/01/20140124-ITA-Legnano/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2014,
+      "m" : 1,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Mülheim",
+    "name" : "Internationales Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 7
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "817f1c85-3c18-4f9d-a758-af852429a7f1",
+    "path" : "/2016/02/20160206-GER-Mulheim/EQUIPE_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2ef18da3-22b7-4142-8b75-3803eca100c5",
+    "path" : "/2016/02/20160206-GER-Mulheim/EQUIPE_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 7
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "707b4066-8edf-496e-9cba-fcc968d96f82",
+    "path" : "/2016/02/20160206-GER-Mulheim/INDIVIDUAL_FEMALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "0e7cdc00-2535-4f6f-9161-2faaa62bbc51",
+    "path" : "/2016/02/20160206-GER-Mulheim/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 2,
+      "d" : 6
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

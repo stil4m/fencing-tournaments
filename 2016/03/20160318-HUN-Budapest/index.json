@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "HUN",
+    "city" : "Budapest",
+    "name" : "WESTEND Grand Prix",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "244d505c-c96a-445f-843c-bec5bcd2c0f2",
+    "path" : "/2016/03/20160318-HUN-Budapest/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5035f8ee-12f6-4258-9726-629a5381b411",
+    "path" : "/2016/03/20160318-HUN-Budapest/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 3,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

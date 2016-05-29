@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "ESP",
+    "city" : "Barcelone",
+    "name" : "Ciudad de Barcelona / Coupe du Monde par équipes",
+    "startDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 23
+    },
+    "endDate" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "9c6ac69c-be44-400b-acf0-29f253ec32d8",
+    "path" : "/2015/01/20150123-ESP-Barcelone/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ac4ba1f-0607-458d-a212-a6f11442e43d",
+    "path" : "/2015/01/20150123-ESP-Barcelone/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2015,
+      "m" : 1,
+      "d" : 23
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}
