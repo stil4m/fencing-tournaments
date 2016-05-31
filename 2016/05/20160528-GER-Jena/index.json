@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Jena",
+    "name" : "Jenaer Schülercup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "398e97ec-f8e8-475d-aa3a-58d3f8f3edf2",
+    "path" : "/2016/05/20160528-GER-Jena/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "74f99a54-b6f5-493b-b5f8-c067c062ad46",
+    "path" : "/2016/05/20160528-GER-Jena/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "29fbc354-71cf-4788-9e0a-f4694a8cf36b",
+    "path" : "/2016/05/20160528-GER-Jena/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "91c7a278-14ab-4681-a797-969013809cbc",
+    "path" : "/2016/05/20160528-GER-Jena/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

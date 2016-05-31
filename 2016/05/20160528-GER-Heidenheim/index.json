@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Deutsche Junioren Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 29
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "03ed3286-ad0c-4f61-b121-c9a29e1673e3",
+    "path" : "/2016/05/20160528-GER-Heidenheim/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9c746766-109b-4bfb-8766-6591c91f67ed",
+    "path" : "/2016/05/20160528-GER-Heidenheim/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}
