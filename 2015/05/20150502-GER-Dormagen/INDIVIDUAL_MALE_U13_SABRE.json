@@ -1,0 +1,282 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1029-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Confrerie Gent",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Lester",
+      "lastName" : "KURVERS",
+      "fullName" : "KURVERS, Lester"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345410"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "GORNIG",
+      "fullName" : "GORNIG, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347194"
+  }, {
+    "participantId" : "3",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frederick",
+      "lastName" : "HAFERMAAS",
+      "fullName" : "HAFERMAAS, Frederick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322638"
+  }, {
+    "participantId" : "4",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sören",
+      "lastName" : "BUHR",
+      "fullName" : "BUHR, Sören"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328311"
+  }, {
+    "participantId" : "5",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adrian",
+      "lastName" : "HÖLZENBEIN",
+      "fullName" : "HÖLZENBEIN, Adrian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307566"
+  }, {
+    "participantId" : "6",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Markus",
+      "lastName" : "BIEDLER",
+      "fullName" : "BIEDLER, Markus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324913"
+  }, {
+    "participantId" : "7",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luis",
+      "lastName" : "PFUNDNER",
+      "fullName" : "PFUNDNER, Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303944"
+  }, {
+    "participantId" : "8",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "SCHWEIGER",
+      "fullName" : "SCHWEIGER, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312096"
+  }, {
+    "participantId" : "9",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luc",
+      "lastName" : "WEICHERT",
+      "fullName" : "WEICHERT, Luc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307669"
+  }, {
+    "participantId" : "10",
+    "club" : "SG Kaarst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "MÜLLERS",
+      "fullName" : "MÜLLERS, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333162"
+  }, {
+    "participantId" : "11",
+    "club" : "SG Kaarst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "PLEITHNER",
+      "fullName" : "PLEITHNER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336241"
+  }, {
+    "participantId" : "12",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "KASCHUB",
+      "fullName" : "KASCHUB, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318342"
+  }, {
+    "participantId" : "13",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maik",
+      "lastName" : "CONNEMANN",
+      "fullName" : "CONNEMANN, Maik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336832"
+  }, {
+    "participantId" : "14",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "GANNS",
+      "fullName" : "GANNS, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347777"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "ROBER",
+      "fullName" : "ROBER, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305444"
+  }, {
+    "participantId" : "16",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322968"
+  }, {
+    "participantId" : "17",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "KOCHENDÖRFER",
+      "fullName" : "KOCHENDÖRFER, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313021"
+  } ]
+}

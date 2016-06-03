@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3470-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Greta",
+      "lastName" : "JANSEN",
+      "fullName" : "JANSEN, Greta"
+    }, {
+      "firstName" : "Carolina",
+      "lastName" : "BUSCH",
+      "fullName" : "BUSCH, Carolina"
+    }, {
+      "firstName" : "Luise",
+      "lastName" : "GREIFFER",
+      "fullName" : "GREIFFER, Luise"
+    }, {
+      "firstName" : "Johanna",
+      "lastName" : "FÉRON",
+      "fullName" : "FÉRON, Johanna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "2",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Karoline",
+      "lastName" : "SCHMITZ",
+      "fullName" : "SCHMITZ, Karoline"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Julia"
+    }, {
+      "firstName" : "Mona",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Mona"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "3",
+    "club" : "Nordrhein",
+    "country" : "GER",
+    "teamName" : "STG DUISBURG/KLEVE",
+    "members" : [ {
+      "firstName" : "Leonie",
+      "lastName" : "EBIGT",
+      "fullName" : "EBIGT, Leonie"
+    }, {
+      "firstName" : "Lucie",
+      "lastName" : "NEUHAUS",
+      "fullName" : "NEUHAUS, Lucie"
+    }, {
+      "firstName" : "Sophie Irene",
+      "lastName" : "BRUNETS",
+      "fullName" : "BRUNETS, Sophie Irene"
+    } ],
+    "fieId" : null,
+    "fwwId" : "353675"
+  } ]
+}

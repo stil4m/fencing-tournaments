@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2300-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Crailsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "ANDREJEW",
+      "fullName" : "ANDREJEW, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326953"
+  }, {
+    "participantId" : "2",
+    "club" : "HC Bad Dürkheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "BECK",
+      "fullName" : "BECK, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124755"
+  }, {
+    "participantId" : "3",
+    "club" : "SV Esslingen",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Maria",
+      "lastName" : "BUGAEVA",
+      "fullName" : "BUGAEVA, Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342704"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simone",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Simone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "10165"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana",
+      "lastName" : "GERISCH",
+      "fullName" : "GERISCH, Jana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336511"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Saskia",
+      "lastName" : "KNUPFER",
+      "fullName" : "KNUPFER, Saskia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "27875"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "PIESCH",
+      "fullName" : "PIESCH, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "32612"
+  }, {
+    "participantId" : "8",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "THRUM",
+      "fullName" : "THRUM, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336079"
+  } ]
+}

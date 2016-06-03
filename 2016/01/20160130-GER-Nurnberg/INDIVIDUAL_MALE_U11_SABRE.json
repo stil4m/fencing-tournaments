@@ -1,0 +1,266 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8189-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "15",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finn",
+      "lastName" : "BUCHMANN",
+      "fullName" : "BUCHMANN, Finn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340662"
+  }, {
+    "participantId" : "2",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christopher",
+      "lastName" : "DEMAND",
+      "fullName" : "DEMAND, Christopher"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354534"
+  }, {
+    "participantId" : "3",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "GEIGER",
+      "fullName" : "GEIGER, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333419"
+  }, {
+    "participantId" : "4",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nikita",
+      "lastName" : "GRIMM",
+      "fullName" : "GRIMM, Nikita"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354657"
+  }, {
+    "participantId" : "5",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350385"
+  }, {
+    "participantId" : "6",
+    "club" : "TS Göppingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedikt",
+      "lastName" : "HAYM",
+      "fullName" : "HAYM, Benedikt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356430"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benno",
+      "lastName" : "KAZICH",
+      "fullName" : "KAZICH, Benno"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339646"
+  }, {
+    "participantId" : "8",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "KUHN",
+      "fullName" : "KUHN, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340547"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Garmisch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jarl",
+      "lastName" : "KÜRBIS",
+      "fullName" : "KÜRBIS, Jarl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337828"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chris",
+      "lastName" : "LANG",
+      "fullName" : "LANG, Chris"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350920"
+  }, {
+    "participantId" : "11",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannes",
+      "lastName" : "MEYER-BENZ",
+      "fullName" : "MEYER-BENZ, Hannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354813"
+  }, {
+    "participantId" : "12",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nikita",
+      "lastName" : "ROMANKOV",
+      "fullName" : "ROMANKOV, Nikita"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340661"
+  }, {
+    "participantId" : "13",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "SCHÖNHOLZ",
+      "fullName" : "SCHÖNHOLZ, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339578"
+  }, {
+    "participantId" : "14",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arthur",
+      "lastName" : "SHPOLYANSKYY",
+      "fullName" : "SHPOLYANSKYY, Arthur"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355257"
+  }, {
+    "participantId" : "15",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alessio",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Alessio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354752"
+  }, {
+    "participantId" : "16",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "WOLF",
+      "fullName" : "WOLF, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333418"
+  } ]
+}

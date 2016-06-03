@@ -1,0 +1,598 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12893-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "10",
+    "abandon" : true
+  }, {
+    "position" : 13,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "34",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "38",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Richard",
+      "lastName" : "BARNES-WEBB",
+      "fullName" : "BARNES-WEBB, Richard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347925"
+  }, {
+    "participantId" : "2",
+    "club" : "Hillcrest Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Wesley",
+      "lastName" : "BECKMANN",
+      "fullName" : "BECKMANN, Wesley"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358291"
+  }, {
+    "participantId" : "3",
+    "club" : "VASK Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Abraham Hunter",
+      "lastName" : "COETZEE",
+      "fullName" : "COETZEE, Abraham Hunter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321428"
+  }, {
+    "participantId" : "4",
+    "club" : "Blues FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Patrick",
+      "lastName" : "COLLINGS",
+      "fullName" : "COLLINGS, Patrick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321429"
+  }, {
+    "participantId" : "5",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Brandon",
+      "lastName" : "COMBRINK",
+      "fullName" : "COMBRINK, Brandon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356180"
+  }, {
+    "participantId" : "6",
+    "club" : "RMH Polokwane",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "LEON",
+      "lastName" : "DE VILLIERS",
+      "fullName" : "DE VILLIERS, LEON"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354312"
+  }, {
+    "participantId" : "7",
+    "club" : "Hillcrest Fencing Club",
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Jay",
+      "lastName" : "FOWLER",
+      "fullName" : "FOWLER, Jay"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358292"
+  }, {
+    "participantId" : "8",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Wallace",
+      "lastName" : "GOOSEN",
+      "fullName" : "GOOSEN, Wallace"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344002"
+  }, {
+    "participantId" : "9",
+    "club" : "Wits Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Mikesh",
+      "lastName" : "HARRILALL",
+      "fullName" : "HARRILALL, Mikesh"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321403"
+  }, {
+    "participantId" : "10",
+    "club" : "Ere Sabel Mokopane",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Andrew",
+      "lastName" : "HOWITT",
+      "fullName" : "HOWITT, Andrew"
+    },
+    "gender" : "MALE",
+    "fieId" : "28819",
+    "fwwId" : "304255"
+  }, {
+    "participantId" : "11",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Sibisiso",
+      "lastName" : "KETSISE",
+      "fullName" : "KETSISE, Sibisiso"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356195"
+  }, {
+    "participantId" : "12",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kalman",
+      "lastName" : "KOZMA",
+      "fullName" : "KOZMA, Kalman"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314766"
+  }, {
+    "participantId" : "13",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Joas",
+      "lastName" : "KUTUMELA",
+      "fullName" : "KUTUMELA, Joas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356201"
+  }, {
+    "participantId" : "14",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Frederic",
+      "lastName" : "LANCELIN",
+      "fullName" : "LANCELIN, Frederic"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347839"
+  }, {
+    "participantId" : "15",
+    "club" : "Mamelodi FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Sello Given",
+      "lastName" : "MADUMA",
+      "fullName" : "MADUMA, Sello Given"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "49308"
+  }, {
+    "participantId" : "16",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Joseph",
+      "lastName" : "MALULEKE",
+      "fullName" : "MALULEKE, Joseph"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "125085"
+  }, {
+    "participantId" : "17",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Thulani",
+      "lastName" : "MANZINI",
+      "fullName" : "MANZINI, Thulani"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316190"
+  }, {
+    "participantId" : "18",
+    "club" : "Mamelodi FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Thato",
+      "lastName" : "MASHILO",
+      "fullName" : "MASHILO, Thato"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348058"
+  }, {
+    "participantId" : "19",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Mashudu",
+      "lastName" : "MATHEBULA",
+      "fullName" : "MATHEBULA, Mashudu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321397"
+  }, {
+    "participantId" : "20",
+    "club" : "KMC Khayelitsha",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Buntu",
+      "lastName" : "MDYESHANE",
+      "fullName" : "MDYESHANE, Buntu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321454"
+  }, {
+    "participantId" : "21",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jandre",
+      "lastName" : "NEL",
+      "fullName" : "NEL, Jandre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330480"
+  }, {
+    "participantId" : "22",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Liam",
+      "lastName" : "PARNELL",
+      "fullName" : "PARNELL, Liam"
+    },
+    "gender" : "MALE",
+    "fieId" : "37369",
+    "fwwId" : "321480"
+  }, {
+    "participantId" : "23",
+    "club" : "Jeppe Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Ivan",
+      "lastName" : "PEROVIC",
+      "fullName" : "PEROVIC, Ivan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358380"
+  }, {
+    "participantId" : "24",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jaycey",
+      "lastName" : "PINN",
+      "fullName" : "PINN, Jaycey"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321490"
+  }, {
+    "participantId" : "25",
+    "club" : "Excelsior EC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jon-Paul",
+      "lastName" : "RAPER",
+      "fullName" : "RAPER, Jon-Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321401"
+  }, {
+    "participantId" : "26",
+    "club" : "North West University",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "SCHRODER",
+      "fullName" : "SCHRODER, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "54301"
+  }, {
+    "participantId" : "27",
+    "club" : "VASK Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jurgen",
+      "lastName" : "SCHRODER",
+      "fullName" : "SCHRODER, Jurgen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323326"
+  }, {
+    "participantId" : "28",
+    "club" : "CFA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "SCHROEDER",
+      "fullName" : "SCHROEDER, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321414"
+  }, {
+    "participantId" : "29",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Manyane",
+      "lastName" : "SEFULARO",
+      "fullName" : "SEFULARO, Manyane"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119777"
+  }, {
+    "participantId" : "30",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Chuene",
+      "lastName" : "SEKWAKWA",
+      "fullName" : "SEKWAKWA, Chuene"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350233"
+  }, {
+    "participantId" : "31",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "STEENBERG",
+      "fullName" : "STEENBERG, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347892"
+  }, {
+    "participantId" : "32",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Pavel",
+      "lastName" : "TYCHLER",
+      "fullName" : "TYCHLER, Pavel"
+    },
+    "gender" : "MALE",
+    "fieId" : "30645",
+    "fwwId" : "314762"
+  }, {
+    "participantId" : "33",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Johan",
+      "lastName" : "VAN DEN BERG",
+      "fullName" : "VAN DEN BERG, Johan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330497"
+  }, {
+    "participantId" : "34",
+    "club" : "Kovsies Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jaco",
+      "lastName" : "VAN STADEN",
+      "fullName" : "VAN STADEN, Jaco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342366"
+  }, {
+    "participantId" : "35",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Charl",
+      "lastName" : "VENTER",
+      "fullName" : "VENTER, Charl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321489"
+  }, {
+    "participantId" : "36",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Dewaldt",
+      "lastName" : "VENTER",
+      "fullName" : "VENTER, Dewaldt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321452"
+  }, {
+    "participantId" : "37",
+    "club" : "KMC Khayelitsha",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Athi",
+      "lastName" : "VUNTU",
+      "fullName" : "VUNTU, Athi"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321396"
+  }, {
+    "participantId" : "38",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "CALVYN",
+      "lastName" : "VAN WYK",
+      "fullName" : "VAN WYK, CALVYN"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358520"
+  } ]
+}

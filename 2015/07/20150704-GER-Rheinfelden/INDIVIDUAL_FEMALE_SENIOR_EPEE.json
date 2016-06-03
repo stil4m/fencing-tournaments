@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6607-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "ETSV Offenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janine",
+      "lastName" : "DAUTER",
+      "fullName" : "DAUTER, Janine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303315"
+  }, {
+    "participantId" : "2",
+    "club" : "FECB Baden",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Emanuelly",
+      "lastName" : "DO NASCIMENTO",
+      "fullName" : "DO NASCIMENTO, Emanuelly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306867"
+  }, {
+    "participantId" : "3",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simone",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Simone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "10165"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Waldshut FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Brigitte",
+      "lastName" : "GREUNKE",
+      "fullName" : "GREUNKE, Brigitte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "2511"
+  }, {
+    "participantId" : "5",
+    "club" : "FECB Baden",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Isabelle",
+      "lastName" : "KARTAS",
+      "fullName" : "KARTAS, Isabelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310261"
+  }, {
+    "participantId" : "6",
+    "club" : "AFZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Susanne",
+      "lastName" : "KRETSCHMAR",
+      "fullName" : "KRETSCHMAR, Susanne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345918"
+  }, {
+    "participantId" : "7",
+    "club" : "ETSV Offenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vanessa",
+      "lastName" : "NIEMANN",
+      "fullName" : "NIEMANN, Vanessa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353016"
+  }, {
+    "participantId" : "8",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cosima",
+      "lastName" : "NOPPER",
+      "fullName" : "NOPPER, Cosima"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307684"
+  }, {
+    "participantId" : "9",
+    "club" : "FCO Otelfingen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nicole",
+      "lastName" : "RECHSTEINER-SIDLER",
+      "fullName" : "RECHSTEINER-SIDLER, Nicole"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316080"
+  } ]
+}

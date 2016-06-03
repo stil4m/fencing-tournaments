@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10130-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kathryn",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Kathryn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37506",
+    "fwwId" : "344107"
+  }, {
+    "participantId" : "2",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Evitta",
+      "lastName" : "IVANOV",
+      "fullName" : "IVANOV, Evitta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40793",
+    "fwwId" : "344516"
+  }, {
+    "participantId" : "3",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "BUL",
+    "name" : {
+      "firstName" : "Melani",
+      "lastName" : "LAMBREVA",
+      "fullName" : "LAMBREVA, Melani"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344108"
+  }, {
+    "participantId" : "4",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Nomvula Mahlodi",
+      "lastName" : "MBATHA",
+      "fullName" : "MBATHA, Nomvula Mahlodi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342199"
+  }, {
+    "participantId" : "5",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Lungile",
+      "lastName" : "ZAKWE",
+      "fullName" : "ZAKWE, Lungile"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321568"
+  } ]
+}

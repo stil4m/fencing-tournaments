@@ -1,0 +1,46 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13132-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "LUITPOLD GYMNASIUM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354527"
+  }, {
+    "participantId" : "2",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "MELANCHTHON GYMANSIUM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "PETER-VISCHER-SCHULE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354522"
+  } ]
+}

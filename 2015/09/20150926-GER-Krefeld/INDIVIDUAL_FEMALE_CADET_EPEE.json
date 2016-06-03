@@ -1,0 +1,142 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1336-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marleen",
+      "lastName" : "JANSEN",
+      "fullName" : "JANSEN, Marleen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319081"
+  }, {
+    "participantId" : "2",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "AnnaMarie",
+      "lastName" : "MAASSEN Anna- Marie",
+      "fullName" : "MAASSEN Anna- Marie, AnnaMarie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324198"
+  }, {
+    "participantId" : "3",
+    "club" : "Wilhelmshavener SC Fr.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah Lilith",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Hannah Lilith"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336375"
+  }, {
+    "participantId" : "4",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ravena Madita",
+      "lastName" : "POETEN",
+      "fullName" : "POETEN, Ravena Madita"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350037"
+  }, {
+    "participantId" : "5",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilli",
+      "lastName" : "VON OELHAFEN",
+      "fullName" : "VON OELHAFEN, Lilli"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342279"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "ZUR MÜHLEN",
+      "fullName" : "ZUR MÜHLEN, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307078"
+  }, {
+    "participantId" : "7",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pia",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Pia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121406"
+  }, {
+    "participantId" : "8",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leah",
+      "lastName" : "JANSEN",
+      "fullName" : "JANSEN, Leah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319082"
+  }, {
+    "participantId" : "9",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "POTTBECKER",
+      "fullName" : "POTTBECKER, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329468"
+  } ]
+}

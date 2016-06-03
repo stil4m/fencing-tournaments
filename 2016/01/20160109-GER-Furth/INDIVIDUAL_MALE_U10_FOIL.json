@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3161-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Diego",
+      "lastName" : "KLINGERT",
+      "fullName" : "KLINGERT, Diego"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358083"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "LITTERER",
+      "fullName" : "LITTERER, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358085"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "NICZYPORUK",
+      "fullName" : "NICZYPORUK, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355380"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ivo",
+      "lastName" : "WUNDLING",
+      "fullName" : "WUNDLING, Ivo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358084"
+  } ]
+}

@@ -1,0 +1,162 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12484-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FA Rheinfelden",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nicolas",
+      "lastName" : "FÄSS",
+      "fullName" : "FÄSS, Nicolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338053"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "OTT",
+      "fullName" : "OTT, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333600"
+  }, {
+    "participantId" : "3",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "RUPPENTHAL",
+      "fullName" : "RUPPENTHAL, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332291"
+  }, {
+    "participantId" : "4",
+    "club" : "FA Rheinfelden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "STEPPE",
+      "fullName" : "STEPPE, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325132"
+  }, {
+    "participantId" : "5",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "TRÖNDLE",
+      "fullName" : "TRÖNDLE, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332293"
+  }, {
+    "participantId" : "6",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "WEIGEL",
+      "fullName" : "WEIGEL, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332292"
+  }, {
+    "participantId" : "7",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "LOHRMANN",
+      "fullName" : "LOHRMANN, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333596"
+  }, {
+    "participantId" : "8",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Artur",
+      "lastName" : "FREMMER",
+      "fullName" : "FREMMER, Artur"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338220"
+  }, {
+    "participantId" : "9",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malte",
+      "lastName" : "STEIN",
+      "fullName" : "STEIN, Malte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333601"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "STIHL",
+      "fullName" : "STIHL, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351266"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "ARBOGAST",
+      "fullName" : "ARBOGAST, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345967"
+  } ]
+}

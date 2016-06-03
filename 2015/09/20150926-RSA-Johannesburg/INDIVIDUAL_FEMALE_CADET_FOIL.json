@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10108-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Michelle",
+      "lastName" : "BUTLER",
+      "fullName" : "BUTLER, Michelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356202"
+  }, {
+    "participantId" : "2",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kathryn",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Kathryn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37506",
+    "fwwId" : "344107"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kiandra",
+      "lastName" : "EATON",
+      "fullName" : "EATON, Kiandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355959"
+  }, {
+    "participantId" : "4",
+    "club" : "Hillcrest Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "GIBSON",
+      "fullName" : "GIBSON, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40780",
+    "fwwId" : "328111"
+  }, {
+    "participantId" : "5",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Evitta",
+      "lastName" : "IVANOV",
+      "fullName" : "IVANOV, Evitta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40793",
+    "fwwId" : "344516"
+  }, {
+    "participantId" : "6",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "BUL",
+    "name" : {
+      "firstName" : "Melani",
+      "lastName" : "LAMBREVA",
+      "fullName" : "LAMBREVA, Melani"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344108"
+  }, {
+    "participantId" : "7",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Mone",
+      "lastName" : "MCCABE",
+      "fullName" : "MCCABE, Mone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38554",
+    "fwwId" : "344001"
+  } ]
+}

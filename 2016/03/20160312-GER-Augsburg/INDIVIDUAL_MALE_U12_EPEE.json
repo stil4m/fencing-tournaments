@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3439-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jacob",
+      "lastName" : "KOHLER",
+      "fullName" : "KOHLER, Jacob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325209"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "SUCHERT",
+      "fullName" : "SUCHERT, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318147"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas Julius",
+      "lastName" : "SITNER",
+      "fullName" : "SITNER, Lukas Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358400"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "STRAUB",
+      "fullName" : "STRAUB, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349926"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "LÖFLATH",
+      "fullName" : "LÖFLATH, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318479"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "HEIN",
+      "fullName" : "HEIN, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345394"
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HEESCHEN",
+      "fullName" : "HEESCHEN, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335991"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "WINKLHARRER",
+      "fullName" : "WINKLHARRER, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351748"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wenzel",
+      "lastName" : "SCHUMACHER",
+      "fullName" : "SCHUMACHER, Wenzel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349956"
+  } ]
+}

@@ -1,0 +1,234 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7215-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "BAYER",
+      "fullName" : "BAYER, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "39036"
+  }, {
+    "participantId" : "2",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gerhard",
+      "lastName" : "BLUM",
+      "fullName" : "BLUM, Gerhard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "93035"
+  }, {
+    "participantId" : "3",
+    "club" : "FGS Schaffhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Günter",
+      "lastName" : "FITSCH",
+      "fullName" : "FITSCH, Günter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335687"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Crailsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "HÄNEL",
+      "fullName" : "HÄNEL, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315256"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Wiblingen-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wolfgang",
+      "lastName" : "KAISER",
+      "fullName" : "KAISER, Wolfgang"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325722"
+  }, {
+    "participantId" : "6",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "85601"
+  }, {
+    "participantId" : "7",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Armin",
+      "lastName" : "MARTIN",
+      "fullName" : "MARTIN, Armin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341217"
+  }, {
+    "participantId" : "8",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "MARTIN",
+      "fullName" : "MARTIN, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87335"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Wiblingen-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Roger",
+      "lastName" : "MENCK",
+      "fullName" : "MENCK, Roger"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2895"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "REINHARDT",
+      "fullName" : "REINHARDT, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "32870"
+  }, {
+    "participantId" : "11",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307293"
+  }, {
+    "participantId" : "12",
+    "club" : "KV Laupheim - Fechten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "ROMER",
+      "fullName" : "ROMER, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22735"
+  }, {
+    "participantId" : "13",
+    "club" : "FGS Schaffhausen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Joshua",
+      "lastName" : "SPÖRRI",
+      "fullName" : "SPÖRRI, Joshua"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335690"
+  }, {
+    "participantId" : "14",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pierguiseppe",
+      "lastName" : "THIEL",
+      "fullName" : "THIEL, Pierguiseppe"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313995"
+  } ]
+}

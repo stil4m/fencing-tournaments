@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6315-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSB Schwäbisch Gmünd",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michelle",
+      "lastName" : "CICHON",
+      "fullName" : "CICHON, Michelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339201"
+  }, {
+    "participantId" : "2",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly",
+      "lastName" : "EGER",
+      "fullName" : "EGER, Lilly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353141"
+  }, {
+    "participantId" : "3",
+    "club" : "SportVg Feuerbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Teska Julia",
+      "lastName" : "HEISE",
+      "fullName" : "HEISE, Teska Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332692"
+  }, {
+    "participantId" : "4",
+    "club" : "FS Geisingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah Fabienne",
+      "lastName" : "MAJER",
+      "fullName" : "MAJER, Sarah Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347480"
+  }, {
+    "participantId" : "5",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353137"
+  }, {
+    "participantId" : "6",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rabea",
+      "lastName" : "TRAPP",
+      "fullName" : "TRAPP, Rabea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353140"
+  } ]
+}

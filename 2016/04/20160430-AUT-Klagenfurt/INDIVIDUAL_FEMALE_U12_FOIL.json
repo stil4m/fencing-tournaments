@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5744-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MOLDAWIEN",
+    "country" : "MDA",
+    "name" : {
+      "firstName" : "Maria",
+      "lastName" : "COJOCARI",
+      "fullName" : "COJOCARI, Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353665"
+  }, {
+    "participantId" : "2",
+    "club" : "STLFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "FABIANEK",
+      "fullName" : "FABIANEK, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FC Wels",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Helene",
+      "lastName" : "KLOIMBÖCK",
+      "fullName" : "KLOIMBÖCK, Helene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "MOLDAWIEN",
+    "country" : "MDA",
+    "name" : {
+      "firstName" : "Sofia",
+      "lastName" : "MOROZOVA",
+      "fullName" : "MOROZOVA, Sofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "ATUS_WEIZ",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "PURKARTHOFER",
+      "fullName" : "PURKARTHOFER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "STLFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Aimee",
+      "lastName" : "RIESER",
+      "fullName" : "RIESER, Aimee"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : "FUK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Leni",
+      "lastName" : "SIMHANDL",
+      "fullName" : "SIMHANDL, Leni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : "ASC Wien",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Franziska",
+      "lastName" : "TANZMEISTER",
+      "fullName" : "TANZMEISTER, Franziska"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335871"
+  } ]
+}

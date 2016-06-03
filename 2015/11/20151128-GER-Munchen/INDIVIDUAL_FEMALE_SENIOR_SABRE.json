@@ -1,0 +1,890 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2886-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 65,
+    "participantId" : "47",
+    "abandon" : false
+  }, {
+    "position" : 66,
+    "participantId" : "61",
+    "abandon" : false
+  }, {
+    "position" : 67,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 68,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 69,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 70,
+    "participantId" : "67",
+    "abandon" : false
+  }, {
+    "position" : 71,
+    "participantId" : "69",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SC Parcival",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Jolien",
+      "lastName" : "ABRAMS",
+      "fullName" : "ABRAMS, Jolien"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28370",
+    "fwwId" : "92338"
+  }, {
+    "participantId" : "2",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Darya",
+      "lastName" : "ANTONOVA",
+      "fullName" : "ANTONOVA, Darya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "38744"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Wurth Kunzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Madeleine",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Madeleine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "BREITKREUTZ",
+      "fullName" : "BREITKREUTZ, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341825"
+  }, {
+    "participantId" : "5",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "BUJDOSO",
+      "fullName" : "BUJDOSO, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "12792",
+    "fwwId" : "27842"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Lena",
+      "lastName" : "BÜRKERT",
+      "fullName" : "BÜRKERT, Anna-Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87480"
+  }, {
+    "participantId" : "7",
+    "club" : "Confrerie Gent",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Hanne",
+      "lastName" : "COOREMAN",
+      "fullName" : "COOREMAN, Hanne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "150191"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "SLO",
+    "name" : {
+      "firstName" : "Klara",
+      "lastName" : "CVAHTE",
+      "fullName" : "CVAHTE, Klara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37445",
+    "fwwId" : "349214"
+  }, {
+    "participantId" : "9",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Liska",
+      "lastName" : "DERKUM",
+      "fullName" : "DERKUM, Liska"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "39450",
+    "fwwId" : "45035"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kira",
+      "lastName" : "EIFLER",
+      "fullName" : "EIFLER, Kira"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "31952",
+    "fwwId" : "48612"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Larissa",
+      "lastName" : "EIFLER",
+      "fullName" : "EIFLER, Larissa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34051",
+    "fwwId" : "53960"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "EIFLER",
+      "fullName" : "EIFLER, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "39462",
+    "fwwId" : "90086"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadine",
+      "lastName" : "FABIAN",
+      "fullName" : "FABIAN, Nadine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "39837"
+  }, {
+    "participantId" : "14",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Evi",
+      "lastName" : "FÖRSTER",
+      "fullName" : "FÖRSTER, Evi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305562"
+  }, {
+    "participantId" : "15",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "FRICKE",
+      "fullName" : "FRICKE, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120119"
+  }, {
+    "participantId" : "16",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lisann",
+      "lastName" : "FRÖSE",
+      "fullName" : "FRÖSE, Lisann"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305446"
+  }, {
+    "participantId" : "17",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julika",
+      "lastName" : "FUNKE",
+      "fullName" : "FUNKE, Julika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36389",
+    "fwwId" : "119878"
+  }, {
+    "participantId" : "18",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lisa",
+      "lastName" : "GETTE",
+      "fullName" : "GETTE, Lisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36729",
+    "fwwId" : "118460"
+  }, {
+    "participantId" : "19",
+    "club" : "Confrerie Gent",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "GEVAERT",
+      "fullName" : "GEVAERT, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "30152",
+    "fwwId" : "150027"
+  }, {
+    "participantId" : "20",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Yulia",
+      "lastName" : "GOLOVINA",
+      "fullName" : "GOLOVINA, Yulia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305689"
+  }, {
+    "participantId" : "21",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gunilla",
+      "lastName" : "GRAUDINS",
+      "fullName" : "GRAUDINS, Gunilla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "4602"
+  }, {
+    "participantId" : "22",
+    "club" : "CSK Riegel",
+    "country" : "CZE",
+    "name" : {
+      "firstName" : "Klara",
+      "lastName" : "HANZLIKOVA",
+      "fullName" : "HANZLIKOVA, Klara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "31293",
+    "fwwId" : "306028"
+  }, {
+    "participantId" : "23",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303516"
+  }, {
+    "participantId" : "24",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "HEINS",
+      "fullName" : "HEINS, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "50006"
+  }, {
+    "participantId" : "25",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "HIRN",
+      "fullName" : "HIRN, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87473"
+  }, {
+    "participantId" : "26",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luzia",
+      "lastName" : "HIRN",
+      "fullName" : "HIRN, Luzia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28455",
+    "fwwId" : "50015"
+  }, {
+    "participantId" : "27",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Davina",
+      "lastName" : "HIRZMANN",
+      "fullName" : "HIRZMANN, Davina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "19557"
+  }, {
+    "participantId" : "28",
+    "club" : "TSG Bergedorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Friederike",
+      "lastName" : "JANSHEN",
+      "fullName" : "JANSHEN, Friederike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "26756"
+  }, {
+    "participantId" : "29",
+    "club" : "Vasas",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Renta",
+      "lastName" : "KATONA",
+      "fullName" : "KATONA, Renta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "26595",
+    "fwwId" : "93913"
+  }, {
+    "participantId" : "30",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ann-Sophie",
+      "lastName" : "KINDLER",
+      "fullName" : "KINDLER, Ann-Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "24486",
+    "fwwId" : "33711"
+  }, {
+    "participantId" : "31",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sibylle",
+      "lastName" : "KLEMM",
+      "fullName" : "KLEMM, Sibylle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "3645",
+    "fwwId" : "15586"
+  }, {
+    "participantId" : "32",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara Katharina",
+      "lastName" : "KOCH",
+      "fullName" : "KOCH, Lara Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36728",
+    "fwwId" : "51085"
+  }, {
+    "participantId" : "33",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Miriam",
+      "lastName" : "KOLLER",
+      "fullName" : "KOLLER, Miriam"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "80375"
+  }, {
+    "participantId" : "34",
+    "club" : "Kertvaros",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Emese",
+      "lastName" : "KORNETH",
+      "fullName" : "KORNETH, Emese"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332203"
+  }, {
+    "participantId" : "35",
+    "club" : "FGL Luzern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Ekaterina",
+      "lastName" : "KOTUR",
+      "fullName" : "KOTUR, Ekaterina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "53264"
+  }, {
+    "participantId" : "36",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annette",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Annette"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89513"
+  }, {
+    "participantId" : "37",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Léa",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Léa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28460",
+    "fwwId" : "81775"
+  }, {
+    "participantId" : "38",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carol-Ann",
+      "lastName" : "KUHN",
+      "fullName" : "KUHN, Carol-Ann"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36730",
+    "fwwId" : "82298"
+  }, {
+    "participantId" : "39",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Shannen",
+      "lastName" : "KUHN",
+      "fullName" : "KUHN, Shannen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89519"
+  }, {
+    "participantId" : "40",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily",
+      "lastName" : "KURTH",
+      "fullName" : "KURTH, Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120121"
+  }, {
+    "participantId" : "41",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Valentina",
+      "lastName" : "KURYS",
+      "fullName" : "KURYS, Valentina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "91658"
+  }, {
+    "participantId" : "42",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Judith",
+      "lastName" : "KUSIAN",
+      "fullName" : "KUSIAN, Judith"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "26487",
+    "fwwId" : "36789"
+  }, {
+    "participantId" : "43",
+    "club" : "FC Lütjensee",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea-Carlotta",
+      "lastName" : "LAUX",
+      "fullName" : "LAUX, Lea-Carlotta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87024"
+  }, {
+    "participantId" : "44",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "LIMBACH",
+      "fullName" : "LIMBACH, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "12054",
+    "fwwId" : "19309"
+  }, {
+    "participantId" : "45",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marietta",
+      "lastName" : "MEKA",
+      "fullName" : "MEKA, Marietta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303837"
+  }, {
+    "participantId" : "46",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sofia",
+      "lastName" : "MESCHERJAKOV",
+      "fullName" : "MESCHERJAKOV, Sofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312829"
+  }, {
+    "participantId" : "47",
+    "club" : "TSG Eislingen",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "MILLER",
+      "fullName" : "MILLER, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "93098"
+  }, {
+    "participantId" : "48",
+    "club" : "Hamburger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Heide",
+      "lastName" : "NIESALLA",
+      "fullName" : "NIESALLA, Heide"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "34738"
+  }, {
+    "participantId" : "49",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "OTRZONSEK",
+      "fullName" : "OTRZONSEK, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "30198",
+    "fwwId" : "47697"
+  }, {
+    "participantId" : "50",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "PETER",
+      "fullName" : "PETER, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36727",
+    "fwwId" : "86223"
+  }, {
+    "participantId" : "51",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "PFLAUM",
+      "fullName" : "PFLAUM, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318583"
+  }, {
+    "participantId" : "52",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "PHILIPPI",
+      "fullName" : "PHILIPPI, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329112"
+  }, {
+    "participantId" : "53",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sofia",
+      "lastName" : "POLENSKE",
+      "fullName" : "POLENSKE, Sofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306632"
+  }, {
+    "participantId" : "54",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "PRESSMAR",
+      "fullName" : "PRESSMAR, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "10037",
+    "fwwId" : "22158"
+  }, {
+    "participantId" : "55",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katrin",
+      "lastName" : "ROTH",
+      "fullName" : "ROTH, Katrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34048",
+    "fwwId" : "36795"
+  }, {
+    "participantId" : "56",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lisa",
+      "lastName" : "RÜTGERS",
+      "fullName" : "RÜTGERS, Lisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306504"
+  }, {
+    "participantId" : "57",
+    "club" : "TMÅF Turku",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Emmi",
+      "lastName" : "RYDENFELT",
+      "fullName" : "RYDENFELT, Emmi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312371"
+  }, {
+    "participantId" : "58",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "SINGER",
+      "fullName" : "SINGER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89645"
+  }, {
+    "participantId" : "59",
+    "club" : "s.v. Surtout",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "SMITS",
+      "fullName" : "SMITS, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318070"
+  }, {
+    "participantId" : "60",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annika",
+      "lastName" : "STEIGER",
+      "fullName" : "STEIGER, Annika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32111",
+    "fwwId" : "50136"
+  }, {
+    "participantId" : "61",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320405"
+  }, {
+    "participantId" : "62",
+    "club" : "SK Erazem",
+    "country" : "SLO",
+    "name" : {
+      "firstName" : "Anamarija",
+      "lastName" : "SUSTERSIC",
+      "fullName" : "SUSTERSIC, Anamarija"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339612"
+  }, {
+    "participantId" : "63",
+    "club" : "Vasas",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Fruzsina",
+      "lastName" : "SZILAGYI",
+      "fullName" : "SZILAGYI, Fruzsina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337149"
+  }, {
+    "participantId" : "64",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "TOMALIK",
+      "fullName" : "TOMALIK, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86204"
+  }, {
+    "participantId" : "65",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Celina",
+      "lastName" : "TREFFKORN",
+      "fullName" : "TREFFKORN, Celina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89516"
+  }, {
+    "participantId" : "66",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clara",
+      "lastName" : "TROMPETA",
+      "fullName" : "TROMPETA, Clara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "39436",
+    "fwwId" : "86225"
+  }, {
+    "participantId" : "67",
+    "club" : "de Klauwaerts",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "VAN HAEGENBERG",
+      "fullName" : "VAN HAEGENBERG, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358157"
+  }, {
+    "participantId" : "68",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentina",
+      "lastName" : "VOLKMANN",
+      "fullName" : "VOLKMANN, Valentina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32067",
+    "fwwId" : "37761"
+  }, {
+    "participantId" : "69",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Inga",
+      "lastName" : "VON BUCH",
+      "fullName" : "VON BUCH, Inga"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89512"
+  }, {
+    "participantId" : "70",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Ekaterina",
+      "lastName" : "VOROBYEVA",
+      "fullName" : "VOROBYEVA, Ekaterina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "91657"
+  }, {
+    "participantId" : "71",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "46042"
+  } ]
+}

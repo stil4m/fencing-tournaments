@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2786-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "DICKEL",
+      "fullName" : "DICKEL, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357733"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "FABER",
+      "fullName" : "FABER, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342312"
+  }, {
+    "participantId" : "3",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nikolas",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Nikolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356748"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "PENA WIRTH",
+      "fullName" : "PENA WIRTH, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347847"
+  }, {
+    "participantId" : "5",
+    "club" : "s.v. Tréville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Koen",
+      "lastName" : "WALET",
+      "fullName" : "WALET, Koen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338149"
+  } ]
+}

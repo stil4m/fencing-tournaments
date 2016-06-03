@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1247-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas-Finley",
+      "lastName" : "GARUS",
+      "fullName" : "GARUS, Niklas-Finley"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307404"
+  }, {
+    "participantId" : "2",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laurin",
+      "lastName" : "HAGEDORN",
+      "fullName" : "HAGEDORN, Laurin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318900"
+  }, {
+    "participantId" : "3",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "KARAISKAS",
+      "fullName" : "KARAISKAS, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318901"
+  }, {
+    "participantId" : "4",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jaan",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Jaan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323445"
+  }, {
+    "participantId" : "5",
+    "club" : "Remscheider SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "SEEMANN",
+      "fullName" : "SEEMANN, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336314"
+  }, {
+    "participantId" : "6",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "WEIMAR",
+      "fullName" : "WEIMAR, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318897"
+  } ]
+}

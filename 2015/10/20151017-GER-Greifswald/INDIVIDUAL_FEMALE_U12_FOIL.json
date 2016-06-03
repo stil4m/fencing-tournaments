@@ -1,0 +1,66 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8127-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "AnnaAlicia",
+      "lastName" : "ECHELMEYER Anna- Alicia",
+      "fullName" : "ECHELMEYER Anna- Alicia, AnnaAlicia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324144"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ruby",
+      "lastName" : "GOOSMANN",
+      "fullName" : "GOOSMANN, Ruby"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335735"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "KANNENBERG",
+      "fullName" : "KANNENBERG, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324146"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elisabeth",
+      "lastName" : "KAVALERCHYK",
+      "fullName" : "KAVALERCHYK, Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313487"
+  } ]
+}

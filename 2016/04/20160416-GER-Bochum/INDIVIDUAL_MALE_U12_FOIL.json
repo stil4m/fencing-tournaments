@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2861-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "FABER",
+      "fullName" : "FABER, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342312"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "PENA WIRTH",
+      "fullName" : "PENA WIRTH, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347847"
+  }, {
+    "participantId" : "3",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bastian",
+      "lastName" : "WERDELING",
+      "fullName" : "WERDELING, Bastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332781"
+  }, {
+    "participantId" : "4",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "WIRTZ",
+      "fullName" : "WIRTZ, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361419"
+  }, {
+    "participantId" : "5",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "DICKEL",
+      "fullName" : "DICKEL, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357733"
+  } ]
+}

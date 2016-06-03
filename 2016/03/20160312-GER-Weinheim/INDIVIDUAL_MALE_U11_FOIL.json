@@ -1,0 +1,266 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3725-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "15",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "DIESTELKAMP",
+      "fullName" : "DIESTELKAMP, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342235"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anselm Theodor",
+      "lastName" : "EICH",
+      "fullName" : "EICH, Anselm Theodor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354403"
+  }, {
+    "participantId" : "3",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "FAITZ",
+      "fullName" : "FAITZ, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335614"
+  }, {
+    "participantId" : "4",
+    "club" : "VFL Marburg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ansgar Thoralf Rune",
+      "lastName" : "HAHN",
+      "fullName" : "HAHN, Ansgar Thoralf Rune"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328961"
+  }, {
+    "participantId" : "5",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "HEITZ",
+      "fullName" : "HEITZ, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349362"
+  }, {
+    "participantId" : "6",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "HOFFMANN",
+      "fullName" : "HOFFMANN, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333554"
+  }, {
+    "participantId" : "7",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marc",
+      "lastName" : "HOLDER",
+      "fullName" : "HOLDER, Marc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348826"
+  }, {
+    "participantId" : "8",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "KESSLER",
+      "fullName" : "KESSLER, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356799"
+  }, {
+    "participantId" : "9",
+    "club" : "Hapoel Kfar-Saba",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Ron",
+      "lastName" : "LEYMOND",
+      "fullName" : "LEYMOND, Ron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359812"
+  }, {
+    "participantId" : "10",
+    "club" : "MTV Giessen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "LOTT",
+      "fullName" : "LOTT, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356626"
+  }, {
+    "participantId" : "11",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "MAHNERT",
+      "fullName" : "MAHNERT, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350741"
+  }, {
+    "participantId" : "12",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "MAKA",
+      "fullName" : "MAKA, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348135"
+  }, {
+    "participantId" : "13",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fynn",
+      "lastName" : "NEUHOFF",
+      "fullName" : "NEUHOFF, Fynn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350130"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Mosbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "RERES",
+      "fullName" : "RERES, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318924"
+  }, {
+    "participantId" : "15",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "SEIFNER",
+      "fullName" : "SEIFNER, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354407"
+  }, {
+    "participantId" : "16",
+    "club" : "Hapoel Kfar-Saba",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Ido",
+      "lastName" : "ZANGI",
+      "fullName" : "ZANGI, Ido"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359813"
+  } ]
+}

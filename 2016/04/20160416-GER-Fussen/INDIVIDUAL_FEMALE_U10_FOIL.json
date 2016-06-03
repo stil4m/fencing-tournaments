@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4518-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Oberammergau",
+    "country" : "OMA",
+    "name" : {
+      "firstName" : "Yara",
+      "lastName" : "AL AUJAILI KLEIBER",
+      "fullName" : "AL AUJAILI KLEIBER, Yara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355318"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "BÜNNING",
+      "fullName" : "BÜNNING, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325592"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Megan",
+      "lastName" : "CHAU",
+      "fullName" : "CHAU, Megan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349722"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Trudering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "STIEGLMEIER",
+      "fullName" : "STIEGLMEIER, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330212"
+  } ]
+}

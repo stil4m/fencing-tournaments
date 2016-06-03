@@ -1,0 +1,506 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7119-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasper Arne",
+      "lastName" : "BALDAUF",
+      "fullName" : "BALDAUF, Jasper Arne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88881"
+  }, {
+    "participantId" : "2",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "BINAS",
+      "fullName" : "BINAS, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121658"
+  }, {
+    "participantId" : "3",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "BOEHME",
+      "fullName" : "BOEHME, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307560"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gregor",
+      "lastName" : "BRANSCHEID",
+      "fullName" : "BRANSCHEID, Gregor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329347"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leander",
+      "lastName" : "BÜTOW",
+      "fullName" : "BÜTOW, Leander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "89216"
+  }, {
+    "participantId" : "6",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "DREES",
+      "fullName" : "DREES, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88663"
+  }, {
+    "participantId" : "7",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thorben",
+      "lastName" : "ELSEN",
+      "fullName" : "ELSEN, Thorben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326539"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "ENGELN",
+      "fullName" : "ENGELN, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326958"
+  }, {
+    "participantId" : "9",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tarek",
+      "lastName" : "GHRAIRI",
+      "fullName" : "GHRAIRI, Tarek"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322555"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "HEUSER",
+      "fullName" : "HEUSER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318960"
+  }, {
+    "participantId" : "11",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "HÖRNIG",
+      "fullName" : "HÖRNIG, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333431"
+  }, {
+    "participantId" : "12",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "HÜSING",
+      "fullName" : "HÜSING, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309623"
+  }, {
+    "participantId" : "13",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "JÄGER",
+      "fullName" : "JÄGER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "85806"
+  }, {
+    "participantId" : "14",
+    "club" : "SC Amsterdam",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Teun",
+      "lastName" : "JANS-KÖHNEKE",
+      "fullName" : "JANS-KÖHNEKE, Teun"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356178"
+  }, {
+    "participantId" : "15",
+    "club" : "SC Amsterdam",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Fynn",
+      "lastName" : "KOWALCZYK",
+      "fullName" : "KOWALCZYK, Fynn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333097"
+  }, {
+    "participantId" : "16",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Louis Basil",
+      "lastName" : "LAMBRECHT",
+      "fullName" : "LAMBRECHT, Louis Basil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88660"
+  }, {
+    "participantId" : "17",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nicholas",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Nicholas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333433"
+  }, {
+    "participantId" : "18",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca Janik",
+      "lastName" : "LEWEJOHANN",
+      "fullName" : "LEWEJOHANN, Luca Janik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316157"
+  }, {
+    "participantId" : "19",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Piet",
+      "lastName" : "LEYENDECKER",
+      "fullName" : "LEYENDECKER, Piet"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334232"
+  }, {
+    "participantId" : "20",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tom-Florin",
+      "lastName" : "LÖHR",
+      "fullName" : "LÖHR, Tom-Florin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88738"
+  }, {
+    "participantId" : "21",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Toni",
+      "lastName" : "MENZEL",
+      "fullName" : "MENZEL, Toni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309622"
+  }, {
+    "participantId" : "22",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "OTT",
+      "fullName" : "OTT, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "118257"
+  }, {
+    "participantId" : "23",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "PLITZKO",
+      "fullName" : "PLITZKO, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119818"
+  }, {
+    "participantId" : "24",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Denis",
+      "lastName" : "SADRIN",
+      "fullName" : "SADRIN, Denis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123061"
+  }, {
+    "participantId" : "25",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "SAUERMANN",
+      "fullName" : "SAUERMANN, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "117075"
+  }, {
+    "participantId" : "26",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "STIEREN",
+      "fullName" : "STIEREN, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120162"
+  }, {
+    "participantId" : "27",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "TIEDEMANN",
+      "fullName" : "TIEDEMANN, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120592"
+  }, {
+    "participantId" : "28",
+    "club" : "s.v. Beau Geste",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Hens",
+      "lastName" : "VERBATEN",
+      "fullName" : "VERBATEN, Hens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341961"
+  }, {
+    "participantId" : "29",
+    "club" : "s.v. De 3 Musketiers",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Barend",
+      "lastName" : "VONK",
+      "fullName" : "VONK, Barend"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358659"
+  }, {
+    "participantId" : "30",
+    "club" : "TV Gütersloh",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "ZIESSOW",
+      "fullName" : "ZIESSOW, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "89641"
+  }, {
+    "participantId" : "31",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "ZIMMERMANN",
+      "fullName" : "ZIMMERMANN, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123791"
+  } ]
+}

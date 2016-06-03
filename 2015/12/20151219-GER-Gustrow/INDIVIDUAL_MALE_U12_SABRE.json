@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8797-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vinzent",
+      "lastName" : "BONDAR",
+      "fullName" : "BONDAR, Vinzent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "PSV Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl Josef",
+      "lastName" : "BÖNIGK",
+      "fullName" : "BÖNIGK, Carl Josef"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "PSV Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gregor Vincent",
+      "lastName" : "JASINSKI",
+      "fullName" : "JASINSKI, Gregor Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "PSV Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl",
+      "lastName" : "JUNGHANSS",
+      "fullName" : "JUNGHANSS, Carl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "PSV Rostock",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Artem",
+      "lastName" : "LEVCHENKO",
+      "fullName" : "LEVCHENKO, Artem"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

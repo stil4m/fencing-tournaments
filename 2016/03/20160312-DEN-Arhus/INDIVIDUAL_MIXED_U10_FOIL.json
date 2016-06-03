@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9070-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Raffaele",
+      "lastName" : "FU GIUGNO",
+      "fullName" : "FU GIUGNO, Raffaele"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353422"
+  }, {
+    "participantId" : "2",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Júlíus Aron Thibautson",
+      "lastName" : "GUILBERT",
+      "fullName" : "GUILBERT, Júlíus Aron Thibautson"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "335825"
+  }, {
+    "participantId" : "3",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Josefine Holst",
+      "lastName" : "KØHRSEN",
+      "fullName" : "KØHRSEN, Josefine Holst"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "361422"
+  }, {
+    "participantId" : "4",
+    "club" : "Aalborg FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "PFLEGER",
+      "fullName" : "PFLEGER, Jonas"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353388"
+  }, {
+    "participantId" : "5",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "SCHWARTZ",
+      "fullName" : "SCHWARTZ, Theo"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "341687"
+  } ]
+}

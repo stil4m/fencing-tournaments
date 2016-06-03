@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "http://www.fencingtime.com/LiveResults/EJCC/FTEvent4915202.htm",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "RUS",
+    "teamName" : "RUSSIA",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "FRA",
+    "teamName" : "FRANCE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "ITA",
+    "teamName" : "ITALY",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "HUN",
+    "teamName" : "HUNGARY",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "UKR",
+    "teamName" : "UKRAINE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "GERMANY",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "POL",
+    "teamName" : "POLAND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "BLR",
+    "teamName" : "BELARUS",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "GBR",
+    "teamName" : "GREAT BRITAIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

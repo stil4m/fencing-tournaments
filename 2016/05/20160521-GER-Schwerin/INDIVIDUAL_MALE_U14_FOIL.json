@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6392-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SV Lok Pritzwalk",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342226"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "BARTELS",
+      "fullName" : "BARTELS, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302552"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Merseburger Raben",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "HUTH",
+      "fullName" : "HUTH, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316757"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Merseburger Raben",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bodo",
+      "lastName" : "PETERS",
+      "fullName" : "PETERS, Bodo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "93932"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Ratzeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joshua",
+      "lastName" : "RIEGE",
+      "fullName" : "RIEGE, Joshua"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336803"
+  }, {
+    "participantId" : "6",
+    "club" : "TB Hamburg-Eilbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jacob",
+      "lastName" : "STERNBERG",
+      "fullName" : "STERNBERG, Jacob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314217"
+  } ]
+}

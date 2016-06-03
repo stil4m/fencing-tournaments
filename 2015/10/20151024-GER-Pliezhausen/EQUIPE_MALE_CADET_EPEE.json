@@ -1,0 +1,150 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2249-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Carl-Noah",
+      "lastName" : "FRÖSCHL",
+      "fullName" : "FRÖSCHL, Carl-Noah"
+    }, {
+      "firstName" : "Julian Dominic",
+      "lastName" : "SEYD",
+      "fullName" : "SEYD, Julian Dominic"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "MEZES",
+      "fullName" : "MEZES, Christian"
+    }, {
+      "firstName" : "Niklas",
+      "lastName" : "DEISSLER",
+      "fullName" : "DEISSLER, Niklas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "teamName" : "STG SCHWENNINGEN/FRIEDRICHSHAFEN",
+    "members" : [ {
+      "firstName" : "Marco",
+      "lastName" : "BIRKENMAIER",
+      "fullName" : "BIRKENMAIER, Marco"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "BAUR",
+      "fullName" : "BAUR, Jonas"
+    }, {
+      "firstName" : "Lucas",
+      "lastName" : "FENDT",
+      "fullName" : "FENDT, Lucas"
+    }, {
+      "firstName" : "Athanasios",
+      "lastName" : "TSIAGKANAS",
+      "fullName" : "TSIAGKANAS, Athanasios"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "teamName" : "SV BÖBLINGEN",
+    "members" : [ {
+      "firstName" : "Christos",
+      "lastName" : "KOIOS",
+      "fullName" : "KOIOS, Christos"
+    }, {
+      "firstName" : "Tobias",
+      "lastName" : "WECKERLE",
+      "fullName" : "WECKERLE, Tobias"
+    }, {
+      "firstName" : "Kai",
+      "lastName" : "SCHMID",
+      "fullName" : "SCHMID, Kai"
+    }, {
+      "firstName" : "Jared",
+      "lastName" : "DENK",
+      "fullName" : "DENK, Jared"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20611"
+  }, {
+    "participantId" : "4",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Christopher",
+      "lastName" : "SCHMITT",
+      "fullName" : "SCHMITT, Christopher"
+    }, {
+      "firstName" : "Ruben",
+      "lastName" : "HAUFF",
+      "fullName" : "HAUFF, Ruben"
+    }, {
+      "firstName" : "Laurenz",
+      "lastName" : "HÄUBER",
+      "fullName" : "HÄUBER, Laurenz"
+    }, {
+      "firstName" : "Marc",
+      "lastName" : "BAYER",
+      "fullName" : "BAYER, Marc"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : [ {
+      "firstName" : "Finn",
+      "lastName" : "SCHULZE",
+      "fullName" : "SCHULZE, Finn"
+    }, {
+      "firstName" : "Max",
+      "lastName" : "WEISE",
+      "fullName" : "WEISE, Max"
+    }, {
+      "firstName" : "Gerrit",
+      "lastName" : "VON LAUE",
+      "fullName" : "VON LAUE, Gerrit"
+    }, {
+      "firstName" : "Dominik",
+      "lastName" : "GECKELER",
+      "fullName" : "GECKELER, Dominik"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52948"
+  } ]
+}

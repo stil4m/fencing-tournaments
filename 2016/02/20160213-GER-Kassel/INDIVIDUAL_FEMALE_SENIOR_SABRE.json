@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3663-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Irina",
+      "lastName" : "BUNN",
+      "fullName" : "BUNN, Irina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23703"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Brigitte",
+      "lastName" : "GREUNKE",
+      "fullName" : "GREUNKE, Brigitte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "2511"
+  }, {
+    "participantId" : "3",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annegret",
+      "lastName" : "HAMANN",
+      "fullName" : "HAMANN, Annegret"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "48099"
+  }, {
+    "participantId" : "4",
+    "club" : "Wilhelmshavener SC Fr.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Heidrun",
+      "lastName" : "WEST",
+      "fullName" : "WEST, Heidrun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23699"
+  }, {
+    "participantId" : "5",
+    "club" : "MTV Ludwigsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janka",
+      "lastName" : "WOHLFARTH",
+      "fullName" : "WOHLFARTH, Janka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23804"
+  } ]
+}

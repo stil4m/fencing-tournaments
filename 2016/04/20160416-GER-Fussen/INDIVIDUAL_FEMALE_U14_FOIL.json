@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4519-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clara",
+      "lastName" : "GRIEGEL",
+      "fullName" : "GRIEGEL, Clara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357233"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "KIESSLING",
+      "fullName" : "KIESSLING, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335473"
+  }, {
+    "participantId" : "3",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stephanie Hannah",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Stephanie Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353161"
+  }, {
+    "participantId" : "4",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "STASCHEK",
+      "fullName" : "STASCHEK, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308194"
+  }, {
+    "participantId" : "5",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adeline",
+      "lastName" : "VON CANSTEIN",
+      "fullName" : "VON CANSTEIN, Adeline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353177"
+  } ]
+}

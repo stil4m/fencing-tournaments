@@ -1,0 +1,234 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6316-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlon",
+      "lastName" : "BAIR",
+      "fullName" : "BAIR, Marlon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326461"
+  }, {
+    "participantId" : "2",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silas",
+      "lastName" : "BAREISS",
+      "fullName" : "BAREISS, Silas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324233"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "BAYER",
+      "fullName" : "BAYER, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348114"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331695"
+  }, {
+    "participantId" : "5",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "GLASOW",
+      "fullName" : "GLASOW, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340557"
+  }, {
+    "participantId" : "6",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "HUMMEL",
+      "fullName" : "HUMMEL, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323888"
+  }, {
+    "participantId" : "7",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "MATHÉ",
+      "fullName" : "MATHÉ, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339556"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dominik",
+      "lastName" : "RENZ",
+      "fullName" : "RENZ, Dominik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326648"
+  }, {
+    "participantId" : "9",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magnus",
+      "lastName" : "RIEHS",
+      "fullName" : "RIEHS, Magnus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329282"
+  }, {
+    "participantId" : "10",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janik",
+      "lastName" : "RITZ",
+      "fullName" : "RITZ, Janik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329429"
+  }, {
+    "participantId" : "11",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331699"
+  }, {
+    "participantId" : "12",
+    "club" : "TG Trossingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "TUSCHKAH",
+      "fullName" : "TUSCHKAH, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334779"
+  }, {
+    "participantId" : "13",
+    "club" : "Heidenheimer SB",
+    "country" : "PHI",
+    "name" : {
+      "firstName" : "Vince",
+      "lastName" : "VALEROSO",
+      "fullName" : "VALEROSO, Vince"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319296"
+  }, {
+    "participantId" : "14",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323431"
+  } ]
+}

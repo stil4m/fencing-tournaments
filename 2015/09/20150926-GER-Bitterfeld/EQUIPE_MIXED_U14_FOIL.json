@@ -1,0 +1,290 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5827-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Dresdener FC",
+    "country" : "GER",
+    "teamName" : "DRESDENER FC",
+    "members" : [ {
+      "firstName" : "Jasper",
+      "lastName" : "MACHETANZ",
+      "fullName" : "MACHETANZ, Jasper"
+    }, {
+      "firstName" : "Hendrik Dion",
+      "lastName" : "LENK",
+      "fullName" : "LENK, Hendrik Dion"
+    }, {
+      "firstName" : "Tilman",
+      "lastName" : "BROSCHE",
+      "fullName" : "BROSCHE, Tilman"
+    }, {
+      "firstName" : "Sten",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Sten"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20605"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Lara Emma",
+      "lastName" : "BERGMANN",
+      "fullName" : "BERGMANN, Lara Emma"
+    }, {
+      "firstName" : "Celine",
+      "lastName" : "PACHMANN",
+      "fullName" : "PACHMANN, Celine"
+    }, {
+      "firstName" : "Merle",
+      "lastName" : "STIEREN",
+      "fullName" : "STIEREN, Merle"
+    }, {
+      "firstName" : "Emily",
+      "lastName" : "KLOCKHAUS",
+      "fullName" : "KLOCKHAUS, Emily"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119111"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "teamName" : "FC RADEBEUL",
+    "members" : [ {
+      "firstName" : "Patrick",
+      "lastName" : "WOLF",
+      "fullName" : "WOLF, Patrick"
+    }, {
+      "firstName" : "Eric Pascal",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Eric Pascal"
+    }, {
+      "firstName" : "Gregor",
+      "lastName" : "SCHMITZ-HÜBSCH",
+      "fullName" : "SCHMITZ-HÜBSCH, Gregor"
+    } ],
+    "fieId" : null,
+    "fwwId" : "327311"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "teamName" : "FC RADEBEUL II",
+    "members" : [ {
+      "firstName" : "Leona",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Leona"
+    }, {
+      "firstName" : "Isabella",
+      "lastName" : "LINDNER",
+      "fullName" : "LINDNER, Isabella"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "HEINRICH-LINDNER",
+      "fullName" : "HEINRICH-LINDNER, Charlotte"
+    }, {
+      "firstName" : "Cora Elisabeth",
+      "lastName" : "SCHALLER",
+      "fullName" : "SCHALLER, Cora Elisabeth"
+    } ],
+    "fieId" : null,
+    "fwwId" : "342634"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "teamName" : "FC SCHKEUDITZ",
+    "members" : [ {
+      "firstName" : "Arwed",
+      "lastName" : "HÄSSLER",
+      "fullName" : "HÄSSLER, Arwed"
+    }, {
+      "firstName" : "Moritz",
+      "lastName" : "FASSMANN",
+      "fullName" : "FASSMANN, Moritz"
+    }, {
+      "firstName" : "Toni",
+      "lastName" : "GRUND",
+      "fullName" : "GRUND, Toni"
+    } ],
+    "fieId" : null,
+    "fwwId" : "94037"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TBB",
+    "members" : [ {
+      "firstName" : "Paul-Luca",
+      "lastName" : "FAUL",
+      "fullName" : "FAUL, Paul-Luca"
+    }, {
+      "firstName" : "Benedikt",
+      "lastName" : "SEE",
+      "fullName" : "SEE, Benedikt"
+    }, {
+      "firstName" : "David",
+      "lastName" : "WILLIAMS",
+      "fullName" : "WILLIAMS, David"
+    }, {
+      "firstName" : "Arwen",
+      "lastName" : "BOROWIAK",
+      "fullName" : "BOROWIAK, Arwen"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "7",
+    "club" : "FG Merseburger Raben",
+    "country" : "GER",
+    "teamName" : "FG MERSEBURGER RABEN",
+    "members" : [ {
+      "firstName" : "Bodo",
+      "lastName" : "PETERS",
+      "fullName" : "PETERS, Bodo"
+    }, {
+      "firstName" : "Andreas",
+      "lastName" : "ALTENDORF",
+      "fullName" : "ALTENDORF, Andreas"
+    }, {
+      "firstName" : "Pascal",
+      "lastName" : "HUTH",
+      "fullName" : "HUTH, Pascal"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119211"
+  }, {
+    "participantId" : "8",
+    "club" : "Sachsen-Anhalt",
+    "country" : "GER",
+    "teamName" : "STG HALLE/RADEBEUL",
+    "members" : [ {
+      "firstName" : "Arne",
+      "lastName" : "GEPPERT",
+      "fullName" : "GEPPERT, Arne"
+    }, {
+      "firstName" : "Tim",
+      "lastName" : "HEIDE",
+      "fullName" : "HEIDE, Tim"
+    }, {
+      "firstName" : "Vincent",
+      "lastName" : "DOYSCHER",
+      "fullName" : "DOYSCHER, Vincent"
+    } ],
+    "fieId" : null,
+    "fwwId" : "356537"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "STG MOERS/RODLEBEN",
+    "members" : [ {
+      "firstName" : "Fabian",
+      "lastName" : "HEUSER",
+      "fullName" : "HEUSER, Fabian"
+    }, {
+      "firstName" : "Nils",
+      "lastName" : "FABINGER",
+      "fullName" : "FABINGER, Nils"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "KRAWCZYK",
+      "fullName" : "KRAWCZYK, Maximilian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "10",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "teamName" : "USC MAGDEBURG",
+    "members" : [ {
+      "firstName" : "Paul",
+      "lastName" : "MUSCHE",
+      "fullName" : "MUSCHE, Paul"
+    }, {
+      "firstName" : "Friedrich",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Friedrich"
+    }, {
+      "firstName" : "Richard",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Richard"
+    } ],
+    "fieId" : null,
+    "fwwId" : "21930"
+  }, {
+    "participantId" : "11",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "teamName" : "USC MAGDEBURG II",
+    "members" : [ {
+      "firstName" : "Lara",
+      "lastName" : "HEINEMANN",
+      "fullName" : "HEINEMANN, Lara"
+    }, {
+      "firstName" : "Andrea",
+      "lastName" : "MATTHIES",
+      "fullName" : "MATTHIES, Andrea"
+    }, {
+      "firstName" : "Nina",
+      "lastName" : "MATTHIES",
+      "fullName" : "MATTHIES, Nina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "356525"
+  } ]
+}

@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8789-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : null,
+    "participantId" : "7",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "BARTELS",
+      "fullName" : "BARTELS, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302552"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "BRINKMANN",
+      "fullName" : "BRINKMANN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313238"
+  }, {
+    "participantId" : "3",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "MUSCHE",
+      "fullName" : "MUSCHE, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334370"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "REHDA",
+      "fullName" : "REHDA, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302528"
+  }, {
+    "participantId" : "5",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Friedrich",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336362"
+  }, {
+    "participantId" : "6",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Richard",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Richard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336365"
+  }, {
+    "participantId" : "7",
+    "club" : "HFC Lübeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hermann",
+      "lastName" : "SCHNEIDERS",
+      "fullName" : "SCHNEIDERS, Hermann"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342495"
+  } ]
+}

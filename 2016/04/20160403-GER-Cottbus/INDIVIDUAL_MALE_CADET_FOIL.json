@@ -1,0 +1,222 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8174-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan-Lucas",
+      "lastName" : "DEUS",
+      "fullName" : "DEUS, Jan-Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339244"
+  }, {
+    "participantId" : "2",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian Johannes",
+      "lastName" : "EIFRIG",
+      "fullName" : "EIFRIG, Maximilian Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "81914"
+  }, {
+    "participantId" : "3",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "FRITSCH",
+      "fullName" : "FRITSCH, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313612"
+  }, {
+    "participantId" : "4",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Oscar",
+      "lastName" : "GÜNTHER",
+      "fullName" : "GÜNTHER, Oscar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305023"
+  }, {
+    "participantId" : "5",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "KRAWTSCHUK",
+      "fullName" : "KRAWTSCHUK, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313190"
+  }, {
+    "participantId" : "6",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henok",
+      "lastName" : "LACHMANN",
+      "fullName" : "LACHMANN, Henok"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306776"
+  }, {
+    "participantId" : "7",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "MEUTZNER",
+      "fullName" : "MEUTZNER, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306291"
+  }, {
+    "participantId" : "8",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Yu Han",
+      "lastName" : "MEYER",
+      "fullName" : "MEYER, Yu Han"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306775"
+  }, {
+    "participantId" : "9",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "NEUHOFF",
+      "fullName" : "NEUHOFF, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "80269"
+  }, {
+    "participantId" : "10",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Merlin",
+      "lastName" : "RAINER",
+      "fullName" : "RAINER, Merlin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "86577"
+  }, {
+    "participantId" : "11",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "SICKERT",
+      "fullName" : "SICKERT, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "93695"
+  }, {
+    "participantId" : "12",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theodor",
+      "lastName" : "SPRAFKE",
+      "fullName" : "SPRAFKE, Theodor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "81980"
+  }, {
+    "participantId" : "13",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David Alexander",
+      "lastName" : "WOLF",
+      "fullName" : "WOLF, David Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "81913"
+  }, {
+    "participantId" : "14",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "WOLF",
+      "fullName" : "WOLF, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303130"
+  } ]
+}

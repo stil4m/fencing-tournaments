@@ -1,0 +1,310 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2695-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "14",
+    "abandon" : true
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luke",
+      "lastName" : "BELITZ",
+      "fullName" : "BELITZ, Luke"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326460"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben Julius",
+      "lastName" : "BOSSERHOFF",
+      "fullName" : "BOSSERHOFF, Ben Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347193"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlin",
+      "lastName" : "ECKSTEIN",
+      "fullName" : "ECKSTEIN, Marlin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319157"
+  }, {
+    "participantId" : "4",
+    "club" : "MTV Mainz",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Mikhail",
+      "lastName" : "EGOROV",
+      "fullName" : "EGOROV, Mikhail"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346005"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "GOETZ",
+      "fullName" : "GOETZ, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322591"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "HAMACHER",
+      "fullName" : "HAMACHER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320181"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334342"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Yannick",
+      "lastName" : "LEDERER",
+      "fullName" : "LEDERER, Yannick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348303"
+  }, {
+    "participantId" : "9",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Seno Zacharias",
+      "lastName" : "LERCH",
+      "fullName" : "LERCH, Seno Zacharias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324341"
+  }, {
+    "participantId" : "10",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "MASUCH",
+      "fullName" : "MASUCH, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320843"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentin",
+      "lastName" : "MEKA",
+      "fullName" : "MEKA, Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305443"
+  }, {
+    "participantId" : "12",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max Laurin",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Max Laurin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320842"
+  }, {
+    "participantId" : "13",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "PIECHA",
+      "fullName" : "PIECHA, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322934"
+  }, {
+    "participantId" : "14",
+    "club" : "HFC Lübeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hermann",
+      "lastName" : "SCHNEIDERS",
+      "fullName" : "SCHNEIDERS, Hermann"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342495"
+  }, {
+    "participantId" : "15",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "UFERT",
+      "fullName" : "UFERT, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315273"
+  }, {
+    "participantId" : "16",
+    "club" : "SC Parcival",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Gijs",
+      "lastName" : "VANNIEUWENBORGH",
+      "fullName" : "VANNIEUWENBORGH, Gijs"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348313"
+  }, {
+    "participantId" : "17",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "WERNER",
+      "fullName" : "WERNER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330183"
+  }, {
+    "participantId" : "18",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "ZIEGLER",
+      "fullName" : "ZIEGLER, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341537"
+  }, {
+    "participantId" : "19",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "SURAHA",
+      "fullName" : "SURAHA, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351689"
+  } ]
+}

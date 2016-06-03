@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10389-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Laszlo Heinze",
+      "lastName" : "ENSTED",
+      "fullName" : "ENSTED, Laszlo Heinze"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353465"
+  }, {
+    "participantId" : "2",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "KNUDSEN",
+      "fullName" : "KNUDSEN, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353464"
+  }, {
+    "participantId" : "3",
+    "club" : "Gilleleje FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "PEREZ",
+      "fullName" : "PEREZ, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359051"
+  }, {
+    "participantId" : "4",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Frederik",
+      "lastName" : "TROEN",
+      "fullName" : "TROEN, Frederik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353423"
+  } ]
+}

@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10110-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kathryn Jessica",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Kathryn Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37506",
+    "fwwId" : "344107"
+  }, {
+    "participantId" : "2",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Cailyn",
+      "lastName" : "DUNCAN",
+      "fullName" : "DUNCAN, Cailyn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358288"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kiandra",
+      "lastName" : "EATON",
+      "fullName" : "EATON, Kiandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355959"
+  }, {
+    "participantId" : "4",
+    "club" : "Hillcrest Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "GIBSON",
+      "fullName" : "GIBSON, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40780",
+    "fwwId" : "328111"
+  }, {
+    "participantId" : "5",
+    "club" : "CHSA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kesia",
+      "lastName" : "MATTHEWS",
+      "fullName" : "MATTHEWS, Kesia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328193"
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9076-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VFK Varde 1969",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sofie Dyrup",
+      "lastName" : "CHRISTIANSEN",
+      "fullName" : "CHRISTIANSEN, Sofie Dyrup"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322751"
+  }, {
+    "participantId" : "2",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sira Marie Røder",
+      "lastName" : "CLEMMENSEN",
+      "fullName" : "CLEMMENSEN, Sira Marie Røder"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346022"
+  }, {
+    "participantId" : "3",
+    "club" : "Aalborg FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Johanne Højland",
+      "lastName" : "LAURSEN",
+      "fullName" : "LAURSEN, Johanne Højland"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349875"
+  }, {
+    "participantId" : "4",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Olivia",
+      "lastName" : "LUNDSGAARD",
+      "fullName" : "LUNDSGAARD, Olivia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359936"
+  }, {
+    "participantId" : "5",
+    "club" : "KrF Kristiansand",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Marte",
+      "lastName" : "MITCHELL",
+      "fullName" : "MITCHELL, Marte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "VFK Varde 1969",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Stine",
+      "lastName" : "OLSTRØM",
+      "fullName" : "OLSTRØM, Stine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312326"
+  }, {
+    "participantId" : "7",
+    "club" : "Aalborg FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Camilla Haack",
+      "lastName" : "VADSTRUP",
+      "fullName" : "VADSTRUP, Camilla Haack"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328037"
+  }, {
+    "participantId" : "8",
+    "club" : "TVF Thisted",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Amalie",
+      "lastName" : "WØHLK",
+      "fullName" : "WØHLK, Amalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324910"
+  } ]
+}

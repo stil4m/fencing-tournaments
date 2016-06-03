@@ -1,0 +1,102 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12901-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : true
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : true
+  }, {
+    "position" : null,
+    "participantId" : "2",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VASK Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Abraham Hunter",
+      "lastName" : "COETZEE",
+      "fullName" : "COETZEE, Abraham Hunter"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "321428"
+  }, {
+    "participantId" : "2",
+    "club" : "Garden Route FA",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Dandré",
+      "lastName" : "DE JONG",
+      "fullName" : "DE JONG, Dandré"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "332255"
+  }, {
+    "participantId" : "3",
+    "club" : "Ere Sabel Mokopane",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Andrew",
+      "lastName" : "HOWITT",
+      "fullName" : "HOWITT, Andrew"
+    },
+    "gender" : null,
+    "fieId" : "28819",
+    "fwwId" : "304255"
+  }, {
+    "participantId" : "4",
+    "club" : "Jeppe Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "HUMAN",
+      "fullName" : "HUMAN, Alexander"
+    },
+    "gender" : null,
+    "fieId" : "38558",
+    "fwwId" : "344531"
+  }, {
+    "participantId" : "5",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Harry",
+      "lastName" : "SANER",
+      "fullName" : "SANER, Harry"
+    },
+    "gender" : null,
+    "fieId" : "40792",
+    "fwwId" : "321502"
+  }, {
+    "participantId" : "6",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jeremy",
+      "lastName" : "SANER",
+      "fullName" : "SANER, Jeremy"
+    },
+    "gender" : null,
+    "fieId" : "34714",
+    "fwwId" : "321447"
+  } ]
+}

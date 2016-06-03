@@ -1,0 +1,146 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3423-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "DRESSLER",
+      "fullName" : "DRESSLER, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119661"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "FRANK",
+      "fullName" : "FRANK, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355275"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul Jonas",
+      "lastName" : "HACKMANN",
+      "fullName" : "HACKMANN, Paul Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120106"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "HAUMAYR",
+      "fullName" : "HAUMAYR, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "89508"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Garmisch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "KNECHTL",
+      "fullName" : "KNECHTL, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359697"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pius",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Pius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336167"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan Philipp",
+      "lastName" : "RAVE",
+      "fullName" : "RAVE, Jan Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355163"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "SCHIESSLING",
+      "fullName" : "SCHIESSLING, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "304853"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Gröbenzell",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "STROHMAYER",
+      "fullName" : "STROHMAYER, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350795"
+  } ]
+}

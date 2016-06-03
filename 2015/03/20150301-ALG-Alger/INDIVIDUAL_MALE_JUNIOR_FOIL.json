@@ -1,0 +1,301 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2015,
+      "id" : "858"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mohannad",
+      "lastName" : "ABOZEID",
+      "fullName" : "ABOZEID, Mohannad"
+    },
+    "gender" : "MALE",
+    "fieId" : "30332",
+    "fwwId" : "312730"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Youcef",
+      "lastName" : "MADI",
+      "fullName" : "MADI, Youcef"
+    },
+    "gender" : "MALE",
+    "fieId" : "32433",
+    "fwwId" : "325364"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Yehia",
+      "lastName" : "MASSOUD",
+      "fullName" : "MASSOUD, Yehia"
+    },
+    "gender" : "MALE",
+    "fieId" : "30334",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Nour",
+      "lastName" : "ELMASRY",
+      "fullName" : "ELMASRY, Nour"
+    },
+    "gender" : "MALE",
+    "fieId" : "32726",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "SEN",
+    "name" : {
+      "firstName" : "Yancoba Djimmy Carter",
+      "lastName" : "SAGNA",
+      "fullName" : "SAGNA, Yancoba Djimmy Carter"
+    },
+    "gender" : "MALE",
+    "fieId" : "35534",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Fares",
+      "lastName" : "ZIDI",
+      "fullName" : "ZIDI, Fares"
+    },
+    "gender" : "MALE",
+    "fieId" : "29209",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Salim",
+      "lastName" : "HEROUI",
+      "fullName" : "HEROUI, Salim"
+    },
+    "gender" : "MALE",
+    "fieId" : "32434",
+    "fwwId" : "325365"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Anis",
+      "lastName" : "GRABSSIA",
+      "fullName" : "GRABSSIA, Anis"
+    },
+    "gender" : "MALE",
+    "fieId" : "32432",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Mohamed Khalil",
+      "lastName" : "JOUINI",
+      "fullName" : "JOUINI, Mohamed Khalil"
+    },
+    "gender" : "MALE",
+    "fieId" : "37447",
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Youssef",
+      "lastName" : "EID",
+      "fullName" : "EID, Youssef"
+    },
+    "gender" : "MALE",
+    "fieId" : "32942",
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Gaoussou",
+      "lastName" : "COULIBALY",
+      "fullName" : "COULIBALY, Gaoussou"
+    },
+    "gender" : "MALE",
+    "fieId" : "37365",
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Andrew",
+      "lastName" : "HOWITT",
+      "fullName" : "HOWITT, Andrew"
+    },
+    "gender" : "MALE",
+    "fieId" : "28819",
+    "fwwId" : "304255"
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Mohamed Aziz",
+      "lastName" : "METOUI",
+      "fullName" : "METOUI, Mohamed Aziz"
+    },
+    "gender" : "MALE",
+    "fieId" : "37110",
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "MAR",
+    "name" : {
+      "firstName" : "Ahmed",
+      "lastName" : "EL AKKAD",
+      "fullName" : "EL AKKAD, Ahmed"
+    },
+    "gender" : "MALE",
+    "fieId" : "30381",
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Amar",
+      "lastName" : "BRAHMIA",
+      "fullName" : "BRAHMIA, Amar"
+    },
+    "gender" : "MALE",
+    "fieId" : "37489",
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "PRETORIUS",
+      "fullName" : "PRETORIUS, David"
+    },
+    "gender" : "MALE",
+    "fieId" : "37368",
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Gaelan",
+      "lastName" : "WORT",
+      "fullName" : "WORT, Gaelan"
+    },
+    "gender" : "MALE",
+    "fieId" : "37371",
+    "fwwId" : "323046"
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Lanfia",
+      "lastName" : "SOUMANO",
+      "fullName" : "SOUMANO, Lanfia"
+    },
+    "gender" : "MALE",
+    "fieId" : "37364",
+    "fwwId" : null
+  } ]
+}

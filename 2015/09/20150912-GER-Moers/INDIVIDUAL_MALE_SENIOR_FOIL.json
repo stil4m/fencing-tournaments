@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2728-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "s.v. O.K.K.",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Sebastiaan",
+      "lastName" : "BORST",
+      "fullName" : "BORST, Sebastiaan"
+    },
+    "gender" : "MALE",
+    "fieId" : "5194",
+    "fwwId" : "14465"
+  }, {
+    "participantId" : "2",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "BOTH",
+      "fullName" : "BOTH, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "31337"
+  }, {
+    "participantId" : "3",
+    "club" : "1. FC Quadrath-Ichendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dominik",
+      "lastName" : "FOERGES",
+      "fullName" : "FOERGES, Dominik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "25447"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "GOSSENS",
+      "fullName" : "GOSSENS, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "117673"
+  }, {
+    "participantId" : "5",
+    "club" : "FS Gummersbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "JÜRGES",
+      "fullName" : "JÜRGES, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "35189"
+  }, {
+    "participantId" : "6",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arne",
+      "lastName" : "MACHETANZ",
+      "fullName" : "MACHETANZ, Arne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "41487"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "NEUHAUS",
+      "fullName" : "NEUHAUS, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "33062"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florens",
+      "lastName" : "PFANN",
+      "fullName" : "PFANN, Florens"
+    },
+    "gender" : "MALE",
+    "fieId" : "29762",
+    "fwwId" : "153010"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Bergedorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patrick",
+      "lastName" : "SABLOWSKI",
+      "fullName" : "SABLOWSKI, Patrick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "49620"
+  }, {
+    "participantId" : "10",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dominik",
+      "lastName" : "SCHOPPA",
+      "fullName" : "SCHOPPA, Dominik"
+    },
+    "gender" : "MALE",
+    "fieId" : "31139",
+    "fwwId" : "37618"
+  }, {
+    "participantId" : "11",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thorsten",
+      "lastName" : "STOCKHAUSEN",
+      "fullName" : "STOCKHAUSEN, Thorsten"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "3794"
+  }, {
+    "participantId" : "12",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marian Alexander",
+      "lastName" : "VESPER",
+      "fullName" : "VESPER, Marian Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : "26493",
+    "fwwId" : "37613"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "ZYBER",
+      "fullName" : "ZYBER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "8426"
+  } ]
+}

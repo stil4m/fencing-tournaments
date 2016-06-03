@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10088-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OFC Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "BAUR",
+      "fullName" : "BAUR, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358223"
+  }, {
+    "participantId" : "2",
+    "club" : "Bishops FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Mark",
+      "lastName" : "BERGH",
+      "fullName" : "BERGH, Mark"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360935"
+  }, {
+    "participantId" : "3",
+    "club" : "Garden Route FA",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Francois",
+      "lastName" : "CAMPHER",
+      "fullName" : "CAMPHER, Francois"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332257"
+  }, {
+    "participantId" : "4",
+    "club" : "Bishops FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alaric",
+      "lastName" : "MCGREGOR",
+      "fullName" : "MCGREGOR, Alaric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325657"
+  }, {
+    "participantId" : "5",
+    "club" : "TMFC Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Caden",
+      "lastName" : "SAMPSON",
+      "fullName" : "SAMPSON, Caden"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359803"
+  }, {
+    "participantId" : "6",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Harry",
+      "lastName" : "SANER",
+      "fullName" : "SANER, Harry"
+    },
+    "gender" : "MALE",
+    "fieId" : "40792",
+    "fwwId" : "321502"
+  }, {
+    "participantId" : "7",
+    "club" : "Ere Sabel Mokopane",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "SINCLAIR",
+      "fullName" : "SINCLAIR, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332082"
+  }, {
+    "participantId" : "8",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Ayanda",
+      "lastName" : "TUKU",
+      "fullName" : "TUKU, Ayanda"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345395"
+  }, {
+    "participantId" : "9",
+    "club" : "Garden Route FA",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Johann",
+      "lastName" : "VAN DER WALT",
+      "fullName" : "VAN DER WALT, Johann"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353494"
+  }, {
+    "participantId" : "10",
+    "club" : "Ere Sabel Mokopane",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Edwin",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Edwin"
+    },
+    "gender" : "MALE",
+    "fieId" : "40791",
+    "fwwId" : "332087"
+  } ]
+}

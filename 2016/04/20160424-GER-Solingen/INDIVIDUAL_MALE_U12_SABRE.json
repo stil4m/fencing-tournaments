@@ -1,0 +1,330 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3048-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "BERLAGE",
+      "fullName" : "BERLAGE, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333609"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hans-Georg",
+      "lastName" : "BERMUTH",
+      "fullName" : "BERMUTH, Hans-Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362806"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "BUSSMANN",
+      "fullName" : "BUSSMANN, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351688"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carsten",
+      "lastName" : "ENGELHARDT",
+      "fullName" : "ENGELHARDT, Carsten"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342269"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mattis Philip",
+      "lastName" : "HABIG",
+      "fullName" : "HABIG, Mattis Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353466"
+  }, {
+    "participantId" : "6",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "HAFERMAAS",
+      "fullName" : "HAFERMAAS, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344227"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mick",
+      "lastName" : "HOLZ",
+      "fullName" : "HOLZ, Mick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320654"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp-Bernd",
+      "lastName" : "METHNER",
+      "fullName" : "METHNER, Philipp-Bernd"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330177"
+  }, {
+    "participantId" : "9",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ivan",
+      "lastName" : "NEHER",
+      "fullName" : "NEHER, Ivan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334267"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marc",
+      "lastName" : "NEUHÄUSER",
+      "fullName" : "NEUHÄUSER, Marc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326929"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "PASCHEN",
+      "fullName" : "PASCHEN, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329111"
+  }, {
+    "participantId" : "12",
+    "club" : "de Klauwaerts",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Nand",
+      "lastName" : "PROSSÉ",
+      "fullName" : "PROSSÉ, Nand"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356364"
+  }, {
+    "participantId" : "13",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marvin",
+      "lastName" : "SCHRAVEN",
+      "fullName" : "SCHRAVEN, Marvin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330189"
+  }, {
+    "participantId" : "14",
+    "club" : "CTG Koblenz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Grigorij",
+      "lastName" : "STIEBER",
+      "fullName" : "STIEBER, Grigorij"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340771"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tristan Maximilian",
+      "lastName" : "TEICHNER",
+      "fullName" : "TEICHNER, Tristan Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341384"
+  }, {
+    "participantId" : "16",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "ULRICH",
+      "fullName" : "ULRICH, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347776"
+  }, {
+    "participantId" : "17",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kajus",
+      "lastName" : "WEITENBERG",
+      "fullName" : "WEITENBERG, Kajus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356224"
+  }, {
+    "participantId" : "18",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Balthasar",
+      "lastName" : "BLUM",
+      "fullName" : "BLUM, Balthasar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351428"
+  }, {
+    "participantId" : "19",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonhard",
+      "lastName" : "LYDKA",
+      "fullName" : "LYDKA, Leonhard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334381"
+  }, {
+    "participantId" : "20",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "SAJTHY",
+      "fullName" : "SAJTHY, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323993"
+  }, {
+    "participantId" : "21",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlon",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Marlon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357139"
+  } ]
+}

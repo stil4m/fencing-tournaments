@@ -1,0 +1,94 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2250-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Lea",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Lea"
+    }, {
+      "firstName" : "Carolin",
+      "lastName" : "TEUBER",
+      "fullName" : "TEUBER, Carolin"
+    }, {
+      "firstName" : "Lilia",
+      "lastName" : "CARDUCCI",
+      "fullName" : "CARDUCCI, Lilia"
+    }, {
+      "firstName" : "Franziska",
+      "lastName" : "MAYR",
+      "fullName" : "MAYR, Franziska"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "2",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Bianca Ines",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Bianca Ines"
+    }, {
+      "firstName" : "Ronja",
+      "lastName" : "HEES",
+      "fullName" : "HEES, Ronja"
+    }, {
+      "firstName" : "Anja",
+      "lastName" : "HÄNDLER",
+      "fullName" : "HÄNDLER, Anja"
+    }, {
+      "firstName" : "Theresa",
+      "lastName" : "BÜHNER",
+      "fullName" : "BÜHNER, Theresa"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "3",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : [ {
+      "firstName" : "Ann-Sophie",
+      "lastName" : "GECKELER",
+      "fullName" : "GECKELER, Ann-Sophie"
+    }, {
+      "firstName" : "Anna Marie",
+      "lastName" : "HOGENMÜLLER",
+      "fullName" : "HOGENMÜLLER, Anna Marie"
+    }, {
+      "firstName" : "Alexandra",
+      "lastName" : "ISLEBE",
+      "fullName" : "ISLEBE, Alexandra"
+    }, {
+      "firstName" : "Cira",
+      "lastName" : "NOEVER",
+      "fullName" : "NOEVER, Cira"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52948"
+  } ]
+}

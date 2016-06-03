@@ -1,0 +1,386 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2072-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabell",
+      "lastName" : "BESIER",
+      "fullName" : "BESIER, Isabell"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "84997"
+  }, {
+    "participantId" : "2",
+    "club" : "PSV Stuttgart",
+    "country" : "SVK",
+    "name" : {
+      "firstName" : "Carolina",
+      "lastName" : "CIGANKOVA",
+      "fullName" : "CIGANKOVA, Carolina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329371"
+  }, {
+    "participantId" : "3",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anja",
+      "lastName" : "HARSÁNYI",
+      "fullName" : "HARSÁNYI, Anja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123284"
+  }, {
+    "participantId" : "4",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pia",
+      "lastName" : "HERSCHLEIN",
+      "fullName" : "HERSCHLEIN, Pia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322102"
+  }, {
+    "participantId" : "5",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea Maria",
+      "lastName" : "HÖRDT",
+      "fullName" : "HÖRDT, Lea Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319000"
+  }, {
+    "participantId" : "6",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilli",
+      "lastName" : "HÜGEL",
+      "fullName" : "HÜGEL, Lilli"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322103"
+  }, {
+    "participantId" : "7",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "KAPPEL",
+      "fullName" : "KAPPEL, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324549"
+  }, {
+    "participantId" : "8",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mirjam",
+      "lastName" : "KIECKBUSCH",
+      "fullName" : "KIECKBUSCH, Mirjam"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318044"
+  }, {
+    "participantId" : "9",
+    "club" : "SportVg Feuerbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marthe",
+      "lastName" : "KILIAN",
+      "fullName" : "KILIAN, Marthe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332693"
+  }, {
+    "participantId" : "10",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "KNODEL",
+      "fullName" : "KNODEL, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348996"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Myléne",
+      "lastName" : "LEIER",
+      "fullName" : "LEIER, Myléne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312804"
+  }, {
+    "participantId" : "12",
+    "club" : "FC TuS Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Penelope",
+      "lastName" : "MARTINEZ-HALMEN",
+      "fullName" : "MARTINEZ-HALMEN, Penelope"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330220"
+  }, {
+    "participantId" : "13",
+    "club" : "SportVg Feuerbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Liora",
+      "lastName" : "OELSCHLAEGER",
+      "fullName" : "OELSCHLAEGER, Liora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332696"
+  }, {
+    "participantId" : "14",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "ÖTTL",
+      "fullName" : "ÖTTL, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318999"
+  }, {
+    "participantId" : "15",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aline",
+      "lastName" : "RUSTLER",
+      "fullName" : "RUSTLER, Aline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324552"
+  }, {
+    "participantId" : "16",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "85726"
+  }, {
+    "participantId" : "17",
+    "club" : "TSG 1845 Heilbronn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linnea",
+      "lastName" : "SCHOBER",
+      "fullName" : "SCHOBER, Linnea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120417"
+  }, {
+    "participantId" : "18",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "SCHOCH",
+      "fullName" : "SCHOCH, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117501"
+  }, {
+    "participantId" : "19",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Estella",
+      "lastName" : "SZIKSZAI",
+      "fullName" : "SZIKSZAI, Estella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325079"
+  }, {
+    "participantId" : "20",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "TSIMOPOULOU",
+      "fullName" : "TSIMOPOULOU, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "334146"
+  }, {
+    "participantId" : "21",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315038"
+  }, {
+    "participantId" : "22",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Davina",
+      "lastName" : "ZIEHL",
+      "fullName" : "ZIEHL, Davina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342702"
+  }, {
+    "participantId" : "23",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nathalie",
+      "lastName" : "KARNATH",
+      "fullName" : "KARNATH, Nathalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88236"
+  }, {
+    "participantId" : "24",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "BAUR",
+      "fullName" : "BAUR, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329419"
+  } ]
+}

@@ -1,0 +1,178 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7212-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vreni",
+      "lastName" : "BRUCKDORFER",
+      "fullName" : "BRUCKDORFER, Vreni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333783"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina Emmi",
+      "lastName" : "CARSTENSEN",
+      "fullName" : "CARSTENSEN, Lina Emmi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355423"
+  }, {
+    "participantId" : "3",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ilayda",
+      "lastName" : "HARIRCI",
+      "fullName" : "HARIRCI, Ilayda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348935"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niloufar",
+      "lastName" : "HAUSCHILD",
+      "fullName" : "HAUSCHILD, Niloufar"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355420"
+  }, {
+    "participantId" : "5",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pauline",
+      "lastName" : "JENDROSSEK",
+      "fullName" : "JENDROSSEK, Pauline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348933"
+  }, {
+    "participantId" : "6",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Franka",
+      "lastName" : "KAISER",
+      "fullName" : "KAISER, Franka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355422"
+  }, {
+    "participantId" : "7",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Livia",
+      "lastName" : "OLIVIERI",
+      "fullName" : "OLIVIERI, Livia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339563"
+  }, {
+    "participantId" : "8",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eleftheria",
+      "lastName" : "SOULEMEZI",
+      "fullName" : "SOULEMEZI, Eleftheria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349148"
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christina",
+      "lastName" : "TSOGIDIS",
+      "fullName" : "TSOGIDIS, Christina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339562"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antje",
+      "lastName" : "RUF",
+      "fullName" : "RUF, Antje"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320221"
+  }, {
+    "participantId" : "11",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "KAMPF",
+      "fullName" : "KAMPF, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355174"
+  } ]
+}

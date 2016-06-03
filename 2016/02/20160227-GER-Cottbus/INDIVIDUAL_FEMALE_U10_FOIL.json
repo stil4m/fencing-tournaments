@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8091-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "NELZA",
+      "fullName" : "NELZA, Dominika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333237"
+  }, {
+    "participantId" : "2",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Oliwia",
+      "lastName" : "SZWERYN",
+      "fullName" : "SZWERYN, Oliwia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361182"
+  }, {
+    "participantId" : "3",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Hanna",
+      "lastName" : "POSADZY",
+      "fullName" : "POSADZY, Hanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354635"
+  }, {
+    "participantId" : "4",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "CHUDASCH",
+      "fullName" : "CHUDASCH, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357699"
+  }, {
+    "participantId" : "5",
+    "club" : "SV Lok Pritzwalk",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentine",
+      "lastName" : "PROSS",
+      "fullName" : "PROSS, Valentine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358566"
+  }, {
+    "participantId" : "6",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "RADZIK",
+      "fullName" : "RADZIK, Dominika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348045"
+  } ]
+}

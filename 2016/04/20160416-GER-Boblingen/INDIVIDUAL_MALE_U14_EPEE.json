@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7556-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "EISELE",
+      "fullName" : "EISELE, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326696"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "HENZLER",
+      "fullName" : "HENZLER, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325009"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clemens",
+      "lastName" : "KIRSCH",
+      "fullName" : "KIRSCH, Clemens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312607"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "SCHMID",
+      "fullName" : "SCHMID, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329415"
+  } ]
+}

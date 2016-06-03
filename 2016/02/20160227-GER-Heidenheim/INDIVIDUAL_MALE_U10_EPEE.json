@@ -1,0 +1,298 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12724-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "John",
+      "lastName" : "BADER",
+      "fullName" : "BADER, John"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351953"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "BETZ",
+      "fullName" : "BETZ, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353786"
+  }, {
+    "participantId" : "3",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leandro",
+      "lastName" : "BEYRLE",
+      "fullName" : "BEYRLE, Leandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355426"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "BUSCH",
+      "fullName" : "BUSCH, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355427"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "ERDMENGER",
+      "fullName" : "ERDMENGER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351956"
+  }, {
+    "participantId" : "6",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico Leon",
+      "lastName" : "GECKELER",
+      "fullName" : "GECKELER, Nico Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329504"
+  }, {
+    "participantId" : "7",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aron",
+      "lastName" : "GROSS",
+      "fullName" : "GROSS, Aron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355218"
+  }, {
+    "participantId" : "8",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "HAUX",
+      "fullName" : "HAUX, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355429"
+  }, {
+    "participantId" : "9",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "JURTSCHAK",
+      "fullName" : "JURTSCHAK, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355430"
+  }, {
+    "participantId" : "10",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dario",
+      "lastName" : "KNÖR",
+      "fullName" : "KNÖR, Dario"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342597"
+  }, {
+    "participantId" : "11",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "KÜHBAUCH",
+      "fullName" : "KÜHBAUCH, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345533"
+  }, {
+    "participantId" : "12",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "LENHARDT",
+      "fullName" : "LENHARDT, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356674"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "MARSCHALL",
+      "fullName" : "MARSCHALL, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349089"
+  }, {
+    "participantId" : "14",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "MUSSMANN",
+      "fullName" : "MUSSMANN, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355236"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "PÜST",
+      "fullName" : "PÜST, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349335"
+  }, {
+    "participantId" : "16",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "REHMANN",
+      "fullName" : "REHMANN, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356677"
+  }, {
+    "participantId" : "17",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joannes",
+      "lastName" : "SCHENKENGEL",
+      "fullName" : "SCHENKENGEL, Joannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355432"
+  }, {
+    "participantId" : "18",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "STRASSNER",
+      "fullName" : "STRASSNER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355221"
+  } ]
+}

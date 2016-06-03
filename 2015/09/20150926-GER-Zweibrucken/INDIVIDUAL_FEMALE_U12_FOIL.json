@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5262-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucia",
+      "lastName" : "ARNELA",
+      "fullName" : "ARNELA, Lucia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338045"
+  }, {
+    "participantId" : "2",
+    "club" : "VT Zweibrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "BUCHHOLTZ",
+      "fullName" : "BUCHHOLTZ, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "331834"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "HÖFLER",
+      "fullName" : "HÖFLER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305759"
+  }, {
+    "participantId" : "4",
+    "club" : "Mannheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "HOLLAND-CUNZ",
+      "fullName" : "HOLLAND-CUNZ, Luca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326421"
+  }, {
+    "participantId" : "5",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cecile",
+      "lastName" : "NÜTTGENS",
+      "fullName" : "NÜTTGENS, Cecile"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338052"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "PLECHINGER",
+      "fullName" : "PLECHINGER, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335308"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Viola",
+      "lastName" : "PONGRATZ",
+      "fullName" : "PONGRATZ, Viola"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325882"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patricia",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Patricia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326079"
+  }, {
+    "participantId" : "9",
+    "club" : "TGM Mainz-Gonsenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Abigail",
+      "lastName" : "TROPMANN",
+      "fullName" : "TROPMANN, Abigail"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345961"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Landau im ASV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346049"
+  } ]
+}

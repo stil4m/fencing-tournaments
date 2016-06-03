@@ -1,0 +1,98 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8125-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "BARTELS",
+      "fullName" : "BARTELS, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302552"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laurenc",
+      "lastName" : "BELOW",
+      "fullName" : "BELOW, Laurenc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341128"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "BRINKMANN",
+      "fullName" : "BRINKMANN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313238"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "DOMBROWSKI",
+      "fullName" : "DOMBROWSKI, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302533"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michel",
+      "lastName" : "KÖHLER",
+      "fullName" : "KÖHLER, Michel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341126"
+  }, {
+    "participantId" : "6",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "REHDA",
+      "fullName" : "REHDA, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302528"
+  } ]
+}

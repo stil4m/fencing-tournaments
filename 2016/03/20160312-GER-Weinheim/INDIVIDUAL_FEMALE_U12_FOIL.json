@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3727-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "BAARS",
+      "fullName" : "BAARS, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333939"
+  }, {
+    "participantId" : "2",
+    "club" : "VT Zweibrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "BUCHHOLTZ",
+      "fullName" : "BUCHHOLTZ, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "331834"
+  }, {
+    "participantId" : "3",
+    "club" : "Mannheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Liliane",
+      "lastName" : "HASSINGER",
+      "fullName" : "HASSINGER, Liliane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326420"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "HÖFLER",
+      "fullName" : "HÖFLER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305759"
+  }, {
+    "participantId" : "5",
+    "club" : "UFA",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Irina",
+      "lastName" : "KRASNOPEROVA",
+      "fullName" : "KRASNOPEROVA, Irina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "LECOUR",
+      "fullName" : "LECOUR, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333718"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leandra",
+      "lastName" : "LOTTER",
+      "fullName" : "LOTTER, Leandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333719"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Offenbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Romy",
+      "lastName" : "METZNER",
+      "fullName" : "METZNER, Romy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358800"
+  }, {
+    "participantId" : "9",
+    "club" : "UFA",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Elizaveta",
+      "lastName" : "PERVUSHINA",
+      "fullName" : "PERVUSHINA, Elizaveta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amelie",
+      "lastName" : "SCHLÜTER",
+      "fullName" : "SCHLÜTER, Amelie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345535"
+  }, {
+    "participantId" : "11",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SPIELVOGEL",
+      "fullName" : "SPIELVOGEL, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349853"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Offenbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "THORENZ",
+      "fullName" : "THORENZ, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346730"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "UMMINGER",
+      "fullName" : "UMMINGER, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333721"
+  }, {
+    "participantId" : "14",
+    "club" : "Rostov",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "URAKCHIEVA",
+      "fullName" : "URAKCHIEVA, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350580"
+  }, {
+    "participantId" : "15",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "WITT",
+      "fullName" : "WITT, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333941"
+  } ]
+}

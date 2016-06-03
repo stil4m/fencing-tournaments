@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10393-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Júlíus Aron Thibautson",
+      "lastName" : "GUILBERT",
+      "fullName" : "GUILBERT, Júlíus Aron Thibautson"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "335825"
+  }, {
+    "participantId" : "2",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Tobias"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359391"
+  } ]
+}

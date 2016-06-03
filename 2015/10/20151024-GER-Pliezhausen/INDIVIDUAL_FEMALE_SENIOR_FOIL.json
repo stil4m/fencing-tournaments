@@ -1,0 +1,266 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7273-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Cannstatt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eva",
+      "lastName" : "ANDRAE",
+      "fullName" : "ANDRAE, Eva"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306491"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chiara",
+      "lastName" : "BERNI",
+      "fullName" : "BERNI, Chiara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340927"
+  }, {
+    "participantId" : "3",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie-Louise",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Marie-Louise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323383"
+  }, {
+    "participantId" : "4",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly",
+      "lastName" : "GROSSSTÜCK",
+      "fullName" : "GROSSSTÜCK, Lilly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "28667"
+  }, {
+    "participantId" : "5",
+    "club" : "MTV Ludwigsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marianne",
+      "lastName" : "GÜNTHER",
+      "fullName" : "GÜNTHER, Marianne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335461"
+  }, {
+    "participantId" : "6",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ronja",
+      "lastName" : "HABERMANN",
+      "fullName" : "HABERMANN, Ronja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323952"
+  }, {
+    "participantId" : "7",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anja",
+      "lastName" : "HARSÁNYI",
+      "fullName" : "HARSÁNYI, Anja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123284"
+  }, {
+    "participantId" : "8",
+    "club" : "MTV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ecem",
+      "lastName" : "INCEDALKESEN",
+      "fullName" : "INCEDALKESEN, Ecem"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323419"
+  }, {
+    "participantId" : "9",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "KNODEL",
+      "fullName" : "KNODEL, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348996"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolin",
+      "lastName" : "LEITZBACH",
+      "fullName" : "LEITZBACH, Carolin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311806"
+  }, {
+    "participantId" : "11",
+    "club" : "MTV Ludwigsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aurelia",
+      "lastName" : "LENNÉ",
+      "fullName" : "LENNÉ, Aurelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356749"
+  }, {
+    "participantId" : "12",
+    "club" : "SF Tübingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "MEINHARDT",
+      "fullName" : "MEINHARDT, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "52019"
+  }, {
+    "participantId" : "13",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marion",
+      "lastName" : "MENZEL",
+      "fullName" : "MENZEL, Marion"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "44641"
+  }, {
+    "participantId" : "14",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sandra",
+      "lastName" : "SCHERER",
+      "fullName" : "SCHERER, Sandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "10038"
+  }, {
+    "participantId" : "15",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "SCHOCH",
+      "fullName" : "SCHOCH, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117501"
+  }, {
+    "participantId" : "16",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "TSIMOPOULOU",
+      "fullName" : "TSIMOPOULOU, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "334146"
+  } ]
+}

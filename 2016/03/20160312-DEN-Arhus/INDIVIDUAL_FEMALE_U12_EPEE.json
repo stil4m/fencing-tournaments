@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9074-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Amanda",
+      "lastName" : "CHRISTIANSEN",
+      "fullName" : "CHRISTIANSEN, Amanda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336244"
+  }, {
+    "participantId" : "2",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ea",
+      "lastName" : "HANSEN LYKKE",
+      "fullName" : "HANSEN LYKKE, Ea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

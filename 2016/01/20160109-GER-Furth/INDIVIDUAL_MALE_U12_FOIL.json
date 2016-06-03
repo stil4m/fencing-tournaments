@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3163-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "ALTENRIEDER",
+      "fullName" : "ALTENRIEDER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318563"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maurice-Leon",
+      "lastName" : "BAUKNECHT",
+      "fullName" : "BAUKNECHT, Maurice-Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333713"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "GALUSCHKY",
+      "fullName" : "GALUSCHKY, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354437"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Camillo",
+      "lastName" : "LANGE",
+      "fullName" : "LANGE, Camillo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340675"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "MICHEL",
+      "fullName" : "MICHEL, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333714"
+  }, {
+    "participantId" : "6",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "PIXIS",
+      "fullName" : "PIXIS, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355261"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Helmbrechts",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Titus",
+      "lastName" : "SCHULZE-ZUMHÜLSEN",
+      "fullName" : "SCHULZE-ZUMHÜLSEN, Titus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348732"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "TAPPE",
+      "fullName" : "TAPPE, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333715"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonte",
+      "lastName" : "TATZKO",
+      "fullName" : "TATZKO, Jonte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358354"
+  } ]
+}

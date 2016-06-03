@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7001-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "teamName" : "FECHTCLUB MÜNCHEN Fechtclub München",
+    "members" : [ {
+      "firstName" : "Lina",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Lina"
+    }, {
+      "firstName" : "Mathilde",
+      "lastName" : "TOELKE",
+      "fullName" : "TOELKE, Mathilde"
+    }, {
+      "firstName" : "Emma",
+      "lastName" : "SCHAFFT",
+      "fullName" : "SCHAFFT, Emma"
+    } ],
+    "fieId" : null,
+    "fwwId" : "355192"
+  }, {
+    "participantId" : "2",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Carolin",
+      "lastName" : "TEUBER",
+      "fullName" : "TEUBER, Carolin"
+    }, {
+      "firstName" : "Johanna",
+      "lastName" : "RIEBER",
+      "fullName" : "RIEBER, Johanna"
+    }, {
+      "firstName" : "Lilia",
+      "lastName" : "CARDUCCI",
+      "fullName" : "CARDUCCI, Lilia"
+    }, {
+      "firstName" : "Giulia",
+      "lastName" : "ALBRECHT",
+      "fullName" : "ALBRECHT, Giulia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "3",
+    "club" : "STG Karlsruhe / Mannheim",
+    "country" : "GER",
+    "teamName" : "STG KARLSRUHE/MANNHEIM",
+    "members" : [ {
+      "firstName" : "Alexandra Chiara",
+      "lastName" : "HÖSEL",
+      "fullName" : "HÖSEL, Alexandra Chiara"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "VAGNER",
+      "fullName" : "VAGNER, Laura"
+    }, {
+      "firstName" : "Pia Rhianna",
+      "lastName" : "HÖSEL",
+      "fullName" : "HÖSEL, Pia Rhianna"
+    }, {
+      "firstName" : "Barbara",
+      "lastName" : "HAUER",
+      "fullName" : "HAUER, Barbara"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52934"
+  }, {
+    "participantId" : "4",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Ronja",
+      "lastName" : "HEES",
+      "fullName" : "HEES, Ronja"
+    }, {
+      "firstName" : "Bianca Ines",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Bianca Ines"
+    }, {
+      "firstName" : "Anja",
+      "lastName" : "HÄNDLER",
+      "fullName" : "HÄNDLER, Anja"
+    }, {
+      "firstName" : "Kerstin",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Kerstin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN II",
+    "members" : [ {
+      "firstName" : "Hanna",
+      "lastName" : "HAUFF",
+      "fullName" : "HAUFF, Hanna"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "THRUM",
+      "fullName" : "THRUM, Lea"
+    }, {
+      "firstName" : "Theresa",
+      "lastName" : "BÜHNER",
+      "fullName" : "BÜHNER, Theresa"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Sarah",
+      "lastName" : "FLAGNER",
+      "fullName" : "FLAGNER, Sarah"
+    }, {
+      "firstName" : "Nina",
+      "lastName" : "TOBIAS",
+      "fullName" : "TOBIAS, Nina"
+    }, {
+      "firstName" : "Pauline",
+      "lastName" : "SCHWEIZER",
+      "fullName" : "SCHWEIZER, Pauline"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG 3",
+    "members" : [ {
+      "firstName" : "Marina",
+      "lastName" : "KLEES",
+      "fullName" : "KLEES, Marina"
+    }, {
+      "firstName" : "Kristin",
+      "lastName" : "SCHÄDEL",
+      "fullName" : "SCHÄDEL, Kristin"
+    }, {
+      "firstName" : "Amelie",
+      "lastName" : "LÖFLATH",
+      "fullName" : "LÖFLATH, Amelie"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "MARSCHALL",
+      "fullName" : "MARSCHALL, Laura"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329374"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG II",
+    "members" : [ {
+      "firstName" : "Lara",
+      "lastName" : "ROTHSTEIN",
+      "fullName" : "ROTHSTEIN, Lara"
+    }, {
+      "firstName" : "Michaela",
+      "lastName" : "DIETRICH",
+      "fullName" : "DIETRICH, Michaela"
+    }, {
+      "firstName" : "Eva",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Eva"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

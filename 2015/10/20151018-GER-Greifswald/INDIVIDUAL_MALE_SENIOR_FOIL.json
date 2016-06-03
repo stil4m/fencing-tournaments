@@ -1,0 +1,254 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8785-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "17881"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "BRINKMANN",
+      "fullName" : "BRINKMANN, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331006"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "FENSKE",
+      "fullName" : "FENSKE, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "18125"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "HAMANN",
+      "fullName" : "HAMANN, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302541"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mathias",
+      "lastName" : "HAMANN",
+      "fullName" : "HAMANN, Mathias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340722"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Armen",
+      "lastName" : "KHACHATRYAN",
+      "fullName" : "KHACHATRYAN, Armen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45290"
+  }, {
+    "participantId" : "7",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jannik",
+      "lastName" : "KINZEL",
+      "fullName" : "KINZEL, Jannik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "80309"
+  }, {
+    "participantId" : "8",
+    "club" : "HSG Uni Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stefan",
+      "lastName" : "LEYE",
+      "fullName" : "LEYE, Stefan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "304092"
+  }, {
+    "participantId" : "9",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "MEISEL",
+      "fullName" : "MEISEL, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87195"
+  }, {
+    "participantId" : "10",
+    "club" : "HSG Uni Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robin",
+      "lastName" : "OEHLER",
+      "fullName" : "OEHLER, Robin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313856"
+  }, {
+    "participantId" : "11",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Veit",
+      "lastName" : "PÜRSING",
+      "fullName" : "PÜRSING, Veit"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45514"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniil",
+      "lastName" : "REDKOZUBOV",
+      "fullName" : "REDKOZUBOV, Daniil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334979"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mirko",
+      "lastName" : "TAUFER",
+      "fullName" : "TAUFER, Mirko"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45684"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "TIEDEMANN",
+      "fullName" : "TIEDEMANN, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45696"
+  }, {
+    "participantId" : "15",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Constantin",
+      "lastName" : "TREMEL",
+      "fullName" : "TREMEL, Constantin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "49643"
+  }, {
+    "participantId" : "16",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enrico",
+      "lastName" : "WOLTER",
+      "fullName" : "WOLTER, Enrico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302546"
+  } ]
+}

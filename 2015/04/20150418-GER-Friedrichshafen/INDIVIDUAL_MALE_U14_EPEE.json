@@ -1,0 +1,258 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9544-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Hohenems",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "JOPPI",
+      "fullName" : "JOPPI, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322960"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Hohenems",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Luka",
+      "lastName" : "LEPIR",
+      "fullName" : "LEPIR, Luka"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322959"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "FINK",
+      "fullName" : "FINK, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347796"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "HUCHLER",
+      "fullName" : "HUCHLER, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347795"
+  }, {
+    "participantId" : "5",
+    "club" : "FTSJ Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "BERKTOLD",
+      "fullName" : "BERKTOLD, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331534"
+  }, {
+    "participantId" : "6",
+    "club" : "FTSJ Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321471"
+  }, {
+    "participantId" : "7",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Michel",
+      "lastName" : "GSTETTNER",
+      "fullName" : "GSTETTNER, Michel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327722"
+  }, {
+    "participantId" : "8",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "BROTZER",
+      "fullName" : "BROTZER, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mattis",
+      "lastName" : "SIEGL",
+      "fullName" : "SIEGL, Mattis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327196"
+  }, {
+    "participantId" : "10",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "SPAETH",
+      "fullName" : "SPAETH, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "FCSG St. Gallen",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Silvano",
+      "lastName" : "MASELLI",
+      "fullName" : "MASELLI, Silvano"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332127"
+  }, {
+    "participantId" : "12",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "BOSSHART",
+      "fullName" : "BOSSHART, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332123"
+  }, {
+    "participantId" : "13",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "STEINER",
+      "fullName" : "STEINER, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332113"
+  }, {
+    "participantId" : "14",
+    "club" : "FGK Küssnacht",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nick",
+      "lastName" : "GROSSRIEDER",
+      "fullName" : "GROSSRIEDER, Nick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311043"
+  }, {
+    "participantId" : "15",
+    "club" : "FGS Schaffhausen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "TINNER",
+      "fullName" : "TINNER, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329284"
+  }, {
+    "participantId" : "16",
+    "club" : "FGS Schaffhausen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Stefan",
+      "lastName" : "TSCHUDI",
+      "fullName" : "TSCHUDI, Stefan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342162"
+  } ]
+}

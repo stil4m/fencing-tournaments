@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2069-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "HÜSING",
+      "fullName" : "HÜSING, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309623"
+  }, {
+    "participantId" : "2",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca Janik",
+      "lastName" : "LEWEJOHANN",
+      "fullName" : "LEWEJOHANN, Luca Janik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316157"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Denis",
+      "lastName" : "MAMIN",
+      "fullName" : "MAMIN, Denis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327318"
+  }, {
+    "participantId" : "4",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Toni",
+      "lastName" : "MENZEL",
+      "fullName" : "MENZEL, Toni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309622"
+  }, {
+    "participantId" : "5",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "ZU RHEIN VON BLEUL",
+      "fullName" : "ZU RHEIN VON BLEUL, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309624"
+  } ]
+}

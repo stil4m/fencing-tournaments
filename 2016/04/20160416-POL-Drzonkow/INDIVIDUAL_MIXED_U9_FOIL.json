@@ -1,0 +1,214 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11389-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "BOGACKA",
+      "fullName" : "BOGACKA, Emilia"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "362925"
+  }, {
+    "participantId" : "2",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Maja"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "362926"
+  }, {
+    "participantId" : "3",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Natan",
+      "lastName" : "NILEK",
+      "fullName" : "NILEK, Natan"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "362927"
+  }, {
+    "participantId" : "4",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "PFEIFFER",
+      "fullName" : "PFEIFFER, Benjamin"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359282"
+  }, {
+    "participantId" : "5",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "PUHLMANN",
+      "fullName" : "PUHLMANN, Felix"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "357418"
+  }, {
+    "participantId" : "6",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Raphael"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353671"
+  }, {
+    "participantId" : "7",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Feliks",
+      "lastName" : "WISNIK",
+      "fullName" : "WISNIK, Feliks"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "358631"
+  }, {
+    "participantId" : "8",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Eryk",
+      "lastName" : "WOZNIAK",
+      "fullName" : "WOZNIAK, Eryk"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "362908"
+  }, {
+    "participantId" : "9",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Bartosz",
+      "lastName" : "ZOK",
+      "fullName" : "ZOK, Bartosz"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "362928"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Parsifald",
+      "lastName" : "PRAGER",
+      "fullName" : "PRAGER, Parsifald"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348582"
+  }, {
+    "participantId" : "11",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amanda",
+      "lastName" : "GARBULEWSKI",
+      "fullName" : "GARBULEWSKI, Amanda"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348547"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "MENDEZ",
+      "fullName" : "MENDEZ, Theo"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "352222"
+  }, {
+    "participantId" : "13",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Edgar",
+      "lastName" : "SALUS",
+      "fullName" : "SALUS, Edgar"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359281"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Roxana",
+      "lastName" : "TAGHAVI",
+      "fullName" : "TAGHAVI, Roxana"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "356530"
+  } ]
+}

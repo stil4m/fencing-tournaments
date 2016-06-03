@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6314-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FSF Flawil",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lana-Kiyomi",
+      "lastName" : "BAUMANN",
+      "fullName" : "BAUMANN, Lana-Kiyomi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "334284"
+  }, {
+    "participantId" : "2",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "JAKOB",
+      "fullName" : "JAKOB, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348995"
+  }, {
+    "participantId" : "3",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luisa",
+      "lastName" : "KRESS",
+      "fullName" : "KRESS, Luisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353136"
+  }, {
+    "participantId" : "4",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "LANG",
+      "fullName" : "LANG, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355447"
+  }, {
+    "participantId" : "5",
+    "club" : "FC TuS Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alaia",
+      "lastName" : "SCHWARZ",
+      "fullName" : "SCHWARZ, Alaia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355222"
+  }, {
+    "participantId" : "6",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "WIRTH",
+      "fullName" : "WIRTH, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348126"
+  }, {
+    "participantId" : "7",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klara",
+      "lastName" : "ZINSMAYER",
+      "fullName" : "ZINSMAYER, Klara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360561"
+  } ]
+}

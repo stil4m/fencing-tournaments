@@ -1,0 +1,486 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2299-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Crailsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "ANDREJEW",
+      "fullName" : "ANDREJEW, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326955"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jens",
+      "lastName" : "ARMBRUSTER",
+      "fullName" : "ARMBRUSTER, Jens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "30558"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fredrik",
+      "lastName" : "ARNOLD",
+      "fullName" : "ARNOLD, Fredrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22617"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Olaf",
+      "lastName" : "AUTZEN",
+      "fullName" : "AUTZEN, Olaf"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361012"
+  }, {
+    "participantId" : "5",
+    "club" : "HC Bad Dürkheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "BAYER",
+      "fullName" : "BAYER, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87941"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Günterfürst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "BLUM",
+      "fullName" : "BLUM, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348292"
+  }, {
+    "participantId" : "7",
+    "club" : "SV Böblingen",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Roberto",
+      "lastName" : "CAPRIUOLO",
+      "fullName" : "CAPRIUOLO, Roberto"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "19746"
+  }, {
+    "participantId" : "8",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Randolf",
+      "lastName" : "ESSIG",
+      "fullName" : "ESSIG, Randolf"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22929"
+  }, {
+    "participantId" : "9",
+    "club" : "SV Esslingen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "FALCK-YTTER",
+      "fullName" : "FALCK-YTTER, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : "21671",
+    "fwwId" : "333978"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jochen",
+      "lastName" : "FENDT",
+      "fullName" : "FENDT, Jochen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "39875"
+  }, {
+    "participantId" : "11",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "FENDT",
+      "fullName" : "FENDT, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88269"
+  }, {
+    "participantId" : "12",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "HEIDENREICH",
+      "fullName" : "HEIDENREICH, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "36559"
+  }, {
+    "participantId" : "13",
+    "club" : "TSF Ditzingen",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "KHEIFETS",
+      "fullName" : "KHEIFETS, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333425"
+  }, {
+    "participantId" : "14",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bastian",
+      "lastName" : "LINDENMANN",
+      "fullName" : "LINDENMANN, Bastian"
+    },
+    "gender" : "MALE",
+    "fieId" : "40063",
+    "fwwId" : "22760"
+  }, {
+    "participantId" : "15",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "LINDENMANN",
+      "fullName" : "LINDENMANN, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "25154"
+  }, {
+    "participantId" : "16",
+    "club" : "TSV Günterfürst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedict",
+      "lastName" : "MEYER",
+      "fullName" : "MEYER, Benedict"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356692"
+  }, {
+    "participantId" : "17",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "MITSCHANG",
+      "fullName" : "MITSCHANG, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "14191"
+  }, {
+    "participantId" : "18",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rainer",
+      "lastName" : "MÖGLE",
+      "fullName" : "MÖGLE, Rainer"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "44238"
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Valentin",
+      "lastName" : "PORA",
+      "fullName" : "PORA, Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "50589"
+  }, {
+    "participantId" : "20",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "QUERCETTI",
+      "fullName" : "QUERCETTI, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314882"
+  }, {
+    "participantId" : "21",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "REINHARDT",
+      "fullName" : "REINHARDT, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "32870"
+  }, {
+    "participantId" : "22",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karim",
+      "lastName" : "ROBITSCHEK",
+      "fullName" : "ROBITSCHEK, Karim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87910"
+  }, {
+    "participantId" : "23",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klaus",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Klaus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "14820"
+  }, {
+    "participantId" : "24",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "SCHMID",
+      "fullName" : "SCHMID, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22747"
+  }, {
+    "participantId" : "25",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andre",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Andre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "21925"
+  }, {
+    "participantId" : "26",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jos",
+      "lastName" : "VAIHINGER",
+      "fullName" : "VAIHINGER, Jos"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "52639"
+  }, {
+    "participantId" : "27",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "VEIT",
+      "fullName" : "VEIT, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "10488"
+  }, {
+    "participantId" : "28",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "WECKERLE",
+      "fullName" : "WECKERLE, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311995"
+  }, {
+    "participantId" : "29",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "WIESEMANN",
+      "fullName" : "WIESEMANN, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "37079"
+  }, {
+    "participantId" : "30",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian Dominic",
+      "lastName" : "SEYD",
+      "fullName" : "SEYD, Julian Dominic"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "86949"
+  } ]
+}

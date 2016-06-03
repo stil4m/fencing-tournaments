@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2686-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Helmut",
+      "lastName" : "HELFRICHT",
+      "fullName" : "HELFRICHT, Helmut"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "44052"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Hildesheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Volkhard",
+      "lastName" : "HERBST",
+      "fullName" : "HERBST, Volkhard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23610"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Winfried",
+      "lastName" : "NAUMANN",
+      "fullName" : "NAUMANN, Winfried"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88348"
+  }, {
+    "participantId" : "4",
+    "club" : "CTG Koblenz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "PREIS",
+      "fullName" : "PREIS, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "16359"
+  }, {
+    "participantId" : "5",
+    "club" : "TUS Neunkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wilfried",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Wilfried"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "1646"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rainer",
+      "lastName" : "STEIDL",
+      "fullName" : "STEIDL, Rainer"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "6392"
+  } ]
+}

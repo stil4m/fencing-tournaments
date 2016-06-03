@@ -1,0 +1,266 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3026-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "12",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina Fortuna",
+      "lastName" : "BÖRGER",
+      "fullName" : "BÖRGER, Lina Fortuna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349656"
+  }, {
+    "participantId" : "2",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annika",
+      "lastName" : "EITNER",
+      "fullName" : "EITNER, Annika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344307"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina",
+      "lastName" : "GETMANN",
+      "fullName" : "GETMANN, Lina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350366"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "JÜTTEN",
+      "fullName" : "JÜTTEN, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319032"
+  }, {
+    "participantId" : "5",
+    "club" : "s.v. RobbSchermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Klaartje",
+      "lastName" : "KARDOL",
+      "fullName" : "KARDOL, Klaartje"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fouzia",
+      "lastName" : "MELZER",
+      "fullName" : "MELZER, Fouzia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350751"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fiona",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Fiona"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319423"
+  }, {
+    "participantId" : "8",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "NGUYEN",
+      "fullName" : "NGUYEN, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349092"
+  }, {
+    "participantId" : "9",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felicitas",
+      "lastName" : "ODENTHAL",
+      "fullName" : "ODENTHAL, Felicitas"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329260"
+  }, {
+    "participantId" : "10",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "PRINZ",
+      "fullName" : "PRINZ, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319422"
+  }, {
+    "participantId" : "11",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina Victoria",
+      "lastName" : "REIHS",
+      "fullName" : "REIHS, Alina Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "343921"
+  }, {
+    "participantId" : "12",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana",
+      "lastName" : "SCHICKER",
+      "fullName" : "SCHICKER, Jana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340148"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patricia Vera",
+      "lastName" : "SCHULENBURG",
+      "fullName" : "SCHULENBURG, Patricia Vera"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324096"
+  }, {
+    "participantId" : "14",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348875"
+  }, {
+    "participantId" : "15",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stella",
+      "lastName" : "STEMMER",
+      "fullName" : "STEMMER, Stella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349658"
+  }, {
+    "participantId" : "16",
+    "club" : "s.v. RobbSchermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Evita",
+      "lastName" : "VENNIK",
+      "fullName" : "VENNIK, Evita"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

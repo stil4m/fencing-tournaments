@@ -1,0 +1,34 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5614-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "teamName" : "FC FÜRTH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "33760"
+  }, {
+    "participantId" : "2",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG MÜNCHEN/FELDKIRCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "82453"
+  } ]
+}

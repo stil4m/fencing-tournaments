@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4741-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enrico",
+      "lastName" : "CARRARA",
+      "fullName" : "CARRARA, Enrico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334340"
+  }, {
+    "participantId" : "2",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "LOHMANN",
+      "fullName" : "LOHMANN, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358353"
+  }, {
+    "participantId" : "3",
+    "club" : "SG Kaarst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bjarne",
+      "lastName" : "LUCAS",
+      "fullName" : "LUCAS, Bjarne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333169"
+  }, {
+    "participantId" : "4",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jarnu",
+      "lastName" : "PELZ",
+      "fullName" : "PELZ, Jarnu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349154"
+  } ]
+}

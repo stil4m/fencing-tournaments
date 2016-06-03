@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5270-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stella Luna",
+      "lastName" : "ALLES",
+      "fullName" : "ALLES, Stella Luna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329196"
+  }, {
+    "participantId" : "2",
+    "club" : "VT Zweibrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "BUCHHOLTZ",
+      "fullName" : "BUCHHOLTZ, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "331834"
+  }, {
+    "participantId" : "3",
+    "club" : "Mannheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Liliane",
+      "lastName" : "HASSINGER",
+      "fullName" : "HASSINGER, Liliane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326420"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "HÖFLER",
+      "fullName" : "HÖFLER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305759"
+  }, {
+    "participantId" : "5",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aminah",
+      "lastName" : "HOFNER",
+      "fullName" : "HOFNER, Aminah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324662"
+  }, {
+    "participantId" : "6",
+    "club" : "Mannheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "HOLLAND-CUNZ",
+      "fullName" : "HOLLAND-CUNZ, Luca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326421"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alissa",
+      "lastName" : "SHHYAROYA",
+      "fullName" : "SHHYAROYA, Alissa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335310"
+  }, {
+    "participantId" : "8",
+    "club" : "TGM Mainz-Gonsenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Abigail",
+      "lastName" : "TROPMANN",
+      "fullName" : "TROPMANN, Abigail"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345961"
+  } ]
+}

@@ -1,0 +1,98 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8098-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "JOZWIAK",
+      "fullName" : "JOZWIAK, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327026"
+  }, {
+    "participantId" : "2",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KAERGEL",
+      "fullName" : "KAERGEL, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303132"
+  }, {
+    "participantId" : "3",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Lena",
+      "lastName" : "SOMMER",
+      "fullName" : "SOMMER, Anna-Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313189"
+  }, {
+    "participantId" : "4",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "WIECZOREK",
+      "fullName" : "WIECZOREK, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322410"
+  }, {
+    "participantId" : "5",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "STUTZKE",
+      "fullName" : "STUTZKE, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318613"
+  }, {
+    "participantId" : "6",
+    "club" : "Warta-Muszkieterowie Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "KLOJ",
+      "fullName" : "KLOJ, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327039"
+  } ]
+}

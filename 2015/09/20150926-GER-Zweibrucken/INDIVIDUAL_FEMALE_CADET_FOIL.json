@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5256-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TUS Neunkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pina",
+      "lastName" : "BERES",
+      "fullName" : "BERES, Pina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86016"
+  }, {
+    "participantId" : "2",
+    "club" : "BELFORT ASM",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Josephine",
+      "lastName" : "FOURNIGUET",
+      "fullName" : "FOURNIGUET, Josephine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "96047"
+  }, {
+    "participantId" : "3",
+    "club" : "TUS Neunkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "GRENNER",
+      "fullName" : "GRENNER, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325947"
+  }, {
+    "participantId" : "4",
+    "club" : "Wiesbadener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christina Maria",
+      "lastName" : "KOSSIWAKIS",
+      "fullName" : "KOSSIWAKIS, Christina Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322529"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Alzey",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "REINDERS",
+      "fullName" : "REINDERS, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317956"
+  } ]
+}

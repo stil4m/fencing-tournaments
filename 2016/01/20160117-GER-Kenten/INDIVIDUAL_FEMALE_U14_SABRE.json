@@ -1,0 +1,126 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2699-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ida",
+      "lastName" : "ALBERS",
+      "fullName" : "ALBERS, Ida"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340794"
+  }, {
+    "participantId" : "2",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melanie",
+      "lastName" : "BELSNER",
+      "fullName" : "BELSNER, Melanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337491"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina Marie",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Lina Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320180"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sedef",
+      "lastName" : "SELIMOGLU",
+      "fullName" : "SELIMOGLU, Sedef"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "343874"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amy",
+      "lastName" : "STEIN",
+      "fullName" : "STEIN, Amy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319030"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carmen",
+      "lastName" : "SENF",
+      "fullName" : "SENF, Carmen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305533"
+  }, {
+    "participantId" : "7",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucia",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Lucia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357075"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "HEUBEL",
+      "fullName" : "HEUBEL, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326168"
+  } ]
+}

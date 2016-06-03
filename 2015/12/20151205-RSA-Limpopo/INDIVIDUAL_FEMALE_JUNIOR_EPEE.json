@@ -1,0 +1,342 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12898-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Natania",
+      "lastName" : "BESTER",
+      "fullName" : "BESTER, Natania"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38031",
+    "fwwId" : "330466"
+  }, {
+    "participantId" : "2",
+    "club" : "CFA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Danielle",
+      "lastName" : "BLIGNAUT",
+      "fullName" : "BLIGNAUT, Danielle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37374",
+    "fwwId" : "325651"
+  }, {
+    "participantId" : "3",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Michelle",
+      "lastName" : "BUTLER",
+      "fullName" : "BUTLER, Michelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356202"
+  }, {
+    "participantId" : "4",
+    "club" : "VASK Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Mone",
+      "lastName" : "DE JAGER",
+      "fullName" : "DE JAGER, Mone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326391"
+  }, {
+    "participantId" : "5",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Cailyn",
+      "lastName" : "DUNCAN",
+      "fullName" : "DUNCAN, Cailyn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358288"
+  }, {
+    "participantId" : "6",
+    "club" : "Hillcrest Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "GIBSON",
+      "fullName" : "GIBSON, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40780",
+    "fwwId" : "328111"
+  }, {
+    "participantId" : "7",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Zinhle Onako",
+      "lastName" : "JOZANA",
+      "fullName" : "JOZANA, Zinhle Onako"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345405"
+  }, {
+    "participantId" : "8",
+    "club" : "CHSA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kesia",
+      "lastName" : "MATTHEWS",
+      "fullName" : "MATTHEWS, Kesia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328193"
+  }, {
+    "participantId" : "9",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Nomvula Mahlodi",
+      "lastName" : "MBATHA",
+      "fullName" : "MBATHA, Nomvula Mahlodi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342199"
+  }, {
+    "participantId" : "10",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Mone",
+      "lastName" : "MCCABE",
+      "fullName" : "MCCABE, Mone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38554",
+    "fwwId" : "344001"
+  }, {
+    "participantId" : "11",
+    "club" : "Refilwe FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Precious",
+      "lastName" : "MOJAPELO",
+      "fullName" : "MOJAPELO, Precious"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356589"
+  }, {
+    "participantId" : "12",
+    "club" : "Limpopo",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Danica",
+      "lastName" : "OPPERMAN",
+      "fullName" : "OPPERMAN, Danica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "343997"
+  }, {
+    "participantId" : "13",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Aphiwe",
+      "lastName" : "TUKU",
+      "fullName" : "TUKU, Aphiwe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321564"
+  }, {
+    "participantId" : "14",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Janale",
+      "lastName" : "VAN DEN BERG",
+      "fullName" : "VAN DEN BERG, Janale"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38032",
+    "fwwId" : "330496"
+  }, {
+    "participantId" : "15",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jana",
+      "lastName" : "VAN DER WALT",
+      "fullName" : "VAN DER WALT, Jana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38551",
+    "fwwId" : "350236"
+  }, {
+    "participantId" : "16",
+    "club" : "CFA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Marilene",
+      "lastName" : "VAN WYK",
+      "fullName" : "VAN WYK, Marilene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40779",
+    "fwwId" : "350829"
+  }, {
+    "participantId" : "17",
+    "club" : "UCT Cape Town",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Jessica",
+      "lastName" : "WORSLEY",
+      "fullName" : "WORSLEY, Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325650"
+  }, {
+    "participantId" : "18",
+    "club" : "CFA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Olivia Emily",
+      "lastName" : "WRAY",
+      "fullName" : "WRAY, Olivia Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40781",
+    "fwwId" : "332547"
+  }, {
+    "participantId" : "19",
+    "club" : "KMC Khayelitsha",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Phakama",
+      "lastName" : "YANTOLO",
+      "fullName" : "YANTOLO, Phakama"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332212"
+  }, {
+    "participantId" : "20",
+    "club" : "KMC Khayelitsha",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Phumza",
+      "lastName" : "YANTOLO",
+      "fullName" : "YANTOLO, Phumza"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332564"
+  }, {
+    "participantId" : "21",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Lungile",
+      "lastName" : "ZAKWE",
+      "fullName" : "ZAKWE, Lungile"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321568"
+  } ]
+}

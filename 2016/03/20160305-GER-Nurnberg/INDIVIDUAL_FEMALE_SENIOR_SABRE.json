@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3399-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lavinia",
+      "lastName" : "DILER",
+      "fullName" : "DILER, Lavinia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354545"
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana Sophie",
+      "lastName" : "KNAPP",
+      "fullName" : "KNAPP, Jana Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306934"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patricia",
+      "lastName" : "PAYOME VILLORIA",
+      "fullName" : "PAYOME VILLORIA, Patricia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117762"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "SINGER",
+      "fullName" : "SINGER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89645"
+  }, {
+    "participantId" : "5",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320405"
+  }, {
+    "participantId" : "6",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kinga",
+      "lastName" : "SZILAGYI",
+      "fullName" : "SZILAGYI, Kinga"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124184"
+  } ]
+}

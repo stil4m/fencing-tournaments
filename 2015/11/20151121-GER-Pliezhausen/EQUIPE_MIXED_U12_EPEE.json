@@ -1,0 +1,330 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12811-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "teamName" : "FECHTAKADE RAVENSBURG",
+    "members" : [ {
+      "firstName" : "Emma",
+      "lastName" : "LEINER",
+      "fullName" : "LEINER, Emma"
+    }, {
+      "firstName" : "Luisa",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Luisa"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "BETZ",
+      "fullName" : "BETZ, Christian"
+    }, {
+      "firstName" : "Adrian",
+      "lastName" : "REITER",
+      "fullName" : "REITER, Adrian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "328925"
+  }, {
+    "participantId" : "2",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Alexandra",
+      "lastName" : "ZITTEL",
+      "fullName" : "ZITTEL, Alexandra"
+    }, {
+      "firstName" : "Elisabeth",
+      "lastName" : "SHAPOVALOV",
+      "fullName" : "SHAPOVALOV, Elisabeth"
+    }, {
+      "firstName" : "Carolina",
+      "lastName" : "ALVES DE LIMA",
+      "fullName" : "ALVES DE LIMA, Carolina"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "LIPINSKAYA",
+      "fullName" : "LIPINSKAYA, Anna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "3",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB II",
+    "members" : [ {
+      "firstName" : "Nikita",
+      "lastName" : "LORENZ",
+      "fullName" : "LORENZ, Nikita"
+    }, {
+      "firstName" : "Matthew",
+      "lastName" : "BÜLAU",
+      "fullName" : "BÜLAU, Matthew"
+    }, {
+      "firstName" : "Horant",
+      "lastName" : "KUMMER",
+      "fullName" : "KUMMER, Horant"
+    }, {
+      "firstName" : "Benedict",
+      "lastName" : "SCHENKENGEL",
+      "fullName" : "SCHENKENGEL, Benedict"
+    } ],
+    "fieId" : null,
+    "fwwId" : "89708"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB III",
+    "members" : [ {
+      "firstName" : "Aurelia",
+      "lastName" : "SCHÖNBORN",
+      "fullName" : "SCHÖNBORN, Aurelia"
+    }, {
+      "firstName" : "Celia",
+      "lastName" : "WIETSCHORKE",
+      "fullName" : "WIETSCHORKE, Celia"
+    }, {
+      "firstName" : "Emmy-Eleni",
+      "lastName" : "SCHRÖDER",
+      "fullName" : "SCHRÖDER, Emmy-Eleni"
+    }, {
+      "firstName" : "Tim",
+      "lastName" : "JURTSCHAK",
+      "fullName" : "JURTSCHAK, Tim"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "STG ESSLINGEN/LAUPHEIM/HDH",
+    "members" : [ {
+      "firstName" : "Tim",
+      "lastName" : "HELD",
+      "fullName" : "HELD, Tim"
+    }, {
+      "firstName" : "Dominik",
+      "lastName" : "RENZ",
+      "fullName" : "RENZ, Dominik"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "SPIELVOGEL",
+      "fullName" : "SPIELVOGEL, Julia"
+    }, {
+      "firstName" : "Joannes",
+      "lastName" : "SCHENKENGEL",
+      "fullName" : "SCHENKENGEL, Joannes"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "teamName" : "SV BÖBLINGEN",
+    "members" : [ {
+      "firstName" : "Lukas",
+      "lastName" : "RIEDLER",
+      "fullName" : "RIEDLER, Lukas"
+    }, {
+      "firstName" : "Patrick",
+      "lastName" : "BÖHM",
+      "fullName" : "BÖHM, Patrick"
+    }, {
+      "firstName" : "Hannah",
+      "lastName" : "ERNST",
+      "fullName" : "ERNST, Hannah"
+    }, {
+      "firstName" : "Raphaelia",
+      "lastName" : "KOIOU",
+      "fullName" : "KOIOU, Raphaelia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20611"
+  }, {
+    "participantId" : "7",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Jan-Philipp",
+      "lastName" : "LENHARDT",
+      "fullName" : "LENHARDT, Jan-Philipp"
+    }, {
+      "firstName" : "Jannis",
+      "lastName" : "GANZLOSER",
+      "fullName" : "GANZLOSER, Jannis"
+    }, {
+      "firstName" : "Abel",
+      "lastName" : "MOLNAR",
+      "fullName" : "MOLNAR, Abel"
+    }, {
+      "firstName" : "Samuel",
+      "lastName" : "HOCHWALD",
+      "fullName" : "HOCHWALD, Samuel"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "8",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN II",
+    "members" : [ {
+      "firstName" : "Emilia",
+      "lastName" : "SANDER",
+      "fullName" : "SANDER, Emilia"
+    }, {
+      "firstName" : "Jule",
+      "lastName" : "PUCHER",
+      "fullName" : "PUCHER, Jule"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "KREUSSLER",
+      "fullName" : "KREUSSLER, Philipp"
+    }, {
+      "firstName" : "Marc",
+      "lastName" : "HEUER",
+      "fullName" : "HEUER, Marc"
+    } ],
+    "fieId" : null,
+    "fwwId" : "335686"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "teamName" : "TSG BACKNANG",
+    "members" : [ {
+      "firstName" : "Daniel",
+      "lastName" : "WILCZEK",
+      "fullName" : "WILCZEK, Daniel"
+    }, {
+      "firstName" : "Lina",
+      "lastName" : "ZERRWECK",
+      "fullName" : "ZERRWECK, Lina"
+    }, {
+      "firstName" : "David",
+      "lastName" : "VOGELMANN",
+      "fullName" : "VOGELMANN, David"
+    } ],
+    "fieId" : null,
+    "fwwId" : "82457"
+  }, {
+    "participantId" : "10",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : [ {
+      "firstName" : "Lionel",
+      "lastName" : "AIERLE",
+      "fullName" : "AIERLE, Lionel"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "KUNATH",
+      "fullName" : "KUNATH, Florian"
+    }, {
+      "firstName" : "Leopold",
+      "lastName" : "HEUSEL",
+      "fullName" : "HEUSEL, Leopold"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52948"
+  }, {
+    "participantId" : "11",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN II",
+    "members" : [ {
+      "firstName" : "Jaron",
+      "lastName" : "IMMER",
+      "fullName" : "IMMER, Jaron"
+    }, {
+      "firstName" : "Flavio",
+      "lastName" : "CICCARELLI",
+      "fullName" : "CICCARELLI, Flavio"
+    }, {
+      "firstName" : "Alexander",
+      "lastName" : "KÜHBAUCH",
+      "fullName" : "KÜHBAUCH, Alexander"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329408"
+  }, {
+    "participantId" : "12",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "teamName" : "TSV PLIEZHAUSEN",
+    "members" : [ {
+      "firstName" : "Nele",
+      "lastName" : "REMPFER",
+      "fullName" : "REMPFER, Nele"
+    }, {
+      "firstName" : "Philip",
+      "lastName" : "NOTHACKER",
+      "fullName" : "NOTHACKER, Philip"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "ZAISER",
+      "fullName" : "ZAISER, Jonas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "37446"
+  } ]
+}

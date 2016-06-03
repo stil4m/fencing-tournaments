@@ -1,0 +1,282 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3726-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "9",
+    "abandon" : true
+  }, {
+    "position" : 16,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "13",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "MAS",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "CHIN",
+      "fullName" : "CHIN, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359492"
+  }, {
+    "participantId" : "2",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theodor",
+      "lastName" : "FAITZ",
+      "fullName" : "FAITZ, Theodor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358438"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "HAEDENKAMP",
+      "fullName" : "HAEDENKAMP, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350238"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "HÖFLER",
+      "fullName" : "HÖFLER, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339513"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Diego",
+      "lastName" : "KLINGERT",
+      "fullName" : "KLINGERT, Diego"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358083"
+  }, {
+    "participantId" : "6",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilian",
+      "lastName" : "KNAPP",
+      "fullName" : "KNAPP, Emilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348129"
+  }, {
+    "participantId" : "7",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "LANGHANS",
+      "fullName" : "LANGHANS, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343033"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "LEUCHTER",
+      "fullName" : "LEUCHTER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358082"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "LITTERER",
+      "fullName" : "LITTERER, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358085"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kai-Moritz",
+      "lastName" : "LOCHNER",
+      "fullName" : "LOCHNER, Kai-Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358087"
+  }, {
+    "participantId" : "11",
+    "club" : "VFL Marburg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "LUDWIG",
+      "fullName" : "LUDWIG, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361518"
+  }, {
+    "participantId" : "12",
+    "club" : "PAYS AIX",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Jack",
+      "lastName" : "MARTIN",
+      "fullName" : "MARTIN, Jack"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361292"
+  }, {
+    "participantId" : "13",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mato",
+      "lastName" : "MICHALKE",
+      "fullName" : "MICHALKE, Mato"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361210"
+  }, {
+    "participantId" : "14",
+    "club" : "Hapoel Kfar-Saba",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Arik",
+      "lastName" : "PODLYAS",
+      "fullName" : "PODLYAS, Arik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359814"
+  }, {
+    "participantId" : "15",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "STRASHEIM",
+      "fullName" : "STRASHEIM, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354433"
+  }, {
+    "participantId" : "16",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "STRAUB",
+      "fullName" : "STRAUB, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338044"
+  }, {
+    "participantId" : "17",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raoul",
+      "lastName" : "ZANNER",
+      "fullName" : "ZANNER, Raoul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356219"
+  } ]
+}

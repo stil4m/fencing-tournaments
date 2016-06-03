@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2224-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "teamName" : "DFC DÜSSELDORF",
+    "members" : [ {
+      "firstName" : "Zoe",
+      "lastName" : "KUHNE",
+      "fullName" : "KUHNE, Zoe"
+    }, {
+      "firstName" : "Liliane",
+      "lastName" : "BÄTZ",
+      "fullName" : "BÄTZ, Liliane"
+    }, {
+      "firstName" : "Ann-Cathrin",
+      "lastName" : "BARTH",
+      "fullName" : "BARTH, Ann-Cathrin"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : [ {
+      "firstName" : "Matteo",
+      "lastName" : "PIRAS",
+      "fullName" : "PIRAS, Matteo"
+    }, {
+      "firstName" : "Severin",
+      "lastName" : "LAUB",
+      "fullName" : "LAUB, Severin"
+    }, {
+      "firstName" : "Katharina",
+      "lastName" : "MANG",
+      "fullName" : "MANG, Katharina"
+    }, {
+      "firstName" : "Benno",
+      "lastName" : "WOLBRING",
+      "fullName" : "WOLBRING, Benno"
+    } ],
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Nils",
+      "lastName" : "FABINGER",
+      "fullName" : "FABINGER, Nils"
+    }, {
+      "firstName" : "Emily",
+      "lastName" : "KLOCKHAUS",
+      "fullName" : "KLOCKHAUS, Emily"
+    }, {
+      "firstName" : "Lara Emma",
+      "lastName" : "BERGMANN",
+      "fullName" : "BERGMANN, Lara Emma"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS 2",
+    "members" : [ {
+      "firstName" : "Fabian",
+      "lastName" : "HEUSER",
+      "fullName" : "HEUSER, Fabian"
+    }, {
+      "firstName" : "Merle",
+      "lastName" : "STIEREN",
+      "fullName" : "STIEREN, Merle"
+    }, {
+      "firstName" : "Celine",
+      "lastName" : "PACHMANN",
+      "fullName" : "PACHMANN, Celine"
+    }, {
+      "firstName" : "Stina",
+      "lastName" : "REIMELT",
+      "fullName" : "REIMELT, Stina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119111"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Noah",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Noah"
+    }, {
+      "firstName" : "David",
+      "lastName" : "LIEBSCHER",
+      "fullName" : "LIEBSCHER, David"
+    }, {
+      "firstName" : "Finn",
+      "lastName" : "STRÄTZ",
+      "fullName" : "STRÄTZ, Finn"
+    }, {
+      "firstName" : "Tom",
+      "lastName" : "SCHMITZ",
+      "fullName" : "SCHMITZ, Tom"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  } ]
+}

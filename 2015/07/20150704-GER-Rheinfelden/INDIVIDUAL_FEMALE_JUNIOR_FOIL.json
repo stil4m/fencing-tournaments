@@ -1,0 +1,98 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6621-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly Marie",
+      "lastName" : "BUCHHOLZ",
+      "fullName" : "BUCHHOLZ, Lilly Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328930"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "OBERFÖLL",
+      "fullName" : "OBERFÖLL, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81469"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329368"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Natalie",
+      "lastName" : "OTTERBACH",
+      "fullName" : "OTTERBACH, Natalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121358"
+  }, {
+    "participantId" : "6",
+    "club" : "FC TuS Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie-Louise",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Marie-Louise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323383"
+  } ]
+}

@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5269-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nastassja",
+      "lastName" : "HAHN",
+      "fullName" : "HAHN, Nastassja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87621"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daria",
+      "lastName" : "HAMMES",
+      "fullName" : "HAMMES, Daria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325954"
+  }, {
+    "participantId" : "3",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Celia",
+      "lastName" : "HOHENADEL",
+      "fullName" : "HOHENADEL, Celia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304915"
+  }, {
+    "participantId" : "4",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea Maria",
+      "lastName" : "HÖRDT",
+      "fullName" : "HÖRDT, Lea Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319000"
+  }, {
+    "participantId" : "5",
+    "club" : "HC Bad Dürkheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasmin",
+      "lastName" : "MAASS",
+      "fullName" : "MAASS, Jasmin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314891"
+  }, {
+    "participantId" : "6",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "NICK",
+      "fullName" : "NICK, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326930"
+  }, {
+    "participantId" : "7",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "ÖTTL",
+      "fullName" : "ÖTTL, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318999"
+  }, {
+    "participantId" : "8",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "PONGRATZ",
+      "fullName" : "PONGRATZ, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304914"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Alzey",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "REINDERS",
+      "fullName" : "REINDERS, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317956"
+  }, {
+    "participantId" : "10",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aline",
+      "lastName" : "RUSTLER",
+      "fullName" : "RUSTLER, Aline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324552"
+  }, {
+    "participantId" : "11",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "85726"
+  }, {
+    "participantId" : "12",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie Estellle",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Marie Estellle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326078"
+  }, {
+    "participantId" : "13",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Francesca",
+      "lastName" : "SEIFERT",
+      "fullName" : "SEIFERT, Francesca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325883"
+  }, {
+    "participantId" : "14",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315038"
+  }, {
+    "participantId" : "15",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carla",
+      "lastName" : "WEHRMEISTER",
+      "fullName" : "WEHRMEISTER, Carla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339680"
+  } ]
+}

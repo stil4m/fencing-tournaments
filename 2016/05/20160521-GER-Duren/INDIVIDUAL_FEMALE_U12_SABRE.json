@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4743-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nicole",
+      "lastName" : "GERT",
+      "fullName" : "GERT, Nicole"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330174"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felice",
+      "lastName" : "HERBON",
+      "fullName" : "HERBON, Felice"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330176"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Victoria",
+      "lastName" : "JEDAMZIK",
+      "fullName" : "JEDAMZIK, Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330178"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Miriam",
+      "lastName" : "KUSIAN",
+      "fullName" : "KUSIAN, Miriam"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330175"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sina",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Sina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330180"
+  } ]
+}

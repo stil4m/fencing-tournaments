@@ -1,0 +1,202 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3039-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "2",
+    "club" : "Hamburg",
+    "country" : "GER",
+    "teamName" : "HAMBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "56785"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TBB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "4",
+    "club" : "Thüringen",
+    "country" : "GER",
+    "teamName" : "THÜRINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "21032"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "teamName" : "FA HAUENEBERSTEIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "329420"
+  }, {
+    "participantId" : "6",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "teamName" : "DARMSTÄDTER FC",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20621"
+  }, {
+    "participantId" : "7",
+    "club" : "Baden-Nord",
+    "country" : "GER",
+    "teamName" : "STG WEINHEIM/MANNHEIM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "54719"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "teamName" : "SC BERLIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19847"
+  }, {
+    "participantId" : "9",
+    "club" : "Saar",
+    "country" : "GER",
+    "teamName" : "SAAR",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "21030"
+  }, {
+    "participantId" : "10",
+    "club" : "SW",
+    "country" : "GER",
+    "teamName" : "SÜD-WEST",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "88336"
+  }, {
+    "participantId" : "11",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "12",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "teamName" : "PSV STUTTGART",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "27210"
+  }, {
+    "participantId" : "13",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "teamName" : "TB BURGSTEINFURT",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20627"
+  }, {
+    "participantId" : "14",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG MÜNCHEN/FÜRTH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "82575"
+  }, {
+    "participantId" : "15",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "16",
+    "club" : "Mittelrhein",
+    "country" : "GER",
+    "teamName" : "MITTELRHEIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "27007"
+  } ]
+}

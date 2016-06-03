@@ -1,0 +1,262 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4748-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "21",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "FC TBB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "teamName" : "FG SCHWERIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119212"
+  }, {
+    "participantId" : "4",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "teamName" : "FG TG MÜNSTER",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "22237"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "6",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "teamName" : "PSV WEIMAR",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "52941"
+  }, {
+    "participantId" : "7",
+    "club" : "Sachsen",
+    "country" : "GER",
+    "teamName" : "SACHSEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20796"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "teamName" : "SC BERLIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19847"
+  }, {
+    "participantId" : "9",
+    "club" : "Sachsen-Anhalt",
+    "country" : "GER",
+    "teamName" : "STG HALLE/MERSEBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353244"
+  }, {
+    "participantId" : "10",
+    "club" : "Niedersachsen",
+    "country" : "GER",
+    "teamName" : "STG HAMELN/HILDESHEIM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353663"
+  }, {
+    "participantId" : "11",
+    "club" : "Hessen",
+    "country" : "GER",
+    "teamName" : "STG LANGEN/NEU-ISENBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353634"
+  }, {
+    "participantId" : "12",
+    "club" : "Nordrhein",
+    "country" : "GER",
+    "teamName" : "STG MOERS/DÜSSELDORF",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353041"
+  }, {
+    "participantId" : "13",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG NEU ULM/FÜRTH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353598"
+  }, {
+    "participantId" : "14",
+    "club" : "Württemberg",
+    "country" : "GER",
+    "teamName" : "STG STUTTGART/SCHWÄBISCH GMÜND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353595"
+  }, {
+    "participantId" : "15",
+    "club" : "Baden-Nord",
+    "country" : "GER",
+    "teamName" : "STG WEINHEIM/MANNHEIM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "54719"
+  }, {
+    "participantId" : "16",
+    "club" : "SW",
+    "country" : "GER",
+    "teamName" : "SÜD-WEST",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "88336"
+  }, {
+    "participantId" : "17",
+    "club" : "TB Hamburg-Eilbeck",
+    "country" : "GER",
+    "teamName" : "TB HAMBURG-EILBECK",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119343"
+  }, {
+    "participantId" : "18",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "teamName" : "TFC HANAU",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "30079"
+  }, {
+    "participantId" : "19",
+    "club" : "Thüringen",
+    "country" : "GER",
+    "teamName" : "THÜRINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "21032"
+  }, {
+    "participantId" : "20",
+    "club" : "Wilhelmshavener SC Fr.",
+    "country" : "GER",
+    "teamName" : "WILHELMSHAVENER SC Fr.",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "94008"
+  }, {
+    "participantId" : "21",
+    "club" : "Baden-Süd",
+    "country" : "GER",
+    "teamName" : "STG HAUENBERSTEIN/VILLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

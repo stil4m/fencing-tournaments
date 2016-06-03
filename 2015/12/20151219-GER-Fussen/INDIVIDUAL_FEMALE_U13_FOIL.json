@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3416-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlene",
+      "lastName" : "BEST",
+      "fullName" : "BEST, Marlene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333659"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "BLESSING",
+      "fullName" : "BLESSING, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330204"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "HAMBURG",
+      "fullName" : "HAMBURG, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319312"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Louisa",
+      "lastName" : "JURTSCHAK",
+      "fullName" : "JURTSCHAK, Louisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342566"
+  }, {
+    "participantId" : "5",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna Sophie",
+      "lastName" : "KOTHIERINGER",
+      "fullName" : "KOTHIERINGER, Anna Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306350"
+  } ]
+}

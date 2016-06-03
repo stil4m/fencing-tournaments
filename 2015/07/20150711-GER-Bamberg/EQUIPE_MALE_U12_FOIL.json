@@ -1,0 +1,34 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12191-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG WÜRZBURG/BAD KISSINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "355106"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG 2005 Bamberg",
+    "country" : "GER",
+    "teamName" : "TSG BAMBERG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119385"
+  } ]
+}

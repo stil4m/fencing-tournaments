@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5190-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "DRESSLER",
+      "fullName" : "DRESSLER, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119661"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "HAUMAYR",
+      "fullName" : "HAUMAYR, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "89508"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "SCHIESSLING",
+      "fullName" : "SCHIESSLING, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "304853"
+  } ]
+}

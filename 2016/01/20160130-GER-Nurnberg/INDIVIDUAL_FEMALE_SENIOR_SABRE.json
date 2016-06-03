@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4319-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lavinia",
+      "lastName" : "DILER",
+      "fullName" : "DILER, Lavinia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354545"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Victoria",
+      "lastName" : "EHRESMANN",
+      "fullName" : "EHRESMANN, Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319232"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gunilla",
+      "lastName" : "GRAUDINS",
+      "fullName" : "GRAUDINS, Gunilla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "4602"
+  }, {
+    "participantId" : "4",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana Sophie",
+      "lastName" : "KNAPP",
+      "fullName" : "KNAPP, Jana Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306934"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Eislingen",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "MILLER",
+      "fullName" : "MILLER, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "93098"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patricia",
+      "lastName" : "PAYOME VILLORIA",
+      "fullName" : "PAYOME VILLORIA, Patricia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117762"
+  }, {
+    "participantId" : "7",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "PFLAUM",
+      "fullName" : "PFLAUM, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318583"
+  }, {
+    "participantId" : "8",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "SINGER",
+      "fullName" : "SINGER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89645"
+  }, {
+    "participantId" : "9",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320405"
+  } ]
+}

@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9079-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Milo Oskar",
+      "lastName" : "BOYER-DRÆBY",
+      "fullName" : "BOYER-DRÆBY, Milo Oskar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353420"
+  }, {
+    "participantId" : "2",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Alfred",
+      "lastName" : "DIEMER",
+      "fullName" : "DIEMER, Alfred"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347161"
+  }, {
+    "participantId" : "3",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Magnus Milton Dencker",
+      "lastName" : "HEDEGAARD",
+      "fullName" : "HEDEGAARD, Magnus Milton Dencker"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339651"
+  }, {
+    "participantId" : "4",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "HOJRIZI",
+      "fullName" : "HOJRIZI, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351318"
+  }, {
+    "participantId" : "5",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Jacob Rewers",
+      "lastName" : "JØRGENSEN",
+      "fullName" : "JØRGENSEN, Jacob Rewers"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335831"
+  } ]
+}

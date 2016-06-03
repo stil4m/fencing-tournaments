@@ -1,0 +1,82 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5596-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : [ {
+      "firstName" : "Malte",
+      "lastName" : "GUBITZ",
+      "fullName" : "GUBITZ, Malte"
+    }, {
+      "firstName" : "David",
+      "lastName" : "JOHN",
+      "fullName" : "JOHN, David"
+    }, {
+      "firstName" : "Jakob",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Jakob"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : [ {
+      "firstName" : "Mateu",
+      "lastName" : "CARRERAS",
+      "fullName" : "CARRERAS, Mateu"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "SEWALD",
+      "fullName" : "SEWALD, Julian"
+    }, {
+      "firstName" : "Ferdinand",
+      "lastName" : "KOBER",
+      "fullName" : "KOBER, Ferdinand"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35627"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Weilheim",
+    "country" : "GER",
+    "teamName" : "TSV WEILHEIM",
+    "members" : [ {
+      "firstName" : "Jonas",
+      "lastName" : "BÄUMLER",
+      "fullName" : "BÄUMLER, Jonas"
+    }, {
+      "firstName" : "Colm",
+      "lastName" : "SPRINGER",
+      "fullName" : "SPRINGER, Colm"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "HUBER",
+      "fullName" : "HUBER, Julian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119437"
+  } ]
+}

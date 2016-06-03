@@ -1,0 +1,194 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3440-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "ARBOGAST",
+      "fullName" : "ARBOGAST, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345967"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Till",
+      "lastName" : "BAUSCH",
+      "fullName" : "BAUSCH, Till"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338116"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Nördlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laurin",
+      "lastName" : "BÖCKH",
+      "fullName" : "BÖCKH, Laurin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353274"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Nördlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Giaracuni",
+      "lastName" : "ELIA",
+      "fullName" : "ELIA, Giaracuni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353273"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "FITZ",
+      "fullName" : "FITZ, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336169"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "HUBER",
+      "fullName" : "HUBER, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359676"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "HUCH",
+      "fullName" : "HUCH, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350645"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Konrad",
+      "lastName" : "MERK",
+      "fullName" : "MERK, Konrad"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335993"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Ingolstadt",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Karol",
+      "lastName" : "NIECKARZ",
+      "fullName" : "NIECKARZ, Karol"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355160"
+  }, {
+    "participantId" : "10",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dennis",
+      "lastName" : "PLISCHKE",
+      "fullName" : "PLISCHKE, Dennis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319165"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "TASSINGER",
+      "fullName" : "TASSINGER, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350631"
+  }, {
+    "participantId" : "12",
+    "club" : "Musket. Marktredwitz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Louis Alexander",
+      "lastName" : "WITTKE",
+      "fullName" : "WITTKE, Louis Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339614"
+  } ]
+}

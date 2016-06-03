@@ -1,0 +1,134 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3023-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "GEISSLER",
+      "fullName" : "GEISSLER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354557"
+  }, {
+    "participantId" : "2",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janusz",
+      "lastName" : "GRÄB",
+      "fullName" : "GRÄB, Janusz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349810"
+  }, {
+    "participantId" : "3",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabio",
+      "lastName" : "MADEDDU",
+      "fullName" : "MADEDDU, Fabio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353247"
+  }, {
+    "participantId" : "4",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan Luis",
+      "lastName" : "PRINZ",
+      "fullName" : "PRINZ, Jonathan Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348312"
+  }, {
+    "participantId" : "5",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "URBANSKI",
+      "fullName" : "URBANSKI, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353690"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlon",
+      "lastName" : "WALLENEIT",
+      "fullName" : "WALLENEIT, Marlon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351467"
+  }, {
+    "participantId" : "7",
+    "club" : "PST Trier",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenzo",
+      "lastName" : "WARNKING",
+      "fullName" : "WARNKING, Lorenzo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351951"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "CONRADS",
+      "fullName" : "CONRADS, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322937"
+  } ]
+}

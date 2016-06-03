@@ -1,0 +1,198 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4291-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "DFC Düsseldorf",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Sawwa",
+      "lastName" : "ALTMAN",
+      "fullName" : "ALTMAN, Sawwa"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334186"
+  }, {
+    "participantId" : "2",
+    "club" : "SC Noord",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "BEEN",
+      "fullName" : "BEEN, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363388"
+  }, {
+    "participantId" : "3",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "BOY",
+      "fullName" : "BOY, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "94150"
+  }, {
+    "participantId" : "4",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "EBIGT",
+      "fullName" : "EBIGT, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "49968"
+  }, {
+    "participantId" : "5",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patrick",
+      "lastName" : "MANG",
+      "fullName" : "MANG, Patrick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "304809"
+  }, {
+    "participantId" : "6",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "SAUERMANN",
+      "fullName" : "SAUERMANN, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "117075"
+  }, {
+    "participantId" : "7",
+    "club" : "SG Langenfeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "SCHMITZ",
+      "fullName" : "SCHMITZ, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318749"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Noord",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Olivier",
+      "lastName" : "SPLIT",
+      "fullName" : "SPLIT, Olivier"
+    },
+    "gender" : "MALE",
+    "fieId" : "39470",
+    "fwwId" : "222112"
+  }, {
+    "participantId" : "9",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "STEINFORT",
+      "fullName" : "STEINFORT, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "50138"
+  }, {
+    "participantId" : "10",
+    "club" : "SG Langenfeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "VAN DEN BOOM",
+      "fullName" : "VAN DEN BOOM, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "124634"
+  }, {
+    "participantId" : "11",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "VAN DER KOELEN",
+      "fullName" : "VAN DER KOELEN, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45325"
+  }, {
+    "participantId" : "12",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "WIEMANN",
+      "fullName" : "WIEMANN, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : "40920",
+    "fwwId" : "82109"
+  } ]
+}

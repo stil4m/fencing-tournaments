@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7557-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329416"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "KLUSCH",
+      "fullName" : "KLUSCH, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311999"
+  }, {
+    "participantId" : "3",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "SCHRADER",
+      "fullName" : "SCHRADER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337372"
+  }, {
+    "participantId" : "4",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "SZALAY",
+      "fullName" : "SZALAY, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325254"
+  } ]
+}

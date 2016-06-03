@@ -1,0 +1,206 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9090-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Katja",
+      "lastName" : "ALIEVA",
+      "fullName" : "ALIEVA, Katja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327686"
+  }, {
+    "participantId" : "2",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Emilia Cecilie",
+      "lastName" : "BORRYE",
+      "fullName" : "BORRYE, Emilia Cecilie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "31444",
+    "fwwId" : "307659"
+  }, {
+    "participantId" : "3",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Louise Norgil",
+      "lastName" : "DONSLUND",
+      "fullName" : "DONSLUND, Louise Norgil"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28166",
+    "fwwId" : "303571"
+  }, {
+    "participantId" : "4",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Michala",
+      "lastName" : "GLINDTVAD",
+      "fullName" : "GLINDTVAD, Michala"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "93226"
+  }, {
+    "participantId" : "5",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Alba",
+      "lastName" : "GRASSOV",
+      "fullName" : "GRASSOV, Alba"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346072"
+  }, {
+    "participantId" : "6",
+    "club" : "SLGI Slagelse",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Bodil Baun",
+      "lastName" : "GRUBAK",
+      "fullName" : "GRUBAK, Bodil Baun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327876"
+  }, {
+    "participantId" : "7",
+    "club" : "SLGI Slagelse",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Line Baun",
+      "lastName" : "GRUBAK",
+      "fullName" : "GRUBAK, Line Baun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328215"
+  }, {
+    "participantId" : "8",
+    "club" : "KFK Kalundborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Camilla Boelt",
+      "lastName" : "HINDSGAUL",
+      "fullName" : "HINDSGAUL, Camilla Boelt"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362800"
+  }, {
+    "participantId" : "9",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Laeticia",
+      "lastName" : "JØRGENSEN",
+      "fullName" : "JØRGENSEN, Laeticia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32575",
+    "fwwId" : "124978"
+  }, {
+    "participantId" : "10",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "LARSEN SCHREMMER",
+      "fullName" : "LARSEN SCHREMMER, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353200"
+  }, {
+    "participantId" : "11",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Anna-Kiel",
+      "lastName" : "STEENSEN",
+      "fullName" : "STEENSEN, Anna-Kiel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "32755"
+  }, {
+    "participantId" : "12",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Augusta",
+      "lastName" : "SPANGER-RIES",
+      "fullName" : "SPANGER-RIES, Augusta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "31631",
+    "fwwId" : "120751"
+  }, {
+    "participantId" : "13",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Anne-Sofie Skaarup",
+      "lastName" : "JENSEN",
+      "fullName" : "JENSEN, Anne-Sofie Skaarup"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34785",
+    "fwwId" : "302232"
+  } ]
+}

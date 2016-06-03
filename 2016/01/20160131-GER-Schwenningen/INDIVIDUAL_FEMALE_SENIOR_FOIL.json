@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11547-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ronja",
+      "lastName" : "HABERMANN",
+      "fullName" : "HABERMANN, Ronja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323952"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolin",
+      "lastName" : "LEITZBACH",
+      "fullName" : "LEITZBACH, Carolin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311806"
+  } ]
+}

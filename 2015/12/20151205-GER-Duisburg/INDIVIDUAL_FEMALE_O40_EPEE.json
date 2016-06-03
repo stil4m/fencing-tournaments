@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10229-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Irina",
+      "lastName" : "BUNN",
+      "fullName" : "BUNN, Irina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23703"
+  }, {
+    "participantId" : "2",
+    "club" : "OFC Castrop-Rauxel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nathalie",
+      "lastName" : "HIRT-JABLONOWSKI",
+      "fullName" : "HIRT-JABLONOWSKI, Nathalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320056"
+  }, {
+    "participantId" : "3",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christine",
+      "lastName" : "MASOPUST",
+      "fullName" : "MASOPUST, Christine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23791"
+  }, {
+    "participantId" : "4",
+    "club" : "s.v. Scaramouche",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Dinie",
+      "lastName" : "MEIJER-EVERS",
+      "fullName" : "MEIJER-EVERS, Dinie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23697"
+  }, {
+    "participantId" : "5",
+    "club" : "SV Rasensp. Osnabrück",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Halka",
+      "lastName" : "TUCHEN",
+      "fullName" : "TUCHEN, Halka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "93943"
+  }, {
+    "participantId" : "6",
+    "club" : "Aachener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martina",
+      "lastName" : "WEINHOLTZ",
+      "fullName" : "WEINHOLTZ, Martina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81712"
+  }, {
+    "participantId" : "7",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sigrid",
+      "lastName" : "LEIPERTZ",
+      "fullName" : "LEIPERTZ, Sigrid"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "36590"
+  } ]
+}

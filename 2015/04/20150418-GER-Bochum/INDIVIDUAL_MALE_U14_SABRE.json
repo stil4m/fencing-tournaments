@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7252-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mattis",
+      "lastName" : "BESLER",
+      "fullName" : "BESLER, Mattis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324185"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Falk",
+      "lastName" : "DÖRRIE",
+      "fullName" : "DÖRRIE, Falk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324186"
+  }, {
+    "participantId" : "3",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "BIERMANN",
+      "fullName" : "BIERMANN, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319050"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "MEYER",
+      "fullName" : "MEYER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327329"
+  } ]
+}

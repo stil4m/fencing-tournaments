@@ -1,0 +1,66 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5194-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HEESCHEN",
+      "fullName" : "HEESCHEN, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335991"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "STRAUB",
+      "fullName" : "STRAUB, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349926"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Nördlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas Julius",
+      "lastName" : "SITNER",
+      "fullName" : "SITNER, Lukas Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358400"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wenzel",
+      "lastName" : "SCHUMACHER",
+      "fullName" : "SCHUMACHER, Wenzel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349956"
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10500-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "MARSCHALL",
+      "fullName" : "MARSCHALL, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349089"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "MUSSMANN",
+      "fullName" : "MUSSMANN, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355236"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "PÜST",
+      "fullName" : "PÜST, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349335"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antti",
+      "lastName" : "ZENK",
+      "fullName" : "ZENK, Antti"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351262"
+  } ]
+}

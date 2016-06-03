@@ -1,0 +1,54 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5191-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly",
+      "lastName" : "FRYE",
+      "fullName" : "FRYE, Lilly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346796"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linda",
+      "lastName" : "SCHMID",
+      "fullName" : "SCHMID, Linda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318642"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josefa",
+      "lastName" : "MERK",
+      "fullName" : "MERK, Josefa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342808"
+  } ]
+}

@@ -1,0 +1,334 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5736-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Xaver",
+      "lastName" : "AIGNER",
+      "fullName" : "AIGNER, Xaver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "OOELFK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Valentin",
+      "lastName" : "DÜRK",
+      "fullName" : "DÜRK, Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FUL",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "GRAMMER",
+      "fullName" : "GRAMMER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "FCT",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Andreas Peter",
+      "lastName" : "GROHS",
+      "fullName" : "GROHS, Andreas Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "FCT",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Hannes",
+      "lastName" : "HARRICH",
+      "fullName" : "HARRICH, Hannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Leopold",
+      "lastName" : "HOLZER",
+      "fullName" : "HOLZER, Leopold"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "HOLZER",
+      "fullName" : "HOLZER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : "OOELFK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "HUBER",
+      "fullName" : "HUBER, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "FTSJD",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "HUCHLER",
+      "fullName" : "HUCHLER, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Gregor",
+      "lastName" : "JANJIC",
+      "fullName" : "JANJIC, Gregor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "KNECHTL",
+      "fullName" : "KNECHTL, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : "FCT",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Josua",
+      "lastName" : "PANKRATZ",
+      "fullName" : "PANKRATZ, Josua"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : "FCT",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "RANKL",
+      "fullName" : "RANKL, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : "FUL",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "SCHNEIDERBAUER",
+      "fullName" : "SCHNEIDERBAUER, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : "OOELFK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Nik Alexander",
+      "lastName" : "SCHUSTER",
+      "fullName" : "SCHUSTER, Nik Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : "OOELFK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "SONNLEITNER",
+      "fullName" : "SONNLEITNER, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : "FTSJD",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "VIGL",
+      "fullName" : "VIGL, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "ZöLß Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : "UWK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "LACH",
+      "fullName" : "LACH, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "20",
+    "club" : "FUL",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "HALMDIENST",
+      "fullName" : "HALMDIENST, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "21",
+    "club" : "GFU",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "PROSKE",
+      "fullName" : "PROSKE, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

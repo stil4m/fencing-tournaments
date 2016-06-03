@@ -1,0 +1,157 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2014,
+      "id" : "856"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Abdelrahman",
+      "lastName" : "ADEL",
+      "fullName" : "ADEL, Abdelrahman"
+    },
+    "gender" : "MALE",
+    "fieId" : "32718",
+    "fwwId" : "326369"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Daveed",
+      "lastName" : "ABDELMALAK",
+      "fullName" : "ABDELMALAK, Daveed"
+    },
+    "gender" : "MALE",
+    "fieId" : "32946",
+    "fwwId" : "327454"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kalman",
+      "lastName" : "KOZMA",
+      "fullName" : "KOZMA, Kalman"
+    },
+    "gender" : "MALE",
+    "fieId" : "30670",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mahmoud",
+      "lastName" : "MOHSEN",
+      "fullName" : "MOHSEN, Mahmoud"
+    },
+    "gender" : "MALE",
+    "fieId" : "30829",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "SCHROEDER",
+      "fullName" : "SCHROEDER, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : "32561",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Sherif",
+      "lastName" : "FAYEZ",
+      "fullName" : "FAYEZ, Sherif"
+    },
+    "gender" : "MALE",
+    "fieId" : "28468",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "MAR",
+    "name" : {
+      "firstName" : "Zacharie Herve",
+      "lastName" : "ROGER",
+      "fullName" : "ROGER, Zacharie Herve"
+    },
+    "gender" : "MALE",
+    "fieId" : "32931",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jason",
+      "lastName" : "E SA",
+      "fullName" : "E SA, Jason"
+    },
+    "gender" : "MALE",
+    "fieId" : "34713",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Thulani",
+      "lastName" : "MANZINI",
+      "fullName" : "MANZINI, Thulani"
+    },
+    "gender" : "MALE",
+    "fieId" : "31060",
+    "fwwId" : null
+  } ]
+}

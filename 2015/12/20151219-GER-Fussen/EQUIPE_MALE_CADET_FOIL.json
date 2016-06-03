@@ -1,0 +1,98 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5601-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "teamName" : "FC FÜRTH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "teamName" : "TG WÜRZBURG",
+    "members" : [ {
+      "firstName" : "August",
+      "lastName" : "BERNER",
+      "fullName" : "BERNER, August"
+    }, {
+      "firstName" : "Richard",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Richard"
+    }, {
+      "firstName" : "Bernhard",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Bernhard"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "TSG 2005 Bamberg",
+    "country" : "GER",
+    "teamName" : "TSG BAMBERG",
+    "members" : [ {
+      "firstName" : "Fabian",
+      "lastName" : "MÜHLEBACH",
+      "fullName" : "MÜHLEBACH, Fabian"
+    }, {
+      "firstName" : "Johannes",
+      "lastName" : "KLATT",
+      "fullName" : "KLATT, Johannes"
+    }, {
+      "firstName" : "Augustin",
+      "lastName" : "ANDERS",
+      "fullName" : "ANDERS, Augustin"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "teamName" : "TSV NEU-ULM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "STG FÜRTH/WÜRZBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

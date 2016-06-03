@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1406-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "DALL",
+      "fullName" : "DALL, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344779"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emelie",
+      "lastName" : "FEHR",
+      "fullName" : "FEHR, Emelie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308873"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kerstin",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Kerstin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117030"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna Marie",
+      "lastName" : "HOGENMÜLLER",
+      "fullName" : "HOGENMÜLLER, Anna Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332952"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "ISLEBE",
+      "fullName" : "ISLEBE, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332955"
+  }, {
+    "participantId" : "6",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "JETTER",
+      "fullName" : "JETTER, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354229"
+  }, {
+    "participantId" : "7",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anastasia",
+      "lastName" : "LORENZ",
+      "fullName" : "LORENZ, Anastasia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121478"
+  } ]
+}

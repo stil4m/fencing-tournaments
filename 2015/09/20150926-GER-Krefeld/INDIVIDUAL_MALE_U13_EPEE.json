@@ -1,0 +1,182 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1326-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "AUWEILER",
+      "fullName" : "AUWEILER, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326505"
+  }, {
+    "participantId" : "2",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "BREKER",
+      "fullName" : "BREKER, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303431"
+  }, {
+    "participantId" : "3",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "BUNDESMANN",
+      "fullName" : "BUNDESMANN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342276"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alessandro",
+      "lastName" : "COZZUTO",
+      "fullName" : "COZZUTO, Alessandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355721"
+  }, {
+    "participantId" : "5",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "DRABSCH",
+      "fullName" : "DRABSCH, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313308"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedict",
+      "lastName" : "GERHARTZ",
+      "fullName" : "GERHARTZ, Benedict"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341963"
+  }, {
+    "participantId" : "7",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "IX",
+      "fullName" : "IX, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342278"
+  }, {
+    "participantId" : "8",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "KOCK",
+      "fullName" : "KOCK, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354282"
+  }, {
+    "participantId" : "9",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "MAASSEN",
+      "fullName" : "MAASSEN, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329467"
+  }, {
+    "participantId" : "10",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils Hagen",
+      "lastName" : "POETEN",
+      "fullName" : "POETEN, Nils Hagen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350036"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "KIRCHNER",
+      "fullName" : "KIRCHNER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354199"
+  } ]
+}

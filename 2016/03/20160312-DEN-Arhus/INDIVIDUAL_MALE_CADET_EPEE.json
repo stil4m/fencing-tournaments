@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10609-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Mads",
+      "lastName" : "AAGAARD",
+      "fullName" : "AAGAARD, Mads"
+    },
+    "gender" : "MALE",
+    "fieId" : "40770",
+    "fwwId" : "312224"
+  }, {
+    "participantId" : "2",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Heino",
+      "lastName" : "CHRISTIANSEN",
+      "fullName" : "CHRISTIANSEN, Heino"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314500"
+  }, {
+    "participantId" : "3",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "JEPPESEN",
+      "fullName" : "JEPPESEN, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321641"
+  }, {
+    "participantId" : "4",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Magnus",
+      "lastName" : "PETERSEN",
+      "fullName" : "PETERSEN, Magnus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312338"
+  }, {
+    "participantId" : "5",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Oscar Juul",
+      "lastName" : "SKALS",
+      "fullName" : "SKALS, Oscar Juul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305261"
+  } ]
+}

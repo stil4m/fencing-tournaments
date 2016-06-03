@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3080-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FSV Görlitz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katja",
+      "lastName" : "EIF",
+      "fullName" : "EIF, Katja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353706"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasmin",
+      "lastName" : "FIEDLER",
+      "fullName" : "FIEDLER, Jasmin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330240"
+  }, {
+    "participantId" : "3",
+    "club" : "FSV Görlitz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magdalena",
+      "lastName" : "FOLDA",
+      "fullName" : "FOLDA, Magdalena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353707"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily",
+      "lastName" : "FROMMOLT",
+      "fullName" : "FROMMOLT, Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324881"
+  }, {
+    "participantId" : "5",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "HAMSCH",
+      "fullName" : "HAMSCH, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345017"
+  }, {
+    "participantId" : "6",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josefine Elisabeth",
+      "lastName" : "KRETSCHMER",
+      "fullName" : "KRETSCHMER, Josefine Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328049"
+  }, {
+    "participantId" : "7",
+    "club" : "Chemnitzer PSV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilian",
+      "lastName" : "LOHS",
+      "fullName" : "LOHS, Lilian"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345349"
+  }, {
+    "participantId" : "8",
+    "club" : "FSC Nordhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mara Henrike",
+      "lastName" : "NIKOLEIZIG",
+      "fullName" : "NIKOLEIZIG, Mara Henrike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307589"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cinja",
+      "lastName" : "PÄSOLD",
+      "fullName" : "PÄSOLD, Cinja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342872"
+  }, {
+    "participantId" : "10",
+    "club" : "KSV Weißwasser",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "ROSENSTENGEL",
+      "fullName" : "ROSENSTENGEL, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329926"
+  }, {
+    "participantId" : "11",
+    "club" : "SFV Oschatz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "THIELE",
+      "fullName" : "THIELE, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342488"
+  }, {
+    "participantId" : "12",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabell",
+      "lastName" : "THIERBACH",
+      "fullName" : "THIERBACH, Isabell"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339587"
+  }, {
+    "participantId" : "13",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina Elisabeth",
+      "lastName" : "WEMME",
+      "fullName" : "WEMME, Lina Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327758"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "ZIEGLER",
+      "fullName" : "ZIEGLER, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336862"
+  }, {
+    "participantId" : "15",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "ZINECKER",
+      "fullName" : "ZINECKER, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351305"
+  } ]
+}

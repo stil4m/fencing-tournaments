@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2248-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "teamName" : "PSV STUTTGART",
+    "members" : [ {
+      "firstName" : "Anja",
+      "lastName" : "HARSÁNYI",
+      "fullName" : "HARSÁNYI, Anja"
+    }, {
+      "firstName" : "Sophie",
+      "lastName" : "KNODEL",
+      "fullName" : "KNODEL, Sophie"
+    }, {
+      "firstName" : "Katharina",
+      "lastName" : "SCHOCH",
+      "fullName" : "SCHOCH, Katharina"
+    }, {
+      "firstName" : "Lilli",
+      "lastName" : "HÜGEL",
+      "fullName" : "HÜGEL, Lilli"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "teamName" : "SC KORB",
+    "members" : [ {
+      "firstName" : "Aline",
+      "lastName" : "RUSTLER",
+      "fullName" : "RUSTLER, Aline"
+    }, {
+      "firstName" : "Greta",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Greta"
+    }, {
+      "firstName" : "Leonie",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Leonie"
+    }, {
+      "firstName" : "Nastassja",
+      "lastName" : "HAHN",
+      "fullName" : "HAHN, Nastassja"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "teamName" : "SC KORB 2",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

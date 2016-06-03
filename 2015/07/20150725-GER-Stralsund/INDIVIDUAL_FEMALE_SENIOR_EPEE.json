@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13057-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Brigitte",
+      "lastName" : "GREUNKE",
+      "fullName" : "GREUNKE, Brigitte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "2511"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marianne",
+      "lastName" : "HEMPELMANN",
+      "fullName" : "HEMPELMANN, Marianne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23705"
+  }, {
+    "participantId" : "3",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Waltraud",
+      "lastName" : "NÜSSER",
+      "fullName" : "NÜSSER, Waltraud"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23701"
+  } ]
+}

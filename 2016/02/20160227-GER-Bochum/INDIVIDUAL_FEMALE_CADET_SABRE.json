@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1664-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Merle",
+      "lastName" : "GIZINSKI",
+      "fullName" : "GIZINSKI, Merle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319093"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "GREWELING",
+      "fullName" : "GREWELING, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358294"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carmen",
+      "lastName" : "SENF",
+      "fullName" : "SENF, Carmen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305533"
+  }, {
+    "participantId" : "4",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "WALDER",
+      "fullName" : "WALDER, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312598"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina Marie",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Lina Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320180"
+  } ]
+}

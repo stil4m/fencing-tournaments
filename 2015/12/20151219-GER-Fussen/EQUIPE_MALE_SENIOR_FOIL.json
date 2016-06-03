@@ -1,0 +1,34 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5585-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "teamName" : "FC FÜRTH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TSG 2005 Bamberg",
+    "country" : "GER",
+    "teamName" : "TSG BAMBERG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

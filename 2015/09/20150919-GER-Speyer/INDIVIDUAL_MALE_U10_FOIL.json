@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5275-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jaki",
+      "lastName" : "ALLES",
+      "fullName" : "ALLES, Jaki"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354144"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Frankenthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "BAPPERT",
+      "fullName" : "BAPPERT, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333960"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "HAEDENKAMP",
+      "fullName" : "HAEDENKAMP, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350238"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "HÖFLER",
+      "fullName" : "HÖFLER, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339513"
+  }, {
+    "participantId" : "5",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "LANGHANS",
+      "fullName" : "LANGHANS, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343033"
+  }, {
+    "participantId" : "6",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Domenic Felix",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Domenic Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343035"
+  }, {
+    "participantId" : "7",
+    "club" : "TGM Mainz-Gonsenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "SCHÜLKE",
+      "fullName" : "SCHÜLKE, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345770"
+  }, {
+    "participantId" : "8",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raoul",
+      "lastName" : "ZANNER",
+      "fullName" : "ZANNER, Raoul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356219"
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2013,
+      "id" : "1017"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "KOR",
+    "teamName" : "KOREA",
+    "members" : null,
+    "fieId" : "8860",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "CHN",
+    "teamName" : "CHINA",
+    "members" : null,
+    "fieId" : "6879",
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "KAZ",
+    "teamName" : "KAZAKHSTAN",
+    "members" : null,
+    "fieId" : "6961",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "HKG",
+    "teamName" : "HONG KONG",
+    "members" : null,
+    "fieId" : "6888",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "JPN",
+    "teamName" : "JAPAN",
+    "members" : null,
+    "fieId" : "6960",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "TPE",
+    "teamName" : "CHINESE TAIPEI",
+    "members" : null,
+    "fieId" : "6922",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "VIE",
+    "teamName" : "VIETNAM",
+    "members" : null,
+    "fieId" : "8636",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "SIN",
+    "teamName" : "SINGAPORE",
+    "members" : null,
+    "fieId" : "6916",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "AUS",
+    "teamName" : "AUSTRALIA",
+    "members" : null,
+    "fieId" : "6874",
+    "fwwId" : null
+  } ]
+}

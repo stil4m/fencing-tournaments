@@ -1,0 +1,194 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7567-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klara",
+      "lastName" : "BARDUHN",
+      "fullName" : "BARDUHN, Klara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316759"
+  }, {
+    "participantId" : "2",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elena",
+      "lastName" : "BECK",
+      "fullName" : "BECK, Elena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329381"
+  }, {
+    "participantId" : "3",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "DEVANTIER",
+      "fullName" : "DEVANTIER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328186"
+  }, {
+    "participantId" : "4",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ira Kristin",
+      "lastName" : "HOLLAX",
+      "fullName" : "HOLLAX, Ira Kristin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318180"
+  }, {
+    "participantId" : "5",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KAERGEL",
+      "fullName" : "KAERGEL, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303132"
+  }, {
+    "participantId" : "6",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Angelina-Noelle",
+      "lastName" : "KRAUSE",
+      "fullName" : "KRAUSE, Angelina-Noelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81849"
+  }, {
+    "participantId" : "7",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karoline",
+      "lastName" : "KRAUTER",
+      "fullName" : "KRAUTER, Karoline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316760"
+  }, {
+    "participantId" : "8",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "LAMPERT",
+      "fullName" : "LAMPERT, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302825"
+  }, {
+    "participantId" : "9",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "METZE",
+      "fullName" : "METZE, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316758"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Lok Pritzwalk",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tina",
+      "lastName" : "NAGEL",
+      "fullName" : "NAGEL, Tina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325826"
+  }, {
+    "participantId" : "11",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lydia",
+      "lastName" : "SCHÜTZ",
+      "fullName" : "SCHÜTZ, Lydia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351762"
+  }, {
+    "participantId" : "12",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily Friederike",
+      "lastName" : "WERSING",
+      "fullName" : "WERSING, Emily Friederike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354143"
+  } ]
+}

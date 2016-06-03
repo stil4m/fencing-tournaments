@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3474-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "teamName" : "BAYER LEVERKUSEN",
+    "members" : [ {
+      "firstName" : "René",
+      "lastName" : "JORDAN",
+      "fullName" : "JORDAN, René"
+    }, {
+      "firstName" : "Lars",
+      "lastName" : "ZUR MÜHLEN",
+      "fullName" : "ZUR MÜHLEN, Lars"
+    }, {
+      "firstName" : "Dominik",
+      "lastName" : "BERKEL",
+      "fullName" : "BERKEL, Dominik"
+    }, {
+      "firstName" : "Dean",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Dean"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19853"
+  }, {
+    "participantId" : "2",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "teamName" : "DFC DÜSSELDORF",
+    "members" : [ {
+      "firstName" : "Robin",
+      "lastName" : "BÄTZ",
+      "fullName" : "BÄTZ, Robin"
+    }, {
+      "firstName" : "Pol",
+      "lastName" : "CASAS",
+      "fullName" : "CASAS, Pol"
+    }, {
+      "firstName" : "Oliver",
+      "lastName" : "BORUTTA",
+      "fullName" : "BORUTTA, Oliver"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52937"
+  }, {
+    "participantId" : "3",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "teamName" : "EFG ESSEN",
+    "members" : [ {
+      "firstName" : "Philipp",
+      "lastName" : "HAPPE",
+      "fullName" : "HAPPE, Philipp"
+    }, {
+      "firstName" : "Bruno",
+      "lastName" : "MASTHOFF",
+      "fullName" : "MASTHOFF, Bruno"
+    }, {
+      "firstName" : "Luca",
+      "lastName" : "HUSEMANN",
+      "fullName" : "HUSEMANN, Luca"
+    }, {
+      "firstName" : "Julius",
+      "lastName" : "DEHN",
+      "fullName" : "DEHN, Julius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19856"
+  }, {
+    "participantId" : "4",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "teamName" : "SOLINGER TB",
+    "members" : [ {
+      "firstName" : "Sebastian",
+      "lastName" : "WINKLER",
+      "fullName" : "WINKLER, Sebastian"
+    }, {
+      "firstName" : "Max",
+      "lastName" : "BUSCH",
+      "fullName" : "BUSCH, Max"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "STANGE",
+      "fullName" : "STANGE, Simon"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "KOCH",
+      "fullName" : "KOCH, Maximilian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "45873"
+  } ]
+}

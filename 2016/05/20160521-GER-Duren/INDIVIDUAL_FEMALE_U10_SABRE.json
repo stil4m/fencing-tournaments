@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4745-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355638"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "GÜNZEL",
+      "fullName" : "GÜNZEL, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361280"
+  }, {
+    "participantId" : "3",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hanna",
+      "lastName" : "KATZMAREK",
+      "fullName" : "KATZMAREK, Hanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356358"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marisa Victoria",
+      "lastName" : "KURZAWA",
+      "fullName" : "KURZAWA, Marisa Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351687"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "WALLRAF",
+      "fullName" : "WALLRAF, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361278"
+  } ]
+}

@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3443-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christopher",
+      "lastName" : "DEMAND",
+      "fullName" : "DEMAND, Christopher"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361295"
+  }, {
+    "participantId" : "2",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nikita",
+      "lastName" : "GRIMM",
+      "fullName" : "GRIMM, Nikita"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354657"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Garmisch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jarl",
+      "lastName" : "KÜRBIS",
+      "fullName" : "KÜRBIS, Jarl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337828"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "LERCH",
+      "fullName" : "LERCH, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360630"
+  }, {
+    "participantId" : "5",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nikita",
+      "lastName" : "ROMANKOV",
+      "fullName" : "ROMANKOV, Nikita"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340661"
+  }, {
+    "participantId" : "6",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arthur",
+      "lastName" : "SHPOLYANSKYY",
+      "fullName" : "SHPOLYANSKYY, Arthur"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355257"
+  }, {
+    "participantId" : "7",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Toni",
+      "lastName" : "THIELE",
+      "fullName" : "THIELE, Toni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360539"
+  } ]
+}

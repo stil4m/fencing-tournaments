@@ -1,0 +1,242 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13166-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "BARENTIEN",
+      "fullName" : "BARENTIEN, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358114"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eduard Robert",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Eduard Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332811"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manuel",
+      "lastName" : "ENGL",
+      "fullName" : "ENGL, Manuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324866"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "GRIENINGER",
+      "fullName" : "GRIENINGER, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309321"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "HEIMANN",
+      "fullName" : "HEIMANN, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336416"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "HORNUNG",
+      "fullName" : "HORNUNG, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353313"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "HUBER",
+      "fullName" : "HUBER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "304567"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "JAESCHKE",
+      "fullName" : "JAESCHKE, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360044"
+  }, {
+    "participantId" : "9",
+    "club" : "CE Hagenau",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Victor",
+      "lastName" : "MARTIN",
+      "fullName" : "MARTIN, Victor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "196619"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard Gregor",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Leonard Gregor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123335"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "RÜGGEBERG",
+      "fullName" : "RÜGGEBERG, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349382"
+  }, {
+    "participantId" : "12",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "SCHULZ-ANDRÉ",
+      "fullName" : "SCHULZ-ANDRÉ, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358116"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marc",
+      "lastName" : "WAGSCHAL",
+      "fullName" : "WAGSCHAL, Marc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326640"
+  }, {
+    "participantId" : "14",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manuel",
+      "lastName" : "SCHEUBLE",
+      "fullName" : "SCHEUBLE, Manuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337206"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bruno",
+      "lastName" : "BLACK",
+      "fullName" : "BLACK, Bruno"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336423"
+  } ]
+}

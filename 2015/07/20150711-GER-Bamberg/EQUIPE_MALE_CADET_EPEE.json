@@ -1,0 +1,46 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5598-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTV München",
+    "country" : "GER",
+    "teamName" : "MTV MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "22571"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG II",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "329373"
+  } ]
+}

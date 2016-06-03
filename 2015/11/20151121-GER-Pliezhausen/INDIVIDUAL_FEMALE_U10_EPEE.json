@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3036-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "LEINER",
+      "fullName" : "LEINER, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344801"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luisa",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Luisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353785"
+  } ]
+}

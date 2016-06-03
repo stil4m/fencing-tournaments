@@ -1,0 +1,317 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2014,
+      "id" : "484"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "19",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "SHATALOVA",
+      "fullName" : "SHATALOVA, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "21810",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "ARG",
+    "name" : {
+      "firstName" : "Maria Belen",
+      "lastName" : "PEREZ MAURICE",
+      "fullName" : "PEREZ MAURICE, Maria Belen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "1458",
+    "fwwId" : "27139"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "ARG",
+    "name" : {
+      "firstName" : "Adriana",
+      "lastName" : "ATTAR COHEN",
+      "fullName" : "ATTAR COHEN, Adriana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "19091",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Ekaterina",
+      "lastName" : "TITOVA",
+      "fullName" : "TITOVA, Ekaterina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25936",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "BASHTA",
+      "fullName" : "BASHTA, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "31300",
+    "fwwId" : "124519"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "MATVEEVA",
+      "fullName" : "MATVEEVA, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "23440",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "TPE",
+    "name" : {
+      "firstName" : "Tiffany",
+      "lastName" : "DELL'AQUILA",
+      "fullName" : "DELL'AQUILA, Tiffany"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "27571",
+    "fwwId" : "121285"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "HKG",
+    "name" : {
+      "firstName" : "Sin Ying",
+      "lastName" : "AU",
+      "fullName" : "AU, Sin Ying"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "15796",
+    "fwwId" : "34721"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "OZOLINA",
+      "fullName" : "OZOLINA, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "21812",
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "ISL",
+    "name" : {
+      "firstName" : "Thordis Ylfa",
+      "lastName" : "VIDARSDOTTIR",
+      "fullName" : "VIDARSDOTTIR, Thordis Ylfa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25435",
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "ISL",
+    "name" : {
+      "firstName" : "Thorbjorg",
+      "lastName" : "AGUSTSDOTTIR",
+      "fullName" : "AGUSTSDOTTIR, Thorbjorg"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "4293",
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "VEN",
+    "name" : {
+      "firstName" : "Patricia",
+      "lastName" : "CONTRERAS",
+      "fullName" : "CONTRERAS, Patricia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "13090",
+    "fwwId" : "23305"
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "ISL",
+    "name" : {
+      "firstName" : "Freyja Sif",
+      "lastName" : "STEFNISDOTTIR",
+      "fullName" : "STEFNISDOTTIR, Freyja Sif"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33149",
+    "fwwId" : "303060"
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "ISL",
+    "name" : {
+      "firstName" : "Kolfinna",
+      "lastName" : "JONSDOTTIR",
+      "fullName" : "JONSDOTTIR, Kolfinna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "29390",
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Amy",
+      "lastName" : "SACH",
+      "fullName" : "SACH, Amy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34523",
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ewa",
+      "lastName" : "BIELCZYK-MACZYNSKA",
+      "fullName" : "BIELCZYK-MACZYNSKA, Ewa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "35328",
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "ISL",
+    "name" : {
+      "firstName" : "Aldis Edda",
+      "lastName" : "INGVARSDOTTIR",
+      "fullName" : "INGVARSDOTTIR, Aldis Edda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25433",
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Sian",
+      "lastName" : "WEBSTER",
+      "fullName" : "WEBSTER, Sian"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33426",
+    "fwwId" : "331197"
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "NZL",
+    "name" : {
+      "firstName" : "Beth",
+      "lastName" : "GAREY",
+      "fullName" : "GAREY, Beth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "35378",
+    "fwwId" : null
+  } ]
+}

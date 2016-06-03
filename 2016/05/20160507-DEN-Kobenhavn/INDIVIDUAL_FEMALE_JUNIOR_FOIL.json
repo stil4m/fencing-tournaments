@@ -1,0 +1,378 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7834-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "18",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "KAZ",
+    "name" : {
+      "firstName" : "Tangsholpan",
+      "lastName" : "AITZHANOVA",
+      "fullName" : "AITZHANOVA, Tangsholpan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36806",
+    "fwwId" : "351534"
+  }, {
+    "participantId" : "2",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anastasia",
+      "lastName" : "BORISENKO",
+      "fullName" : "BORISENKO, Anastasia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327226"
+  }, {
+    "participantId" : "3",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "BRONDUM",
+      "fullName" : "BRONDUM, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40164",
+    "fwwId" : "347725"
+  }, {
+    "participantId" : "4",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Cornelia",
+      "lastName" : "BURMAN",
+      "fullName" : "BURMAN, Cornelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326288"
+  }, {
+    "participantId" : "5",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Josephine Barfod",
+      "lastName" : "DAMGAARD",
+      "fullName" : "DAMGAARD, Josephine Barfod"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312197"
+  }, {
+    "participantId" : "6",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Isabelle",
+      "lastName" : "ENGELKE",
+      "fullName" : "ENGELKE, Isabelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121821"
+  }, {
+    "participantId" : "7",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Mimi-Lee",
+      "lastName" : "ERIKSSON",
+      "fullName" : "ERIKSSON, Mimi-Lee"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "331711"
+  }, {
+    "participantId" : "8",
+    "club" : "GFK Göteborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Patricia",
+      "lastName" : "GILLJAM",
+      "fullName" : "GILLJAM, Patricia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34707",
+    "fwwId" : "304486"
+  }, {
+    "participantId" : "9",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sol",
+      "lastName" : "GRUM-SCHWENSEN",
+      "fullName" : "GRUM-SCHWENSEN, Sol"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37614",
+    "fwwId" : "120747"
+  }, {
+    "participantId" : "10",
+    "club" : "OMS Oulu",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Eva",
+      "lastName" : "HAUTALA",
+      "fullName" : "HAUTALA, Eva"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351732"
+  }, {
+    "participantId" : "11",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Miranda",
+      "lastName" : "JÄDERLING",
+      "fullName" : "JÄDERLING, Miranda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124748"
+  }, {
+    "participantId" : "12",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Line",
+      "lastName" : "JÖNSSON",
+      "fullName" : "JÖNSSON, Line"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320271"
+  }, {
+    "participantId" : "13",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Laeticia",
+      "lastName" : "JØRGENSEN",
+      "fullName" : "JØRGENSEN, Laeticia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32575",
+    "fwwId" : "124978"
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "KAZ",
+    "name" : {
+      "firstName" : "Karolina",
+      "lastName" : "KARIMOVA",
+      "fullName" : "KARIMOVA, Karolina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "30642",
+    "fwwId" : "314841"
+  }, {
+    "participantId" : "15",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "LARSEN SCHREMMER",
+      "fullName" : "LARSEN SCHREMMER, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353200"
+  }, {
+    "participantId" : "16",
+    "club" : "FKC Karlskrona",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Linn",
+      "lastName" : "LÖFMARK",
+      "fullName" : "LÖFMARK, Linn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "27947",
+    "fwwId" : "70444"
+  }, {
+    "participantId" : "17",
+    "club" : "MFFG Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Dillshodahon",
+      "lastName" : "MUSTAFAEVA",
+      "fullName" : "MUSTAFAEVA, Dillshodahon"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120311"
+  }, {
+    "participantId" : "18",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Jadem",
+      "lastName" : "ÖZELBIR",
+      "fullName" : "ÖZELBIR, Jadem"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328474"
+  }, {
+    "participantId" : "19",
+    "club" : "VFK Varde 1969",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Laura Margrethe",
+      "lastName" : "PATHARE",
+      "fullName" : "PATHARE, Laura Margrethe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34827",
+    "fwwId" : "312349"
+  }, {
+    "participantId" : "20",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Harriet",
+      "lastName" : "RUNDQUIST",
+      "fullName" : "RUNDQUIST, Harriet"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "35383",
+    "fwwId" : "89362"
+  }, {
+    "participantId" : "21",
+    "club" : null,
+    "country" : "KAZ",
+    "name" : {
+      "firstName" : "Sayana",
+      "lastName" : "SAIKHANOVA",
+      "fullName" : "SAIKHANOVA, Sayana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363140"
+  }, {
+    "participantId" : "22",
+    "club" : null,
+    "country" : "KAZ",
+    "name" : {
+      "firstName" : "Kuralay",
+      "lastName" : "SEIDAKHMETOVA",
+      "fullName" : "SEIDAKHMETOVA, Kuralay"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34271",
+    "fwwId" : "336128"
+  }, {
+    "participantId" : "23",
+    "club" : "Aalborg FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sophia Haack",
+      "lastName" : "VADSTRUP",
+      "fullName" : "VADSTRUP, Sophia Haack"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38090",
+    "fwwId" : "349205"
+  } ]
+}

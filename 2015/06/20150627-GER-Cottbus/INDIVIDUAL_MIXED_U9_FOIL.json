@@ -1,0 +1,230 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8101-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Grajer",
+      "lastName" : "AMBARCUMJAN",
+      "fullName" : "AMBARCUMJAN, Grajer"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "346069"
+  }, {
+    "participantId" : "2",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Darja",
+      "lastName" : "BUDZIBAJAN",
+      "fullName" : "BUDZIBAJAN, Darja"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "350800"
+  }, {
+    "participantId" : "3",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ludomir",
+      "lastName" : "DLUGOKECKI",
+      "fullName" : "DLUGOKECKI, Ludomir"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "333585"
+  }, {
+    "participantId" : "4",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "LACHMANN",
+      "fullName" : "LACHMANN, Barbara"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "338992"
+  }, {
+    "participantId" : "5",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Jakub",
+      "lastName" : "NAROLEWSKI",
+      "fullName" : "NAROLEWSKI, Jakub"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "346641"
+  }, {
+    "participantId" : "6",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "NELZA",
+      "fullName" : "NELZA, Dominika"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "333237"
+  }, {
+    "participantId" : "7",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Hanna",
+      "lastName" : "POSADZY",
+      "fullName" : "POSADZY, Hanna"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "354635"
+  }, {
+    "participantId" : "8",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "TURBO",
+      "fullName" : "TURBO, Daniel"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "333261"
+  }, {
+    "participantId" : "9",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Raphael"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353671"
+  }, {
+    "participantId" : "10",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Sebastian"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353670"
+  }, {
+    "participantId" : "11",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "LIZAK",
+      "fullName" : "LIZAK, Adam"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "334905"
+  }, {
+    "participantId" : "12",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "RADZIK",
+      "fullName" : "RADZIK, Dominika"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348045"
+  }, {
+    "participantId" : "13",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ignacy",
+      "lastName" : "MICHALUK",
+      "fullName" : "MICHALUK, Ignacy"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "349043"
+  }, {
+    "participantId" : "14",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Bartosz",
+      "lastName" : "BRZOSKA",
+      "fullName" : "BRZOSKA, Bartosz"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348047"
+  }, {
+    "participantId" : "15",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Albert",
+      "lastName" : "JABLONOWSKI",
+      "fullName" : "JABLONOWSKI, Albert"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348046"
+  } ]
+}

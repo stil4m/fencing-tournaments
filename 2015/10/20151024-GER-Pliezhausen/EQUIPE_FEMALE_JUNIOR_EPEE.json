@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2244-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Franziska",
+      "lastName" : "MAYR",
+      "fullName" : "MAYR, Franziska"
+    }, {
+      "firstName" : "Katrin",
+      "lastName" : "SOMMER",
+      "fullName" : "SOMMER, Katrin"
+    }, {
+      "firstName" : "Johanna",
+      "lastName" : "TISCH",
+      "fullName" : "TISCH, Johanna"
+    }, {
+      "firstName" : "Amelie",
+      "lastName" : "HANSCHKE",
+      "fullName" : "HANSCHKE, Amelie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "teamName" : "TG SCHWENNINGEN",
+    "members" : [ {
+      "firstName" : "Maria",
+      "lastName" : "ERDMENGER",
+      "fullName" : "ERDMENGER, Maria"
+    }, {
+      "firstName" : "Melanie",
+      "lastName" : "LIPPERT",
+      "fullName" : "LIPPERT, Melanie"
+    }, {
+      "firstName" : "Janine",
+      "lastName" : "LIPPERT",
+      "fullName" : "LIPPERT, Janine"
+    }, {
+      "firstName" : "Sarah",
+      "lastName" : "RAPP",
+      "fullName" : "RAPP, Sarah"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22236"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Theresa",
+      "lastName" : "BÜHNER",
+      "fullName" : "BÜHNER, Theresa"
+    }, {
+      "firstName" : "Anja",
+      "lastName" : "HÄNDLER",
+      "fullName" : "HÄNDLER, Anja"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "THRUM",
+      "fullName" : "THRUM, Lea"
+    }, {
+      "firstName" : "Bianca Ines",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Bianca Ines"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : [ {
+      "firstName" : "Katharina",
+      "lastName" : "LUTZ",
+      "fullName" : "LUTZ, Katharina"
+    }, {
+      "firstName" : "Hannah",
+      "lastName" : "TRAUB",
+      "fullName" : "TRAUB, Hannah"
+    }, {
+      "firstName" : "Saskia",
+      "lastName" : "REMPFER",
+      "fullName" : "REMPFER, Saskia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52948"
+  } ]
+}

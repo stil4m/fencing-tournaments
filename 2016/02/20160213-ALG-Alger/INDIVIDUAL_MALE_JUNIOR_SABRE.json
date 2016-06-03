@@ -1,0 +1,333 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "72"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : null,
+    "participantId" : "20",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Fares",
+      "lastName" : "FERJANI",
+      "fullName" : "FERJANI, Fares"
+    },
+    "gender" : "MALE",
+    "fieId" : "32326",
+    "fwwId" : "324474"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mokhtar",
+      "lastName" : "WAFAEY",
+      "fullName" : "WAFAEY, Mokhtar"
+    },
+    "gender" : "MALE",
+    "fieId" : "32724",
+    "fwwId" : "326373"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Zin Eddine",
+      "lastName" : "HEROUI",
+      "fullName" : "HEROUI, Zin Eddine"
+    },
+    "gender" : "MALE",
+    "fieId" : "33697",
+    "fwwId" : "333154"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Akram",
+      "lastName" : "BOUNABI",
+      "fullName" : "BOUNABI, Akram"
+    },
+    "gender" : "MALE",
+    "fieId" : "32427",
+    "fwwId" : "325360"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GRE",
+    "name" : {
+      "firstName" : "Marios",
+      "lastName" : "GIAKOUMATOS",
+      "fullName" : "GIAKOUMATOS, Marios"
+    },
+    "gender" : "MALE",
+    "fieId" : "29300",
+    "fwwId" : "92232"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Ahmed",
+      "lastName" : "FERJANI",
+      "fullName" : "FERJANI, Ahmed"
+    },
+    "gender" : "MALE",
+    "fieId" : "35036",
+    "fwwId" : "339115"
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Ugo Daniel",
+      "lastName" : "GAMBERONI",
+      "fullName" : "GAMBERONI, Ugo Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : "34167",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Hamza Adel",
+      "lastName" : "KASDI",
+      "fullName" : "KASDI, Hamza Adel"
+    },
+    "gender" : "MALE",
+    "fieId" : "36744",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Noureldin",
+      "lastName" : "NOURELDIN",
+      "fullName" : "NOURELDIN, Noureldin"
+    },
+    "gender" : "MALE",
+    "fieId" : "40057",
+    "fwwId" : "360329"
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Acyl",
+      "lastName" : "MAAZIZ",
+      "fullName" : "MAAZIZ, Acyl"
+    },
+    "gender" : "MALE",
+    "fieId" : "39311",
+    "fwwId" : "358152"
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "JOR",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "AL.MAJALI Wael"
+    },
+    "gender" : "MALE",
+    "fieId" : "34957",
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Aymen",
+      "lastName" : "MOJAAT",
+      "fullName" : "MOJAAT, Aymen"
+    },
+    "gender" : "MALE",
+    "fieId" : "35037",
+    "fwwId" : "339116"
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Anis",
+      "lastName" : "MAIRI",
+      "fullName" : "MAIRI, Anis"
+    },
+    "gender" : "MALE",
+    "fieId" : "34932",
+    "fwwId" : "338857"
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "ARG",
+    "name" : {
+      "firstName" : "Tomas",
+      "lastName" : "MACRI",
+      "fullName" : "MACRI, Tomas"
+    },
+    "gender" : "MALE",
+    "fieId" : "32226",
+    "fwwId" : "324452"
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "JOR",
+    "name" : {
+      "firstName" : "Liath",
+      "lastName" : "ALNSOUR",
+      "fullName" : "ALNSOUR, Liath"
+    },
+    "gender" : "MALE",
+    "fieId" : "40018",
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Medhat",
+      "lastName" : "MOATAZ",
+      "fullName" : "MOATAZ, Medhat"
+    },
+    "gender" : "MALE",
+    "fieId" : "37198",
+    "fwwId" : "350319"
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Hamza",
+      "lastName" : "BEN TOURKIA",
+      "fullName" : "BEN TOURKIA, Hamza"
+    },
+    "gender" : "MALE",
+    "fieId" : "40208",
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "JOR",
+    "name" : {
+      "firstName" : "Ahmad",
+      "lastName" : "ALAMAWI",
+      "fullName" : "ALAMAWI, Ahmad"
+    },
+    "gender" : "MALE",
+    "fieId" : "40019",
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "JOR",
+    "name" : {
+      "firstName" : "Abdallah",
+      "lastName" : "TAHLA",
+      "fullName" : "TAHLA, Abdallah"
+    },
+    "gender" : "MALE",
+    "fieId" : "40016",
+    "fwwId" : null
+  }, {
+    "participantId" : "20",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Boubacar",
+      "lastName" : "BALLO",
+      "fullName" : "BALLO, Boubacar"
+    },
+    "gender" : "MALE",
+    "fieId" : "32954",
+    "fwwId" : "327455"
+  } ]
+}

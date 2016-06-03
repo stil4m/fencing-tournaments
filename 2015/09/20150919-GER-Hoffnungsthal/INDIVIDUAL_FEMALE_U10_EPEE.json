@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3014-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Viktoria",
+      "lastName" : "BERNSTEIN",
+      "fullName" : "BERNSTEIN, Viktoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341992"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "GRUPE",
+      "fullName" : "GRUPE, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354556"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mariu",
+      "lastName" : "HERBRANDT",
+      "fullName" : "HERBRANDT, Mariu"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342437"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "MAASSEN",
+      "fullName" : "MAASSEN, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348749"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lisa",
+      "lastName" : "PINKERT",
+      "fullName" : "PINKERT, Lisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323337"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "SCHLECHTER",
+      "fullName" : "SCHLECHTER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354558"
+  } ]
+}

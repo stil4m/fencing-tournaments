@@ -1,0 +1,142 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9040-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Anna Belle",
+      "lastName" : "BONNET",
+      "fullName" : "BONNET, Anna Belle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354012"
+  }, {
+    "participantId" : "2",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Clara Fine",
+      "lastName" : "BONNET",
+      "fullName" : "BONNET, Clara Fine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354013"
+  }, {
+    "participantId" : "3",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "CARLSSON",
+      "fullName" : "CARLSSON, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339494"
+  }, {
+    "participantId" : "4",
+    "club" : "EGF Solna",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Karin",
+      "lastName" : "LARSSON",
+      "fullName" : "LARSSON, Karin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330501"
+  }, {
+    "participantId" : "5",
+    "club" : "PARIS CEP",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Suzanne",
+      "lastName" : "LENFANT KOENIG",
+      "fullName" : "LENFANT KOENIG, Suzanne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "111582"
+  }, {
+    "participantId" : "6",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ea",
+      "lastName" : "LYKKE HANSEN",
+      "fullName" : "LYKKE HANSEN, Ea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340797"
+  }, {
+    "participantId" : "7",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "WINTERBERG-POULSEN",
+      "fullName" : "WINTERBERG-POULSEN, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314651"
+  }, {
+    "participantId" : "8",
+    "club" : "FSF Frederiksberg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Franciska",
+      "lastName" : "THORSEN",
+      "fullName" : "THORSEN, Franciska"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359427"
+  }, {
+    "participantId" : "9",
+    "club" : "PARIS CEP",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Morgane",
+      "lastName" : "ORVEN",
+      "fullName" : "ORVEN, Morgane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

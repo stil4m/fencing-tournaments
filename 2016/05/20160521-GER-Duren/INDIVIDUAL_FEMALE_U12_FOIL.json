@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2902-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "1. FC Quadrath-Ichendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "ASSENMACHER",
+      "fullName" : "ASSENMACHER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342275"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "FINKE",
+      "fullName" : "FINKE, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326971"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vivian Marie",
+      "lastName" : "HENDLER",
+      "fullName" : "HENDLER, Vivian Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329348"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Renee",
+      "lastName" : "OYMANN",
+      "fullName" : "OYMANN, Renee"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346514"
+  }, {
+    "participantId" : "5",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Liv",
+      "lastName" : "PIETZONKA",
+      "fullName" : "PIETZONKA, Liv"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339878"
+  }, {
+    "participantId" : "6",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cila",
+      "lastName" : "RIECK",
+      "fullName" : "RIECK, Cila"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358095"
+  }, {
+    "participantId" : "7",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "ROMMER",
+      "fullName" : "ROMMER, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329353"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Shamin",
+      "lastName" : "SALM",
+      "fullName" : "SALM, Shamin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332517"
+  }, {
+    "participantId" : "9",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "SCHURICHT",
+      "fullName" : "SCHURICHT, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360999"
+  }, {
+    "participantId" : "10",
+    "club" : "PSV Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "STEEGER",
+      "fullName" : "STEEGER, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329955"
+  }, {
+    "participantId" : "11",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marieke",
+      "lastName" : "TEN THOREN",
+      "fullName" : "TEN THOREN, Marieke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355711"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amelie",
+      "lastName" : "WETZLING",
+      "fullName" : "WETZLING, Amelie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363359"
+  }, {
+    "participantId" : "13",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Helena",
+      "lastName" : "ZENNER",
+      "fullName" : "ZENNER, Helena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359900"
+  } ]
+}

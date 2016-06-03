@@ -1,0 +1,73 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2015,
+      "id" : "1214"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "MEX",
+    "teamName" : "MEXICO",
+    "members" : null,
+    "fieId" : "6938",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "USA",
+    "teamName" : "USA",
+    "members" : null,
+    "fieId" : "6924",
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "JPN",
+    "teamName" : "JAPAN",
+    "members" : null,
+    "fieId" : "6960",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "CAN",
+    "teamName" : "CANADA",
+    "members" : null,
+    "fieId" : "6878",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "CRC",
+    "teamName" : "COSTA RICA",
+    "members" : null,
+    "fieId" : "6930",
+    "fwwId" : null
+  } ]
+}

@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3434-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Grünwald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlo",
+      "lastName" : "BROWNE",
+      "fullName" : "BROWNE, Marlo"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350874"
+  }, {
+    "participantId" : "2",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Merle",
+      "lastName" : "DOMBROWSKI",
+      "fullName" : "DOMBROWSKI, Merle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350391"
+  }, {
+    "participantId" : "3",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chidinma",
+      "lastName" : "EZE",
+      "fullName" : "EZE, Chidinma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342712"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Markella",
+      "lastName" : "KOUNTOURA",
+      "fullName" : "KOUNTOURA, Markella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350321"
+  }, {
+    "participantId" : "5",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Teresa",
+      "lastName" : "LANDSLEITNER",
+      "fullName" : "LANDSLEITNER, Teresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339022"
+  }, {
+    "participantId" : "6",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Soraya",
+      "lastName" : "SCHNECK",
+      "fullName" : "SCHNECK, Soraya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339020"
+  }, {
+    "participantId" : "7",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "ZIRK",
+      "fullName" : "ZIRK, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342713"
+  } ]
+}

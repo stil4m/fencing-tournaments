@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3438-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "DIEM",
+      "fullName" : "DIEM, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355191"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marius",
+      "lastName" : "KOBER",
+      "fullName" : "KOBER, Marius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349721"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nepomuk",
+      "lastName" : "REINEKE",
+      "fullName" : "REINEKE, Nepomuk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351263"
+  }, {
+    "participantId" : "4",
+    "club" : "ESV München-Neuaubing",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "RIED",
+      "fullName" : "RIED, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355453"
+  }, {
+    "participantId" : "5",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gustavo",
+      "lastName" : "SAUERER",
+      "fullName" : "SAUERER, Gustavo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343189"
+  }, {
+    "participantId" : "6",
+    "club" : "ESV München-Neuaubing",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon Emanuel",
+      "lastName" : "SCHUSTER",
+      "fullName" : "SCHUSTER, Leon Emanuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355497"
+  } ]
+}

@@ -1,0 +1,174 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2226-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN",
+    "members" : [ {
+      "firstName" : "Luise",
+      "lastName" : "TROMPETA",
+      "fullName" : "TROMPETA, Luise"
+    }, {
+      "firstName" : "Annemarie",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Annemarie"
+    }, {
+      "firstName" : "Michelle",
+      "lastName" : "HOOGSTRA",
+      "fullName" : "HOOGSTRA, Michelle"
+    }, {
+      "firstName" : "Kerstin",
+      "lastName" : "WEILAND",
+      "fullName" : "WEILAND, Kerstin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23382"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN 2",
+    "members" : [ {
+      "firstName" : "Florian",
+      "lastName" : "KASCHUB",
+      "fullName" : "KASCHUB, Florian"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "MÜLLERS",
+      "fullName" : "MÜLLERS, Julian"
+    }, {
+      "firstName" : "Felix",
+      "lastName" : "PLEITHNER",
+      "fullName" : "PLEITHNER, Felix"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "KÜHLING",
+      "fullName" : "KÜHLING, Julian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "87682"
+  }, {
+    "participantId" : "3",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "teamName" : "FSV MÜLHEIM",
+    "members" : [ {
+      "firstName" : "Mirco",
+      "lastName" : "STIMPER",
+      "fullName" : "STIMPER, Mirco"
+    }, {
+      "firstName" : "Frederick",
+      "lastName" : "HAFERMAAS",
+      "fullName" : "HAFERMAAS, Frederick"
+    }, {
+      "firstName" : "Jacob Wilhelm",
+      "lastName" : "SCHLICHT",
+      "fullName" : "SCHLICHT, Jacob Wilhelm"
+    }, {
+      "firstName" : "Greta",
+      "lastName" : "WALDER",
+      "fullName" : "WALDER, Greta"
+    } ],
+    "fieId" : null,
+    "fwwId" : "45874"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Robert",
+      "lastName" : "PIECHA",
+      "fullName" : "PIECHA, Robert"
+    }, {
+      "firstName" : "Max Laurin",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Max Laurin"
+    }, {
+      "firstName" : "Yannick",
+      "lastName" : "LEDERER",
+      "fullName" : "LEDERER, Yannick"
+    }, {
+      "firstName" : "Luc",
+      "lastName" : "WEICHERT",
+      "fullName" : "WEICHERT, Luc"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "teamName" : "TV RATINGEN",
+    "members" : [ {
+      "firstName" : "Luke",
+      "lastName" : "BELITZ",
+      "fullName" : "BELITZ, Luke"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "ROBER",
+      "fullName" : "ROBER, Julian"
+    }, {
+      "firstName" : "Luca",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Luca"
+    }, {
+      "firstName" : "Valentin",
+      "lastName" : "MEKA",
+      "fullName" : "MEKA, Valentin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35812"
+  }, {
+    "participantId" : "6",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : [ {
+      "firstName" : "Maximilian",
+      "lastName" : "GOETZ",
+      "fullName" : "GOETZ, Maximilian"
+    }, {
+      "firstName" : "Amy",
+      "lastName" : "STEIN",
+      "fullName" : "STEIN, Amy"
+    }, {
+      "firstName" : "Zoe",
+      "lastName" : "SCHYMCZYK",
+      "fullName" : "SCHYMCZYK, Zoe"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32437"
+  } ]
+}

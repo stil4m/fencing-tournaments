@@ -1,0 +1,286 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3055-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "13",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "teamName" : "FECHTVEREIN HEIDELBERG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119202"
+  }, {
+    "participantId" : "2",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG HAGEN/HAMM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353414"
+  }, {
+    "participantId" : "3",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "teamName" : "TSG HALLE-NEUSTADT",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20296"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "teamName" : "FC KREFELD",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "89258"
+  }, {
+    "participantId" : "5",
+    "club" : "Thüringen",
+    "country" : "GER",
+    "teamName" : "STG ALTENBURG/MEININGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "334812"
+  }, {
+    "participantId" : "6",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "teamName" : "SV BÖBLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20611"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Ravenstein",
+    "country" : "GER",
+    "teamName" : "FC RAVENSTEIN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "94032"
+  }, {
+    "participantId" : "8",
+    "club" : "Hessen",
+    "country" : "GER",
+    "teamName" : "STG FRANKFURT/WIESBADEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353392"
+  }, {
+    "participantId" : "9",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "10",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "52948"
+  }, {
+    "participantId" : "11",
+    "club" : "Berlin",
+    "country" : "GER",
+    "teamName" : "STG BERLIN SÜDWEST/WITTENAU",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "334590"
+  }, {
+    "participantId" : "12",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "teamName" : "SV WALDKIRCH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20610"
+  }, {
+    "participantId" : "13",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "teamName" : "WUPPERTALER FC",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "94010"
+  }, {
+    "participantId" : "14",
+    "club" : "Württemberg",
+    "country" : "GER",
+    "teamName" : "STG ULM/SCHWENNINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353265"
+  }, {
+    "participantId" : "15",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TBB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "16",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "32437"
+  }, {
+    "participantId" : "17",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "18",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "19",
+    "club" : "Fechterring Hochwald",
+    "country" : "GER",
+    "teamName" : "FR HOCHWALD WADERN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20609"
+  }, {
+    "participantId" : "20",
+    "club" : "Blau-Weiss Buchholz",
+    "country" : "GER",
+    "teamName" : "BLAU-WEISS BUCHOLZ",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "21",
+    "club" : "Sachsen",
+    "country" : "GER",
+    "teamName" : "STG LEIPZIG/OELSNITZ",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353222"
+  }, {
+    "participantId" : "22",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "teamName" : "BAYER LEVERKUSEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19853"
+  }, {
+    "participantId" : "23",
+    "club" : "MTV Saalfeld",
+    "country" : "GER",
+    "teamName" : "MTV 1876 SAALFELD",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "32435"
+  } ]
+}

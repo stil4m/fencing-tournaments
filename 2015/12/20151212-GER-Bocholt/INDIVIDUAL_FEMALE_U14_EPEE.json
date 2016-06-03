@@ -1,0 +1,234 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8195-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fenja",
+      "lastName" : "ANDREAS",
+      "fullName" : "ANDREAS, Fenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323971"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "BERNSTEIN",
+      "fullName" : "BERNSTEIN, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326506"
+  }, {
+    "participantId" : "3",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Margo",
+      "lastName" : "BINGENER",
+      "fullName" : "BINGENER, Margo"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353631"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Lena",
+      "lastName" : "EGGENSTEIN",
+      "fullName" : "EGGENSTEIN, Anna-Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349904"
+  }, {
+    "participantId" : "5",
+    "club" : "s.v. AEW",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "ENDERMAN",
+      "fullName" : "ENDERMAN, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358661"
+  }, {
+    "participantId" : "6",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie Charlotte",
+      "lastName" : "HOLLINDERBÄUMER",
+      "fullName" : "HOLLINDERBÄUMER, Sophie Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322125"
+  }, {
+    "participantId" : "7",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dana",
+      "lastName" : "HÜBERS",
+      "fullName" : "HÜBERS, Dana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323782"
+  }, {
+    "participantId" : "8",
+    "club" : "s.v. Pallós",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Malika",
+      "lastName" : "KERSKES",
+      "fullName" : "KERSKES, Malika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358655"
+  }, {
+    "participantId" : "9",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "LODE",
+      "fullName" : "LODE, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319540"
+  }, {
+    "participantId" : "10",
+    "club" : "Lohausener SV",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Dori",
+      "lastName" : "MOHACSI",
+      "fullName" : "MOHACSI, Dori"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338584"
+  }, {
+    "participantId" : "11",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "NEU",
+      "fullName" : "NEU, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337312"
+  }, {
+    "participantId" : "12",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "PACHUR",
+      "fullName" : "PACHUR, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353650"
+  }, {
+    "participantId" : "13",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finja",
+      "lastName" : "PINGEL",
+      "fullName" : "PINGEL, Finja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323630"
+  }, {
+    "participantId" : "14",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laetitia Eugenie",
+      "lastName" : "WERNER",
+      "fullName" : "WERNER, Laetitia Eugenie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309299"
+  } ]
+}

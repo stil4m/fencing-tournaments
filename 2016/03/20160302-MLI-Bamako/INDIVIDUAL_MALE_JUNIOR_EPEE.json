@@ -1,0 +1,301 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "856"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Ahmad",
+      "lastName" : "ELSOKKARY",
+      "fullName" : "ELSOKKARY, Ahmad"
+    },
+    "gender" : "MALE",
+    "fieId" : "32941",
+    "fwwId" : "337317"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mohamed",
+      "lastName" : "ASHOUR",
+      "fullName" : "ASHOUR, Mohamed"
+    },
+    "gender" : "MALE",
+    "fieId" : "40059",
+    "fwwId" : "360335"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Daveed",
+      "lastName" : "ABDELMALAK",
+      "fullName" : "ABDELMALAK, Daveed"
+    },
+    "gender" : "MALE",
+    "fieId" : "32946",
+    "fwwId" : "327454"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Wajdi",
+      "lastName" : "ZAYER",
+      "fullName" : "ZAYER, Wajdi"
+    },
+    "gender" : "MALE",
+    "fieId" : "32450",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Abdelrahman",
+      "lastName" : "ADEL",
+      "fullName" : "ADEL, Abdelrahman"
+    },
+    "gender" : "MALE",
+    "fieId" : "32718",
+    "fwwId" : "326369"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "LBA",
+    "name" : {
+      "firstName" : "Adham",
+      "lastName" : "AZZEITOUNI",
+      "fullName" : "AZZEITOUNI, Adham"
+    },
+    "gender" : "MALE",
+    "fieId" : "32827",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Menouar",
+      "lastName" : "BENREGUIA",
+      "fullName" : "BENREGUIA, Menouar"
+    },
+    "gender" : "MALE",
+    "fieId" : "32488",
+    "fwwId" : "325387"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Keletigui Julien",
+      "lastName" : "DIABATE",
+      "fullName" : "DIABATE, Keletigui Julien"
+    },
+    "gender" : "MALE",
+    "fieId" : "35589",
+    "fwwId" : "342733"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "SEN",
+    "name" : {
+      "firstName" : "Bourama Keba",
+      "lastName" : "SAGNAN",
+      "fullName" : "SAGNAN, Bourama Keba"
+    },
+    "gender" : "MALE",
+    "fieId" : "30338",
+    "fwwId" : "312733"
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Mohamed",
+      "lastName" : "BENYAHIA",
+      "fullName" : "BENYAHIA, Mohamed"
+    },
+    "gender" : "MALE",
+    "fieId" : "32487",
+    "fwwId" : "325386"
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "LBA",
+    "name" : {
+      "firstName" : "Abdussalam",
+      "lastName" : "ABUJTELA",
+      "fullName" : "ABUJTELA, Abdussalam"
+    },
+    "gender" : "MALE",
+    "fieId" : "34192",
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Ely",
+      "lastName" : "THERA",
+      "fullName" : "THERA, Ely"
+    },
+    "gender" : "MALE",
+    "fieId" : "40464",
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Aly",
+      "lastName" : "DEMBELE",
+      "fullName" : "DEMBELE, Aly"
+    },
+    "gender" : "MALE",
+    "fieId" : "40468",
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Kais",
+      "lastName" : "BOUROUAG",
+      "fullName" : "BOUROUAG, Kais"
+    },
+    "gender" : "MALE",
+    "fieId" : "37015",
+    "fwwId" : "350310"
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Lanfia",
+      "lastName" : "SOUMANO",
+      "fullName" : "SOUMANO, Lanfia"
+    },
+    "gender" : "MALE",
+    "fieId" : "37364",
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "LBA",
+    "name" : {
+      "firstName" : "Mohamed",
+      "lastName" : "ALGADI",
+      "fullName" : "ALGADI, Mohamed"
+    },
+    "gender" : "MALE",
+    "fieId" : "32828",
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "NIG",
+    "name" : {
+      "firstName" : "Ibrahim",
+      "lastName" : "DJIBO HASSANE",
+      "fullName" : "DJIBO HASSANE, Ibrahim"
+    },
+    "gender" : "MALE",
+    "fieId" : "32378",
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "LBA",
+    "name" : {
+      "firstName" : "Abubaker",
+      "lastName" : "ALGADI",
+      "fullName" : "ALGADI, Abubaker"
+    },
+    "gender" : "MALE",
+    "fieId" : "34194",
+    "fwwId" : null
+  } ]
+}

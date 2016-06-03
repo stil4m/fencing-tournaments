@@ -1,0 +1,174 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3154-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolina",
+      "lastName" : "AMELIZADEH",
+      "fullName" : "AMELIZADEH, Carolina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349339"
+  }, {
+    "participantId" : "2",
+    "club" : "Post SV Nürnberg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sara",
+      "lastName" : "GADZE",
+      "fullName" : "GADZE, Sara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330133"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Francesca",
+      "lastName" : "GRINDLE",
+      "fullName" : "GRINDLE, Francesca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358356"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "KAISER",
+      "fullName" : "KAISER, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335479"
+  }, {
+    "participantId" : "5",
+    "club" : "NÜRNBERGER FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clara",
+      "lastName" : "KNERR GÓMEZ DE OLEA",
+      "fullName" : "KNERR GÓMEZ DE OLEA, Clara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "LECOUR",
+      "fullName" : "LECOUR, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333718"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leandra",
+      "lastName" : "LOTTER",
+      "fullName" : "LOTTER, Leandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333719"
+  }, {
+    "participantId" : "8",
+    "club" : "NÜRNBERGER FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily",
+      "lastName" : "SEIBOTH",
+      "fullName" : "SEIBOTH, Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "UMMINGER",
+      "fullName" : "UMMINGER, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333721"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "PALMERT",
+      "fullName" : "PALMERT, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333720"
+  }, {
+    "participantId" : "11",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Filippa",
+      "lastName" : "GAGERN",
+      "fullName" : "GAGERN, Filippa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349383"
+  } ]
+}

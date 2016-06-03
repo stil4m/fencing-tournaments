@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8133-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "HEINEMANN",
+      "fullName" : "HEINEMANN, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347653"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "AnnSophie",
+      "lastName" : "KUKLA Ann- Sophie",
+      "fullName" : "KUKLA Ann- Sophie, AnnSophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302551"
+  }, {
+    "participantId" : "3",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "MATTHIES",
+      "fullName" : "MATTHIES, Andrea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328249"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "MarieSophie",
+      "lastName" : "RODE Marie- Sophie",
+      "fullName" : "RODE Marie- Sophie, MarieSophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302558"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "SONNTAG",
+      "fullName" : "SONNTAG, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302530"
+  }, {
+    "participantId" : "6",
+    "club" : "MTV Soltau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vanessa",
+      "lastName" : "WILL",
+      "fullName" : "WILL, Vanessa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86116"
+  } ]
+}

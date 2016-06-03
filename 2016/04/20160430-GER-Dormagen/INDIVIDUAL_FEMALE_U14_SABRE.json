@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1263-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ida",
+      "lastName" : "ALBERS",
+      "fullName" : "ALBERS, Ida"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340794"
+  }, {
+    "participantId" : "2",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melanie",
+      "lastName" : "BELSNER",
+      "fullName" : "BELSNER, Melanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337491"
+  }, {
+    "participantId" : "3",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "FROMME",
+      "fullName" : "FROMME, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307256"
+  }, {
+    "participantId" : "4",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KAHN",
+      "fullName" : "KAHN, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329218"
+  }, {
+    "participantId" : "5",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "KERSCHBAUM",
+      "fullName" : "KERSCHBAUM, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328310"
+  }, {
+    "participantId" : "6",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amy",
+      "lastName" : "STEIN",
+      "fullName" : "STEIN, Amy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319030"
+  }, {
+    "participantId" : "7",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christin",
+      "lastName" : "THEISEN",
+      "fullName" : "THEISEN, Christin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328309"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kerstin",
+      "lastName" : "WEILAND",
+      "fullName" : "WEILAND, Kerstin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305558"
+  }, {
+    "participantId" : "9",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alicia",
+      "lastName" : "WEINAND",
+      "fullName" : "WEINAND, Alicia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314225"
+  } ]
+}

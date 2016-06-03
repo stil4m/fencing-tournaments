@@ -1,0 +1,274 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11389-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Grajer",
+      "lastName" : "AMBARCUMJAN",
+      "fullName" : "AMBARCUMJAN, Grajer"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346069"
+  }, {
+    "participantId" : "2",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "LACHMANN",
+      "fullName" : "LACHMANN, Barbara"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338992"
+  }, {
+    "participantId" : "3",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Kacper",
+      "lastName" : "NAPIERKOWSKI",
+      "fullName" : "NAPIERKOWSKI, Kacper"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341082"
+  }, {
+    "participantId" : "4",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zofia",
+      "lastName" : "NOWAKOWSKA",
+      "fullName" : "NOWAKOWSKA, Zofia"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347946"
+  }, {
+    "participantId" : "5",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "WOJEWODZKA",
+      "fullName" : "WOJEWODZKA, Zuzanna"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341078"
+  }, {
+    "participantId" : "6",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ludomir",
+      "lastName" : "DLUGOKECKI",
+      "fullName" : "DLUGOKECKI, Ludomir"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333585"
+  }, {
+    "participantId" : "7",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "LIZAK",
+      "fullName" : "LIZAK, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334905"
+  }, {
+    "participantId" : "8",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Jakub",
+      "lastName" : "NAROLEWSKI",
+      "fullName" : "NAROLEWSKI, Jakub"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346641"
+  }, {
+    "participantId" : "9",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "NELZA",
+      "fullName" : "NELZA, Dominika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333237"
+  }, {
+    "participantId" : "10",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "TURBO",
+      "fullName" : "TURBO, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333261"
+  }, {
+    "participantId" : "11",
+    "club" : "WKS Kolejarz Wroclaw",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Bianka",
+      "lastName" : "TELATYNSKA",
+      "fullName" : "TELATYNSKA, Bianka"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333235"
+  }, {
+    "participantId" : "12",
+    "club" : "Wroclawianie",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "KRUSZONA",
+      "fullName" : "KRUSZONA, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348187"
+  }, {
+    "participantId" : "13",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "RADZIK",
+      "fullName" : "RADZIK, Dominika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348045"
+  }, {
+    "participantId" : "14",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ignacy",
+      "lastName" : "MICHALUK",
+      "fullName" : "MICHALUK, Ignacy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349043"
+  }, {
+    "participantId" : "15",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Pawel",
+      "lastName" : "MICHALAK",
+      "fullName" : "MICHALAK, Pawel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349079"
+  }, {
+    "participantId" : "16",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Bartosz",
+      "lastName" : "BRZOSKA",
+      "fullName" : "BRZOSKA, Bartosz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348047"
+  }, {
+    "participantId" : "17",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Albert",
+      "lastName" : "JABLONOWSKI",
+      "fullName" : "JABLONOWSKI, Albert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348046"
+  }, {
+    "participantId" : "18",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Kosma",
+      "lastName" : "BONDYRA",
+      "fullName" : "BONDYRA, Kosma"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

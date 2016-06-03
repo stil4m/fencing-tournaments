@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9027-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Nanna",
+      "lastName" : "CHRISTIANSEN",
+      "fullName" : "CHRISTIANSEN, Nanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346011"
+  }, {
+    "participantId" : "2",
+    "club" : "KFK Kalundborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Amanda",
+      "lastName" : "EJLERTSEN",
+      "fullName" : "EJLERTSEN, Amanda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348567"
+  }, {
+    "participantId" : "3",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ea",
+      "lastName" : "LYKKE HANSEN",
+      "fullName" : "LYKKE HANSEN, Ea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340797"
+  }, {
+    "participantId" : "4",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Signe",
+      "lastName" : "NÆSTHOLDT",
+      "fullName" : "NÆSTHOLDT, Signe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357760"
+  }, {
+    "participantId" : "5",
+    "club" : "FKTV VORDINGBORG",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Emilie",
+      "lastName" : "PRÆSTEGAARD ANDERSEN",
+      "fullName" : "PRÆSTEGAARD ANDERSEN, Emilie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Natalja",
+      "lastName" : "STILLER",
+      "fullName" : "STILLER, Natalja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332605"
+  } ]
+}

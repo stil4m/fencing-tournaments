@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2877-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "PECORONI",
+      "fullName" : "PECORONI, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356225"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anouk",
+      "lastName" : "THORWESTEN",
+      "fullName" : "THORWESTEN, Anouk"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353622"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josephine Maria",
+      "lastName" : "WIEGARD",
+      "fullName" : "WIEGARD, Josephine Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338013"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josephine maria",
+      "lastName" : "WIEGARD",
+      "fullName" : "WIEGARD, Josephine maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338013"
+  } ]
+}

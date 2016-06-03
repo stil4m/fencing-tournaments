@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2247-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "teamName" : "PSV STUTTGART",
+    "members" : [ {
+      "firstName" : "Victor",
+      "lastName" : "REIBETANZ",
+      "fullName" : "REIBETANZ, Victor"
+    }, {
+      "firstName" : "Nils",
+      "lastName" : "SCHMAUDER",
+      "fullName" : "SCHMAUDER, Nils"
+    }, {
+      "firstName" : "Phillip",
+      "lastName" : "HODAK",
+      "fullName" : "HODAK, Phillip"
+    }, {
+      "firstName" : "Felix",
+      "lastName" : "MÄRKLE",
+      "fullName" : "MÄRKLE, Felix"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "teamName" : "SC KORB",
+    "members" : [ {
+      "firstName" : "Sebastian",
+      "lastName" : "PAULE",
+      "fullName" : "PAULE, Sebastian"
+    }, {
+      "firstName" : "Tim",
+      "lastName" : "GROSCH",
+      "fullName" : "GROSCH, Tim"
+    }, {
+      "firstName" : "Can",
+      "lastName" : "SELIM",
+      "fullName" : "SELIM, Can"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "teamName" : "TG TUTTLINGEN",
+    "members" : [ {
+      "firstName" : "Maximilian",
+      "lastName" : "ZINSMAYER",
+      "fullName" : "ZINSMAYER, Maximilian"
+    }, {
+      "firstName" : "Niklas",
+      "lastName" : "KUPPEL",
+      "fullName" : "KUPPEL, Niklas"
+    }, {
+      "firstName" : "Markus",
+      "lastName" : "ZELLER",
+      "fullName" : "ZELLER, Markus"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "JUNT",
+      "fullName" : "JUNT, Florian"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

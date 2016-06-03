@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5258-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Celia",
+      "lastName" : "HOHENADEL",
+      "fullName" : "HOHENADEL, Celia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304915"
+  }, {
+    "participantId" : "2",
+    "club" : "Wiesbadener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christina Maria",
+      "lastName" : "KOSSIWAKIS",
+      "fullName" : "KOSSIWAKIS, Christina Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322529"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "NICK",
+      "fullName" : "NICK, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326930"
+  }, {
+    "participantId" : "4",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florence",
+      "lastName" : "NÜTTGENS",
+      "fullName" : "NÜTTGENS, Florence"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338051"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "PONGRATZ",
+      "fullName" : "PONGRATZ, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304914"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie Estellle",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Marie Estellle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326078"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Francesca",
+      "lastName" : "SEIFERT",
+      "fullName" : "SEIFERT, Francesca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325883"
+  } ]
+}

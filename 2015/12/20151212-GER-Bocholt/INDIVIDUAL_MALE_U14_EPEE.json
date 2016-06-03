@@ -1,0 +1,506 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8199-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "13",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SC Den Bosch",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Timothy",
+      "lastName" : "ASSMANN",
+      "fullName" : "ASSMANN, Timothy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320078"
+  }, {
+    "participantId" : "2",
+    "club" : "Twentsche s.v. Agilité",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Koen",
+      "lastName" : "BESSELING",
+      "fullName" : "BESSELING, Koen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358693"
+  }, {
+    "participantId" : "3",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "BREKER",
+      "fullName" : "BREKER, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303431"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "BUNDESMANN",
+      "fullName" : "BUNDESMANN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342276"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "BUSLEY",
+      "fullName" : "BUSLEY, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348635"
+  }, {
+    "participantId" : "6",
+    "club" : "Fencing Ermelo",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Tristan",
+      "lastName" : "DEKKER",
+      "fullName" : "DEKKER, Tristan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348089"
+  }, {
+    "participantId" : "7",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "DRABSCH",
+      "fullName" : "DRABSCH, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313308"
+  }, {
+    "participantId" : "8",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Konstantin",
+      "lastName" : "ECKERT",
+      "fullName" : "ECKERT, Konstantin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341759"
+  }, {
+    "participantId" : "9",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cedrik Henry",
+      "lastName" : "FAST",
+      "fullName" : "FAST, Cedrik Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318141"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "FROESE",
+      "fullName" : "FROESE, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355634"
+  }, {
+    "participantId" : "11",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "GEHL",
+      "fullName" : "GEHL, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329466"
+  }, {
+    "participantId" : "12",
+    "club" : "s.v. d'Artagnan",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Sjoerd",
+      "lastName" : "GERAEDS",
+      "fullName" : "GERAEDS, Sjoerd"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349431"
+  }, {
+    "participantId" : "13",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "GERTH",
+      "fullName" : "GERTH, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339817"
+  }, {
+    "participantId" : "14",
+    "club" : "Deventer S.V.",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Jari",
+      "lastName" : "HOEVENAARS",
+      "fullName" : "HOEVENAARS, Jari"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350938"
+  }, {
+    "participantId" : "15",
+    "club" : "Maestro's Klup Team",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Guy",
+      "lastName" : "HUGUENIN",
+      "fullName" : "HUGUENIN, Guy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355389"
+  }, {
+    "participantId" : "16",
+    "club" : "SC Den Bosch",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Alec",
+      "lastName" : "KEPPEL",
+      "fullName" : "KEPPEL, Alec"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323912"
+  }, {
+    "participantId" : "17",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "KOCK",
+      "fullName" : "KOCK, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354282"
+  }, {
+    "participantId" : "18",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius Friedrich",
+      "lastName" : "KRAUSE",
+      "fullName" : "KRAUSE, Julius Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336503"
+  }, {
+    "participantId" : "19",
+    "club" : "Deventer S.V.",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Raul",
+      "lastName" : "LENDERINK",
+      "fullName" : "LENDERINK, Raul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350939"
+  }, {
+    "participantId" : "20",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "MATENAER",
+      "fullName" : "MATENAER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336350"
+  }, {
+    "participantId" : "21",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Keanu",
+      "lastName" : "NAGEL",
+      "fullName" : "NAGEL, Keanu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336010"
+  }, {
+    "participantId" : "22",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "NIEHUES",
+      "fullName" : "NIEHUES, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322943"
+  }, {
+    "participantId" : "23",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arno",
+      "lastName" : "NISIUS",
+      "fullName" : "NISIUS, Arno"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324130"
+  }, {
+    "participantId" : "24",
+    "club" : "Fencing Ermelo",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Arnout",
+      "lastName" : "POST",
+      "fullName" : "POST, Arnout"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348090"
+  }, {
+    "participantId" : "25",
+    "club" : "Twentsche s.v. Agilité",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Toon",
+      "lastName" : "PROSS",
+      "fullName" : "PROSS, Toon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358694"
+  }, {
+    "participantId" : "26",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Corvin",
+      "lastName" : "REMSCHEID",
+      "fullName" : "REMSCHEID, Corvin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343851"
+  }, {
+    "participantId" : "27",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alba",
+      "lastName" : "STEINBRECHER",
+      "fullName" : "STEINBRECHER, Alba"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322205"
+  }, {
+    "participantId" : "28",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "TETIET",
+      "fullName" : "TETIET, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339816"
+  }, {
+    "participantId" : "29",
+    "club" : "s.v. RobbSchermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Declan",
+      "lastName" : "VAN DEN HOEK",
+      "fullName" : "VAN DEN HOEK, Declan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348172"
+  }, {
+    "participantId" : "30",
+    "club" : "Twentsche s.v. Agilité",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "WEZEMER",
+      "fullName" : "WEZEMER, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358695"
+  }, {
+    "participantId" : "31",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "ZIEGS",
+      "fullName" : "ZIEGS, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333423"
+  } ]
+}

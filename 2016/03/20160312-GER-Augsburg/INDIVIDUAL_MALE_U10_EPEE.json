@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3441-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "MARSCHALL",
+      "fullName" : "MARSCHALL, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349089"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nepomuk",
+      "lastName" : "REINEKE",
+      "fullName" : "REINEKE, Nepomuk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351263"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "ASCHENBRENNER",
+      "fullName" : "ASCHENBRENNER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357536"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "MUSSMANN",
+      "fullName" : "MUSSMANN, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355236"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antti",
+      "lastName" : "ZENK",
+      "fullName" : "ZENK, Antti"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351262"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "HÜLS",
+      "fullName" : "HÜLS, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349091"
+  } ]
+}

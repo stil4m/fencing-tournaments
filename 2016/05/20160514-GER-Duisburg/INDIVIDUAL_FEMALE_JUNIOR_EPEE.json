@@ -1,0 +1,146 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13477-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 0,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "ADLER",
+      "fullName" : "ADLER, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333430"
+  }, {
+    "participantId" : "2",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia Marie",
+      "lastName" : "HAMM",
+      "fullName" : "HAMM, Antonia Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318634"
+  }, {
+    "participantId" : "3",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amarili",
+      "lastName" : "LOURENCO CARVAJAL",
+      "fullName" : "LOURENCO CARVAJAL, Amarili"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307375"
+  }, {
+    "participantId" : "4",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "MANG",
+      "fullName" : "MANG, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318903"
+  }, {
+    "participantId" : "5",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Caroline",
+      "lastName" : "MARZODKO",
+      "fullName" : "MARZODKO, Caroline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "38686"
+  }, {
+    "participantId" : "6",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pia",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Pia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121406"
+  }, {
+    "participantId" : "7",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadja",
+      "lastName" : "STEPUK",
+      "fullName" : "STEPUK, Nadja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124360"
+  }, {
+    "participantId" : "8",
+    "club" : "Lohausener SV",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Caroline",
+      "lastName" : "VAN ELDIK",
+      "fullName" : "VAN ELDIK, Caroline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314944"
+  }, {
+    "participantId" : "9",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Britta",
+      "lastName" : "WOLBRING",
+      "fullName" : "WOLBRING, Britta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336279"
+  } ]
+}

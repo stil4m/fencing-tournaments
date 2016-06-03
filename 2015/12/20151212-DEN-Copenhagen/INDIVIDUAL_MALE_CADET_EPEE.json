@@ -1,0 +1,2986 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9735-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "185",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "112",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "103",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "67",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "69",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "113",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "186",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "56",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "60",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "119",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "169",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "111",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "176",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "74",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "91",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "72",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "116",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "165",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "94",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "180",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "102",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "168",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "70",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "40",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "87",
+    "abandon" : false
+  }, {
+    "position" : 34,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 35,
+    "participantId" : "61",
+    "abandon" : false
+  }, {
+    "position" : 36,
+    "participantId" : "47",
+    "abandon" : false
+  }, {
+    "position" : 37,
+    "participantId" : "121",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "68",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 40,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 41,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 42,
+    "participantId" : "143",
+    "abandon" : false
+  }, {
+    "position" : 43,
+    "participantId" : "101",
+    "abandon" : false
+  }, {
+    "position" : 44,
+    "participantId" : "182",
+    "abandon" : false
+  }, {
+    "position" : 45,
+    "participantId" : "166",
+    "abandon" : false
+  }, {
+    "position" : 46,
+    "participantId" : "145",
+    "abandon" : false
+  }, {
+    "position" : 47,
+    "participantId" : "141",
+    "abandon" : false
+  }, {
+    "position" : 48,
+    "participantId" : "158",
+    "abandon" : false
+  }, {
+    "position" : 49,
+    "participantId" : "132",
+    "abandon" : false
+  }, {
+    "position" : 50,
+    "participantId" : "109",
+    "abandon" : false
+  }, {
+    "position" : 51,
+    "participantId" : "82",
+    "abandon" : false
+  }, {
+    "position" : 51,
+    "participantId" : "172",
+    "abandon" : false
+  }, {
+    "position" : 53,
+    "participantId" : "157",
+    "abandon" : false
+  }, {
+    "position" : 54,
+    "participantId" : "174",
+    "abandon" : false
+  }, {
+    "position" : 55,
+    "participantId" : "124",
+    "abandon" : false
+  }, {
+    "position" : 56,
+    "participantId" : "88",
+    "abandon" : false
+  }, {
+    "position" : 57,
+    "participantId" : "146",
+    "abandon" : false
+  }, {
+    "position" : 58,
+    "participantId" : "49",
+    "abandon" : false
+  }, {
+    "position" : 59,
+    "participantId" : "155",
+    "abandon" : false
+  }, {
+    "position" : 60,
+    "participantId" : "64",
+    "abandon" : false
+  }, {
+    "position" : 61,
+    "participantId" : "136",
+    "abandon" : false
+  }, {
+    "position" : 62,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 63,
+    "participantId" : "133",
+    "abandon" : false
+  }, {
+    "position" : 64,
+    "participantId" : "95",
+    "abandon" : false
+  }, {
+    "position" : 65,
+    "participantId" : "125",
+    "abandon" : false
+  }, {
+    "position" : 66,
+    "participantId" : "42",
+    "abandon" : false
+  }, {
+    "position" : 67,
+    "participantId" : "71",
+    "abandon" : false
+  }, {
+    "position" : 68,
+    "participantId" : "147",
+    "abandon" : false
+  }, {
+    "position" : 69,
+    "participantId" : "80",
+    "abandon" : false
+  }, {
+    "position" : 70,
+    "participantId" : "51",
+    "abandon" : false
+  }, {
+    "position" : 71,
+    "participantId" : "43",
+    "abandon" : false
+  }, {
+    "position" : 72,
+    "participantId" : "78",
+    "abandon" : false
+  }, {
+    "position" : 73,
+    "participantId" : "110",
+    "abandon" : false
+  }, {
+    "position" : 74,
+    "participantId" : "129",
+    "abandon" : false
+  }, {
+    "position" : 74,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 76,
+    "participantId" : "179",
+    "abandon" : false
+  }, {
+    "position" : 77,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 78,
+    "participantId" : "153",
+    "abandon" : false
+  }, {
+    "position" : 78,
+    "participantId" : "107",
+    "abandon" : false
+  }, {
+    "position" : 80,
+    "participantId" : "48",
+    "abandon" : false
+  }, {
+    "position" : 81,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 82,
+    "participantId" : "41",
+    "abandon" : false
+  }, {
+    "position" : 83,
+    "participantId" : "167",
+    "abandon" : false
+  }, {
+    "position" : 84,
+    "participantId" : "170",
+    "abandon" : false
+  }, {
+    "position" : 85,
+    "participantId" : "131",
+    "abandon" : false
+  }, {
+    "position" : 86,
+    "participantId" : "152",
+    "abandon" : false
+  }, {
+    "position" : 87,
+    "participantId" : "144",
+    "abandon" : false
+  }, {
+    "position" : 88,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 89,
+    "participantId" : "77",
+    "abandon" : false
+  }, {
+    "position" : 90,
+    "participantId" : "104",
+    "abandon" : false
+  }, {
+    "position" : 91,
+    "participantId" : "178",
+    "abandon" : false
+  }, {
+    "position" : 92,
+    "participantId" : "115",
+    "abandon" : false
+  }, {
+    "position" : 93,
+    "participantId" : "142",
+    "abandon" : false
+  }, {
+    "position" : 94,
+    "participantId" : "130",
+    "abandon" : false
+  }, {
+    "position" : 95,
+    "participantId" : "62",
+    "abandon" : false
+  }, {
+    "position" : 96,
+    "participantId" : "106",
+    "abandon" : false
+  }, {
+    "position" : 97,
+    "participantId" : "163",
+    "abandon" : false
+  }, {
+    "position" : 98,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 99,
+    "participantId" : "93",
+    "abandon" : false
+  }, {
+    "position" : 99,
+    "participantId" : "177",
+    "abandon" : false
+  }, {
+    "position" : 101,
+    "participantId" : "173",
+    "abandon" : false
+  }, {
+    "position" : 102,
+    "participantId" : "114",
+    "abandon" : false
+  }, {
+    "position" : 103,
+    "participantId" : "148",
+    "abandon" : false
+  }, {
+    "position" : 104,
+    "participantId" : "97",
+    "abandon" : false
+  }, {
+    "position" : 105,
+    "participantId" : "122",
+    "abandon" : false
+  }, {
+    "position" : 106,
+    "participantId" : "134",
+    "abandon" : false
+  }, {
+    "position" : 106,
+    "participantId" : "85",
+    "abandon" : false
+  }, {
+    "position" : 106,
+    "participantId" : "117",
+    "abandon" : false
+  }, {
+    "position" : 109,
+    "participantId" : "183",
+    "abandon" : false
+  }, {
+    "position" : 110,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 111,
+    "participantId" : "184",
+    "abandon" : false
+  }, {
+    "position" : 112,
+    "participantId" : "57",
+    "abandon" : false
+  }, {
+    "position" : 113,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 114,
+    "participantId" : "53",
+    "abandon" : false
+  }, {
+    "position" : 115,
+    "participantId" : "98",
+    "abandon" : false
+  }, {
+    "position" : 116,
+    "participantId" : "164",
+    "abandon" : false
+  }, {
+    "position" : 117,
+    "participantId" : "99",
+    "abandon" : false
+  }, {
+    "position" : 118,
+    "participantId" : "123",
+    "abandon" : false
+  }, {
+    "position" : 119,
+    "participantId" : "126",
+    "abandon" : false
+  }, {
+    "position" : 120,
+    "participantId" : "50",
+    "abandon" : false
+  }, {
+    "position" : 121,
+    "participantId" : "128",
+    "abandon" : false
+  }, {
+    "position" : 122,
+    "participantId" : "34",
+    "abandon" : false
+  }, {
+    "position" : 122,
+    "participantId" : "149",
+    "abandon" : false
+  }, {
+    "position" : 124,
+    "participantId" : "161",
+    "abandon" : false
+  }, {
+    "position" : 125,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 126,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 127,
+    "participantId" : "159",
+    "abandon" : false
+  }, {
+    "position" : 128,
+    "participantId" : "46",
+    "abandon" : false
+  }, {
+    "position" : 129,
+    "participantId" : "52",
+    "abandon" : false
+  }, {
+    "position" : 129,
+    "participantId" : "175",
+    "abandon" : false
+  }, {
+    "position" : 131,
+    "participantId" : "118",
+    "abandon" : false
+  }, {
+    "position" : 132,
+    "participantId" : "140",
+    "abandon" : false
+  }, {
+    "position" : 133,
+    "participantId" : "54",
+    "abandon" : false
+  }, {
+    "position" : 134,
+    "participantId" : "63",
+    "abandon" : false
+  }, {
+    "position" : 135,
+    "participantId" : "137",
+    "abandon" : false
+  }, {
+    "position" : 136,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 137,
+    "participantId" : "162",
+    "abandon" : false
+  }, {
+    "position" : 138,
+    "participantId" : "156",
+    "abandon" : false
+  }, {
+    "position" : 139,
+    "participantId" : "76",
+    "abandon" : false
+  }, {
+    "position" : 140,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 141,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 142,
+    "participantId" : "160",
+    "abandon" : false
+  }, {
+    "position" : 143,
+    "participantId" : "73",
+    "abandon" : false
+  }, {
+    "position" : 144,
+    "participantId" : "75",
+    "abandon" : false
+  }, {
+    "position" : 145,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 146,
+    "participantId" : "86",
+    "abandon" : false
+  }, {
+    "position" : 147,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 148,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 149,
+    "participantId" : "92",
+    "abandon" : false
+  }, {
+    "position" : 150,
+    "participantId" : "96",
+    "abandon" : false
+  }, {
+    "position" : 151,
+    "participantId" : "151",
+    "abandon" : false
+  }, {
+    "position" : 152,
+    "participantId" : "100",
+    "abandon" : false
+  }, {
+    "position" : 153,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 154,
+    "participantId" : "66",
+    "abandon" : false
+  }, {
+    "position" : 155,
+    "participantId" : "65",
+    "abandon" : false
+  }, {
+    "position" : 155,
+    "participantId" : "89",
+    "abandon" : false
+  }, {
+    "position" : 157,
+    "participantId" : "105",
+    "abandon" : false
+  }, {
+    "position" : 158,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 159,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 160,
+    "participantId" : "154",
+    "abandon" : false
+  }, {
+    "position" : 160,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 162,
+    "participantId" : "108",
+    "abandon" : false
+  }, {
+    "position" : 163,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 164,
+    "participantId" : "150",
+    "abandon" : false
+  }, {
+    "position" : 164,
+    "participantId" : "181",
+    "abandon" : false
+  }, {
+    "position" : 166,
+    "participantId" : "81",
+    "abandon" : false
+  }, {
+    "position" : 166,
+    "participantId" : "139",
+    "abandon" : false
+  }, {
+    "position" : 166,
+    "participantId" : "44",
+    "abandon" : false
+  }, {
+    "position" : 169,
+    "participantId" : "84",
+    "abandon" : false
+  }, {
+    "position" : 170,
+    "participantId" : "90",
+    "abandon" : false
+  }, {
+    "position" : 171,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 172,
+    "participantId" : "79",
+    "abandon" : false
+  }, {
+    "position" : 173,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 174,
+    "participantId" : "45",
+    "abandon" : false
+  }, {
+    "position" : 175,
+    "participantId" : "83",
+    "abandon" : false
+  }, {
+    "position" : 176,
+    "participantId" : "120",
+    "abandon" : false
+  }, {
+    "position" : 176,
+    "participantId" : "171",
+    "abandon" : false
+  }, {
+    "position" : 176,
+    "participantId" : "135",
+    "abandon" : false
+  }, {
+    "position" : 179,
+    "participantId" : "58",
+    "abandon" : false
+  }, {
+    "position" : 180,
+    "participantId" : "55",
+    "abandon" : false
+  }, {
+    "position" : 181,
+    "participantId" : "39",
+    "abandon" : false
+  }, {
+    "position" : 182,
+    "participantId" : "59",
+    "abandon" : false
+  }, {
+    "position" : 183,
+    "participantId" : "138",
+    "abandon" : false
+  }, {
+    "position" : 184,
+    "participantId" : "38",
+    "abandon" : false
+  }, {
+    "position" : 185,
+    "participantId" : "127",
+    "abandon" : false
+  }, {
+    "position" : 186,
+    "participantId" : "33",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Mads",
+      "lastName" : "AAGAARD",
+      "fullName" : "AAGAARD, Mads"
+    },
+    "gender" : "MALE",
+    "fieId" : "40770",
+    "fwwId" : "312224"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "QAT",
+    "name" : {
+      "firstName" : "Yousef",
+      "lastName" : "AL-BADER",
+      "fullName" : "AL-BADER, Yousef"
+    },
+    "gender" : "MALE",
+    "fieId" : "35310",
+    "fwwId" : "345799"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "QAT",
+    "name" : {
+      "firstName" : "Saoud",
+      "lastName" : "AL-MALKI",
+      "fullName" : "AL-MALKI, Saoud"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351115"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "QAT",
+    "name" : {
+      "firstName" : "Khalid",
+      "lastName" : "AL-MULLA",
+      "fullName" : "AL-MULLA, Khalid"
+    },
+    "gender" : "MALE",
+    "fieId" : "36028",
+    "fwwId" : "345844"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "QAT",
+    "name" : {
+      "firstName" : "Ali",
+      "lastName" : "AL-SULAITI",
+      "fullName" : "AL-SULAITI, Ali"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "Valladolid C.E.",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "ALARCIA",
+      "fullName" : "ALARCIA, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356172"
+  }, {
+    "participantId" : "7",
+    "club" : "BF Bergen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "ALFHEIM",
+      "fullName" : "ALFHEIM, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : "40421",
+    "fwwId" : "303335"
+  }, {
+    "participantId" : "8",
+    "club" : "Plymouth FC",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "ANDREWS",
+      "fullName" : "ANDREWS, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342705"
+  }, {
+    "participantId" : "9",
+    "club" : "C. Pompilio Genova",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Filippo",
+      "lastName" : "ARMALEO",
+      "fullName" : "ARMALEO, Filippo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349069"
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Seiya",
+      "lastName" : "ASAMI",
+      "fullName" : "ASAMI, Seiya"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350200"
+  }, {
+    "participantId" : "11",
+    "club" : "KFK Kalundborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Mikkel",
+      "lastName" : "AUERBACH",
+      "fullName" : "AUERBACH, Mikkel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312159"
+  }, {
+    "participantId" : "12",
+    "club" : "Valladolid C.E.",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Diego",
+      "lastName" : "BALMORI",
+      "fullName" : "BALMORI, Diego"
+    },
+    "gender" : "MALE",
+    "fieId" : "40160",
+    "fwwId" : "356173"
+  }, {
+    "participantId" : "13",
+    "club" : "CESAN - Club Scherma San Nicola",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "BALZANO",
+      "fullName" : "BALZANO, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336604"
+  }, {
+    "participantId" : "14",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Rollan",
+      "lastName" : "BARTELEMY",
+      "fullName" : "BARTELEMY, Rollan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347974"
+  }, {
+    "participantId" : "15",
+    "club" : "CE Sud",
+    "country" : "LUX",
+    "name" : {
+      "firstName" : "Olivier",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Olivier"
+    },
+    "gender" : "MALE",
+    "fieId" : "35777",
+    "fwwId" : "332672"
+  }, {
+    "participantId" : "16",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Daniil",
+      "lastName" : "BELIANINOV",
+      "fullName" : "BELIANINOV, Daniil"
+    },
+    "gender" : "MALE",
+    "fieId" : "37861",
+    "fwwId" : "335078"
+  }, {
+    "participantId" : "17",
+    "club" : "Escrime Academy",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Antoine",
+      "lastName" : "BELOT",
+      "fullName" : "BELOT, Antoine"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339843"
+  }, {
+    "participantId" : "18",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Mikhail",
+      "lastName" : "BELOZEROV",
+      "fullName" : "BELOZEROV, Mikhail"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339918"
+  }, {
+    "participantId" : "19",
+    "club" : "Bygdø FK Oslo",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Casper",
+      "lastName" : "BENDIKSEN",
+      "fullName" : "BENDIKSEN, Casper"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357066"
+  }, {
+    "participantId" : "20",
+    "club" : "Valladolid C.E.",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Noe",
+      "lastName" : "BERMEJO",
+      "fullName" : "BERMEJO, Noe"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356174"
+  }, {
+    "participantId" : "21",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Christoffer Leth",
+      "lastName" : "BERNSEN",
+      "fullName" : "BERNSEN, Christoffer Leth"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347164"
+  }, {
+    "participantId" : "22",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "BIRKENMAIER",
+      "fullName" : "BIRKENMAIER, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : "40917",
+    "fwwId" : "118592"
+  }, {
+    "participantId" : "23",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "BIRO",
+      "fullName" : "BIRO, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331121"
+  }, {
+    "participantId" : "24",
+    "club" : "CSS Tg. Mures",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "BIRO",
+      "fullName" : "BIRO, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307416"
+  }, {
+    "participantId" : "25",
+    "club" : "A6 Jönköping",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "BJORKBACK",
+      "fullName" : "BJORKBACK, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "90093"
+  }, {
+    "participantId" : "26",
+    "club" : "SBSK Draakon",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Ilian",
+      "lastName" : "BOBROV",
+      "fullName" : "BOBROV, Ilian"
+    },
+    "gender" : "MALE",
+    "fieId" : "39071",
+    "fwwId" : "320134"
+  }, {
+    "participantId" : "27",
+    "club" : "1.SC Norderstedt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joram",
+      "lastName" : "BOEHNKE",
+      "fullName" : "BOEHNKE, Joram"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "117746"
+  }, {
+    "participantId" : "28",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "BOGERT",
+      "fullName" : "BOGERT, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330440"
+  }, {
+    "participantId" : "29",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "BONFERRONI",
+      "fullName" : "BONFERRONI, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : "36876",
+    "fwwId" : "310222"
+  }, {
+    "participantId" : "30",
+    "club" : "FG Segeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben-Nicolas",
+      "lastName" : "BOROWSKI",
+      "fullName" : "BOROWSKI, Ben-Nicolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339225"
+  }, {
+    "participantId" : "31",
+    "club" : "CAL Lausanne",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Victor",
+      "lastName" : "BORRUAT-KAWASAKI",
+      "fullName" : "BORRUAT-KAWASAKI, Victor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311170"
+  }, {
+    "participantId" : "32",
+    "club" : null,
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Rahmi Kaan",
+      "lastName" : "BUYAN",
+      "fullName" : "BUYAN, Rahmi Kaan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319661"
+  }, {
+    "participantId" : "33",
+    "club" : "Afkar ESK",
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Ertugrul",
+      "lastName" : "CAGLAYAN",
+      "fullName" : "CAGLAYAN, Ertugrul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358445"
+  }, {
+    "participantId" : "34",
+    "club" : "C.E. Olimpo",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Diego",
+      "lastName" : "CALDERON",
+      "fullName" : "CALDERON, Diego"
+    },
+    "gender" : "MALE",
+    "fieId" : "40928",
+    "fwwId" : "89987"
+  }, {
+    "participantId" : "35",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Stefan",
+      "lastName" : "CERRUTI",
+      "fullName" : "CERRUTI, Stefan"
+    },
+    "gender" : "MALE",
+    "fieId" : "39613",
+    "fwwId" : "310622"
+  }, {
+    "participantId" : "36",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "CHAO",
+      "fullName" : "CHAO, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356109"
+  }, {
+    "participantId" : "37",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "CHMUT",
+      "fullName" : "CHMUT, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355480"
+  }, {
+    "participantId" : "38",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Heino",
+      "lastName" : "CHRISTIANSEN",
+      "fullName" : "CHRISTIANSEN, Heino"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314500"
+  }, {
+    "participantId" : "39",
+    "club" : "RMSAB - GYMNASIUM Sabatia A.S.D.",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Giorgio",
+      "lastName" : "CIUCCI",
+      "fullName" : "CIUCCI, Giorgio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358159"
+  }, {
+    "participantId" : "40",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "COLE",
+      "fullName" : "COLE, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348763"
+  }, {
+    "participantId" : "41",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "COOK",
+      "fullName" : "COOK, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346594"
+  }, {
+    "participantId" : "42",
+    "club" : "USA",
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Ulfric",
+      "lastName" : "CROUSE",
+      "fullName" : "CROUSE, Ulfric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343420"
+  }, {
+    "participantId" : "43",
+    "club" : "Njård Oslo",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "DAHLBO",
+      "fullName" : "DAHLBO, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345491"
+  }, {
+    "participantId" : "44",
+    "club" : "Njård Oslo",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Bo",
+      "lastName" : "DAHLE",
+      "fullName" : "DAHLE, Bo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358267"
+  }, {
+    "participantId" : "45",
+    "club" : "FFF Stockholm",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ulrik",
+      "lastName" : "DANDANELL PETERS",
+      "fullName" : "DANDANELL PETERS, Ulrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323003"
+  }, {
+    "participantId" : "46",
+    "club" : "Wingerworth FC",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Liam",
+      "lastName" : "DENELEY",
+      "fullName" : "DENELEY, Liam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355879"
+  }, {
+    "participantId" : "47",
+    "club" : "G. VERNE SCHERMA",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Davide",
+      "lastName" : "DI VEROLI",
+      "fullName" : "DI VEROLI, Davide"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344063"
+  }, {
+    "participantId" : "48",
+    "club" : "Laszlo",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Matthew",
+      "lastName" : "DICKINSON",
+      "fullName" : "DICKINSON, Matthew"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333310"
+  }, {
+    "participantId" : "49",
+    "club" : "SBSK Draakon",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Filipp",
+      "lastName" : "DJATSUK",
+      "fullName" : "DJATSUK, Filipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349332"
+  }, {
+    "participantId" : "50",
+    "club" : "Maccabi Hod Hasharon",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Ido",
+      "lastName" : "DVIR",
+      "fullName" : "DVIR, Ido"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339856"
+  }, {
+    "participantId" : "51",
+    "club" : "BF Bergen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Simen",
+      "lastName" : "DYMBE",
+      "fullName" : "DYMBE, Simen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303336"
+  }, {
+    "participantId" : "52",
+    "club" : "BF Bergen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Brage",
+      "lastName" : "DYRSETH",
+      "fullName" : "DYRSETH, Brage"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349402"
+  }, {
+    "participantId" : "53",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Will",
+      "lastName" : "EAST",
+      "fullName" : "EAST, Will"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349708"
+  }, {
+    "participantId" : "54",
+    "club" : "STF Stavanger",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Sven Marcus",
+      "lastName" : "EEG",
+      "fullName" : "EEG, Sven Marcus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357069"
+  }, {
+    "participantId" : "55",
+    "club" : "Istanbul Ferdi",
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Sebati Eren",
+      "lastName" : "EFE",
+      "fullName" : "EFE, Sebati Eren"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358605"
+  }, {
+    "participantId" : "56",
+    "club" : null,
+    "country" : "LIB",
+    "name" : {
+      "firstName" : "Antoine",
+      "lastName" : "EL CHOUEIRY",
+      "fullName" : "EL CHOUEIRY, Antoine"
+    },
+    "gender" : "MALE",
+    "fieId" : "32337",
+    "fwwId" : "324478"
+  }, {
+    "participantId" : "57",
+    "club" : "Club Navarro Esgrima",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Inigo",
+      "lastName" : "ELIZARI",
+      "fullName" : "ELIZARI, Inigo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358382"
+  }, {
+    "participantId" : "58",
+    "club" : "Istanbul Ferdi",
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Kerem",
+      "lastName" : "EMULER",
+      "fullName" : "EMULER, Kerem"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339874"
+  }, {
+    "participantId" : "59",
+    "club" : "Istanbul Ferdi",
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Batu",
+      "lastName" : "ERDA",
+      "fullName" : "ERDA, Batu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358604"
+  }, {
+    "participantId" : "60",
+    "club" : "USA",
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Stephen",
+      "lastName" : "EWART",
+      "fullName" : "EWART, Stephen"
+    },
+    "gender" : "MALE",
+    "fieId" : "37603",
+    "fwwId" : "343450"
+  }, {
+    "participantId" : "61",
+    "club" : "ASU Udine",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "FAVARO",
+      "fullName" : "FAVARO, Andrea"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337093"
+  }, {
+    "participantId" : "62",
+    "club" : "FG Segeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "FERMOR",
+      "fullName" : "FERMOR, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318964"
+  }, {
+    "participantId" : "63",
+    "club" : "SAF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "FOGEMAN",
+      "fullName" : "FOGEMAN, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322291"
+  }, {
+    "participantId" : "64",
+    "club" : "ASU Udine",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Lorenzo",
+      "lastName" : "FORAMITTI",
+      "fullName" : "FORAMITTI, Lorenzo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358488"
+  }, {
+    "participantId" : "65",
+    "club" : "CESAN - Club Scherma San Nicola",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "FUCILE",
+      "fullName" : "FUCILE, Andrea"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358268"
+  }, {
+    "participantId" : "66",
+    "club" : "TOISE",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Alessandro",
+      "lastName" : "GABRIOLO",
+      "fullName" : "GABRIOLO, Alessandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332643"
+  }, {
+    "participantId" : "67",
+    "club" : "AS Marchesa Torino",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Giulio",
+      "lastName" : "GAETANI",
+      "fullName" : "GAETANI, Giulio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332609"
+  }, {
+    "participantId" : "68",
+    "club" : "Maccabi Jerusalem",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Stanislav",
+      "lastName" : "GALPER",
+      "fullName" : "GALPER, Stanislav"
+    },
+    "gender" : "MALE",
+    "fieId" : "32816",
+    "fwwId" : "326562"
+  }, {
+    "participantId" : "69",
+    "club" : "SBSK Draakon",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Andzej",
+      "lastName" : "GEDZO",
+      "fullName" : "GEDZO, Andzej"
+    },
+    "gender" : "MALE",
+    "fieId" : "33086",
+    "fwwId" : "319974"
+  }, {
+    "participantId" : "70",
+    "club" : "BF Bergen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Tomas",
+      "lastName" : "GEITUNG",
+      "fullName" : "GEITUNG, Tomas"
+    },
+    "gender" : "MALE",
+    "fieId" : "40422",
+    "fwwId" : "303338"
+  }, {
+    "participantId" : "71",
+    "club" : "SEVM Vevey",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "GERINI",
+      "fullName" : "GERINI, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : "39485",
+    "fwwId" : "310753"
+  }, {
+    "participantId" : "72",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Ryan",
+      "lastName" : "GRIFFITHS",
+      "fullName" : "GRIFFITHS, Ryan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355930"
+  }, {
+    "participantId" : "73",
+    "club" : "FTSJF Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Michel",
+      "lastName" : "GSTETTNER",
+      "fullName" : "GSTETTNER, Michel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327722"
+  }, {
+    "participantId" : "74",
+    "club" : "CS IVREA",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Giorgio",
+      "lastName" : "GUERRIERO",
+      "fullName" : "GUERRIERO, Giorgio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320486"
+  }, {
+    "participantId" : "75",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "HALD",
+      "fullName" : "HALD, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346023"
+  }, {
+    "participantId" : "76",
+    "club" : "PM-BF Porvoo",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Roni",
+      "lastName" : "HAMALAINEN",
+      "fullName" : "HAMALAINEN, Roni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319829"
+  }, {
+    "participantId" : "77",
+    "club" : "KF99 Kungsbacka",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Rasmus",
+      "lastName" : "HANSSON",
+      "fullName" : "HANSSON, Rasmus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120595"
+  }, {
+    "participantId" : "78",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "HATTINGER",
+      "fullName" : "HATTINGER, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321001"
+  }, {
+    "participantId" : "79",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Ian",
+      "lastName" : "HAURI",
+      "fullName" : "HAURI, Ian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310032"
+  }, {
+    "participantId" : "80",
+    "club" : "Whitgift",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Connor",
+      "lastName" : "HEAD",
+      "fullName" : "HEAD, Connor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319620"
+  }, {
+    "participantId" : "81",
+    "club" : "Circolo Nautico Posillipo",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "HEIM",
+      "fullName" : "HEIM, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349330"
+  }, {
+    "participantId" : "82",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Eliot",
+      "lastName" : "HERBST",
+      "fullName" : "HERBST, Eliot"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347394"
+  }, {
+    "participantId" : "83",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "August Lindstrom",
+      "lastName" : "JENSEN",
+      "fullName" : "JENSEN, August Lindstrom"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314643"
+  }, {
+    "participantId" : "84",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "JEPPESEN",
+      "fullName" : "JEPPESEN, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321641"
+  }, {
+    "participantId" : "85",
+    "club" : "HFM Helsinki",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "JUTILA",
+      "fullName" : "JUTILA, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334008"
+  }, {
+    "participantId" : "86",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Masami",
+      "lastName" : "KATO",
+      "fullName" : "KATO, Masami"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356399"
+  }, {
+    "participantId" : "87",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Alan",
+      "lastName" : "KESAEV",
+      "fullName" : "KESAEV, Alan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343927"
+  }, {
+    "participantId" : "88",
+    "club" : "TMÅF Turku",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Oskar",
+      "lastName" : "KILJANDER",
+      "fullName" : "KILJANDER, Oskar"
+    },
+    "gender" : "MALE",
+    "fieId" : "33856",
+    "fwwId" : "308706"
+  }, {
+    "participantId" : "89",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "KLEMEN",
+      "fullName" : "KLEMEN, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331110"
+  }, {
+    "participantId" : "90",
+    "club" : "UWK Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "KNECHTL",
+      "fullName" : "KNECHTL, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331120"
+  }, {
+    "participantId" : "91",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Aaron",
+      "lastName" : "KOGAN",
+      "fullName" : "KOGAN, Aaron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344772"
+  }, {
+    "participantId" : "92",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "KOGLER",
+      "fullName" : "KOGLER, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331126"
+  }, {
+    "participantId" : "93",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Igor",
+      "lastName" : "KOROVIN",
+      "fullName" : "KOROVIN, Igor"
+    },
+    "gender" : "MALE",
+    "fieId" : "40500",
+    "fwwId" : "343930"
+  }, {
+    "participantId" : "94",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Zachary",
+      "lastName" : "KRAVITZ",
+      "fullName" : "KRAVITZ, Zachary"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344190"
+  }, {
+    "participantId" : "95",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "KREMSLEITHNER",
+      "fullName" : "KREMSLEITHNER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : "35796",
+    "fwwId" : "321306"
+  }, {
+    "participantId" : "96",
+    "club" : "O.S.AMAROUSIOU",
+    "country" : "GRE",
+    "name" : {
+      "firstName" : "Dimitrios",
+      "lastName" : "KRITIKOS",
+      "fullName" : "KRITIKOS, Dimitrios"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355801"
+  }, {
+    "participantId" : "97",
+    "club" : "UWK Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "LACH",
+      "fullName" : "LACH, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332051"
+  }, {
+    "participantId" : "98",
+    "club" : "En Garde Haapsalu",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Mattias",
+      "lastName" : "LAO",
+      "fullName" : "LAO, Mattias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320511"
+  }, {
+    "participantId" : "99",
+    "club" : "En Garde Haapsalu",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Kaspar Joonas",
+      "lastName" : "LAURMANN",
+      "fullName" : "LAURMANN, Kaspar Joonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349011"
+  }, {
+    "participantId" : "100",
+    "club" : "KFK Kalundborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Phileas Rubaek",
+      "lastName" : "LE QUANG HUY",
+      "fullName" : "LE QUANG HUY, Phileas Rubaek"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355159"
+  }, {
+    "participantId" : "101",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Andrew",
+      "lastName" : "LEE",
+      "fullName" : "LEE, Andrew"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355446"
+  }, {
+    "participantId" : "102",
+    "club" : "CUS Pavia Scherma",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Francesco",
+      "lastName" : "LEONE",
+      "fullName" : "LEONE, Francesco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332649"
+  }, {
+    "participantId" : "103",
+    "club" : "Maccabi Hod Hasharon",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Saar",
+      "lastName" : "LIEVA",
+      "fullName" : "LIEVA, Saar"
+    },
+    "gender" : "MALE",
+    "fieId" : "32783",
+    "fwwId" : "325549"
+  }, {
+    "participantId" : "104",
+    "club" : "GoFK",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Gustav",
+      "lastName" : "LINDVALL",
+      "fullName" : "LINDVALL, Gustav"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "105",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Theodore",
+      "lastName" : "LOMBARDO",
+      "fullName" : "LOMBARDO, Theodore"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355463"
+  }, {
+    "participantId" : "106",
+    "club" : "CATANIA SCHERMA",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Cristian",
+      "lastName" : "LONGO",
+      "fullName" : "LONGO, Cristian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348269"
+  }, {
+    "participantId" : "107",
+    "club" : "DIF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "LUND",
+      "fullName" : "LUND, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : "38902",
+    "fwwId" : "89460"
+  }, {
+    "participantId" : "108",
+    "club" : "FKK",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Oscar",
+      "lastName" : "LUNDH",
+      "fullName" : "LUNDH, Oscar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "109",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Hannes",
+      "lastName" : "LUSTI",
+      "fullName" : "LUSTI, Hannes"
+    },
+    "gender" : "MALE",
+    "fieId" : "37035",
+    "fwwId" : "310093"
+  }, {
+    "participantId" : "110",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Antoine",
+      "lastName" : "LUTIN",
+      "fullName" : "LUTIN, Antoine"
+    },
+    "gender" : "MALE",
+    "fieId" : "39614",
+    "fwwId" : "311413"
+  }, {
+    "participantId" : "111",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "MACLENNAN",
+      "fullName" : "MACLENNAN, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : "40569",
+    "fwwId" : "357231"
+  }, {
+    "participantId" : "112",
+    "club" : "CS Satu Mare",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "MASCA",
+      "fullName" : "MASCA, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332971"
+  }, {
+    "participantId" : "113",
+    "club" : "MIBRE- Ass Scherma Bresso",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Mattia",
+      "lastName" : "MAGNI",
+      "fullName" : "MAGNI, Mattia"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355747"
+  }, {
+    "participantId" : "114",
+    "club" : "A6 Jönköping",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "MAGNUSSON",
+      "fullName" : "MAGNUSSON, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "90260"
+  }, {
+    "participantId" : "115",
+    "club" : "AS Bernardi Ferrara",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "MALAGUTI",
+      "fullName" : "MALAGUTI, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332644"
+  }, {
+    "participantId" : "116",
+    "club" : "GoFK Visby",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Bartlomiej",
+      "lastName" : "MANCEWICZ",
+      "fullName" : "MANCEWICZ, Bartlomiej"
+    },
+    "gender" : "MALE",
+    "fieId" : "32687",
+    "fwwId" : "89312"
+  }, {
+    "participantId" : "117",
+    "club" : "MIBRE- Ass Scherma Bresso",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Matteostefano",
+      "lastName" : "MARCHETTI",
+      "fullName" : "MARCHETTI, Matteostefano"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358269"
+  }, {
+    "participantId" : "118",
+    "club" : "CAFC Mladost",
+    "country" : "CRO",
+    "name" : {
+      "firstName" : "Vedran",
+      "lastName" : "MARKOTA",
+      "fullName" : "MARKOTA, Vedran"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355717"
+  }, {
+    "participantId" : "119",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Yohito",
+      "lastName" : "MASUDA",
+      "fullName" : "MASUDA, Yohito"
+    },
+    "gender" : "MALE",
+    "fieId" : "40892",
+    "fwwId" : "346598"
+  }, {
+    "participantId" : "120",
+    "club" : "Wellington Swords",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Fergus",
+      "lastName" : "MCKENDRY",
+      "fullName" : "MCKENDRY, Fergus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356001"
+  }, {
+    "participantId" : "121",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Cedric",
+      "lastName" : "MECKE",
+      "fullName" : "MECKE, Cedric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358277"
+  }, {
+    "participantId" : "122",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "So",
+      "lastName" : "MORIYA",
+      "fullName" : "MORIYA, So"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356397"
+  }, {
+    "participantId" : "123",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "George",
+      "lastName" : "MORRIS",
+      "fullName" : "MORRIS, George"
+    },
+    "gender" : "MALE",
+    "fieId" : "37966",
+    "fwwId" : "333337"
+  }, {
+    "participantId" : "124",
+    "club" : "Club Navarro Esgrima",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Yago",
+      "lastName" : "NAVARRO",
+      "fullName" : "NAVARRO, Yago"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358383"
+  }, {
+    "participantId" : "125",
+    "club" : "Valladolid C.E.",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Guillermo",
+      "lastName" : "NIETO",
+      "fullName" : "NIETO, Guillermo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350313"
+  }, {
+    "participantId" : "126",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Shoichiro",
+      "lastName" : "NISHIGAKI",
+      "fullName" : "NISHIGAKI, Shoichiro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346609"
+  }, {
+    "participantId" : "127",
+    "club" : "Afkar ESK",
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Veli",
+      "lastName" : "OZCELIK",
+      "fullName" : "OZCELIK, Veli"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358444"
+  }, {
+    "participantId" : "128",
+    "club" : null,
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Aras",
+      "lastName" : "OZOLCER",
+      "fullName" : "OZOLCER, Aras"
+    },
+    "gender" : "MALE",
+    "fieId" : "40985",
+    "fwwId" : "319673"
+  }, {
+    "participantId" : "129",
+    "club" : "HFM Helsinki",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Vaino",
+      "lastName" : "PAAVOLAINEN",
+      "fullName" : "PAAVOLAINEN, Vaino"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123758"
+  }, {
+    "participantId" : "130",
+    "club" : "En Garde Haapsalu",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Raul",
+      "lastName" : "PAJU",
+      "fullName" : "PAJU, Raul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320139"
+  }, {
+    "participantId" : "131",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Vyacheslav",
+      "lastName" : "PAKHNYUK",
+      "fullName" : "PAKHNYUK, Vyacheslav"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343931"
+  }, {
+    "participantId" : "132",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Ivan",
+      "lastName" : "PANIN",
+      "fullName" : "PANIN, Ivan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343939"
+  }, {
+    "participantId" : "133",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Timofey",
+      "lastName" : "PANIN",
+      "fullName" : "PANIN, Timofey"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343938"
+  }, {
+    "participantId" : "134",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Dominic",
+      "lastName" : "PAUL",
+      "fullName" : "PAUL, Dominic"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351942"
+  }, {
+    "participantId" : "135",
+    "club" : "ECC-BU",
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "Javier",
+      "lastName" : "PENARANDA",
+      "fullName" : "PENARANDA, Javier"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358381"
+  }, {
+    "participantId" : "136",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Casper",
+      "lastName" : "PERSSON",
+      "fullName" : "PERSSON, Casper"
+    },
+    "gender" : "MALE",
+    "fieId" : "40165",
+    "fwwId" : "324731"
+  }, {
+    "participantId" : "137",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Magnus",
+      "lastName" : "PETERSEN",
+      "fullName" : "PETERSEN, Magnus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312338"
+  }, {
+    "participantId" : "138",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "PFLUG VON DER OSTEN",
+      "fullName" : "PFLUG VON DER OSTEN, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324863"
+  }, {
+    "participantId" : "139",
+    "club" : "Bygdø FK Oslo",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Andres",
+      "lastName" : "PILIPENKO",
+      "fullName" : "PILIPENKO, Andres"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333184"
+  }, {
+    "participantId" : "140",
+    "club" : "DIF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Hugo",
+      "lastName" : "POUSETTE",
+      "fullName" : "POUSETTE, Hugo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "89454"
+  }, {
+    "participantId" : "141",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "PUCHACHER",
+      "fullName" : "PUCHACHER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : "39022",
+    "fwwId" : "321277"
+  }, {
+    "participantId" : "142",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul-Philipp",
+      "lastName" : "PYSCHIK",
+      "fullName" : "PYSCHIK, Paul-Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307321"
+  }, {
+    "participantId" : "143",
+    "club" : "Bygdø FK Oslo",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "RAEDER",
+      "fullName" : "RAEDER, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : "33437",
+    "fwwId" : "324596"
+  }, {
+    "participantId" : "144",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Charles",
+      "lastName" : "ROTH",
+      "fullName" : "ROTH, Charles"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344105"
+  }, {
+    "participantId" : "145",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Daniil",
+      "lastName" : "RUDYKH",
+      "fullName" : "RUDYKH, Daniil"
+    },
+    "gender" : "MALE",
+    "fieId" : "40505",
+    "fwwId" : "346798"
+  }, {
+    "participantId" : "146",
+    "club" : "Royal Tunbridge Wells",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "James",
+      "lastName" : "RUSSELL",
+      "fullName" : "RUSSELL, James"
+    },
+    "gender" : "MALE",
+    "fieId" : "40523",
+    "fwwId" : "339844"
+  }, {
+    "participantId" : "147",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Amit",
+      "lastName" : "SARMA",
+      "fullName" : "SARMA, Amit"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358278"
+  }, {
+    "participantId" : "148",
+    "club" : "EM Espoo",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Joonas",
+      "lastName" : "SAVELAINEN",
+      "fullName" : "SAVELAINEN, Joonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316993"
+  }, {
+    "participantId" : "149",
+    "club" : "AS Pro Vercelli",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "SAVIOLO",
+      "fullName" : "SAVIOLO, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335072"
+  }, {
+    "participantId" : "150",
+    "club" : "MTV Saalfeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "SCHIER",
+      "fullName" : "SCHIER, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "50109"
+  }, {
+    "participantId" : "151",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nicky",
+      "lastName" : "SCHMIDLI",
+      "fullName" : "SCHMIDLI, Nicky"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310624"
+  }, {
+    "participantId" : "152",
+    "club" : "GFU Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "SCHUHMANN",
+      "fullName" : "SCHUHMANN, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331122"
+  }, {
+    "participantId" : "153",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "SELLS",
+      "fullName" : "SELLS, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : "36755",
+    "fwwId" : "342237"
+  }, {
+    "participantId" : "154",
+    "club" : "En Garde Haapsalu",
+    "country" : "EST",
+    "name" : {
+      "firstName" : "Tony",
+      "lastName" : "SEPP",
+      "fullName" : "SEPP, Tony"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349010"
+  }, {
+    "participantId" : "155",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Dmitriy",
+      "lastName" : "SERDIUK",
+      "fullName" : "SERDIUK, Dmitriy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358594"
+  }, {
+    "participantId" : "156",
+    "club" : "Skipton FC",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Billy",
+      "lastName" : "SHEPHERD",
+      "fullName" : "SHEPHERD, Billy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355880"
+  }, {
+    "participantId" : "157",
+    "club" : "Maccabi Hod Hasharon",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "Ron",
+      "lastName" : "SHITRIT",
+      "fullName" : "SHITRIT, Ron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325548"
+  }, {
+    "participantId" : "158",
+    "club" : "C. Pompilio Genova",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Franco Alchiede",
+      "lastName" : "SIMONATO",
+      "fullName" : "SIMONATO, Franco Alchiede"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333674"
+  }, {
+    "participantId" : "159",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Oscar Juul",
+      "lastName" : "SKALS",
+      "fullName" : "SKALS, Oscar Juul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305261"
+  }, {
+    "participantId" : "160",
+    "club" : "HFM Helsinki",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Amos",
+      "lastName" : "SKOGSTER",
+      "fullName" : "SKOGSTER, Amos"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319743"
+  }, {
+    "participantId" : "161",
+    "club" : "HFM Helsinki",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "SKOGSTER",
+      "fullName" : "SKOGSTER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319744"
+  }, {
+    "participantId" : "162",
+    "club" : "Club Modiin",
+    "country" : "ISR",
+    "name" : {
+      "firstName" : "DAVID",
+      "lastName" : "SLUTZKIN",
+      "fullName" : "SLUTZKIN, DAVID"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348688"
+  }, {
+    "participantId" : "163",
+    "club" : "Bygdø FK Oslo",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Jens",
+      "lastName" : "SOERUM",
+      "fullName" : "SOERUM, Jens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349230"
+  }, {
+    "participantId" : "164",
+    "club" : "MK Split",
+    "country" : "CRO",
+    "name" : {
+      "firstName" : "Jakov",
+      "lastName" : "SOLA",
+      "fullName" : "SOLA, Jakov"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344062"
+  }, {
+    "participantId" : "165",
+    "club" : "National team",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Mikhail",
+      "lastName" : "SPIRIN",
+      "fullName" : "SPIRIN, Mikhail"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343933"
+  }, {
+    "participantId" : "166",
+    "club" : "BF Bergen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Jorgen",
+      "lastName" : "STORMARK",
+      "fullName" : "STORMARK, Jorgen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321166"
+  }, {
+    "participantId" : "167",
+    "club" : "DIF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "SVENSSON",
+      "fullName" : "SVENSSON, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : "38901",
+    "fwwId" : "89357"
+  }, {
+    "participantId" : "168",
+    "club" : "Veresegyhaz",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Nandor",
+      "lastName" : "SZAKMARY",
+      "fullName" : "SZAKMARY, Nandor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332746"
+  }, {
+    "participantId" : "169",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Kodai",
+      "lastName" : "TAJIRI",
+      "fullName" : "TAJIRI, Kodai"
+    },
+    "gender" : "MALE",
+    "fieId" : "38669",
+    "fwwId" : "356394"
+  }, {
+    "participantId" : "170",
+    "club" : "TV Augsburg",
+    "country" : "CRO",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "TALAN",
+      "fullName" : "TALAN, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332506"
+  }, {
+    "participantId" : "171",
+    "club" : "PRO VERCELLI",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Pietro",
+      "lastName" : "TASSINARI",
+      "fullName" : "TASSINARI, Pietro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332652"
+  }, {
+    "participantId" : "172",
+    "club" : "EM Espoo",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Topias",
+      "lastName" : "TAURIAINEN",
+      "fullName" : "TAURIAINEN, Topias"
+    },
+    "gender" : "MALE",
+    "fieId" : "33493",
+    "fwwId" : "123632"
+  }, {
+    "participantId" : "173",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Joseph",
+      "lastName" : "TAYLOR",
+      "fullName" : "TAYLOR, Joseph"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345446"
+  }, {
+    "participantId" : "174",
+    "club" : "BF Bergen",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Jesper",
+      "lastName" : "TELLNES",
+      "fullName" : "TELLNES, Jesper"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303337"
+  }, {
+    "participantId" : "175",
+    "club" : "KaVe Tampere",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Jussi",
+      "lastName" : "TERHO",
+      "fullName" : "TERHO, Jussi"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321019"
+  }, {
+    "participantId" : "176",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Adrien",
+      "lastName" : "THEIN-SANDLER",
+      "fullName" : "THEIN-SANDLER, Adrien"
+    },
+    "gender" : "MALE",
+    "fieId" : "38604",
+    "fwwId" : "344110"
+  }, {
+    "participantId" : "177",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "THEWANGER",
+      "fullName" : "THEWANGER, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : "35795",
+    "fwwId" : "321978"
+  }, {
+    "participantId" : "178",
+    "club" : "EM Espoo",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Juri",
+      "lastName" : "TIHANE",
+      "fullName" : "TIHANE, Juri"
+    },
+    "gender" : "MALE",
+    "fieId" : "38748",
+    "fwwId" : "328371"
+  }, {
+    "participantId" : "179",
+    "club" : "CUS Catania",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Guglielmo",
+      "lastName" : "TOMASELLI",
+      "fullName" : "TOMASELLI, Guglielmo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347845"
+  }, {
+    "participantId" : "180",
+    "club" : "OXI FLORINAS",
+    "country" : "GRE",
+    "name" : {
+      "firstName" : "Asterios",
+      "lastName" : "TSOKAS",
+      "fullName" : "TSOKAS, Asterios"
+    },
+    "gender" : "MALE",
+    "fieId" : "34402",
+    "fwwId" : "123281"
+  }, {
+    "participantId" : "181",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "James",
+      "lastName" : "WAKE",
+      "fullName" : "WAKE, James"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356000"
+  }, {
+    "participantId" : "182",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310414"
+  }, {
+    "participantId" : "183",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Rasmus",
+      "lastName" : "WEIRUP GRAM",
+      "fullName" : "WEIRUP GRAM, Rasmus"
+    },
+    "gender" : "MALE",
+    "fieId" : "40771",
+    "fwwId" : "302244"
+  }, {
+    "participantId" : "184",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Joshua",
+      "lastName" : "WILCOX",
+      "fullName" : "WILCOX, Joshua"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355718"
+  }, {
+    "participantId" : "185",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Nicolas",
+      "lastName" : "WILSON",
+      "fullName" : "WILSON, Nicolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330793"
+  }, {
+    "participantId" : "186",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Sean",
+      "lastName" : "WILSON",
+      "fullName" : "WILSON, Sean"
+    },
+    "gender" : "MALE",
+    "fieId" : "33394",
+    "fwwId" : "330792"
+  } ]
+}

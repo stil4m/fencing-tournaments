@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3396-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MK Vardar Skopje",
+    "country" : "MKD",
+    "name" : {
+      "firstName" : "Aleksandar",
+      "lastName" : "ANASTASOV",
+      "fullName" : "ANASTASOV, Aleksandar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "5454"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Gütersloh",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "ENDT",
+      "fullName" : "ENDT, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "27205"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wolfgang",
+      "lastName" : "FRANK",
+      "fullName" : "FRANK, Wolfgang"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23746"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Franz",
+      "lastName" : "HIRT",
+      "fullName" : "HIRT, Franz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "17374"
+  }, {
+    "participantId" : "5",
+    "club" : "FK Spittal",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Josef",
+      "lastName" : "KRAMMER",
+      "fullName" : "KRAMMER, Josef"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23522"
+  }, {
+    "participantId" : "6",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wolf",
+      "lastName" : "NETTINGSMEYER",
+      "fullName" : "NETTINGSMEYER, Wolf"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "6753"
+  }, {
+    "participantId" : "7",
+    "club" : "PARIS LPR",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Marian",
+      "lastName" : "PANZ",
+      "fullName" : "PANZ, Marian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "47188"
+  }, {
+    "participantId" : "8",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hanns",
+      "lastName" : "PRECHTL",
+      "fullName" : "PRECHTL, Hanns"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2457"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "URBAN",
+      "fullName" : "URBAN, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "36208"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Emden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hans",
+      "lastName" : "VISSER",
+      "fullName" : "VISSER, Hans"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23523"
+  } ]
+}

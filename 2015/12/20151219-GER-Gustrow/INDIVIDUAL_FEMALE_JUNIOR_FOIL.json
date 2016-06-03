@@ -1,0 +1,126 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8148-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henriette",
+      "lastName" : "PFENNIGSCHMIDT",
+      "fullName" : "PFENNIGSCHMIDT, Henriette"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "49186"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabell",
+      "lastName" : "SKUZA",
+      "fullName" : "SKUZA, Isabell"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "82426"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ainhoa",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Ainhoa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302574"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Jana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "45729"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maria",
+      "lastName" : "ZANK",
+      "fullName" : "ZANK, Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303724"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniela",
+      "lastName" : "PURPS",
+      "fullName" : "PURPS, Daniela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "93896"
+  }, {
+    "participantId" : "7",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "WOLFF",
+      "fullName" : "WOLFF, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307270"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341125"
+  } ]
+}

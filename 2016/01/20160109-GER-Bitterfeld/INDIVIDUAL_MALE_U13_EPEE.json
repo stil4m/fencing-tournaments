@@ -1,0 +1,278 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4179-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "DITHMAR",
+      "fullName" : "DITHMAR, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327949"
+  }, {
+    "participantId" : "2",
+    "club" : "SC Bad Saarow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "FRENZEL",
+      "fullName" : "FRENZEL, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327256"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "HOOS",
+      "fullName" : "HOOS, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340664"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "HÜBNER",
+      "fullName" : "HÜBNER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348599"
+  }, {
+    "participantId" : "5",
+    "club" : "SC Bad Saarow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karl",
+      "lastName" : "KLINGBEIL",
+      "fullName" : "KLINGBEIL, Karl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336225"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "NICKLAUS",
+      "fullName" : "NICKLAUS, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327888"
+  }, {
+    "participantId" : "7",
+    "club" : "SFV Oschatz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Toni",
+      "lastName" : "PFENNIG",
+      "fullName" : "PFENNIG, Toni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353604"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Bad Saarow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bastian",
+      "lastName" : "POHL",
+      "fullName" : "POHL, Bastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327264"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "ROSENKRANZ",
+      "fullName" : "ROSENKRANZ, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336863"
+  }, {
+    "participantId" : "10",
+    "club" : "KSZU Meiningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hendrik",
+      "lastName" : "ROTH",
+      "fullName" : "ROTH, Hendrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313909"
+  }, {
+    "participantId" : "11",
+    "club" : "FC Grunewald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "SCHAEFER",
+      "fullName" : "SCHAEFER, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334401"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kilian",
+      "lastName" : "SCHLAG",
+      "fullName" : "SCHLAG, Kilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350663"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "STAPPENBECK",
+      "fullName" : "STAPPENBECK, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336193"
+  }, {
+    "participantId" : "14",
+    "club" : "KSV Weißwasser",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ronaldo",
+      "lastName" : "TIMM",
+      "fullName" : "TIMM, Ronaldo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340510"
+  }, {
+    "participantId" : "15",
+    "club" : "FC Bischofswerda",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Armin",
+      "lastName" : "WINKLER",
+      "fullName" : "WINKLER, Armin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340563"
+  }, {
+    "participantId" : "16",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "WOLF",
+      "fullName" : "WOLF, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "124788"
+  }, {
+    "participantId" : "17",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HEIDE",
+      "fullName" : "HEIDE, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330244"
+  } ]
+}

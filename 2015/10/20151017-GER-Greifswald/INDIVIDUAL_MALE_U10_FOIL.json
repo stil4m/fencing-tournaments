@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8132-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan Lucas",
+      "lastName" : "HEMPEL",
+      "fullName" : "HEMPEL, Jan Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353412"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "KAVALERCHYK",
+      "fullName" : "KAVALERCHYK, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353341"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bjarne",
+      "lastName" : "MEYER",
+      "fullName" : "MEYER, Bjarne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353216"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "REICHERT",
+      "fullName" : "REICHERT, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353218"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca Fynn",
+      "lastName" : "SCHNOOR",
+      "fullName" : "SCHNOOR, Luca Fynn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353342"
+  }, {
+    "participantId" : "6",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Milan",
+      "lastName" : "SCHULTZ",
+      "fullName" : "SCHULTZ, Milan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353343"
+  } ]
+}

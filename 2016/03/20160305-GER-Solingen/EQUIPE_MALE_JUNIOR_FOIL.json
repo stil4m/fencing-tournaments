@@ -1,0 +1,110 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3473-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "teamName" : "DFC DÜSSELDORF",
+    "members" : [ {
+      "firstName" : "Jonah",
+      "lastName" : "DUPON",
+      "fullName" : "DUPON, Jonah"
+    }, {
+      "firstName" : "Sawwa",
+      "lastName" : "ALTMAN",
+      "fullName" : "ALTMAN, Sawwa"
+    }, {
+      "firstName" : "Tim",
+      "lastName" : "SAUERMANN",
+      "fullName" : "SAUERMANN, Tim"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "GERCKE",
+      "fullName" : "GERCKE, Philipp"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52937"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : [ {
+      "firstName" : "Christian",
+      "lastName" : "BOY",
+      "fullName" : "BOY, Christian"
+    }, {
+      "firstName" : "Lars",
+      "lastName" : "EBIGT",
+      "fullName" : "EBIGT, Lars"
+    }, {
+      "firstName" : "Patrick",
+      "lastName" : "MANG",
+      "fullName" : "MANG, Patrick"
+    } ],
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Niklas",
+      "lastName" : "STIEREN",
+      "fullName" : "STIEREN, Niklas"
+    }, {
+      "firstName" : "Justus Felix",
+      "lastName" : "DICKEL",
+      "fullName" : "DICKEL, Justus Felix"
+    }, {
+      "firstName" : "Gregor",
+      "lastName" : "BRANSCHEID",
+      "fullName" : "BRANSCHEID, Gregor"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Arne",
+      "lastName" : "MACHETANZ",
+      "fullName" : "MACHETANZ, Arne"
+    }, {
+      "firstName" : "Paul",
+      "lastName" : "TENBERGEN",
+      "fullName" : "TENBERGEN, Paul"
+    }, {
+      "firstName" : "Nils Michael",
+      "lastName" : "SCHRAMM",
+      "fullName" : "SCHRAMM, Nils Michael"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  } ]
+}

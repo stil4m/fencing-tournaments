@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8130-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malte",
+      "lastName" : "BROCKER",
+      "fullName" : "BROCKER, Malte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324137"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "BRONOLD",
+      "fullName" : "BRONOLD, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353221"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Friedrich",
+      "lastName" : "ENGFER",
+      "fullName" : "ENGFER, Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335741"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "KOBI",
+      "fullName" : "KOBI, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335742"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Liam",
+      "lastName" : "MÖLLER",
+      "fullName" : "MÖLLER, Liam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353338"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hendrik",
+      "lastName" : "SCHLÜTER",
+      "fullName" : "SCHLÜTER, Hendrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353220"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adrian",
+      "lastName" : "SCHNIERER",
+      "fullName" : "SCHNIERER, Adrian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353219"
+  } ]
+}

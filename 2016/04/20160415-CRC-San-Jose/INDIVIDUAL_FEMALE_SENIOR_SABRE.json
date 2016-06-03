@@ -1,0 +1,205 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1075"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "DOM",
+    "name" : {
+      "firstName" : "Rossy",
+      "lastName" : "FELIX LARA",
+      "fullName" : "FELIX LARA, Rossy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "21164",
+    "fwwId" : "54609"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "PAN",
+    "name" : {
+      "firstName" : "Eileen",
+      "lastName" : "GRENCH",
+      "fullName" : "GRENCH, Eileen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "9109",
+    "fwwId" : "27606"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "BRA",
+    "name" : {
+      "firstName" : "Marta",
+      "lastName" : "BAEZA CENTURION",
+      "fullName" : "BAEZA CENTURION, Marta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "18626",
+    "fwwId" : "38782"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "CAN",
+    "name" : {
+      "firstName" : "Gabriella",
+      "lastName" : "PAGE",
+      "fullName" : "PAGE, Gabriella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25921",
+    "fwwId" : "89775"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "CUB",
+    "name" : {
+      "firstName" : "Darling",
+      "lastName" : "ROBERT REINOSO",
+      "fullName" : "ROBERT REINOSO, Darling"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25453",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "CHI",
+    "name" : {
+      "firstName" : "Isabel Margarita",
+      "lastName" : "PERALTA JARA",
+      "fullName" : "PERALTA JARA, Isabel Margarita"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28792",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "COL",
+    "name" : {
+      "firstName" : "Linda",
+      "lastName" : "KLIMAVICIUS",
+      "fullName" : "KLIMAVICIUS, Linda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "31344",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "JAM",
+    "name" : {
+      "firstName" : "Alison",
+      "lastName" : "MILLER",
+      "fullName" : "MILLER, Alison"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "14398",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "GUA",
+    "name" : {
+      "firstName" : "Diana",
+      "lastName" : "HUERTAS",
+      "fullName" : "HUERTAS, Diana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34776",
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "CRC",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "GARCIA BEJARANO",
+      "fullName" : "GARCIA BEJARANO, Andrea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34417",
+    "fwwId" : "336982"
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "ESA",
+    "name" : {
+      "firstName" : "Fatima",
+      "lastName" : "TOBAR",
+      "fullName" : "TOBAR, Fatima"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "16774",
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "PUR",
+    "name" : {
+      "firstName" : "Aydill Marie",
+      "lastName" : "COLON",
+      "fullName" : "COLON, Aydill Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32501",
+    "fwwId" : null
+  } ]
+}

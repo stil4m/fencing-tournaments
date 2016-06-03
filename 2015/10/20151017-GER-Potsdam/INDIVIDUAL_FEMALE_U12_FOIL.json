@@ -1,0 +1,354 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8058-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "20",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354006"
+  }, {
+    "participantId" : "2",
+    "club" : "HFC Lübeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stine",
+      "lastName" : "BOHLMANN",
+      "fullName" : "BOHLMANN, Stine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342498"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anne Sophie",
+      "lastName" : "BULLAND",
+      "fullName" : "BULLAND, Anne Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333824"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Grunewald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "FINKENSTAEDT",
+      "fullName" : "FINKENSTAEDT, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354071"
+  }, {
+    "participantId" : "5",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rubina Rose",
+      "lastName" : "GESCH",
+      "fullName" : "GESCH, Rubina Rose"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348770"
+  }, {
+    "participantId" : "6",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daria",
+      "lastName" : "GLININA",
+      "fullName" : "GLININA, Daria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350803"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Ratzeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlin",
+      "lastName" : "HACK",
+      "fullName" : "HACK, Marlin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336808"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Berlin",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Anne-Sophie",
+      "lastName" : "HALBHERR",
+      "fullName" : "HALBHERR, Anne-Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354439"
+  }, {
+    "participantId" : "9",
+    "club" : "TB Hamburg-Eilbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "HINZMANN",
+      "fullName" : "HINZMANN, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344216"
+  }, {
+    "participantId" : "10",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KOLOBEKOVA",
+      "fullName" : "KOLOBEKOVA, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340229"
+  }, {
+    "participantId" : "11",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karoline",
+      "lastName" : "KRAUTER",
+      "fullName" : "KRAUTER, Karoline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316760"
+  }, {
+    "participantId" : "12",
+    "club" : "MTV Gifhorn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leia Johanna",
+      "lastName" : "LEISTER",
+      "fullName" : "LEISTER, Leia Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357172"
+  }, {
+    "participantId" : "13",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lewin",
+      "lastName" : "MARTHA ELISABETH",
+      "fullName" : "MARTHA ELISABETH, Lewin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348453"
+  }, {
+    "participantId" : "14",
+    "club" : "Rigas 3. BJSS",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Helena",
+      "lastName" : "NACHERIJANA",
+      "fullName" : "NACHERIJANA, Helena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357001"
+  }, {
+    "participantId" : "15",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "PIHL",
+      "fullName" : "PIHL, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336660"
+  }, {
+    "participantId" : "16",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "SAVKINA",
+      "fullName" : "SAVKINA, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354041"
+  }, {
+    "participantId" : "17",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nelly",
+      "lastName" : "SEMPER",
+      "fullName" : "SEMPER, Nelly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328849"
+  }, {
+    "participantId" : "18",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Caitlin",
+      "lastName" : "STOLTE",
+      "fullName" : "STOLTE, Caitlin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340668"
+  }, {
+    "participantId" : "19",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Veronika",
+      "lastName" : "USAKOVA",
+      "fullName" : "USAKOVA, Veronika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357148"
+  }, {
+    "participantId" : "20",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anthea",
+      "lastName" : "ZANDER",
+      "fullName" : "ZANDER, Anthea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354225"
+  }, {
+    "participantId" : "21",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carina Kim",
+      "lastName" : "KURLUS",
+      "fullName" : "KURLUS, Carina Kim"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353751"
+  }, {
+    "participantId" : "22",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "ENDLER",
+      "fullName" : "ENDLER, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336915"
+  } ]
+}

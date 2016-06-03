@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4742-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "JAHN",
+      "fullName" : "JAHN, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356444"
+  }, {
+    "participantId" : "2",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabio",
+      "lastName" : "MADEDDU",
+      "fullName" : "MADEDDU, Fabio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353247"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "SCHENKEL",
+      "fullName" : "SCHENKEL, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361395"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthis",
+      "lastName" : "HUSMANN",
+      "fullName" : "HUSMANN, Matthis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361279"
+  } ]
+}

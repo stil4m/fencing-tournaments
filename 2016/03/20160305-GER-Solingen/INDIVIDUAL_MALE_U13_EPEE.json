@@ -1,0 +1,362 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1245-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "18",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "AUWEILER",
+      "fullName" : "AUWEILER, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326505"
+  }, {
+    "participantId" : "2",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Damien",
+      "lastName" : "BLANKENHAGEN",
+      "fullName" : "BLANKENHAGEN, Damien"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339554"
+  }, {
+    "participantId" : "3",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "BREKER",
+      "fullName" : "BREKER, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303431"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "BUNDESMANN",
+      "fullName" : "BUNDESMANN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342276"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "BUSLEY",
+      "fullName" : "BUSLEY, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348635"
+  }, {
+    "participantId" : "6",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "DETEMBLE",
+      "fullName" : "DETEMBLE, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326685"
+  }, {
+    "participantId" : "7",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "DRABSCH",
+      "fullName" : "DRABSCH, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313308"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "FRÖHLINGSDORF",
+      "fullName" : "FRÖHLINGSDORF, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307069"
+  }, {
+    "participantId" : "9",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedict",
+      "lastName" : "GERHARTZ",
+      "fullName" : "GERHARTZ, Benedict"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341963"
+  }, {
+    "participantId" : "10",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "JANSSEN",
+      "fullName" : "JANSSEN, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353643"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "KIRCHNER",
+      "fullName" : "KIRCHNER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354199"
+  }, {
+    "participantId" : "12",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "KLEINE",
+      "fullName" : "KLEINE, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330763"
+  }, {
+    "participantId" : "13",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "KOCK",
+      "fullName" : "KOCK, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354282"
+  }, {
+    "participantId" : "14",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius Friedrich",
+      "lastName" : "KRAUSE",
+      "fullName" : "KRAUSE, Julius Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336503"
+  }, {
+    "participantId" : "15",
+    "club" : "Neußer SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christoph",
+      "lastName" : "LEMKEN",
+      "fullName" : "LEMKEN, Christoph"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319413"
+  }, {
+    "participantId" : "16",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "MAASSEN",
+      "fullName" : "MAASSEN, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329467"
+  }, {
+    "participantId" : "17",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "SATURNO",
+      "fullName" : "SATURNO, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332949"
+  }, {
+    "participantId" : "18",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "SCHAFFRATH",
+      "fullName" : "SCHAFFRATH, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358702"
+  }, {
+    "participantId" : "19",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eric",
+      "lastName" : "SCHULZE",
+      "fullName" : "SCHULZE, Eric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318621"
+  }, {
+    "participantId" : "20",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "SZEKAT",
+      "fullName" : "SZEKAT, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327304"
+  }, {
+    "participantId" : "21",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "VORHOLT",
+      "fullName" : "VORHOLT, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336040"
+  }, {
+    "participantId" : "22",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "WÖLK",
+      "fullName" : "WÖLK, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333424"
+  } ]
+}

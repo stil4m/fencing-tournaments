@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2729-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elisa",
+      "lastName" : "BADER",
+      "fullName" : "BADER, Elisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "44946"
+  }, {
+    "participantId" : "2",
+    "club" : "FS Gummersbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nicole",
+      "lastName" : "BUCHMANN",
+      "fullName" : "BUCHMANN, Nicole"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "51191"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "FENGER",
+      "fullName" : "FENGER, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "25481"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "FÉRON",
+      "fullName" : "FÉRON, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312444"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "GREIFFER",
+      "fullName" : "GREIFFER, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "37637"
+  }, {
+    "participantId" : "6",
+    "club" : "Holland Schermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Milja",
+      "lastName" : "MONDT",
+      "fullName" : "MONDT, Milja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "20070",
+    "fwwId" : "37410"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "STAUCH",
+      "fullName" : "STAUCH, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "25074"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pia",
+      "lastName" : "UELTGESFORTH",
+      "fullName" : "UELTGESFORTH, Pia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36453",
+    "fwwId" : "123065"
+  }, {
+    "participantId" : "9",
+    "club" : "Omnisword",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Ezra",
+      "lastName" : "VLEUGELS",
+      "fullName" : "VLEUGELS, Ezra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319287"
+  }, {
+    "participantId" : "10",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kari",
+      "lastName" : "WEINER",
+      "fullName" : "WEINER, Kari"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36452",
+    "fwwId" : "82795"
+  } ]
+}

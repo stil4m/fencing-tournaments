@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13133-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "BERTOLT-BRECHT-SCHULE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354513"
+  }, {
+    "participantId" : "2",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE ALTENFURT",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354523"
+  }, {
+    "participantId" : "3",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE BISMARCKSTRASSE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354525"
+  }, {
+    "participantId" : "4",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE FISCHBACH I",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354515"
+  }, {
+    "participantId" : "5",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE FISCHBACH II",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354516"
+  }, {
+    "participantId" : "6",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE GEBRÜDER GRIMM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354517"
+  }, {
+    "participantId" : "7",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE KETTELER",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354518"
+  }, {
+    "participantId" : "8",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE LUDWIG UHLAND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354526"
+  }, {
+    "participantId" : "9",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE PANIERSPLATZ",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354520"
+  }, {
+    "participantId" : "10",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "GRUNDSCHULE ST. JOHANNIS",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354521"
+  }, {
+    "participantId" : "11",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "MONTESSORI SCHULE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354634"
+  }, {
+    "participantId" : "12",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "PETER-VISCHER-SCHULE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "354522"
+  } ]
+}

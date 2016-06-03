@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1121-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "AHAUS",
+      "fullName" : "AHAUS, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325570"
+  }, {
+    "participantId" : "2",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carla",
+      "lastName" : "BERNHARD",
+      "fullName" : "BERNHARD, Carla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327151"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "BERNSTEIN",
+      "fullName" : "BERNSTEIN, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326506"
+  }, {
+    "participantId" : "4",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anastasia",
+      "lastName" : "KUSSMAUL",
+      "fullName" : "KUSSMAUL, Anastasia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360492"
+  }, {
+    "participantId" : "5",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ella",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Ella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338990"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "PALZ",
+      "fullName" : "PALZ, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359848"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lotte",
+      "lastName" : "ROGGEL",
+      "fullName" : "ROGGEL, Lotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322769"
+  }, {
+    "participantId" : "8",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laetitia Eugenie",
+      "lastName" : "WERNER",
+      "fullName" : "WERNER, Laetitia Eugenie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309299"
+  } ]
+}

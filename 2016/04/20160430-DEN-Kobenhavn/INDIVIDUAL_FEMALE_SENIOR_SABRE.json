@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9689-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ida",
+      "lastName" : "BAUMANN JACOBSEN",
+      "fullName" : "BAUMANN JACOBSEN, Ida"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328493"
+  }, {
+    "participantId" : "2",
+    "club" : "FKM Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Karen",
+      "lastName" : "BELL",
+      "fullName" : "BELL, Karen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315593"
+  }, {
+    "participantId" : "3",
+    "club" : "SLGI Slagelse",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Bodil Baun",
+      "lastName" : "GRUBAK",
+      "fullName" : "GRUBAK, Bodil Baun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327876"
+  }, {
+    "participantId" : "4",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Linnea",
+      "lastName" : "ROARK",
+      "fullName" : "ROARK, Linnea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328494"
+  } ]
+}

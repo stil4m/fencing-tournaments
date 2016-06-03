@@ -1,0 +1,330 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3074-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "DOYSCHER",
+      "fullName" : "DOYSCHER, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339589"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Markkleeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ferdinand",
+      "lastName" : "EBERT",
+      "fullName" : "EBERT, Ferdinand"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353584"
+  }, {
+    "participantId" : "3",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "EISENSCHMIDT",
+      "fullName" : "EISENSCHMIDT, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315651"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "FASSMANN",
+      "fullName" : "FASSMANN, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319555"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arne",
+      "lastName" : "GEPPERT",
+      "fullName" : "GEPPERT, Arne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330243"
+  }, {
+    "participantId" : "6",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannes",
+      "lastName" : "GERLACH",
+      "fullName" : "GERLACH, Hannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306729"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Toni",
+      "lastName" : "GRUND",
+      "fullName" : "GRUND, Toni"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335054"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arwed",
+      "lastName" : "HÄSSLER",
+      "fullName" : "HÄSSLER, Arwed"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335192"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HEIDE",
+      "fullName" : "HEIDE, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330244"
+  }, {
+    "participantId" : "10",
+    "club" : "Dresdener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasper",
+      "lastName" : "MACHETANZ",
+      "fullName" : "MACHETANZ, Jasper"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319116"
+  }, {
+    "participantId" : "11",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aaron",
+      "lastName" : "NEUBAUER",
+      "fullName" : "NEUBAUER, Aaron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336090"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "ROSENKRANZ",
+      "fullName" : "ROSENKRANZ, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336863"
+  }, {
+    "participantId" : "13",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arthus",
+      "lastName" : "RUGE",
+      "fullName" : "RUGE, Arthus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337755"
+  }, {
+    "participantId" : "14",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Friedrich",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336362"
+  }, {
+    "participantId" : "15",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Richard",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Richard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336365"
+  }, {
+    "participantId" : "16",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gregor",
+      "lastName" : "SCHMITZ-HÜBSCH",
+      "fullName" : "SCHMITZ-HÜBSCH, Gregor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339591"
+  }, {
+    "participantId" : "17",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "SZUMODALSKY",
+      "fullName" : "SZUMODALSKY, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307550"
+  }, {
+    "participantId" : "18",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enzo",
+      "lastName" : "VON DER WEHD",
+      "fullName" : "VON DER WEHD, Enzo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337756"
+  }, {
+    "participantId" : "19",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "ZACHER",
+      "fullName" : "ZACHER, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "124790"
+  }, {
+    "participantId" : "20",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "ZAGORNIK",
+      "fullName" : "ZAGORNIK, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317418"
+  } ]
+}

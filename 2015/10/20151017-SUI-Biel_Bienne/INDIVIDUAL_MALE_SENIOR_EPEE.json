@@ -1,0 +1,77 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11691-15",
+    "fieId" : {
+      "year" : 2016,
+      "id" : "174"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "HEINZER",
+      "fullName" : "HEINZER, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : "6000",
+    "fwwId" : "20210"
+  }, {
+    "participantId" : "2",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "KAUTER",
+      "fullName" : "KAUTER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : "6022",
+    "fwwId" : "22184"
+  }, {
+    "participantId" : "3",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alexandre",
+      "lastName" : "PITTET",
+      "fullName" : "PITTET, Alexandre"
+    },
+    "gender" : "MALE",
+    "fieId" : "30549",
+    "fwwId" : "22091"
+  }, {
+    "participantId" : "4",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "STEFFEN",
+      "fullName" : "STEFFEN, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : "6086",
+    "fwwId" : "11639"
+  } ]
+}

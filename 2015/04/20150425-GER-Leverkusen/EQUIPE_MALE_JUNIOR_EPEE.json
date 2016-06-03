@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3061-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "teamName" : "TV HOFFNUNGSTHAL",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "82454"
+  }, {
+    "participantId" : "2",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG LÜDENSCHEID/DORTMUND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TBB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "4",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "teamName" : "OSNABRÜCKER SC",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20624"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "6",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "teamName" : "UFC FRANKFURT",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20297"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "52948"
+  }, {
+    "participantId" : "8",
+    "club" : "Sachsen",
+    "country" : "GER",
+    "teamName" : "STG LEIPZIG/DRESDEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "teamName" : "BAYER LEVERKUSEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19853"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "teamName" : "SV WALDKIRCH",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20610"
+  }, {
+    "participantId" : "11",
+    "club" : "SC Itzehoe",
+    "country" : "GER",
+    "teamName" : "SC ITZEHOE",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119241"
+  }, {
+    "participantId" : "12",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "13",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "32437"
+  }, {
+    "participantId" : "14",
+    "club" : "Thüringen",
+    "country" : "GER",
+    "teamName" : "STG ALTENBURG/MEININGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "334812"
+  }, {
+    "participantId" : "15",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "teamName" : "TSV HAGEN 1860",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20604"
+  }, {
+    "participantId" : "16",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "teamName" : "WUPPERTALER FC",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "94010"
+  }, {
+    "participantId" : "17",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "18",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "19",
+    "club" : "Berlin",
+    "country" : "GER",
+    "teamName" : "STG WITTENAU/GRUNEWALD",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "334578"
+  }, {
+    "participantId" : "20",
+    "club" : "Heidelberger FC/TSG R.",
+    "country" : "GER",
+    "teamName" : "HEIDELBERGER FC/TSG R.",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20304"
+  } ]
+}

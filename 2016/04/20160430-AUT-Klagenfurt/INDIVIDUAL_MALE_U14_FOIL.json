@@ -1,0 +1,346 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5750-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "20",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FUM",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lucian",
+      "lastName" : "BARBACH",
+      "fullName" : "BARBACH, Lucian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "FUM",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "BRESSLAUER",
+      "fullName" : "BRESSLAUER, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FUK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "CASLAVKA",
+      "fullName" : "CASLAVKA, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "MOLDAWIEN",
+    "country" : "MDA",
+    "name" : {
+      "firstName" : "Pavel",
+      "lastName" : "GAVRILIUC",
+      "fullName" : "GAVRILIUC, Pavel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "STLFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "GORIUP",
+      "fullName" : "GORIUP, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "AFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "HASELSTEINER",
+      "fullName" : "HASELSTEINER, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329562"
+  }, {
+    "participantId" : "7",
+    "club" : "FKVOE",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "HUMER",
+      "fullName" : "HUMER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : "STLFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Nikolaus",
+      "lastName" : "JUCH",
+      "fullName" : "JUCH, Nikolaus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "FC Wels",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "KALT",
+      "fullName" : "KALT, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333004"
+  }, {
+    "participantId" : "10",
+    "club" : "FUK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Robin",
+      "lastName" : "KARNER",
+      "fullName" : "KARNER, Robin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "STLFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "KROITZSCH",
+      "fullName" : "KROITZSCH, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331857"
+  }, {
+    "participantId" : "12",
+    "club" : "FKVOE",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "LEHNER",
+      "fullName" : "LEHNER, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : "STLFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "MITTERBACHER",
+      "fullName" : "MITTERBACHER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : "AFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "MÖSENEDER",
+      "fullName" : "MÖSENEDER, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319269"
+  }, {
+    "participantId" : "15",
+    "club" : "UFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "PECHENYK",
+      "fullName" : "PECHENYK, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : "FUK",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "PEUTZ",
+      "fullName" : "PEUTZ, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : "FC Wels",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "POINTNER",
+      "fullName" : "POINTNER, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331167"
+  }, {
+    "participantId" : "18",
+    "club" : "UFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "SCHIEBEL",
+      "fullName" : "SCHIEBEL, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : "AFC",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Giuliano",
+      "lastName" : "SEMINERIO",
+      "fullName" : "SEMINERIO, Giuliano"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329614"
+  }, {
+    "participantId" : "20",
+    "club" : "FC Wels",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "STEININGER",
+      "fullName" : "STEININGER, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335960"
+  }, {
+    "participantId" : "21",
+    "club" : "FKVOE",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "THALLER",
+      "fullName" : "THALLER, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

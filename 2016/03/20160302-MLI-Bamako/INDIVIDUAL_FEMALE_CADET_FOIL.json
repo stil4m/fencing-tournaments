@@ -1,0 +1,93 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1299"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Yara",
+      "lastName" : "ELSHARKAWY",
+      "fullName" : "ELSHARKAWY, Yara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34433",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Gana",
+      "lastName" : "NAWAR",
+      "fullName" : "NAWAR, Gana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37528",
+    "fwwId" : "351109"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "GHA",
+    "name" : {
+      "firstName" : "Yasmine",
+      "lastName" : "FOSU",
+      "fullName" : "FOSU, Yasmine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33442",
+    "fwwId" : "334407"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Zaineb",
+      "lastName" : "GHDIRA",
+      "fullName" : "GHDIRA, Zaineb"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "39639",
+    "fwwId" : "360322"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Lila",
+      "lastName" : "GHAZI",
+      "fullName" : "GHAZI, Lila"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32435",
+    "fwwId" : null
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5273-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlon",
+      "lastName" : "BAIR",
+      "fullName" : "BAIR, Marlon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326461"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Klarenthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "BUSCHE",
+      "fullName" : "BUSCHE, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318111"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jaron",
+      "lastName" : "EMMERICH",
+      "fullName" : "EMMERICH, Jaron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356286"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "HAEDENKAMP",
+      "fullName" : "HAEDENKAMP, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322821"
+  }, {
+    "participantId" : "5",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magnus",
+      "lastName" : "RIEHS",
+      "fullName" : "RIEHS, Magnus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329282"
+  }, {
+    "participantId" : "6",
+    "club" : "TSG Friesenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finn",
+      "lastName" : "RITTHALER",
+      "fullName" : "RITTHALER, Finn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317060"
+  }, {
+    "participantId" : "7",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Constantin",
+      "lastName" : "ROTHE",
+      "fullName" : "ROTHE, Constantin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316141"
+  }, {
+    "participantId" : "8",
+    "club" : "TSG Friesenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cedric",
+      "lastName" : "TIPPELT",
+      "fullName" : "TIPPELT, Cedric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318097"
+  } ]
+}

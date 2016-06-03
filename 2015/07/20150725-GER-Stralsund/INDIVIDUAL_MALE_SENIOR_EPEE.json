@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13056-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lothar",
+      "lastName" : "HEMPELMANN",
+      "fullName" : "HEMPELMANN, Lothar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23526"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joachim",
+      "lastName" : "JANKE",
+      "fullName" : "JANKE, Joachim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "40752"
+  }, {
+    "participantId" : "3",
+    "club" : "PSV Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wolfgang",
+      "lastName" : "RAMSON",
+      "fullName" : "RAMSON, Wolfgang"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "48911"
+  }, {
+    "participantId" : "4",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manfred",
+      "lastName" : "RENTEL",
+      "fullName" : "RENTEL, Manfred"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23627"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klaus-Dieter",
+      "lastName" : "SEIFERT",
+      "fullName" : "SEIFERT, Klaus-Dieter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "42937"
+  } ]
+}

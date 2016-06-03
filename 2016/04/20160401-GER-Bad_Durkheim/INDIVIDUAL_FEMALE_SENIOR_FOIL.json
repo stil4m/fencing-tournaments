@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2672-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Irina",
+      "lastName" : "BUNN",
+      "fullName" : "BUNN, Irina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23703"
+  }, {
+    "participantId" : "2",
+    "club" : "VFL Wolfsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bärbel",
+      "lastName" : "GORIUS",
+      "fullName" : "GORIUS, Bärbel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23700"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Brigitte",
+      "lastName" : "GREUNKE",
+      "fullName" : "GREUNKE, Brigitte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "2511"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marianne",
+      "lastName" : "HEMPELMANN",
+      "fullName" : "HEMPELMANN, Marianne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23705"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Grunewald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eva",
+      "lastName" : "SCHLEDE",
+      "fullName" : "SCHLEDE, Eva"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "36580"
+  }, {
+    "participantId" : "6",
+    "club" : "Wilhelmshavener SC Fr.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Heidrun",
+      "lastName" : "WEST",
+      "fullName" : "WEST, Heidrun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23699"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Cannstatt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karin",
+      "lastName" : "WÜRTTEMBERGER",
+      "fullName" : "WÜRTTEMBERGER, Karin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "17408"
+  } ]
+}

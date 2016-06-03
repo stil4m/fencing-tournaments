@@ -1,0 +1,230 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10135-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Richard",
+      "lastName" : "BARNES-WEBB",
+      "fullName" : "BARNES-WEBB, Richard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347925"
+  }, {
+    "participantId" : "2",
+    "club" : "USSK Stellenbosch",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "BERGH",
+      "fullName" : "BERGH, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339071"
+  }, {
+    "participantId" : "3",
+    "club" : "UCT Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "COLLINGS",
+      "fullName" : "COLLINGS, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : "30218",
+    "fwwId" : "312025"
+  }, {
+    "participantId" : "4",
+    "club" : "Blues FC",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Enrico",
+      "lastName" : "DI GIAMBATTISTA",
+      "fullName" : "DI GIAMBATTISTA, Enrico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350936"
+  }, {
+    "participantId" : "5",
+    "club" : "Bishops FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jamie",
+      "lastName" : "DIGGLE",
+      "fullName" : "DIGGLE, Jamie"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333708"
+  }, {
+    "participantId" : "6",
+    "club" : "TMFC Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Faa`iq",
+      "lastName" : "GAMIELDIEN",
+      "fullName" : "GAMIELDIEN, Faa`iq"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321438"
+  }, {
+    "participantId" : "7",
+    "club" : "Bishops FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Finbarr",
+      "lastName" : "LEBONA",
+      "fullName" : "LEBONA, Finbarr"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332357"
+  }, {
+    "participantId" : "8",
+    "club" : "UCT Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "MC GREGOR",
+      "fullName" : "MC GREGOR, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : "28479",
+    "fwwId" : "125086"
+  }, {
+    "participantId" : "9",
+    "club" : "Blues FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Trevor",
+      "lastName" : "MEY",
+      "fullName" : "MEY, Trevor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "38308"
+  }, {
+    "participantId" : "10",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Jaycey",
+      "lastName" : "PINN",
+      "fullName" : "PINN, Jaycey"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321490"
+  }, {
+    "participantId" : "11",
+    "club" : "USSK Stellenbosch",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Ludwig",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Ludwig"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345953"
+  }, {
+    "participantId" : "12",
+    "club" : "Blues FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "SCHWARTZ",
+      "fullName" : "SCHWARTZ, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354258"
+  }, {
+    "participantId" : "13",
+    "club" : "Blues FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Skye Jade",
+      "lastName" : "TAYLOR",
+      "fullName" : "TAYLOR, Skye Jade"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119768"
+  }, {
+    "participantId" : "14",
+    "club" : "UCT Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Giselle",
+      "lastName" : "VICATOS",
+      "fullName" : "VICATOS, Giselle"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "38339"
+  }, {
+    "participantId" : "15",
+    "club" : "OFC Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Gaelan",
+      "lastName" : "WORT",
+      "fullName" : "WORT, Gaelan"
+    },
+    "gender" : "MALE",
+    "fieId" : "37371",
+    "fwwId" : "323046"
+  } ]
+}

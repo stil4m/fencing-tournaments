@@ -1,0 +1,173 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13160-15",
+    "fieId" : {
+      "year" : 2016,
+      "id" : "138"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Bruchsal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dirk",
+      "lastName" : "EISNER",
+      "fullName" : "EISNER, Dirk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314566"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "FLEIG",
+      "fullName" : "FLEIG, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333613"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359540"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Karlsruhe 1978",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manuel",
+      "lastName" : "HEINEMANN BAPTISTA",
+      "fullName" : "HEINEMANN BAPTISTA, Manuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358930"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hellfried",
+      "lastName" : "HOFFMANN",
+      "fullName" : "HOFFMANN, Hellfried"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "52214"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "HÖLLER",
+      "fullName" : "HÖLLER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328929"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "KÖTZEL",
+      "fullName" : "KÖTZEL, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "41243"
+  }, {
+    "participantId" : "8",
+    "club" : "Wiesbadener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "41812"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manfred",
+      "lastName" : "NEUTZNER",
+      "fullName" : "NEUTZNER, Manfred"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2353"
+  }, {
+    "participantId" : "10",
+    "club" : "TSG Bruchsal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "ULLRICH",
+      "fullName" : "ULLRICH, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334861"
+  } ]
+}

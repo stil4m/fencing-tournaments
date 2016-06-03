@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1463-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marc",
+      "lastName" : "HEUER",
+      "fullName" : "HEUER, Marc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348121"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leopold",
+      "lastName" : "HEUSEL",
+      "fullName" : "HEUSEL, Leopold"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329505"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Hardheim-Höpfingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "HILPERT",
+      "fullName" : "HILPERT, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322839"
+  }, {
+    "participantId" : "4",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "HOCHWALD",
+      "fullName" : "HOCHWALD, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348120"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jaron",
+      "lastName" : "IMMER",
+      "fullName" : "IMMER, Jaron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345534"
+  }, {
+    "participantId" : "6",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aleksandar",
+      "lastName" : "KOKANOVIC",
+      "fullName" : "KOKANOVIC, Aleksandar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356672"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Schwäbisch Hall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finn",
+      "lastName" : "MOSGOLL",
+      "fullName" : "MOSGOLL, Finn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324670"
+  }, {
+    "participantId" : "8",
+    "club" : "PST Trier",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nicolo",
+      "lastName" : "WARNKING",
+      "fullName" : "WARNKING, Nicolo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316016"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Hardheim-Höpfingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "ZELLER",
+      "fullName" : "ZELLER, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347493"
+  } ]
+}

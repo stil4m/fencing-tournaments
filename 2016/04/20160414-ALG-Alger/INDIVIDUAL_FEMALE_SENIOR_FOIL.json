@@ -1,0 +1,45 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1061"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "MAR",
+    "name" : {
+      "firstName" : "Youssra",
+      "lastName" : "ZAKARANI",
+      "fullName" : "ZAKARANI, Youssra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28806",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Giselle",
+      "lastName" : "VICATOS",
+      "fullName" : "VICATOS, Giselle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "18346",
+    "fwwId" : null
+  } ]
+}

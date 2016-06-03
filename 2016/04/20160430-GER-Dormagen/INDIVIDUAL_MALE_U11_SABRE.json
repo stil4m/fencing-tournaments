@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4221-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "de Klauwaerts",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Danneels",
+      "lastName" : "BIRGEN",
+      "fullName" : "BIRGEN, Danneels"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363030"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enrico",
+      "lastName" : "CARRARA",
+      "fullName" : "CARRARA, Enrico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334340"
+  }, {
+    "participantId" : "3",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "EDEL",
+      "fullName" : "EDEL, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356945"
+  }, {
+    "participantId" : "4",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "GOLIASCH",
+      "fullName" : "GOLIASCH, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348181"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "LOHMANN",
+      "fullName" : "LOHMANN, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358353"
+  }, {
+    "participantId" : "6",
+    "club" : "SG Kaarst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bjarne",
+      "lastName" : "LUCAS",
+      "fullName" : "LUCAS, Bjarne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333169"
+  }, {
+    "participantId" : "7",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jarnu",
+      "lastName" : "PELZ",
+      "fullName" : "PELZ, Jarnu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349154"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arian",
+      "lastName" : "TEWES",
+      "fullName" : "TEWES, Arian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347773"
+  } ]
+}

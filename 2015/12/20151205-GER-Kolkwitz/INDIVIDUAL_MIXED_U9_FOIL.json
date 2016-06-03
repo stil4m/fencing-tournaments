@@ -1,0 +1,130 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9138-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ignazy",
+      "lastName" : "MICHALUK",
+      "fullName" : "MICHALUK, Ignazy"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "358430"
+  }, {
+    "participantId" : "2",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Jakub",
+      "lastName" : "NAROLEWSKI",
+      "fullName" : "NAROLEWSKI, Jakub"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "346641"
+  }, {
+    "participantId" : "3",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "PUHLMANN",
+      "fullName" : "PUHLMANN, Felix"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "357418"
+  }, {
+    "participantId" : "4",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Raphael"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353671"
+  }, {
+    "participantId" : "5",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Feliks",
+      "lastName" : "WISNIK",
+      "fullName" : "WISNIK, Feliks"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Florentina",
+      "lastName" : "WISNIK",
+      "fullName" : "WISNIK, Florentina"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maciej",
+      "lastName" : "KARLOWSKI",
+      "fullName" : "KARLOWSKI, Maciej"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "358429"
+  }, {
+    "participantId" : "8",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Bartosz",
+      "lastName" : "BRZOSKA",
+      "fullName" : "BRZOSKA, Bartosz"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348047"
+  } ]
+}

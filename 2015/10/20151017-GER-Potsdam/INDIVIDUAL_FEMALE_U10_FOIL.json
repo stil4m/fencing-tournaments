@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8060-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Agata",
+      "lastName" : "BAJEVA",
+      "fullName" : "BAJEVA, Agata"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357147"
+  }, {
+    "participantId" : "2",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Nikol",
+      "lastName" : "JUNELE",
+      "fullName" : "JUNELE, Nikol"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346061"
+  }, {
+    "participantId" : "3",
+    "club" : "Rigas 3. BJSS",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Hera",
+      "lastName" : "LIEPNIECE",
+      "fullName" : "LIEPNIECE, Hera"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357000"
+  }, {
+    "participantId" : "4",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Sofija",
+      "lastName" : "RJABIH",
+      "fullName" : "RJABIH, Sofija"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357146"
+  } ]
+}

@@ -1,0 +1,386 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12882-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "18",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MX Fencing Club",
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Megan",
+      "lastName" : "BEDDOE",
+      "fullName" : "BEDDOE, Megan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "90376"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Jessica",
+      "lastName" : "CORBY",
+      "fullName" : "CORBY, Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kathryn",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Kathryn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37506",
+    "fwwId" : "344107"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Kate",
+      "lastName" : "DAYKIN",
+      "fullName" : "DAYKIN, Kate"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "TUKS Pretoria",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Keena",
+      "lastName" : "FOURIE",
+      "fullName" : "FOURIE, Keena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "125018"
+  }, {
+    "participantId" : "6",
+    "club" : "MX Fencing Club",
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "GLADDISH",
+      "fullName" : "GLADDISH, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303390"
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Megan",
+      "lastName" : "GOUW",
+      "fullName" : "GOUW, Megan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Sarah-Jane",
+      "lastName" : "HAMPSON",
+      "fullName" : "HAMPSON, Sarah-Jane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "HELY",
+      "fullName" : "HELY, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : "MX FENCING CLUB",
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Daisy",
+      "lastName" : "HUTTON",
+      "fullName" : "HUTTON, Daisy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Lagan",
+      "lastName" : "JINDAL",
+      "fullName" : "JINDAL, Lagan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354924"
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Josna Christy",
+      "lastName" : "JOSE",
+      "fullName" : "JOSE, Josna Christy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321828"
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Anitha",
+      "lastName" : "KARUNAKARAN",
+      "fullName" : "KARUNAKARAN, Anitha"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342554"
+  }, {
+    "participantId" : "14",
+    "club" : "Soweto FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Lehlohonolo",
+      "lastName" : "MASOEU",
+      "fullName" : "MASOEU, Lehlohonolo"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321567"
+  }, {
+    "participantId" : "15",
+    "club" : "SALLE URSA FC",
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Alice",
+      "lastName" : "MOFFAT",
+      "fullName" : "MOFFAT, Alice"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Roshani Ashok",
+      "lastName" : "MURTADAK",
+      "fullName" : "MURTADAK, Roshani Ashok"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354923"
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "GUE",
+    "name" : {
+      "firstName" : "Vikki",
+      "lastName" : "PERRIO",
+      "fullName" : "PERRIO, Vikki"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "GUE",
+    "name" : {
+      "firstName" : "Autumn-Rose",
+      "lastName" : "ROWE",
+      "fullName" : "ROWE, Autumn-Rose"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Isabel",
+      "lastName" : "TURNBULL",
+      "fullName" : "TURNBULL, Isabel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303885"
+  }, {
+    "participantId" : "20",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Thoibi Devi",
+      "lastName" : "WANGLEMBAM",
+      "fullName" : "WANGLEMBAM, Thoibi Devi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354876"
+  }, {
+    "participantId" : "21",
+    "club" : null,
+    "country" : "WAL",
+    "name" : {
+      "firstName" : "Megan",
+      "lastName" : "WARE",
+      "fullName" : "WARE, Megan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "22",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Sian",
+      "lastName" : "WEBSTER",
+      "fullName" : "WEBSTER, Sian"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33426",
+    "fwwId" : "331197"
+  }, {
+    "participantId" : "23",
+    "club" : null,
+    "country" : "SIN",
+    "name" : {
+      "firstName" : "Nicole Sher Tinn",
+      "lastName" : "WEE",
+      "fullName" : "WEE, Nicole Sher Tinn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344912"
+  }, {
+    "participantId" : "24",
+    "club" : "SOWETO FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Lungile",
+      "lastName" : "ZAKWE",
+      "fullName" : "ZAKWE, Lungile"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13510-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "BISSINGER",
+      "fullName" : "BISSINGER, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332524"
+  }, {
+    "participantId" : "2",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "BOORZ",
+      "fullName" : "BOORZ, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346782"
+  }, {
+    "participantId" : "3",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Colin",
+      "lastName" : "GRUNDLER",
+      "fullName" : "GRUNDLER, Colin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318619"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Nördlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dorian",
+      "lastName" : "JAUMANN",
+      "fullName" : "JAUMANN, Dorian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317898"
+  }, {
+    "participantId" : "5",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gernot",
+      "lastName" : "KUMMER",
+      "fullName" : "KUMMER, Gernot"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329434"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Nördlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "MATULKA",
+      "fullName" : "MATULKA, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358399"
+  } ]
+}

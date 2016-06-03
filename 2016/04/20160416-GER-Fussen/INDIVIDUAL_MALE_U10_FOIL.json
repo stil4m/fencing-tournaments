@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4527-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OSC München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "ASCHENBRENNER",
+      "fullName" : "ASCHENBRENNER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357536"
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Myles",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Myles"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362762"
+  }, {
+    "participantId" : "3",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tristan",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Tristan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362763"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marius",
+      "lastName" : "KOBER",
+      "fullName" : "KOBER, Marius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349721"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Jengen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marouan",
+      "lastName" : "MAGOUR",
+      "fullName" : "MAGOUR, Marouan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361795"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nepomuk",
+      "lastName" : "REINEKE",
+      "fullName" : "REINEKE, Nepomuk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351263"
+  } ]
+}

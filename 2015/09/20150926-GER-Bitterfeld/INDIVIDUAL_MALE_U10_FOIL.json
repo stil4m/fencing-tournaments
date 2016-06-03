@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3079-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "ALBRECHT",
+      "fullName" : "ALBRECHT, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349651"
+  }, {
+    "participantId" : "2",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Otto",
+      "lastName" : "BECKMANN",
+      "fullName" : "BECKMANN, Otto"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345449"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "BEYER",
+      "fullName" : "BEYER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353558"
+  }, {
+    "participantId" : "4",
+    "club" : "Einheit Altenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ludwig",
+      "lastName" : "BÖRNGEN",
+      "fullName" : "BÖRNGEN, Ludwig"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354108"
+  }, {
+    "participantId" : "5",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "GREMOT",
+      "fullName" : "GREMOT, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353454"
+  }, {
+    "participantId" : "6",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aaron",
+      "lastName" : "KABJOLL",
+      "fullName" : "KABJOLL, Aaron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344008"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karl",
+      "lastName" : "KUNNIG",
+      "fullName" : "KUNNIG, Karl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354453"
+  }, {
+    "participantId" : "8",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theodor",
+      "lastName" : "OTTO",
+      "fullName" : "OTTO, Theodor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350736"
+  }, {
+    "participantId" : "9",
+    "club" : "Einheit Altenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "PETERSEN",
+      "fullName" : "PETERSEN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335315"
+  }, {
+    "participantId" : "10",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kurt",
+      "lastName" : "REICHARDT",
+      "fullName" : "REICHARDT, Kurt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344009"
+  }, {
+    "participantId" : "11",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "SCHLIETER",
+      "fullName" : "SCHLIETER, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337751"
+  }, {
+    "participantId" : "12",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "SONS",
+      "fullName" : "SONS, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353376"
+  }, {
+    "participantId" : "13",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "THETMEYER",
+      "fullName" : "THETMEYER, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354455"
+  } ]
+}

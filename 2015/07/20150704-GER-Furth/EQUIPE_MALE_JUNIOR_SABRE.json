@@ -1,0 +1,34 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5617-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Weilheim",
+    "country" : "GER",
+    "teamName" : "TSV WEILHEIM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119437"
+  } ]
+}

@@ -1,0 +1,354 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13011-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Detlef",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Detlef"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120490"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jürgen",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Jürgen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "44959"
+  }, {
+    "participantId" : "3",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wolfram",
+      "lastName" : "DEGLER",
+      "fullName" : "DEGLER, Wolfram"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "89252"
+  }, {
+    "participantId" : "4",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "DOLSDORF",
+      "fullName" : "DOLSDORF, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305576"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marc-Stephan",
+      "lastName" : "GARBE",
+      "fullName" : "GARBE, Marc-Stephan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332338"
+  }, {
+    "participantId" : "6",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "GERLACH",
+      "fullName" : "GERLACH, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2840"
+  }, {
+    "participantId" : "7",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klaus",
+      "lastName" : "HEINRICH",
+      "fullName" : "HEINRICH, Klaus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "20515"
+  }, {
+    "participantId" : "8",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "INTER",
+      "fullName" : "INTER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "5296"
+  }, {
+    "participantId" : "9",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Uwe",
+      "lastName" : "KIRSCHEN",
+      "fullName" : "KIRSCHEN, Uwe"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "1951"
+  }, {
+    "participantId" : "10",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sandor",
+      "lastName" : "KÖRIS",
+      "fullName" : "KÖRIS, Sandor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314676"
+  }, {
+    "participantId" : "11",
+    "club" : "USC Viadrina Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dirk",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Dirk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2838"
+  }, {
+    "participantId" : "12",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Winfried",
+      "lastName" : "NAUMANN",
+      "fullName" : "NAUMANN, Winfried"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88348"
+  }, {
+    "participantId" : "13",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christopher",
+      "lastName" : "PROHL",
+      "fullName" : "PROHL, Christopher"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "38089"
+  }, {
+    "participantId" : "14",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael-Boris",
+      "lastName" : "ROSENSTOCK",
+      "fullName" : "ROSENSTOCK, Michael-Boris"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "20518"
+  }, {
+    "participantId" : "15",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "SCHMELTER",
+      "fullName" : "SCHMELTER, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "93340"
+  }, {
+    "participantId" : "16",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frank",
+      "lastName" : "ULBRICH",
+      "fullName" : "ULBRICH, Frank"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "752"
+  }, {
+    "participantId" : "17",
+    "club" : "OSC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karsten",
+      "lastName" : "VANDIEKEN",
+      "fullName" : "VANDIEKEN, Karsten"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "43358"
+  }, {
+    "participantId" : "18",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "ZUSKA",
+      "fullName" : "ZUSKA, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88350"
+  }, {
+    "participantId" : "19",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "PÖNISCH",
+      "fullName" : "PÖNISCH, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "749"
+  }, {
+    "participantId" : "20",
+    "club" : "HSG Uni Rostock",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "WOLTER",
+      "fullName" : "WOLTER, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123996"
+  }, {
+    "participantId" : "21",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Yves",
+      "lastName" : "ECKERT",
+      "fullName" : "ECKERT, Yves"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "4500"
+  }, {
+    "participantId" : "22",
+    "club" : "OSC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andre",
+      "lastName" : "BRIESE",
+      "fullName" : "BRIESE, Andre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354377"
+  }, {
+    "participantId" : "23",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marcus",
+      "lastName" : "HEINRICH",
+      "fullName" : "HEINRICH, Marcus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "19052"
+  }, {
+    "participantId" : "24",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Torsten",
+      "lastName" : "SCHIMMEL",
+      "fullName" : "SCHIMMEL, Torsten"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45582"
+  } ]
+}

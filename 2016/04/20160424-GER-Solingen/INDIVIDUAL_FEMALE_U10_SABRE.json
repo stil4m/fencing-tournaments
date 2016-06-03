@@ -1,0 +1,174 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3053-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ingrid",
+      "lastName" : "ALEX",
+      "fullName" : "ALEX, Ingrid"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356947"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355638"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Catalin",
+      "lastName" : "GRAUDINS",
+      "fullName" : "GRAUDINS, Catalin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345955"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Achern FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anastasia",
+      "lastName" : "HANSEN",
+      "fullName" : "HANSEN, Anastasia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351409"
+  }, {
+    "participantId" : "5",
+    "club" : "Königsbacher SC",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Lilla",
+      "lastName" : "JAMBORHAZI",
+      "fullName" : "JAMBORHAZI, Lilla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357135"
+  }, {
+    "participantId" : "6",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hanna",
+      "lastName" : "KATZMAREK",
+      "fullName" : "KATZMAREK, Hanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356358"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marisa Victoria",
+      "lastName" : "KURZAWA",
+      "fullName" : "KURZAWA, Marisa Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351687"
+  }, {
+    "participantId" : "8",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frederike",
+      "lastName" : "REINHARDT",
+      "fullName" : "REINHARDT, Frederike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359005"
+  }, {
+    "participantId" : "9",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "RATZ",
+      "fullName" : "RATZ, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357141"
+  }, {
+    "participantId" : "10",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotta",
+      "lastName" : "SIEFKEN",
+      "fullName" : "SIEFKEN, Charlotta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355637"
+  }, {
+    "participantId" : "11",
+    "club" : "Königsbacher SC",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Rebeka",
+      "lastName" : "AKACZ",
+      "fullName" : "AKACZ, Rebeka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357137"
+  } ]
+}

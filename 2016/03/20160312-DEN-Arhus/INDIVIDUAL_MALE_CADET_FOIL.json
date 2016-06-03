@@ -1,0 +1,110 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10607-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "ANDRESEN WEYHRETER",
+      "fullName" : "ANDRESEN WEYHRETER, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341686"
+  }, {
+    "participantId" : "2",
+    "club" : "MF Molde",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Even",
+      "lastName" : "FOSBY",
+      "fullName" : "FOSBY, Even"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318201"
+  }, {
+    "participantId" : "3",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Marcus Sebastian",
+      "lastName" : "GERT",
+      "fullName" : "GERT, Marcus Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336535"
+  }, {
+    "participantId" : "4",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Steffen",
+      "lastName" : "GJALDBÆK",
+      "fullName" : "GJALDBÆK, Steffen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324735"
+  }, {
+    "participantId" : "5",
+    "club" : "KrF Kristiansand",
+    "country" : "NOR",
+    "name" : {
+      "firstName" : "Morten",
+      "lastName" : "HAUGLAND JOHANSEN",
+      "fullName" : "HAUGLAND JOHANSEN, Morten"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "LIGAARD SIEM",
+      "fullName" : "LIGAARD SIEM, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319438"
+  }, {
+    "participantId" : "7",
+    "club" : "VFK Varde 1969",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sebastian S.",
+      "lastName" : "MADSEN",
+      "fullName" : "MADSEN, Sebastian S."
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322753"
+  } ]
+}

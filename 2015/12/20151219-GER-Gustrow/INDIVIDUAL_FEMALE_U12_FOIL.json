@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8781-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "AnnaAlicia",
+      "lastName" : "ECHELMEYER Anna- Alicia",
+      "fullName" : "ECHELMEYER Anna- Alicia, AnnaAlicia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324144"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "KANNENBERG",
+      "fullName" : "KANNENBERG, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324146"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Birte",
+      "lastName" : "PFENNIGSCHMIDT",
+      "fullName" : "PFENNIGSCHMIDT, Birte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324148"
+  }, {
+    "participantId" : "4",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "HAMSCH",
+      "fullName" : "HAMSCH, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345017"
+  } ]
+}

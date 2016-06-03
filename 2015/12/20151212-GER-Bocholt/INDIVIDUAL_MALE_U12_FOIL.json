@@ -1,0 +1,462 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8212-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "13",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "DICKEL",
+      "fullName" : "DICKEL, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357733"
+  }, {
+    "participantId" : "2",
+    "club" : "s.v. Tréville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "DIJKSTRA",
+      "fullName" : "DIJKSTRA, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348309"
+  }, {
+    "participantId" : "3",
+    "club" : "s.v. Tréville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "DIJKSTRA",
+      "fullName" : "DIJKSTRA, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348307"
+  }, {
+    "participantId" : "4",
+    "club" : "SKG Oberhöchstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "FAITZ",
+      "fullName" : "FAITZ, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335614"
+  }, {
+    "participantId" : "5",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Connor",
+      "lastName" : "FELDHAAR",
+      "fullName" : "FELDHAAR, Connor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336348"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "HILBRANDT",
+      "fullName" : "HILBRANDT, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337947"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "HÖRNER",
+      "fullName" : "HÖRNER, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353995"
+  }, {
+    "participantId" : "8",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "HÜSING",
+      "fullName" : "HÜSING, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355661"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "HUSKE",
+      "fullName" : "HUSKE, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353994"
+  }, {
+    "participantId" : "10",
+    "club" : "TUS Wunstorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lasse",
+      "lastName" : "KAMPERSCHROER",
+      "fullName" : "KAMPERSCHROER, Lasse"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350339"
+  }, {
+    "participantId" : "11",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316824"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finn",
+      "lastName" : "MEIER-EBERT",
+      "fullName" : "MEIER-EBERT, Finn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346447"
+  }, {
+    "participantId" : "13",
+    "club" : "Remscheider SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "MIRBACH",
+      "fullName" : "MIRBACH, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336316"
+  }, {
+    "participantId" : "14",
+    "club" : "SC Amsterdam",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Suhayl",
+      "lastName" : "NAWAR",
+      "fullName" : "NAWAR, Suhayl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344746"
+  }, {
+    "participantId" : "15",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Damon",
+      "lastName" : "PACHMANN",
+      "fullName" : "PACHMANN, Damon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346446"
+  }, {
+    "participantId" : "16",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "PANZOG",
+      "fullName" : "PANZOG, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336270"
+  }, {
+    "participantId" : "17",
+    "club" : "s.v. AEW",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Jesse",
+      "lastName" : "PIEPER",
+      "fullName" : "PIEPER, Jesse"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358662"
+  }, {
+    "participantId" : "18",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "POLOTZEK",
+      "fullName" : "POLOTZEK, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318171"
+  }, {
+    "participantId" : "19",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "REINOLD",
+      "fullName" : "REINOLD, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348160"
+  }, {
+    "participantId" : "20",
+    "club" : null,
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Mylan",
+      "lastName" : "STANKIEWICZ",
+      "fullName" : "STANKIEWICZ, Mylan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348153"
+  }, {
+    "participantId" : "21",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jorge",
+      "lastName" : "THÖNNES",
+      "fullName" : "THÖNNES, Jorge"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356891"
+  }, {
+    "participantId" : "22",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "TOMHOFER",
+      "fullName" : "TOMHOFER, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349192"
+  }, {
+    "participantId" : "23",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennox",
+      "lastName" : "VAN SETTEN VAN DER MEER",
+      "fullName" : "VAN SETTEN VAN DER MEER, Lennox"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353977"
+  }, {
+    "participantId" : "24",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chris",
+      "lastName" : "VERFONDERN",
+      "fullName" : "VERFONDERN, Chris"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348267"
+  }, {
+    "participantId" : "25",
+    "club" : "s.v. Tréville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Koen",
+      "lastName" : "WALET",
+      "fullName" : "WALET, Koen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338149"
+  }, {
+    "participantId" : "26",
+    "club" : "Holland Schermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Sam",
+      "lastName" : "WANYAMA",
+      "fullName" : "WANYAMA, Sam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358633"
+  }, {
+    "participantId" : "27",
+    "club" : "TG Neuss",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "PIEPER",
+      "fullName" : "PIEPER, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357379"
+  }, {
+    "participantId" : "28",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michel",
+      "lastName" : "KLEINERT",
+      "fullName" : "KLEINERT, Michel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348159"
+  }, {
+    "participantId" : "29",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arne",
+      "lastName" : "JACOBSEN",
+      "fullName" : "JACOBSEN, Arne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358210"
+  } ]
+}

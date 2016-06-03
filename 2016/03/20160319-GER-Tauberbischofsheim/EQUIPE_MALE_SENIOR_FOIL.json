@@ -1,0 +1,286 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3065-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "CTG Koblenz",
+    "country" : "GER",
+    "teamName" : "CTG KOBLENZ",
+    "members" : [ {
+      "firstName" : "Lukas",
+      "lastName" : "HORNE",
+      "fullName" : "HORNE, Lukas"
+    }, {
+      "firstName" : "Peter",
+      "lastName" : "JOPPICH",
+      "fullName" : "JOPPICH, Peter"
+    }, {
+      "firstName" : "Timi",
+      "lastName" : "SCHWANNINGER",
+      "fullName" : "SCHWANNINGER, Timi"
+    }, {
+      "firstName" : "Maxim",
+      "lastName" : "KROHMER",
+      "fullName" : "KROHMER, Maxim"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32190"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : [ {
+      "firstName" : "Philipp",
+      "lastName" : "GORRAY",
+      "fullName" : "GORRAY, Philipp"
+    }, {
+      "firstName" : "Martin",
+      "lastName" : "WIEMANN",
+      "fullName" : "WIEMANN, Martin"
+    }, {
+      "firstName" : "Marco",
+      "lastName" : "VAN DER KOELEN",
+      "fullName" : "VAN DER KOELEN, Marco"
+    } ],
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TAUBERBISCHOFSHEIM",
+    "members" : [ {
+      "firstName" : "Tom",
+      "lastName" : "GOMBOS",
+      "fullName" : "GOMBOS, Tom"
+    }, {
+      "firstName" : "Niklas",
+      "lastName" : "UFTRING",
+      "fullName" : "UFTRING, Niklas"
+    }, {
+      "firstName" : "Lucas",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Lucas"
+    }, {
+      "firstName" : "Alexander",
+      "lastName" : "KAHL",
+      "fullName" : "KAHL, Alexander"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Oliver",
+      "lastName" : "SCHWEIZER",
+      "fullName" : "SCHWEIZER, Oliver"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "KAUFMANN",
+      "fullName" : "KAUFMANN, Florian"
+    }, {
+      "firstName" : "Marino",
+      "lastName" : "BULLINGER",
+      "fullName" : "BULLINGER, Marino"
+    }, {
+      "firstName" : "Lukas",
+      "lastName" : "LERCH",
+      "fullName" : "LERCH, Lukas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Dominik",
+      "lastName" : "SCHOPPA",
+      "fullName" : "SCHOPPA, Dominik"
+    }, {
+      "firstName" : "André",
+      "lastName" : "SANITA",
+      "fullName" : "SANITA, André"
+    }, {
+      "firstName" : "Paul",
+      "lastName" : "TENBERGEN",
+      "fullName" : "TENBERGEN, Paul"
+    }, {
+      "firstName" : "Marius",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Marius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "6",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "teamName" : "PSV STUTTGART",
+    "members" : [ {
+      "firstName" : "Phillip",
+      "lastName" : "HODAK",
+      "fullName" : "HODAK, Phillip"
+    }, {
+      "firstName" : "Jan-Marco",
+      "lastName" : "AMREIN",
+      "fullName" : "AMREIN, Jan-Marco"
+    }, {
+      "firstName" : "Salvatore",
+      "lastName" : "MARINO",
+      "fullName" : "MARINO, Salvatore"
+    }, {
+      "firstName" : "Jassir",
+      "lastName" : "HICKEL",
+      "fullName" : "HICKEL, Jassir"
+    } ],
+    "fieId" : null,
+    "fwwId" : "27210"
+  }, {
+    "participantId" : "7",
+    "club" : "TG Dörnigheim",
+    "country" : "GER",
+    "teamName" : "TG DÖRNIGHEIM",
+    "members" : [ {
+      "firstName" : "Mattis",
+      "lastName" : "ASMUS",
+      "fullName" : "ASMUS, Mattis"
+    }, {
+      "firstName" : "Arno",
+      "lastName" : "FÖRSTER",
+      "fullName" : "FÖRSTER, Arno"
+    }, {
+      "firstName" : "Christopher",
+      "lastName" : "TRAAR",
+      "fullName" : "TRAAR, Christopher"
+    }, {
+      "firstName" : "Tristan",
+      "lastName" : "FÖRSTER",
+      "fullName" : "FÖRSTER, Tristan"
+    } ],
+    "fieId" : null,
+    "fwwId" : "27211"
+  }, {
+    "participantId" : "8",
+    "club" : "TSG 2005 Bamberg",
+    "country" : "GER",
+    "teamName" : "TSG BAMBERG",
+    "members" : [ {
+      "firstName" : "Patrick",
+      "lastName" : "HARMAN",
+      "fullName" : "HARMAN, Patrick"
+    }, {
+      "firstName" : "Christoph",
+      "lastName" : "LO-IACONO",
+      "fullName" : "LO-IACONO, Christoph"
+    }, {
+      "firstName" : "Frederik",
+      "lastName" : "ULLEIN",
+      "fullName" : "ULLEIN, Frederik"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "BAUER",
+      "fullName" : "BAUER, Maximilian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119385"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "teamName" : "TSG WEINHEIM",
+    "members" : [ {
+      "firstName" : "Luis",
+      "lastName" : "KLEIN",
+      "fullName" : "KLEIN, Luis"
+    }, {
+      "firstName" : "Georg",
+      "lastName" : "DÖRR",
+      "fullName" : "DÖRR, Georg"
+    }, {
+      "firstName" : "Felix",
+      "lastName" : "KLEIN",
+      "fullName" : "KLEIN, Felix"
+    }, {
+      "firstName" : "Ciaran",
+      "lastName" : "VEITENHEIMER",
+      "fullName" : "VEITENHEIMER, Ciaran"
+    } ],
+    "fieId" : null,
+    "fwwId" : "56773"
+  }, {
+    "participantId" : "10",
+    "club" : "TSV Speyer",
+    "country" : "GER",
+    "teamName" : "TSV SPEYER",
+    "members" : [ {
+      "firstName" : "Christian",
+      "lastName" : "PLECHINGER",
+      "fullName" : "PLECHINGER, Christian"
+    }, {
+      "firstName" : "Dennis",
+      "lastName" : "MOSBACH",
+      "fullName" : "MOSBACH, Dennis"
+    }, {
+      "firstName" : "Ralf",
+      "lastName" : "PLECHINGER",
+      "fullName" : "PLECHINGER, Ralf"
+    }, {
+      "firstName" : "Kevin",
+      "lastName" : "HENNINGER",
+      "fullName" : "HENNINGER, Kevin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32165"
+  } ]
+}

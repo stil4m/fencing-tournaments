@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3471-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "teamName" : "BAYER LEVERKUSEN",
+    "members" : [ {
+      "firstName" : "Isabelle",
+      "lastName" : "BÜRGER",
+      "fullName" : "BÜRGER, Isabelle"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "LUDOLF",
+      "fullName" : "LUDOLF, Julia"
+    }, {
+      "firstName" : "Kristina",
+      "lastName" : "FARKAS",
+      "fullName" : "FARKAS, Kristina"
+    }, {
+      "firstName" : "Noa Cosima",
+      "lastName" : "GOEDEJOHANN",
+      "fullName" : "GOEDEJOHANN, Noa Cosima"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19853"
+  }, {
+    "participantId" : "2",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "teamName" : "EFG ESSEN",
+    "members" : [ {
+      "firstName" : "Annika",
+      "lastName" : "GRAF",
+      "fullName" : "GRAF, Annika"
+    }, {
+      "firstName" : "Neda",
+      "lastName" : "AYAS",
+      "fullName" : "AYAS, Neda"
+    }, {
+      "firstName" : "Marlen",
+      "lastName" : "REINHOLD",
+      "fullName" : "REINHOLD, Marlen"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "REINHOLD",
+      "fullName" : "REINHOLD, Charlotte"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19856"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Adriana",
+      "lastName" : "FRIEDERICH",
+      "fullName" : "FRIEDERICH, Adriana"
+    }, {
+      "firstName" : "Ella",
+      "lastName" : "GÖDDE",
+      "fullName" : "GÖDDE, Ella"
+    }, {
+      "firstName" : "Louise",
+      "lastName" : "MÄUELER",
+      "fullName" : "MÄUELER, Louise"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "teamName" : "TV HOFFNUNGSTHAL",
+    "members" : [ {
+      "firstName" : "Marieke",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Marieke"
+    }, {
+      "firstName" : "Annika",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Annika"
+    }, {
+      "firstName" : "Victoria",
+      "lastName" : "AVERDUNG",
+      "fullName" : "AVERDUNG, Victoria"
+    } ],
+    "fieId" : null,
+    "fwwId" : "82454"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : [ {
+      "firstName" : "Brenda",
+      "lastName" : "KOLBINGER",
+      "fullName" : "KOLBINGER, Brenda"
+    }, {
+      "firstName" : "Henrike",
+      "lastName" : "HÜLSHÖRSTER",
+      "fullName" : "HÜLSHÖRSTER, Henrike"
+    }, {
+      "firstName" : "Anne Leonie",
+      "lastName" : "WIEDMANN",
+      "fullName" : "WIEDMANN, Anne Leonie"
+    }, {
+      "firstName" : "Ya Li",
+      "lastName" : "DU",
+      "fullName" : "DU, Ya Li"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32437"
+  }, {
+    "participantId" : "6",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "teamName" : "WUPPERTALER FC",
+    "members" : [ {
+      "firstName" : "Carina",
+      "lastName" : "DICK",
+      "fullName" : "DICK, Carina"
+    }, {
+      "firstName" : "Annika",
+      "lastName" : "OBERBÜSCHER",
+      "fullName" : "OBERBÜSCHER, Annika"
+    }, {
+      "firstName" : "Annika",
+      "lastName" : "HEKE",
+      "fullName" : "HEKE, Annika"
+    } ],
+    "fieId" : null,
+    "fwwId" : "94010"
+  } ]
+}

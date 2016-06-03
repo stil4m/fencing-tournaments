@@ -1,0 +1,602 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4554-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "19",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "teamName" : "BAYER LEVERKUSEN",
+    "members" : [ {
+      "firstName" : "Leandra",
+      "lastName" : "ESSER",
+      "fullName" : "ESSER, Leandra"
+    }, {
+      "firstName" : "Noa Cosima",
+      "lastName" : "GOEDEJOHANN",
+      "fullName" : "GOEDEJOHANN, Noa Cosima"
+    }, {
+      "firstName" : "Marie",
+      "lastName" : "ZUR MÜHLEN",
+      "fullName" : "ZUR MÜHLEN, Marie"
+    }, {
+      "firstName" : "Luisa Emilia",
+      "lastName" : "SPIERZAK",
+      "fullName" : "SPIERZAK, Luisa Emilia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19853"
+  }, {
+    "participantId" : "2",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "teamName" : "EFG ESSEN",
+    "members" : [ {
+      "firstName" : "Emily",
+      "lastName" : "SCHULTE",
+      "fullName" : "SCHULTE, Emily"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "REINHOLD",
+      "fullName" : "REINHOLD, Charlotte"
+    }, {
+      "firstName" : "Emma",
+      "lastName" : "MASTHOFF",
+      "fullName" : "MASTHOFF, Emma"
+    }, {
+      "firstName" : "Neda",
+      "lastName" : "AYAS",
+      "fullName" : "AYAS, Neda"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19856"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "teamName" : "FC LEIPZIG",
+    "members" : [ {
+      "firstName" : "Klara",
+      "lastName" : "JASKULLA",
+      "fullName" : "JASKULLA, Klara"
+    }, {
+      "firstName" : "Leonie",
+      "lastName" : "STRECKER",
+      "fullName" : "STRECKER, Leonie"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "GROLLMISCH",
+      "fullName" : "GROLLMISCH, Charlotte"
+    }, {
+      "firstName" : "Rebekka",
+      "lastName" : "KRAUSE",
+      "fullName" : "KRAUSE, Rebekka"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32166"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TAUBERBISCHOFSHEIM",
+    "members" : [ {
+      "firstName" : "Lara",
+      "lastName" : "SPENGLER",
+      "fullName" : "SPENGLER, Lara"
+    }, {
+      "firstName" : "Jaqueline",
+      "lastName" : "STOPPEL",
+      "fullName" : "STOPPEL, Jaqueline"
+    }, {
+      "firstName" : "Chantall",
+      "lastName" : "HÄUSLER",
+      "fullName" : "HÄUSLER, Chantall"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "5",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Giulia",
+      "lastName" : "ALBRECHT",
+      "fullName" : "ALBRECHT, Giulia"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Lea"
+    }, {
+      "firstName" : "Lilia",
+      "lastName" : "CARDUCCI",
+      "fullName" : "CARDUCCI, Lilia"
+    }, {
+      "firstName" : "Franziska",
+      "lastName" : "MAYR",
+      "fullName" : "MAYR, Franziska"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "6",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Louise",
+      "lastName" : "MÄUELER",
+      "fullName" : "MÄUELER, Louise"
+    }, {
+      "firstName" : "Ella",
+      "lastName" : "GÖDDE",
+      "fullName" : "GÖDDE, Ella"
+    }, {
+      "firstName" : "Lisanne",
+      "lastName" : "KRÄMER",
+      "fullName" : "KRÄMER, Lisanne"
+    }, {
+      "firstName" : "Phyllis",
+      "lastName" : "SCHÖNBERG",
+      "fullName" : "SCHÖNBERG, Phyllis"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "7",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "teamName" : "OSNABRÜCKER SC",
+    "members" : [ {
+      "firstName" : "Tessa",
+      "lastName" : "WIETHEUPER",
+      "fullName" : "WIETHEUPER, Tessa"
+    }, {
+      "firstName" : "Mattea",
+      "lastName" : "WEHAGE",
+      "fullName" : "WEHAGE, Mattea"
+    }, {
+      "firstName" : "Femke",
+      "lastName" : "BÜCKER",
+      "fullName" : "BÜCKER, Femke"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "SPÄTH",
+      "fullName" : "SPÄTH, Charlotte"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20624"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Itzehoe",
+    "country" : "GER",
+    "teamName" : "SC ITZEHOE",
+    "members" : [ {
+      "firstName" : "Solveig",
+      "lastName" : "LINOW",
+      "fullName" : "LINOW, Solveig"
+    }, {
+      "firstName" : "Malija",
+      "lastName" : "HAIDA",
+      "fullName" : "HAIDA, Malija"
+    }, {
+      "firstName" : "Clara",
+      "lastName" : "SCHOOF",
+      "fullName" : "SCHOOF, Clara"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119241"
+  }, {
+    "participantId" : "9",
+    "club" : "Saar",
+    "country" : "GER",
+    "teamName" : "STG FR HOCHWALD / TG ROHRBACH",
+    "members" : [ {
+      "firstName" : "Merle",
+      "lastName" : "AULBACH",
+      "fullName" : "AULBACH, Merle"
+    }, {
+      "firstName" : "Hannah",
+      "lastName" : "STEIN",
+      "fullName" : "STEIN, Hannah"
+    }, {
+      "firstName" : "Johanna",
+      "lastName" : "STRAUB",
+      "fullName" : "STRAUB, Johanna"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "ZENS",
+      "fullName" : "ZENS, Anna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "362291"
+  }, {
+    "participantId" : "10",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG GLADBECK/QUERNHEIM",
+    "members" : [ {
+      "firstName" : "Käthe",
+      "lastName" : "HEISTERKAMP",
+      "fullName" : "HEISTERKAMP, Käthe"
+    }, {
+      "firstName" : "Anna Zoe",
+      "lastName" : "BRAUNE",
+      "fullName" : "BRAUNE, Anna Zoe"
+    }, {
+      "firstName" : "Nina",
+      "lastName" : "HÄSELHOFF",
+      "fullName" : "HÄSELHOFF, Nina"
+    }, {
+      "firstName" : "Miriam",
+      "lastName" : "THOMA",
+      "fullName" : "THOMA, Miriam"
+    } ],
+    "fieId" : null,
+    "fwwId" : "353415"
+  }, {
+    "participantId" : "11",
+    "club" : "Baden-Nord",
+    "country" : "GER",
+    "teamName" : "STG KARLSRUHE/MANNHEIM",
+    "members" : [ {
+      "firstName" : "Pia Rhianna",
+      "lastName" : "HÖSEL",
+      "fullName" : "HÖSEL, Pia Rhianna"
+    }, {
+      "firstName" : "Barbara",
+      "lastName" : "HAUER",
+      "fullName" : "HAUER, Barbara"
+    }, {
+      "firstName" : "Alexandra Chiara",
+      "lastName" : "HÖSEL",
+      "fullName" : "HÖSEL, Alexandra Chiara"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "VAGNER",
+      "fullName" : "VAGNER, Laura"
+    } ],
+    "fieId" : null,
+    "fwwId" : "363034"
+  }, {
+    "participantId" : "12",
+    "club" : "Thüringen",
+    "country" : "GER",
+    "teamName" : "STG SAALFELD/ERFURT",
+    "members" : [ {
+      "firstName" : "Constanze",
+      "lastName" : "LANDTE",
+      "fullName" : "LANDTE, Constanze"
+    }, {
+      "firstName" : "Nadine",
+      "lastName" : "MICHEL",
+      "fullName" : "MICHEL, Nadine"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "FREYE",
+      "fullName" : "FREYE, Lea"
+    } ],
+    "fieId" : null,
+    "fwwId" : "363010"
+  }, {
+    "participantId" : "13",
+    "club" : "Baden-Süd",
+    "country" : "GER",
+    "teamName" : "STG WALDKIRCH/BADEN-BADEN",
+    "members" : [ {
+      "firstName" : "Cosima",
+      "lastName" : "NOPPER",
+      "fullName" : "NOPPER, Cosima"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "BÜRCK",
+      "fullName" : "BÜRCK, Anna"
+    }, {
+      "firstName" : "Patricia",
+      "lastName" : "RUF",
+      "fullName" : "RUF, Patricia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "362906"
+  }, {
+    "participantId" : "14",
+    "club" : "Hessen",
+    "country" : "GER",
+    "teamName" : "STG WETZLAR/DARMSTADT",
+    "members" : [ {
+      "firstName" : "Lara",
+      "lastName" : "EBEID",
+      "fullName" : "EBEID, Lara"
+    }, {
+      "firstName" : "Elin",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Elin"
+    }, {
+      "firstName" : "Pauline",
+      "lastName" : "LOH",
+      "fullName" : "LOH, Pauline"
+    }, {
+      "firstName" : "Greta",
+      "lastName" : "ZAHNER",
+      "fullName" : "ZAHNER, Greta"
+    } ],
+    "fieId" : null,
+    "fwwId" : "362924"
+  }, {
+    "participantId" : "15",
+    "club" : "Berlin",
+    "country" : "GER",
+    "teamName" : "STG WITTENAU/GRUNEWALD",
+    "members" : [ {
+      "firstName" : "Valérie",
+      "lastName" : "HÖRMANN",
+      "fullName" : "HÖRMANN, Valérie"
+    }, {
+      "firstName" : "Lara",
+      "lastName" : "LANGE",
+      "fullName" : "LANGE, Lara"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "REITSCHUSTER",
+      "fullName" : "REITSCHUSTER, Anna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "334578"
+  }, {
+    "participantId" : "16",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Anja",
+      "lastName" : "HÄNDLER",
+      "fullName" : "HÄNDLER, Anja"
+    }, {
+      "firstName" : "Ronja",
+      "lastName" : "HEES",
+      "fullName" : "HEES, Ronja"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "THRUM",
+      "fullName" : "THRUM, Lea"
+    }, {
+      "firstName" : "Bianca Ines",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Bianca Ines"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "17",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "teamName" : "TSV HAGEN 1860",
+    "members" : [ {
+      "firstName" : "Felina",
+      "lastName" : "KAUFHOLD",
+      "fullName" : "KAUFHOLD, Felina"
+    }, {
+      "firstName" : "Alisa Katharina",
+      "lastName" : "FABRICE",
+      "fullName" : "FABRICE, Alisa Katharina"
+    }, {
+      "firstName" : "Hannah",
+      "lastName" : "WILKE",
+      "fullName" : "WILKE, Hannah"
+    }, {
+      "firstName" : "Melissa",
+      "lastName" : "WILKE",
+      "fullName" : "WILKE, Melissa"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20604"
+  }, {
+    "participantId" : "18",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Marlene",
+      "lastName" : "MÖCKL",
+      "fullName" : "MÖCKL, Marlene"
+    }, {
+      "firstName" : "Sarah",
+      "lastName" : "FLAGNER",
+      "fullName" : "FLAGNER, Sarah"
+    }, {
+      "firstName" : "Pauline",
+      "lastName" : "SCHWEIZER",
+      "fullName" : "SCHWEIZER, Pauline"
+    }, {
+      "firstName" : "Nina",
+      "lastName" : "TOBIAS",
+      "fullName" : "TOBIAS, Nina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "19",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "teamName" : "TV HOFFNUNGSTHAL",
+    "members" : [ {
+      "firstName" : "Marieke",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Marieke"
+    }, {
+      "firstName" : "Victoria",
+      "lastName" : "AVERDUNG",
+      "fullName" : "AVERDUNG, Victoria"
+    }, {
+      "firstName" : "Annika",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Annika"
+    } ],
+    "fieId" : null,
+    "fwwId" : "82454"
+  }, {
+    "participantId" : "20",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "teamName" : "UFC FRANKFURT",
+    "members" : [ {
+      "firstName" : "Anna-Maria",
+      "lastName" : "DERGAY",
+      "fullName" : "DERGAY, Anna-Maria"
+    }, {
+      "firstName" : "Eva",
+      "lastName" : "JONAS",
+      "fullName" : "JONAS, Eva"
+    }, {
+      "firstName" : "Leonie",
+      "lastName" : "LOBERT",
+      "fullName" : "LOBERT, Leonie"
+    }, {
+      "firstName" : "Rosa",
+      "lastName" : "FILBERT",
+      "fullName" : "FILBERT, Rosa"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20297"
+  }, {
+    "participantId" : "21",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : [ {
+      "firstName" : "Ariane",
+      "lastName" : "RIPPERT",
+      "fullName" : "RIPPERT, Ariane"
+    }, {
+      "firstName" : "Brenda",
+      "lastName" : "KOLBINGER",
+      "fullName" : "KOLBINGER, Brenda"
+    }, {
+      "firstName" : "Mia Sophie",
+      "lastName" : "LANGER",
+      "fullName" : "LANGER, Mia Sophie"
+    }, {
+      "firstName" : "Lisa-Marie",
+      "lastName" : "LÖHR",
+      "fullName" : "LÖHR, Lisa-Marie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32437"
+  }, {
+    "participantId" : "22",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "teamName" : "WUPPERTALER FC",
+    "members" : [ {
+      "firstName" : "Annika",
+      "lastName" : "OBERBÜSCHER",
+      "fullName" : "OBERBÜSCHER, Annika"
+    }, {
+      "firstName" : "Jule Hanna",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Jule Hanna"
+    }, {
+      "firstName" : "Maja",
+      "lastName" : "VON PRONDZINSKI",
+      "fullName" : "VON PRONDZINSKI, Maja"
+    }, {
+      "firstName" : "Carina",
+      "lastName" : "DICK",
+      "fullName" : "DICK, Carina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "94010"
+  } ]
+}

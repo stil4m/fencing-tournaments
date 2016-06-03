@@ -1,0 +1,410 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9107-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "BERKTOLD",
+      "fullName" : "BERKTOLD, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331534"
+  }, {
+    "participantId" : "2",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Luis",
+      "lastName" : "BRUCH",
+      "fullName" : "BRUCH, Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331544"
+  }, {
+    "participantId" : "3",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "BRUCKMÜLLER",
+      "fullName" : "BRUCKMÜLLER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331125"
+  }, {
+    "participantId" : "4",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321471"
+  }, {
+    "participantId" : "5",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Mathias",
+      "lastName" : "GOTTWALD",
+      "fullName" : "GOTTWALD, Mathias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347950"
+  }, {
+    "participantId" : "6",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Michel",
+      "lastName" : "GSTETTNER",
+      "fullName" : "GSTETTNER, Michel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327722"
+  }, {
+    "participantId" : "7",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "HATTINGER",
+      "fullName" : "HATTINGER, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321001"
+  }, {
+    "participantId" : "8",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "HOFMANN",
+      "fullName" : "HOFMANN, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327720"
+  }, {
+    "participantId" : "9",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "HUCHLER",
+      "fullName" : "HUCHLER, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322958"
+  }, {
+    "participantId" : "10",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Marco",
+      "lastName" : "KLEMEN",
+      "fullName" : "KLEMEN, Marco"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331110"
+  }, {
+    "participantId" : "11",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Hubert",
+      "lastName" : "KOENIGSWIESER",
+      "fullName" : "KOENIGSWIESER, Hubert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122508"
+  }, {
+    "participantId" : "12",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "KRAHER",
+      "fullName" : "KRAHER, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : "39365",
+    "fwwId" : "321303"
+  }, {
+    "participantId" : "13",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "KREMSLEITHNER",
+      "fullName" : "KREMSLEITHNER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : "35796",
+    "fwwId" : "321306"
+  }, {
+    "participantId" : "14",
+    "club" : "UWK Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "LACH",
+      "fullName" : "LACH, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332051"
+  }, {
+    "participantId" : "15",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Luka",
+      "lastName" : "LEPIR",
+      "fullName" : "LEPIR, Luka"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322959"
+  }, {
+    "participantId" : "16",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hugo",
+      "lastName" : "LOTTER",
+      "fullName" : "LOTTER, Hugo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311038"
+  }, {
+    "participantId" : "17",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Josef",
+      "lastName" : "MAHRINGER",
+      "fullName" : "MAHRINGER, Josef"
+    },
+    "gender" : "MALE",
+    "fieId" : "32473",
+    "fwwId" : "122509"
+  }, {
+    "participantId" : "18",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Luis",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356102"
+  }, {
+    "participantId" : "19",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "PILIPENKO",
+      "fullName" : "PILIPENKO, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330581"
+  }, {
+    "participantId" : "20",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "PUCHACHER",
+      "fullName" : "PUCHACHER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : "39022",
+    "fwwId" : "321277"
+  }, {
+    "participantId" : "21",
+    "club" : "KAC Klagenfurt",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "PUCHACHER",
+      "fullName" : "PUCHACHER, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : "30418",
+    "fwwId" : "91195"
+  }, {
+    "participantId" : "22",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian Dominic",
+      "lastName" : "SEYD",
+      "fullName" : "SEYD, Julian Dominic"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "86949"
+  }, {
+    "participantId" : "23",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "THEWANGER",
+      "fullName" : "THEWANGER, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : "35795",
+    "fwwId" : "321978"
+  }, {
+    "participantId" : "24",
+    "club" : "GFU Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "TÖGL",
+      "fullName" : "TÖGL, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122162"
+  }, {
+    "participantId" : "25",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Aaron",
+      "lastName" : "WALLA",
+      "fullName" : "WALLA, Aaron"
+    },
+    "gender" : "MALE",
+    "fieId" : "33796",
+    "fwwId" : "311751"
+  } ]
+}

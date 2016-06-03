@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8173-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vivien",
+      "lastName" : "FIRLUS",
+      "fullName" : "FIRLUS, Vivien"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324506"
+  }, {
+    "participantId" : "2",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josephine",
+      "lastName" : "GERICKE",
+      "fullName" : "GERICKE, Josephine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81981"
+  }, {
+    "participantId" : "3",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ira Kristin",
+      "lastName" : "HOLLAX",
+      "fullName" : "HOLLAX, Ira Kristin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318180"
+  }, {
+    "participantId" : "4",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KAERGEL",
+      "fullName" : "KAERGEL, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303132"
+  }, {
+    "participantId" : "5",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Angelina-Noelle",
+      "lastName" : "KRAUSE",
+      "fullName" : "KRAUSE, Angelina-Noelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81849"
+  }, {
+    "participantId" : "6",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "LAMPERT",
+      "fullName" : "LAMPERT, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302825"
+  }, {
+    "participantId" : "7",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Inga",
+      "lastName" : "SCHIFFNER",
+      "fullName" : "SCHIFFNER, Inga"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120545"
+  }, {
+    "participantId" : "8",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Lena",
+      "lastName" : "SOMMER",
+      "fullName" : "SOMMER, Anna-Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313189"
+  } ]
+}

@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10241-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Kölner FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl",
+      "lastName" : "BOB",
+      "fullName" : "BOB, Carl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353828"
+  }, {
+    "participantId" : "2",
+    "club" : "Kölner FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "BOES",
+      "fullName" : "BOES, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349669"
+  }, {
+    "participantId" : "3",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "BÖS",
+      "fullName" : "BÖS, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "352418"
+  }, {
+    "participantId" : "4",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "HEITZ",
+      "fullName" : "HEITZ, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349362"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "HILBRANDT",
+      "fullName" : "HILBRANDT, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337947"
+  }, {
+    "participantId" : "6",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "PANZOG",
+      "fullName" : "PANZOG, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336270"
+  }, {
+    "participantId" : "7",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kilian",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Kilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348157"
+  } ]
+}

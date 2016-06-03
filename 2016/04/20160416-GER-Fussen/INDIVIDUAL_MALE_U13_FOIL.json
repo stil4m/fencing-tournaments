@@ -1,0 +1,178 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4524-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "BÖHM",
+      "fullName" : "BÖHM, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333689"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Lauf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enis",
+      "lastName" : "DEMIR",
+      "fullName" : "DEMIR, Enis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337228"
+  }, {
+    "participantId" : "3",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bernhard",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Bernhard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319320"
+  }, {
+    "participantId" : "4",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "NEEB",
+      "fullName" : "NEEB, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342770"
+  }, {
+    "participantId" : "5",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "PEARCE",
+      "fullName" : "PEARCE, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350869"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Trudering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "STELLMACH",
+      "fullName" : "STELLMACH, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355672"
+  }, {
+    "participantId" : "7",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emile",
+      "lastName" : "UIKER",
+      "fullName" : "UIKER, Emile"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335347"
+  }, {
+    "participantId" : "8",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rene",
+      "lastName" : "WEISS",
+      "fullName" : "WEISS, Rene"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333691"
+  }, {
+    "participantId" : "9",
+    "club" : "Sportfechten Laim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "ZICKER",
+      "fullName" : "ZICKER, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332938"
+  }, {
+    "participantId" : "10",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carlo",
+      "lastName" : "SCHWICK",
+      "fullName" : "SCHWICK, Carlo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338130"
+  }, {
+    "participantId" : "11",
+    "club" : "FS TG Würzburg",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Stefano",
+      "lastName" : "UGOLOTTI",
+      "fullName" : "UGOLOTTI, Stefano"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333688"
+  } ]
+}

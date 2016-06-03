@@ -1,0 +1,282 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9131-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "AMMER",
+      "fullName" : "AMMER, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308199"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly Quilene",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Lilly Quilene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342004"
+  }, {
+    "participantId" : "3",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328847"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "HEINRICH-LINDNER",
+      "fullName" : "HEINRICH-LINDNER, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314192"
+  }, {
+    "participantId" : "5",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Kaja",
+      "lastName" : "JABLONOWSKA",
+      "fullName" : "JABLONOWSKA, Kaja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349385"
+  }, {
+    "participantId" : "6",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KAERGEL",
+      "fullName" : "KAERGEL, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303132"
+  }, {
+    "participantId" : "7",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "AnnSophie",
+      "lastName" : "KUKLA Ann- Sophie",
+      "fullName" : "KUKLA Ann- Sophie, AnnSophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302551"
+  }, {
+    "participantId" : "8",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabella",
+      "lastName" : "LINDNER",
+      "fullName" : "LINDNER, Isabella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313367"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Halle-Neustadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Agnes",
+      "lastName" : "MANN",
+      "fullName" : "MANN, Agnes"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330242"
+  }, {
+    "participantId" : "10",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "MATTHIES",
+      "fullName" : "MATTHIES, Andrea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328249"
+  }, {
+    "participantId" : "11",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilie",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Emilie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123111"
+  }, {
+    "participantId" : "12",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "MarieSophie",
+      "lastName" : "RODE Marie- Sophie",
+      "fullName" : "RODE Marie- Sophie, MarieSophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302558"
+  }, {
+    "participantId" : "13",
+    "club" : "Medizin Bad Elster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "ROTH",
+      "fullName" : "ROTH, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124161"
+  }, {
+    "participantId" : "14",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "SOBCZAK-DOMANSKA",
+      "fullName" : "SOBCZAK-DOMANSKA, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "122686"
+  }, {
+    "participantId" : "15",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "STUTZKE",
+      "fullName" : "STUTZKE, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318613"
+  }, {
+    "participantId" : "16",
+    "club" : "Dresdener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anuschka",
+      "lastName" : "TOMISCH",
+      "fullName" : "TOMISCH, Anuschka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353714"
+  }, {
+    "participantId" : "17",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leona",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Leona"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123936"
+  } ]
+}

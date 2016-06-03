@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1123-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aljoscha",
+      "lastName" : "MOHR",
+      "fullName" : "MOHR, Aljoscha"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327846"
+  }, {
+    "participantId" : "2",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jannik",
+      "lastName" : "RIEPING",
+      "fullName" : "RIEPING, Jannik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306400"
+  }, {
+    "participantId" : "3",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joel Janis",
+      "lastName" : "BIEKER",
+      "fullName" : "BIEKER, Joel Janis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342463"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "KERPER",
+      "fullName" : "KERPER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87329"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maurice",
+      "lastName" : "RÜGER",
+      "fullName" : "RÜGER, Maurice"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344291"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "BRINKHOFF",
+      "fullName" : "BRINKHOFF, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306053"
+  } ]
+}

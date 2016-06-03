@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3680-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Offenbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lola Marie",
+      "lastName" : "BOCK",
+      "fullName" : "BOCK, Lola Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339205"
+  }, {
+    "participantId" : "2",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "EL AYARI",
+      "fullName" : "EL AYARI, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319147"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melissa",
+      "lastName" : "GHABOULI",
+      "fullName" : "GHABOULI, Melissa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358055"
+  }, {
+    "participantId" : "4",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eléa",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Eléa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350834"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katrin",
+      "lastName" : "MEISSNER",
+      "fullName" : "MEISSNER, Katrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302936"
+  }, {
+    "participantId" : "6",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "MIER",
+      "fullName" : "MIER, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354140"
+  }, {
+    "participantId" : "7",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "STEFFENS",
+      "fullName" : "STEFFENS, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354134"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elisa",
+      "lastName" : "SÜVERN",
+      "fullName" : "SÜVERN, Elisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313571"
+  } ]
+}

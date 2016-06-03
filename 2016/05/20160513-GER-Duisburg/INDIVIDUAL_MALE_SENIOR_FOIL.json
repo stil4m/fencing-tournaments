@@ -1,0 +1,286 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4290-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "s.v. En Cavant",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Martijn",
+      "lastName" : "DE HAAS",
+      "fullName" : "DE HAAS, Martijn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "28712"
+  }, {
+    "participantId" : "2",
+    "club" : "s.v. En Cavant",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Mees",
+      "lastName" : "DE VRIES",
+      "fullName" : "DE VRIES, Mees"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363387"
+  }, {
+    "participantId" : "3",
+    "club" : "s.v. Pallós",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Thijs",
+      "lastName" : "DE WITH",
+      "fullName" : "DE WITH, Thijs"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363389"
+  }, {
+    "participantId" : "4",
+    "club" : "s.v. Pallós",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Jerome",
+      "lastName" : "FRANS",
+      "fullName" : "FRANS, Jerome"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363390"
+  }, {
+    "participantId" : "5",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "HOSE",
+      "fullName" : "HOSE, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "8623"
+  }, {
+    "participantId" : "6",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Udo",
+      "lastName" : "JACOBY",
+      "fullName" : "JACOBY, Udo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "883"
+  }, {
+    "participantId" : "7",
+    "club" : "s.v. En Cavant",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Edgar",
+      "lastName" : "JAINATHSINGH",
+      "fullName" : "JAINATHSINGH, Edgar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "92966"
+  }, {
+    "participantId" : "8",
+    "club" : "s.v. Pallós",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Niels",
+      "lastName" : "JELSMA",
+      "fullName" : "JELSMA, Niels"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363391"
+  }, {
+    "participantId" : "9",
+    "club" : "FS Gummersbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "JÜRGES",
+      "fullName" : "JÜRGES, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "35189"
+  }, {
+    "participantId" : "10",
+    "club" : "s.v. Pallós",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Bram",
+      "lastName" : "LANGENBERG",
+      "fullName" : "LANGENBERG, Bram"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363392"
+  }, {
+    "participantId" : "11",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "MATTERN",
+      "fullName" : "MATTERN, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333073"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "NEUHAUS",
+      "fullName" : "NEUHAUS, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "33062"
+  }, {
+    "participantId" : "13",
+    "club" : "Fechtfreunde Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marius",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Marius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "38704"
+  }, {
+    "participantId" : "14",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florens",
+      "lastName" : "PFANN",
+      "fullName" : "PFANN, Florens"
+    },
+    "gender" : "MALE",
+    "fieId" : "29762",
+    "fwwId" : "153010"
+  }, {
+    "participantId" : "15",
+    "club" : "Lancelot Schermclub",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Joris",
+      "lastName" : "SCHREUDER",
+      "fullName" : "SCHREUDER, Joris"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363393"
+  }, {
+    "participantId" : "16",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jörn",
+      "lastName" : "ULLRICH",
+      "fullName" : "ULLRICH, Jörn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2135"
+  }, {
+    "participantId" : "17",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jörg",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Jörg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "88505"
+  }, {
+    "participantId" : "18",
+    "club" : "Fechtfreunde Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "WITTROCK",
+      "fullName" : "WITTROCK, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349235"
+  } ]
+}

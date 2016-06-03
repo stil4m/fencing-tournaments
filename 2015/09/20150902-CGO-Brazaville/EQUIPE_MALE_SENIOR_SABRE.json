@@ -1,0 +1,85 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1315"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "teamName" : "EGYPT",
+    "members" : null,
+    "fieId" : "9593",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "TUN",
+    "teamName" : "TUNISIA",
+    "members" : null,
+    "fieId" : "6978",
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "SEN",
+    "teamName" : "SENEGAL",
+    "members" : null,
+    "fieId" : "6975",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "COD",
+    "teamName" : "DEMOCRATIC REPUBLIC OF CONGO",
+    "members" : null,
+    "fieId" : "17430",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "MLI",
+    "teamName" : "MALI",
+    "members" : null,
+    "fieId" : "6967",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "CGO",
+    "teamName" : "CONGO",
+    "members" : null,
+    "fieId" : "11257",
+    "fwwId" : null
+  } ]
+}

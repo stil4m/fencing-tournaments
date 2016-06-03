@@ -1,0 +1,182 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8104-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Warta-Muszkieterowie Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Antonina",
+      "lastName" : "BARTOL",
+      "fullName" : "BARTOL, Antonina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347612"
+  }, {
+    "participantId" : "2",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354006"
+  }, {
+    "participantId" : "3",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "ENDLER",
+      "fullName" : "ENDLER, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336915"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ginevra",
+      "lastName" : "GIORDANO",
+      "fullName" : "GIORDANO, Ginevra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333825"
+  }, {
+    "participantId" : "5",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Nikol",
+      "lastName" : "JUNELE",
+      "fullName" : "JUNELE, Nikol"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346061"
+  }, {
+    "participantId" : "6",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "MORDAK",
+      "fullName" : "MORDAK, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348043"
+  }, {
+    "participantId" : "7",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "NAKLICKA",
+      "fullName" : "NAKLICKA, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333236"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "PIHL",
+      "fullName" : "PIHL, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336660"
+  }, {
+    "participantId" : "9",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Matylda",
+      "lastName" : "WINIECKA",
+      "fullName" : "WINIECKA, Matylda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312562"
+  }, {
+    "participantId" : "10",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Kaja",
+      "lastName" : "ZIELONKA",
+      "fullName" : "ZIELONKA, Kaja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337539"
+  }, {
+    "participantId" : "11",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "MICHNIEWICZ",
+      "fullName" : "MICHNIEWICZ, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349119"
+  } ]
+}

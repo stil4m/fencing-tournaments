@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9026-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Philip Elias",
+      "lastName" : "ANDRESEN WEYHRETER",
+      "fullName" : "ANDRESEN WEYHRETER, Philip Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341712"
+  }, {
+    "participantId" : "2",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Casper",
+      "lastName" : "BENDIX LUND EGEBERG",
+      "fullName" : "BENDIX LUND EGEBERG, Casper"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349723"
+  }, {
+    "participantId" : "3",
+    "club" : "RFK Rudersdal",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Andrés",
+      "lastName" : "BREGENHØJ",
+      "fullName" : "BREGENHØJ, Andrés"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357109"
+  }, {
+    "participantId" : "4",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Raffaele",
+      "lastName" : "FU GIUGNO",
+      "fullName" : "FU GIUGNO, Raffaele"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353422"
+  }, {
+    "participantId" : "5",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Mikkel",
+      "lastName" : "GJALDBÆK",
+      "fullName" : "GJALDBÆK, Mikkel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324732"
+  }, {
+    "participantId" : "6",
+    "club" : "FKT Bispebjerg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sacha",
+      "lastName" : "GUILBERT",
+      "fullName" : "GUILBERT, Sacha"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324989"
+  }, {
+    "participantId" : "7",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Bertil Egsmark",
+      "lastName" : "HOLMAA",
+      "fullName" : "HOLMAA, Bertil Egsmark"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359311"
+  }, {
+    "participantId" : "8",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Christopher",
+      "lastName" : "HORN",
+      "fullName" : "HORN, Christopher"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323265"
+  }, {
+    "participantId" : "9",
+    "club" : "RFK Rudersdal",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "LADENBURG",
+      "fullName" : "LADENBURG, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353427"
+  }, {
+    "participantId" : "10",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "MANZ THORBEK",
+      "fullName" : "MANZ THORBEK, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353463"
+  }, {
+    "participantId" : "11",
+    "club" : "RFK Rudersdal",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Nikolaj",
+      "lastName" : "NORDING-GROOS",
+      "fullName" : "NORDING-GROOS, Nikolaj"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358741"
+  }, {
+    "participantId" : "12",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "PURSEY",
+      "fullName" : "PURSEY, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336702"
+  }, {
+    "participantId" : "13",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "QVISTGAARD",
+      "fullName" : "QVISTGAARD, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336405"
+  }, {
+    "participantId" : "14",
+    "club" : "TVF Thisted",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "RALDIN",
+      "fullName" : "RALDIN, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335213"
+  }, {
+    "participantId" : "15",
+    "club" : "TVF Thisted",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Erik Buus",
+      "lastName" : "STEFFENSEN",
+      "fullName" : "STEFFENSEN, Erik Buus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351039"
+  } ]
+}

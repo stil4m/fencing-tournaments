@@ -1,0 +1,125 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2014,
+      "id" : "857"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Yara",
+      "lastName" : "ELSHARKAWY",
+      "fullName" : "ELSHARKAWY, Yara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34433",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Noura",
+      "lastName" : "MOHAMED",
+      "fullName" : "MOHAMED, Noura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32730",
+    "fwwId" : "326378"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Noha",
+      "lastName" : "WASFY",
+      "fullName" : "WASFY, Noha"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "27212",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Khadidja",
+      "lastName" : "ZERABIB",
+      "fullName" : "ZERABIB, Khadidja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "23114",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Feriel",
+      "lastName" : "ADJABI",
+      "fullName" : "ADJABI, Feriel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "30280",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Farah",
+      "lastName" : "SHEEBA",
+      "fullName" : "SHEEBA, Farah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32455",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Amira",
+      "lastName" : "ROUIBET",
+      "fullName" : "ROUIBET, Amira"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32484",
+    "fwwId" : null
+  } ]
+}

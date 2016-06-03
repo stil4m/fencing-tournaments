@@ -1,0 +1,186 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12992-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : true
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "BIRKMEIER",
+      "fullName" : "BIRKMEIER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355215"
+  }, {
+    "participantId" : "2",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jannis",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Jannis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348096"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan-Philipp",
+      "lastName" : "LENHARDT",
+      "fullName" : "LENHARDT, Jan-Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330346"
+  }, {
+    "participantId" : "4",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "MAHLER",
+      "fullName" : "MAHLER, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353297"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "PAULIK",
+      "fullName" : "PAULIK, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348124"
+  }, {
+    "participantId" : "6",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils Henrik",
+      "lastName" : "PFLÜGER",
+      "fullName" : "PFLÜGER, Nils Henrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326899"
+  }, {
+    "participantId" : "7",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "REINHARD",
+      "fullName" : "REINHARD, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358643"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dominik",
+      "lastName" : "RENZ",
+      "fullName" : "RENZ, Dominik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326648"
+  }, {
+    "participantId" : "9",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "RIEDLER",
+      "fullName" : "RIEDLER, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346355"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "STEINMANN",
+      "fullName" : "STEINMANN, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346356"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "ZAISER",
+      "fullName" : "ZAISER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318618"
+  } ]
+}

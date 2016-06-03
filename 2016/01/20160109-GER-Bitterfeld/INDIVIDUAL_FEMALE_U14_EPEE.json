@@ -1,0 +1,150 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4174-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Berlin-Wittenau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annette",
+      "lastName" : "ALT",
+      "fullName" : "ALT, Annette"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353750"
+  }, {
+    "participantId" : "2",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "DRESE",
+      "fullName" : "DRESE, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335435"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Victoria",
+      "lastName" : "FIEDLER",
+      "fullName" : "FIEDLER, Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347125"
+  }, {
+    "participantId" : "4",
+    "club" : "Medizin Bad Elster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "ROTH",
+      "fullName" : "ROTH, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124161"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Freya",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Freya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318040"
+  }, {
+    "participantId" : "6",
+    "club" : "PSV Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "THORMANN",
+      "fullName" : "THORMANN, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "331026"
+  }, {
+    "participantId" : "7",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leona",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Leona"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123936"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "WESTERHOFF",
+      "fullName" : "WESTERHOFF, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337418"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah Aurora",
+      "lastName" : "CICEK",
+      "fullName" : "CICEK, Sarah Aurora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333861"
+  } ]
+}

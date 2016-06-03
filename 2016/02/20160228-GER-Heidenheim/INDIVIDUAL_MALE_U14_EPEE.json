@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13508-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henrik",
+      "lastName" : "BÜLAU",
+      "fullName" : "BÜLAU, Henrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311950"
+  }, {
+    "participantId" : "2",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Till Julius",
+      "lastName" : "GIESE",
+      "fullName" : "GIESE, Till Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121463"
+  }, {
+    "participantId" : "3",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "LANDGRAF",
+      "fullName" : "LANDGRAF, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319302"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cedric",
+      "lastName" : "REISER",
+      "fullName" : "REISER, Cedric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121471"
+  }, {
+    "participantId" : "5",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "WALLING",
+      "fullName" : "WALLING, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353788"
+  } ]
+}

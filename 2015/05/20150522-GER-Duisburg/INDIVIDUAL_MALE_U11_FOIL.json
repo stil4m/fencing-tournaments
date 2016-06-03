@@ -1,0 +1,282 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4296-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "16",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Briecq",
+      "lastName" : "BAUWELINCK",
+      "fullName" : "BAUWELINCK, Briecq"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341798"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Klarenthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "BUSCHE",
+      "fullName" : "BUSCHE, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318111"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Serafin",
+      "lastName" : "BÜTOW",
+      "fullName" : "BÜTOW, Serafin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312644"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Gilles",
+      "lastName" : "DE WITTE",
+      "fullName" : "DE WITTE, Gilles"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353945"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joachim",
+      "lastName" : "GIROD",
+      "fullName" : "GIROD, Joachim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344496"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl Wieland",
+      "lastName" : "JANSSEN",
+      "fullName" : "JANSSEN, Carl Wieland"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326503"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luis Arndt",
+      "lastName" : "JANSSEN",
+      "fullName" : "JANSSEN, Luis Arndt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326502"
+  }, {
+    "participantId" : "8",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michel",
+      "lastName" : "KLEINERT",
+      "fullName" : "KLEINERT, Michel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348159"
+  }, {
+    "participantId" : "9",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Deniz",
+      "lastName" : "KÖLLER",
+      "fullName" : "KÖLLER, Deniz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323434"
+  }, {
+    "participantId" : "10",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ediz",
+      "lastName" : "KÖLLER",
+      "fullName" : "KÖLLER, Ediz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323433"
+  }, {
+    "participantId" : "11",
+    "club" : "SC Amsterdam",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Suhayl",
+      "lastName" : "NAWAR",
+      "fullName" : "NAWAR, Suhayl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353987"
+  }, {
+    "participantId" : "12",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "REINOLD",
+      "fullName" : "REINOLD, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348160"
+  }, {
+    "participantId" : "13",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mats",
+      "lastName" : "RÜBENER",
+      "fullName" : "RÜBENER, Mats"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330106"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Caspar",
+      "lastName" : "SCHWEIKART",
+      "fullName" : "SCHWEIKART, Caspar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329354"
+  }, {
+    "participantId" : "15",
+    "club" : "VFL Marburg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "SIMOLKA",
+      "fullName" : "SIMOLKA, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321266"
+  }, {
+    "participantId" : "16",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennox",
+      "lastName" : "VON SETTEN VON DER MEER",
+      "fullName" : "VON SETTEN VON DER MEER, Lennox"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353977"
+  }, {
+    "participantId" : "17",
+    "club" : "s.v. Treville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Koen",
+      "lastName" : "WALET",
+      "fullName" : "WALET, Koen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338149"
+  } ]
+}

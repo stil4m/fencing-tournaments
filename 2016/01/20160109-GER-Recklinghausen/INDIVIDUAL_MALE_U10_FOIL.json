@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2788-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FG Recklinghausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "HOBERG",
+      "fullName" : "HOBERG, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337547"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Recklinghausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "HöFLICH Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "HÜSING",
+      "fullName" : "HÜSING, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355661"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Castrop-Rauxel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "KOS",
+      "fullName" : "KOS, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chris",
+      "lastName" : "VERFONDERN",
+      "fullName" : "VERFONDERN, Chris"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348267"
+  } ]
+}

@@ -1,0 +1,237 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3111-15",
+    "fieId" : {
+      "year" : 2016,
+      "id" : "12"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Denise",
+      "lastName" : "BRACHERT",
+      "fullName" : "BRACHERT, Denise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316452"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michaela",
+      "lastName" : "DIETRICH",
+      "fullName" : "DIETRICH, Michaela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345393"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elena",
+      "lastName" : "DOLCETTI",
+      "fullName" : "DOLCETTI, Elena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345401"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Passau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Lena",
+      "lastName" : "DREXLER",
+      "fullName" : "DREXLER, Anna-Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313237"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "FLAGNER",
+      "fullName" : "FLAGNER, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324243"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "GIMPLE",
+      "fullName" : "GIMPLE, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316920"
+  }, {
+    "participantId" : "7",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "GRUNDMANN",
+      "fullName" : "GRUNDMANN, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "82317"
+  }, {
+    "participantId" : "8",
+    "club" : "MTV Saalfeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Constanze",
+      "lastName" : "LANDTE",
+      "fullName" : "LANDTE, Constanze"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "50056"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amelie",
+      "lastName" : "LÖFLATH",
+      "fullName" : "LÖFLATH, Amelie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319158"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlene",
+      "lastName" : "MÖCKL",
+      "fullName" : "MÖCKL, Marlene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304539"
+  }, {
+    "participantId" : "11",
+    "club" : "Einheit Altenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jara-Sophie",
+      "lastName" : "PETERSEN",
+      "fullName" : "PETERSEN, Jara-Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124083"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Fürth",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Lydia",
+      "lastName" : "STANIER",
+      "fullName" : "STANIER, Lydia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32826",
+    "fwwId" : "318918"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "TOBIAS",
+      "fullName" : "TOBIAS, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325739"
+  }, {
+    "participantId" : "14",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasmin",
+      "lastName" : "WALTHER",
+      "fullName" : "WALTHER, Jasmin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86435"
+  } ]
+}

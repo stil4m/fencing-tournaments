@@ -1,0 +1,306 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1140-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justin",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Justin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329630"
+  }, {
+    "participantId" : "2",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas-Finley",
+      "lastName" : "GARUS",
+      "fullName" : "GARUS, Niklas-Finley"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307404"
+  }, {
+    "participantId" : "3",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tarek",
+      "lastName" : "GHRAIRI",
+      "fullName" : "GHRAIRI, Tarek"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322555"
+  }, {
+    "participantId" : "4",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maurus",
+      "lastName" : "HEGGE",
+      "fullName" : "HEGGE, Maurus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120630"
+  }, {
+    "participantId" : "5",
+    "club" : "Zaal Amsterdam Zuid",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "HVIID BOUWMAN",
+      "fullName" : "HVIID BOUWMAN, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Julien",
+      "lastName" : "KALMAR",
+      "fullName" : "KALMAR, Julien"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341802"
+  }, {
+    "participantId" : "7",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "KARAISKAS",
+      "fullName" : "KARAISKAS, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318901"
+  }, {
+    "participantId" : "8",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "KAUP",
+      "fullName" : "KAUP, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321171"
+  }, {
+    "participantId" : "9",
+    "club" : "Zaal Amsterdam Zuid",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "KLINGE",
+      "fullName" : "KLINGE, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348331"
+  }, {
+    "participantId" : "10",
+    "club" : "OMS Oulu",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Joonas",
+      "lastName" : "KOTIKANGAS",
+      "fullName" : "KOTIKANGAS, Joonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349966"
+  }, {
+    "participantId" : "11",
+    "club" : "Herckenrode",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Basil",
+      "lastName" : "LIEKENS",
+      "fullName" : "LIEKENS, Basil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356093"
+  }, {
+    "participantId" : "12",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "MEUTZNER",
+      "fullName" : "MEUTZNER, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306291"
+  }, {
+    "participantId" : "13",
+    "club" : "s.v. Tréville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Gijs",
+      "lastName" : "REUREKAS",
+      "fullName" : "REUREKAS, Gijs"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333099"
+  }, {
+    "participantId" : "14",
+    "club" : "Remscheider SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "SEEMANN",
+      "fullName" : "SEEMANN, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336314"
+  }, {
+    "participantId" : "15",
+    "club" : "Holland Schermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Patrick",
+      "lastName" : "SLUMANN",
+      "fullName" : "SLUMANN, Patrick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "VELLMANNS",
+      "fullName" : "VELLMANNS, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328164"
+  }, {
+    "participantId" : "17",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "WEIMAR",
+      "fullName" : "WEIMAR, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318897"
+  }, {
+    "participantId" : "18",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jens",
+      "lastName" : "WINTER",
+      "fullName" : "WINTER, Jens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317462"
+  }, {
+    "participantId" : "19",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jaan",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Jaan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323445"
+  } ]
+}

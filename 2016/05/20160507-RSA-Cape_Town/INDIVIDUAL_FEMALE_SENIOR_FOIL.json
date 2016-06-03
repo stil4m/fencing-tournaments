@@ -1,0 +1,226 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10136-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Garden Route FA",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Susan",
+      "lastName" : "AGRELLA",
+      "fullName" : "AGRELLA, Susan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309372"
+  }, {
+    "participantId" : "2",
+    "club" : "USSK Stellenbosch",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Thea",
+      "lastName" : "BESTER",
+      "fullName" : "BESTER, Thea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339052"
+  }, {
+    "participantId" : "3",
+    "club" : "Blues FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Eleana",
+      "lastName" : "CESARE",
+      "fullName" : "CESARE, Eleana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321581"
+  }, {
+    "participantId" : "4",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kathryn Jessica",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Kathryn Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37506",
+    "fwwId" : "344107"
+  }, {
+    "participantId" : "5",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Nicola",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Nicola"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361685"
+  }, {
+    "participantId" : "6",
+    "club" : "Langa FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Chere",
+      "lastName" : "DANIELS",
+      "fullName" : "DANIELS, Chere"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "36951"
+  }, {
+    "participantId" : "7",
+    "club" : "Firebird FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Cailyn",
+      "lastName" : "DUNCAN",
+      "fullName" : "DUNCAN, Cailyn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358288"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kiandra",
+      "lastName" : "EATON",
+      "fullName" : "EATON, Kiandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355959"
+  }, {
+    "participantId" : "9",
+    "club" : "Hillcrest Fencing Club",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "GIBSON",
+      "fullName" : "GIBSON, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40780",
+    "fwwId" : "328111"
+  }, {
+    "participantId" : "10",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Marguerite",
+      "lastName" : "LANGTON",
+      "fullName" : "LANGTON, Marguerite"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "27397"
+  }, {
+    "participantId" : "11",
+    "club" : "CHSA Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kesia",
+      "lastName" : "MATTHEWS",
+      "fullName" : "MATTHEWS, Kesia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328193"
+  }, {
+    "participantId" : "12",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Natalie",
+      "lastName" : "MUIR",
+      "fullName" : "MUIR, Natalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323189"
+  }, {
+    "participantId" : "13",
+    "club" : "USSK Stellenbosch",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Isabel",
+      "lastName" : "PRETORIUS",
+      "fullName" : "PRETORIUS, Isabel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28956",
+    "fwwId" : "304677"
+  }, {
+    "participantId" : "14",
+    "club" : "UCT Cape Town",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Giselle",
+      "lastName" : "VICATOS",
+      "fullName" : "VICATOS, Giselle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "38339"
+  } ]
+}

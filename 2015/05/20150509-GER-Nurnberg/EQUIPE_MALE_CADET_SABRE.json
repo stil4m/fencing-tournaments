@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4558-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "teamName" : "FC PFORZHEIM MMX",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "308546"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TBB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "4",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "teamName" : "KSC KOBLENZ",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20622"
+  }, {
+    "participantId" : "5",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "35627"
+  }, {
+    "participantId" : "6",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "7",
+    "club" : "Schleswig-Holstein",
+    "country" : "GER",
+    "teamName" : "STG LÜTJENSEE/LÜBECK",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "94027"
+  }, {
+    "participantId" : "8",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "teamName" : "TSC E. DORTMUND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20301"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "teamName" : "TSG EISLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "30173"
+  }, {
+    "participantId" : "10",
+    "club" : "TSV Weilheim",
+    "country" : "GER",
+    "teamName" : "TSV WEILHEIM",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "119437"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "teamName" : "TV WETZLAR",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "52952"
+  }, {
+    "participantId" : "12",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "32437"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "teamName" : "WÜRTH KÜNZELSAU",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "35814"
+  } ]
+}

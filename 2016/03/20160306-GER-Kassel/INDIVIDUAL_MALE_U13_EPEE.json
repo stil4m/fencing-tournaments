@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3682-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johann",
+      "lastName" : "ASCHMANN",
+      "fullName" : "ASCHMANN, Johann"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356782"
+  }, {
+    "participantId" : "2",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gregor Valentin",
+      "lastName" : "DÖRR",
+      "fullName" : "DÖRR, Gregor Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313968"
+  }, {
+    "participantId" : "3",
+    "club" : "UFC Frankfurt",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Filip",
+      "lastName" : "ENDLÉ",
+      "fullName" : "ENDLÉ, Filip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359914"
+  }, {
+    "participantId" : "4",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "FELLHAUER",
+      "fullName" : "FELLHAUER, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337391"
+  }, {
+    "participantId" : "5",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "York",
+      "lastName" : "MÜLLER-GEBEL",
+      "fullName" : "MÜLLER-GEBEL, York"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359987"
+  }, {
+    "participantId" : "6",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "PISTUNOVICH",
+      "fullName" : "PISTUNOVICH, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313973"
+  }, {
+    "participantId" : "7",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karl",
+      "lastName" : "WOSCHNAGG",
+      "fullName" : "WOSCHNAGG, Karl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350835"
+  } ]
+}

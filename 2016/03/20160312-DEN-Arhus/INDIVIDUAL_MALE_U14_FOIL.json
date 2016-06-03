@@ -1,0 +1,150 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9077-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Milo Oskar",
+      "lastName" : "BOYER-DRÆBY",
+      "fullName" : "BOYER-DRÆBY, Milo Oskar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353420"
+  }, {
+    "participantId" : "2",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Magnus Milton Dencker",
+      "lastName" : "HEDEGAARD",
+      "fullName" : "HEDEGAARD, Magnus Milton Dencker"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339651"
+  }, {
+    "participantId" : "3",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "HOJRIZI",
+      "fullName" : "HOJRIZI, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351318"
+  }, {
+    "participantId" : "4",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Thøger Kaasgaard",
+      "lastName" : "JAKOBSEN",
+      "fullName" : "JAKOBSEN, Thøger Kaasgaard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359958"
+  }, {
+    "participantId" : "5",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Anton A.",
+      "lastName" : "KORTZAU",
+      "fullName" : "KORTZAU, Anton A."
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344868"
+  }, {
+    "participantId" : "6",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "MANZ THORBEK",
+      "fullName" : "MANZ THORBEK, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353463"
+  }, {
+    "participantId" : "7",
+    "club" : "VFK Varde 1969",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "PEDERSEN",
+      "fullName" : "PEDERSEN, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359045"
+  }, {
+    "participantId" : "8",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Silas",
+      "lastName" : "SCHEELKE POULSEN",
+      "fullName" : "SCHEELKE POULSEN, Silas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312218"
+  }, {
+    "participantId" : "9",
+    "club" : "JAF Aarhus",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "LøLauritz",
+      "lastName" : "SKOV LøBNER Lauritz",
+      "fullName" : "SKOV LøBNER Lauritz, LøLauritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

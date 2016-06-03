@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8778-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Otto",
+      "lastName" : "BECKMANN",
+      "fullName" : "BECKMANN, Otto"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345449"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan Lucas",
+      "lastName" : "HEMPEL",
+      "fullName" : "HEMPEL, Jan Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353412"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca Fynn",
+      "lastName" : "SCHNOOR",
+      "fullName" : "SCHNOOR, Luca Fynn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353342"
+  }, {
+    "participantId" : "4",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Milan",
+      "lastName" : "SCHULTZ",
+      "fullName" : "SCHULTZ, Milan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353343"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333828"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "REICHERT",
+      "fullName" : "REICHERT, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353218"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Greifswald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bjarne",
+      "lastName" : "MEYER",
+      "fullName" : "MEYER, Bjarne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353216"
+  } ]
+}

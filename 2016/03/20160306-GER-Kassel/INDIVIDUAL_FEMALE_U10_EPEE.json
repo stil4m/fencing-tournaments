@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6717-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Allegra",
+      "lastName" : "BLUMENSTEIN",
+      "fullName" : "BLUMENSTEIN, Allegra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358056"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Korbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melina",
+      "lastName" : "KUFFLER",
+      "fullName" : "KUFFLER, Melina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357557"
+  }, {
+    "participantId" : "3",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christel",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Christel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359915"
+  }, {
+    "participantId" : "4",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hanna-Lotta",
+      "lastName" : "WUNDRAK",
+      "fullName" : "WUNDRAK, Hanna-Lotta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359975"
+  }, {
+    "participantId" : "5",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leila",
+      "lastName" : "AMAOUI",
+      "fullName" : "AMAOUI, Leila"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359916"
+  } ]
+}

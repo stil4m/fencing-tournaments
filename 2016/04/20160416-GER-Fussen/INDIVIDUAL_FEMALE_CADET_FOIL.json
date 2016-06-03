@@ -1,0 +1,394 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4521-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "16",
+    "abandon" : true
+  }, {
+    "position" : 10,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "17",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Sportfechten Laim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna Marie",
+      "lastName" : "BADER",
+      "fullName" : "BADER, Anna Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332246"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlene",
+      "lastName" : "BEST",
+      "fullName" : "BEST, Marlene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333659"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "ERK",
+      "fullName" : "ERK, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338174"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clara",
+      "lastName" : "GRIEGEL",
+      "fullName" : "GRIEGEL, Clara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357233"
+  }, {
+    "participantId" : "5",
+    "club" : "Sportfechten Laim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "GÜNTHER",
+      "fullName" : "GÜNTHER, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333666"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "HAMBURG",
+      "fullName" : "HAMBURG, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319312"
+  }, {
+    "participantId" : "7",
+    "club" : "TG Landshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matilda",
+      "lastName" : "HOLLROTTER",
+      "fullName" : "HOLLROTTER, Matilda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355416"
+  }, {
+    "participantId" : "8",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "KARL",
+      "fullName" : "KARL, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321674"
+  }, {
+    "participantId" : "9",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "KIESSLING",
+      "fullName" : "KIESSLING, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335473"
+  }, {
+    "participantId" : "10",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna Sophie",
+      "lastName" : "KOTHIERINGER",
+      "fullName" : "KOTHIERINGER, Anna Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306350"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana",
+      "lastName" : "PREUSS",
+      "fullName" : "PREUSS, Jana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319099"
+  }, {
+    "participantId" : "12",
+    "club" : "TSG Füssen",
+    "country" : "THA",
+    "name" : {
+      "firstName" : "Thunrawee",
+      "lastName" : "PUTTHIBOONSAWAT",
+      "fullName" : "PUTTHIBOONSAWAT, Thunrawee"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361807"
+  }, {
+    "participantId" : "13",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katrin",
+      "lastName" : "RITTER",
+      "fullName" : "RITTER, Katrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121508"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sabina",
+      "lastName" : "RUCK",
+      "fullName" : "RUCK, Sabina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333730"
+  }, {
+    "participantId" : "15",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "STASCHEK",
+      "fullName" : "STASCHEK, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308194"
+  }, {
+    "participantId" : "16",
+    "club" : "FC Jengen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anne-Cathleen",
+      "lastName" : "STERN",
+      "fullName" : "STERN, Anne-Cathleen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123802"
+  }, {
+    "participantId" : "17",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Esther",
+      "lastName" : "THOME",
+      "fullName" : "THOME, Esther"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308195"
+  }, {
+    "participantId" : "18",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melina",
+      "lastName" : "TSOGIDIS",
+      "fullName" : "TSOGIDIS, Melina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313900"
+  }, {
+    "participantId" : "19",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adeline",
+      "lastName" : "VON CANSTEIN",
+      "fullName" : "VON CANSTEIN, Adeline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353177"
+  }, {
+    "participantId" : "20",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Maria",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Anna-Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "80818"
+  }, {
+    "participantId" : "21",
+    "club" : "FC Jengen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luzia",
+      "lastName" : "WEIN",
+      "fullName" : "WEIN, Luzia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305603"
+  }, {
+    "participantId" : "22",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valerie",
+      "lastName" : "ZU RHEIN VON BLEUL",
+      "fullName" : "ZU RHEIN VON BLEUL, Valerie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306077"
+  }, {
+    "participantId" : "23",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "FREITAG",
+      "fullName" : "FREITAG, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314479"
+  }, {
+    "participantId" : "24",
+    "club" : "Sportfechten Laim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "LENZ",
+      "fullName" : "LENZ, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349773"
+  }, {
+    "participantId" : "25",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "FETSCHER",
+      "fullName" : "FETSCHER, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351601"
+  } ]
+}

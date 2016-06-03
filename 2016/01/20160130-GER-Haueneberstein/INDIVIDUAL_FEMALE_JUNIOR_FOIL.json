@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13161-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : null,
+    "participantId" : "1",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Darmstädter FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karen",
+      "lastName" : "BERGEMANN",
+      "fullName" : "BERGEMANN, Karen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337625"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annika",
+      "lastName" : "HOGLUND",
+      "fullName" : "HOGLUND, Annika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322417"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moana",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Moana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350096"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Natalie",
+      "lastName" : "OTTERBACH",
+      "fullName" : "OTTERBACH, Natalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121358"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  } ]
+}

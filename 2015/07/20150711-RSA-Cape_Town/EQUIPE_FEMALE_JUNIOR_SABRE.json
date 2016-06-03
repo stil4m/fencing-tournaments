@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12885-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "-",
+    "country" : "ENG",
+    "teamName" : "ENGLAND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "-",
+    "country" : "GUE",
+    "teamName" : "GUERNSEY",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "IND",
+    "teamName" : "INDIA",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "36467"
+  }, {
+    "participantId" : "4",
+    "club" : "-",
+    "country" : "SCO",
+    "teamName" : "SCOTLAND",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "RSA",
+    "teamName" : "SOUTH AFRICA",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "15785"
+  } ]
+}

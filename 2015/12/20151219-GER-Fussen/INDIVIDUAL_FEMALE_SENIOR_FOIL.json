@@ -1,0 +1,462 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3397-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elena",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Elena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81971"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Geesche",
+      "lastName" : "BOEDECKER",
+      "fullName" : "BOEDECKER, Geesche"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86383"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Jengen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "BRÜHMÜLLER",
+      "fullName" : "BRÜHMÜLLER, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "47307"
+  }, {
+    "participantId" : "4",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katja",
+      "lastName" : "BURKHARDT",
+      "fullName" : "BURKHARDT, Katja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "31949"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katja",
+      "lastName" : "CRUSTEWITZ",
+      "fullName" : "CRUSTEWITZ, Katja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "9226"
+  }, {
+    "participantId" : "6",
+    "club" : "MTV München",
+    "country" : "CRO",
+    "name" : {
+      "firstName" : "Ema",
+      "lastName" : "FRCKO",
+      "fullName" : "FRCKO, Ema"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "35390"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "FREITAG",
+      "fullName" : "FREITAG, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314479"
+  }, {
+    "participantId" : "8",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "FRICKE",
+      "fullName" : "FRICKE, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "82027"
+  }, {
+    "participantId" : "9",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Claudia",
+      "lastName" : "GÖRGEY",
+      "fullName" : "GÖRGEY, Claudia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308192"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Feldkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bianka",
+      "lastName" : "KÖNIG",
+      "fullName" : "KÖNIG, Bianka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "15585"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jessica",
+      "lastName" : "LIEMAN",
+      "fullName" : "LIEMAN, Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338147"
+  }, {
+    "participantId" : "12",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "LOBE",
+      "fullName" : "LOBE, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87451"
+  }, {
+    "participantId" : "13",
+    "club" : "KTF Luitpold München",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Erika",
+      "lastName" : "MAI",
+      "fullName" : "MAI, Erika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304622"
+  }, {
+    "participantId" : "14",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kerstin",
+      "lastName" : "MÜNZ",
+      "fullName" : "MÜNZ, Kerstin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "82447"
+  }, {
+    "participantId" : "15",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katrin",
+      "lastName" : "RITTER",
+      "fullName" : "RITTER, Katrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121508"
+  }, {
+    "participantId" : "16",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lisa",
+      "lastName" : "SCHALLENKAMMER",
+      "fullName" : "SCHALLENKAMMER, Lisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "50279"
+  }, {
+    "participantId" : "17",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "SCHORMAIR",
+      "fullName" : "SCHORMAIR, Barbara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "11330"
+  }, {
+    "participantId" : "18",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "STETTER",
+      "fullName" : "STETTER, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87965"
+  }, {
+    "participantId" : "19",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Esther",
+      "lastName" : "THOME",
+      "fullName" : "THOME, Esther"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308195"
+  }, {
+    "participantId" : "20",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silke",
+      "lastName" : "WELTZIEN",
+      "fullName" : "WELTZIEN, Silke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43553"
+  }, {
+    "participantId" : "21",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "WELTZIEN",
+      "fullName" : "WELTZIEN, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "48987"
+  }, {
+    "participantId" : "22",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Angelika",
+      "lastName" : "WIESMÜLLER",
+      "fullName" : "WIESMÜLLER, Angelika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "1693"
+  }, {
+    "participantId" : "23",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stella",
+      "lastName" : "WINTER",
+      "fullName" : "WINTER, Stella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "87333"
+  }, {
+    "participantId" : "24",
+    "club" : "TV Feldkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "ZIBERT",
+      "fullName" : "ZIBERT, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43740"
+  }, {
+    "participantId" : "25",
+    "club" : "TV Feldkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paulina",
+      "lastName" : "ZIBERT",
+      "fullName" : "ZIBERT, Paulina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43741"
+  }, {
+    "participantId" : "26",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "ZIEGON",
+      "fullName" : "ZIEGON, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43747"
+  }, {
+    "participantId" : "27",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annette",
+      "lastName" : "WULF",
+      "fullName" : "WULF, Annette"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43686"
+  }, {
+    "participantId" : "28",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Geraldine",
+      "lastName" : "MALLANDAIN",
+      "fullName" : "MALLANDAIN, Geraldine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "27263"
+  }, {
+    "participantId" : "29",
+    "club" : "TV Memmingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "WÖLFLE",
+      "fullName" : "WÖLFLE, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315325"
+  } ]
+}

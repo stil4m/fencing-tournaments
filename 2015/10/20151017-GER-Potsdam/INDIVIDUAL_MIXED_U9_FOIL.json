@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8057-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amanda",
+      "lastName" : "GARBULEWSKI",
+      "fullName" : "GARBULEWSKI, Amanda"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348547"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "THEO",
+      "lastName" : "MENDEZ",
+      "fullName" : "MENDEZ, THEO"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "352222"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Parsifald",
+      "lastName" : "PRAGER",
+      "fullName" : "PRAGER, Parsifald"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348582"
+  }, {
+    "participantId" : "4",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "PUHLMANN",
+      "fullName" : "PUHLMANN, Felix"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Raphael"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353671"
+  } ]
+}

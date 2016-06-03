@@ -1,0 +1,182 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2868-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FSC Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fynn Oliver",
+      "lastName" : "GEISBE",
+      "fullName" : "GEISBE, Fynn Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347886"
+  }, {
+    "participantId" : "2",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "KAMMEIER",
+      "fullName" : "KAMMEIER, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353570"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "MEILWES",
+      "fullName" : "MEILWES, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357403"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kim",
+      "lastName" : "NIEZOLDT",
+      "fullName" : "NIEZOLDT, Kim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342035"
+  }, {
+    "participantId" : "5",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils Luis",
+      "lastName" : "PASSENHEIM",
+      "fullName" : "PASSENHEIM, Nils Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349809"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lasse",
+      "lastName" : "RONKHOLZ",
+      "fullName" : "RONKHOLZ, Lasse"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354173"
+  }, {
+    "participantId" : "7",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "STANGE",
+      "fullName" : "STANGE, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344028"
+  }, {
+    "participantId" : "8",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joel",
+      "lastName" : "STEFFEN",
+      "fullName" : "STEFFEN, Joel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353588"
+  }, {
+    "participantId" : "9",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "VELTRUP",
+      "fullName" : "VELTRUP, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337315"
+  }, {
+    "participantId" : "10",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jeremy",
+      "lastName" : "WIENANDS",
+      "fullName" : "WIENANDS, Jeremy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344027"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enrico",
+      "lastName" : "CARRARA",
+      "fullName" : "CARRARA, Enrico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334340"
+  } ]
+}

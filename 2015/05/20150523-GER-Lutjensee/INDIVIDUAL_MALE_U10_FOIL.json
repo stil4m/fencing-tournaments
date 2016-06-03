@@ -1,0 +1,238 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11376-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Filip",
+      "lastName" : "BEDNER",
+      "fullName" : "BEDNER, Filip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327073"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anton Oskar",
+      "lastName" : "ENGELHAUPT",
+      "fullName" : "ENGELHAUPT, Anton Oskar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348588"
+  }, {
+    "participantId" : "3",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Aleks",
+      "lastName" : "GAFFE",
+      "fullName" : "GAFFE, Aleks"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346067"
+  }, {
+    "participantId" : "4",
+    "club" : "VFL Pinneberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedikt",
+      "lastName" : "HEYDORN",
+      "fullName" : "HEYDORN, Benedikt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351241"
+  }, {
+    "participantId" : "5",
+    "club" : "Walddörfer SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fritz",
+      "lastName" : "HOHWY",
+      "fullName" : "HOHWY, Fritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353432"
+  }, {
+    "participantId" : "6",
+    "club" : "VFL Pinneberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole Steven",
+      "lastName" : "KASSNER",
+      "fullName" : "KASSNER, Ole Steven"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347888"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "KROMM",
+      "fullName" : "KROMM, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336647"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Winsen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jost",
+      "lastName" : "MAISON",
+      "fullName" : "MAISON, Jost"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351012"
+  }, {
+    "participantId" : "9",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Borys",
+      "lastName" : "ROBACKI",
+      "fullName" : "ROBACKI, Borys"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327075"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333828"
+  }, {
+    "participantId" : "11",
+    "club" : "Walddörfer SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wolfgang",
+      "lastName" : "WEITZE",
+      "fullName" : "WEITZE, Wolfgang"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353438"
+  }, {
+    "participantId" : "12",
+    "club" : "Walddörfer SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johann",
+      "lastName" : "WUSTRAU",
+      "fullName" : "WUSTRAU, Johann"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353439"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Belá Benedikt",
+      "lastName" : "MÄVERS",
+      "fullName" : "MÄVERS, Belá Benedikt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323929"
+  }, {
+    "participantId" : "14",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lino",
+      "lastName" : "MC CONELL",
+      "fullName" : "MC CONELL, Lino"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338744"
+  }, {
+    "participantId" : "15",
+    "club" : "VFL Pinneberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "LÖFFLER",
+      "fullName" : "LÖFFLER, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347820"
+  } ]
+}

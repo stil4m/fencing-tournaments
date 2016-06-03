@@ -8181,7 +8181,7 @@ var _user$project$AppTypes$EventDetail = F2(
 	function (a, b) {
 		return {eventInformation: a, tournaments: b};
 	});
-var _user$project$AppTypes$Tournament = F3(
+var _user$project$AppTypes$TournamentInfo = F3(
 	function (a, b, c) {
 		return {path: a, date: b, category: c};
 	});
@@ -8189,6 +8189,32 @@ var _user$project$AppTypes$EventInformation = F5(
 	function (a, b, c, d, e) {
 		return {country: a, startDate: b, endDate: c, location: d, name: e};
 	});
+var _user$project$AppTypes$Tournament = F2(
+	function (a, b) {
+		return {participants: a, ranking: b};
+	});
+var _user$project$AppTypes$Rank = F3(
+	function (a, b, c) {
+		return {participantId: a, position: b, abandon: c};
+	});
+var _user$project$AppTypes$IndividualParticipant = F4(
+	function (a, b, c, d) {
+		return {participantId: a, club: b, country: c, name: d};
+	});
+var _user$project$AppTypes$NameObject = F3(
+	function (a, b, c) {
+		return {firstName: a, lastName: b, fullName: c};
+	});
+var _user$project$AppTypes$TeamParticipant = F3(
+	function (a, b, c) {
+		return {participantId: a, country: b, teamName: c};
+	});
+var _user$project$AppTypes$Team = function (a) {
+	return {ctor: 'Team', _0: a};
+};
+var _user$project$AppTypes$Ind = function (a) {
+	return {ctor: 'Ind', _0: a};
+};
 
 var _user$project$EventDecoder$simpleDateDecoder = A4(
 	_elm_lang$core$Json_Decode$object3,
@@ -8265,6 +8291,36 @@ var _user$project$FilterSelect$filterSelect = F3(
 				_user$project$FilterSelect$asOptions(options)));
 	});
 
+var _user$project$Components$flag = function (country) {
+	return A2(
+		_elm_lang$html$Html$span,
+		_elm_lang$core$Native_List.fromArray(
+			[]),
+		_elm_lang$core$Native_List.fromArray(
+			[
+				A2(
+				_elm_lang$html$Html$img,
+				_elm_lang$core$Native_List.fromArray(
+					[
+						_elm_lang$html$Html_Attributes$alt(country),
+						_elm_lang$html$Html_Attributes$style(
+						_elm_lang$core$Native_List.fromArray(
+							[
+								{ctor: '_Tuple2', _0: 'margin-top', _1: '-3px'}
+							])),
+						_elm_lang$html$Html_Attributes$height(24),
+						_elm_lang$html$Html_Attributes$src(
+						A2(
+							_elm_lang$core$Basics_ops['++'],
+							'http://stil4m.github.io/fencing-tournaments/static/flags/',
+							A2(_elm_lang$core$Basics_ops['++'], country, '.png')))
+					]),
+				_elm_lang$core$Native_List.fromArray(
+					[])),
+				_elm_lang$html$Html$text(' '),
+				_elm_lang$html$Html$text(country)
+			]));
+};
 var _user$project$Components$fixZero = function (x) {
 	return (_elm_lang$core$Native_Utils.cmp(x, 10) < 0) ? A2(
 		_elm_lang$core$Basics_ops['++'],
@@ -8287,36 +8343,6 @@ var _user$project$Components$dateText = function (d) {
 					_user$project$Components$fixZero(d.day)))));
 };
 
-var _user$project$EventRow$countryFlag = function (country) {
-	return A2(
-		_elm_lang$html$Html$span,
-		_elm_lang$core$Native_List.fromArray(
-			[]),
-		_elm_lang$core$Native_List.fromArray(
-			[
-				A2(
-				_elm_lang$html$Html$img,
-				_elm_lang$core$Native_List.fromArray(
-					[
-						_elm_lang$html$Html_Attributes$alt(country),
-						_elm_lang$html$Html_Attributes$height(24),
-						_elm_lang$html$Html_Attributes$style(
-						_elm_lang$core$Native_List.fromArray(
-							[
-								{ctor: '_Tuple2', _0: 'margin-top', _1: '-3px'}
-							])),
-						_elm_lang$html$Html_Attributes$src(
-						A2(
-							_elm_lang$core$Basics_ops['++'],
-							'static/flags/',
-							A2(_elm_lang$core$Basics_ops['++'], country, '.png')))
-					]),
-				_elm_lang$core$Native_List.fromArray(
-					[])),
-				_elm_lang$html$Html$text(
-				A2(_elm_lang$core$Basics_ops['++'], ' ', country))
-			]));
-};
 var _user$project$EventRow$eventLink = function (_p0) {
 	var _p1 = _p0;
 	var _p3 = _p1.startDate;
@@ -8405,7 +8431,7 @@ var _user$project$EventRow$view = function (event) {
 					[]),
 				_elm_lang$core$Native_List.fromArray(
 					[
-						_user$project$EventRow$countryFlag(event.country)
+						_user$project$Components$flag(event.country)
 					])),
 				A2(
 				_elm_lang$html$Html$td,
@@ -8837,7 +8863,7 @@ var _user$project$EventInformationDecoder$decodeSimpleDate = A4(
 	A2(_elm_lang$core$Json_Decode_ops[':='], 'd', _elm_lang$core$Json_Decode$int));
 var _user$project$EventInformationDecoder$decodeTournament = A4(
 	_elm_lang$core$Json_Decode$object3,
-	_user$project$AppTypes$Tournament,
+	_user$project$AppTypes$TournamentInfo,
 	A2(_elm_lang$core$Json_Decode_ops[':='], 'path', _elm_lang$core$Json_Decode$string),
 	A2(_elm_lang$core$Json_Decode_ops[':='], 'date', _user$project$EventInformationDecoder$decodeSimpleDate),
 	A2(_elm_lang$core$Json_Decode_ops[':='], 'category', _user$project$EventInformationDecoder$decodeCategory));
@@ -8857,6 +8883,17 @@ var _user$project$EventInformationDecoder$decodeEventDetail = A3(
 		_elm_lang$core$Json_Decode_ops[':='],
 		'tournaments',
 		_elm_lang$core$Json_Decode$list(_user$project$EventInformationDecoder$decodeTournament)));
+
+var _user$project$Utils$normalizePath = function (path) {
+	return A4(
+		_elm_lang$core$Regex$replace,
+		_elm_lang$core$Regex$All,
+		_elm_lang$core$Regex$regex('ü'),
+		function (_p0) {
+			return 'u';
+		},
+		path);
+};
 
 var _user$project$Event$subscriptions = function (model) {
 	return _elm_lang$core$Platform_Sub$none;
@@ -8975,33 +9012,7 @@ var _user$project$Event$eventInformationTable = function (eventInformation) {
 											[]),
 										_elm_lang$core$Native_List.fromArray(
 											[
-												A2(
-												_elm_lang$html$Html$img,
-												_elm_lang$core$Native_List.fromArray(
-													[
-														_elm_lang$html$Html_Attributes$alt(eventInformation.country),
-														_elm_lang$html$Html_Attributes$style(
-														_elm_lang$core$Native_List.fromArray(
-															[
-																{ctor: '_Tuple2', _0: 'margin-top', _1: '-3px'}
-															])),
-														_elm_lang$html$Html_Attributes$height(24),
-														_elm_lang$html$Html_Attributes$src(
-														A2(
-															_elm_lang$core$Basics_ops['++'],
-															'static/flags/',
-															A2(_elm_lang$core$Basics_ops['++'], eventInformation.country, '.png')))
-													]),
-												_elm_lang$core$Native_List.fromArray(
-													[])),
-												_elm_lang$html$Html$text(
-												A2(
-													_elm_lang$core$Basics_ops['++'],
-													' ',
-													A2(
-														_elm_lang$core$Basics_ops['++'],
-														eventInformation.country,
-														A2(_elm_lang$core$Basics_ops['++'], ', ', eventInformation.location))))
+												_user$project$Components$flag(eventInformation.country)
 											]))
 									])),
 								A2(
@@ -9046,17 +9057,15 @@ var _user$project$Event$eventInformationTable = function (eventInformation) {
 			]));
 };
 var _user$project$Event$tournamentPath = function (tournament) {
-	return A2(
-		_elm_lang$core$Basics_ops['++'],
-		'.',
-		A4(
-			_elm_lang$core$Regex$replace,
-			_elm_lang$core$Regex$All,
-			_elm_lang$core$Regex$regex('.json'),
-			function (_p0) {
-				return '.html';
-			},
-			tournament.path));
+	var path = A4(
+		_elm_lang$core$Regex$replace,
+		_elm_lang$core$Regex$All,
+		_elm_lang$core$Regex$regex('^/'),
+		function (_p0) {
+			return '';
+		},
+		tournament.path);
+	return A2(_elm_lang$core$Basics_ops['++'], 'tournament.html#', path);
 };
 var _user$project$Event$viewEventTournament = function (tournament) {
 	return A2(
@@ -9275,16 +9284,6 @@ var _user$project$Event$update = F2(
 					[]));
 		}
 	});
-var _user$project$Event$normalizePath = function (path) {
-	return A4(
-		_elm_lang$core$Regex$replace,
-		_elm_lang$core$Regex$All,
-		_elm_lang$core$Regex$regex('ü'),
-		function (_p2) {
-			return 'u';
-		},
-		path);
-};
 var _user$project$Event$Model = F3(
 	function (a, b, c) {
 		return {path: a, error: b, eventDetail: c};
@@ -9308,7 +9307,7 @@ var _user$project$Event$loadDataCommand = function (path) {
 			_user$project$EventInformationDecoder$decodeEventDetail,
 			A2(
 				_elm_lang$core$Basics_ops['++'],
-				_user$project$Event$normalizePath(path),
+				_user$project$Utils$normalizePath(path),
 				'/index.json')));
 };
 var _user$project$Event$initialModel = function (path) {
@@ -9326,11 +9325,423 @@ var _user$project$Event$main = {
 	flags: _elm_lang$core$Json_Decode$string
 };
 
+var _user$project$TournamentDecoder$decodeNameObject = A4(
+	_elm_lang$core$Json_Decode$object3,
+	_user$project$AppTypes$NameObject,
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'firstName', _elm_lang$core$Json_Decode$string),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'lastName', _elm_lang$core$Json_Decode$string),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'fullName', _elm_lang$core$Json_Decode$string));
+var _user$project$TournamentDecoder$decodeTeamParticipant = A4(
+	_elm_lang$core$Json_Decode$object3,
+	_user$project$AppTypes$TeamParticipant,
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'participantId', _elm_lang$core$Json_Decode$string),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'country', _elm_lang$core$Json_Decode$string),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'teamName', _elm_lang$core$Json_Decode$string));
+var _user$project$TournamentDecoder$decodeIndividualParticipant = A5(
+	_elm_lang$core$Json_Decode$object4,
+	_user$project$AppTypes$IndividualParticipant,
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'participantId', _elm_lang$core$Json_Decode$string),
+	A2(
+		_elm_lang$core$Json_Decode_ops[':='],
+		'club',
+		_elm_lang$core$Json_Decode$maybe(_elm_lang$core$Json_Decode$string)),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'country', _elm_lang$core$Json_Decode$string),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'name', _user$project$TournamentDecoder$decodeNameObject));
+var _user$project$TournamentDecoder$decodeParticipant = _elm_lang$core$Json_Decode$oneOf(
+	_elm_lang$core$Native_List.fromArray(
+		[
+			A2(_elm_lang$core$Json_Decode$map, _user$project$AppTypes$Ind, _user$project$TournamentDecoder$decodeIndividualParticipant),
+			A2(_elm_lang$core$Json_Decode$map, _user$project$AppTypes$Team, _user$project$TournamentDecoder$decodeTeamParticipant)
+		]));
+var _user$project$TournamentDecoder$decodeRank = A4(
+	_elm_lang$core$Json_Decode$object3,
+	_user$project$AppTypes$Rank,
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'participantId', _elm_lang$core$Json_Decode$string),
+	A2(
+		_elm_lang$core$Json_Decode_ops[':='],
+		'position',
+		_elm_lang$core$Json_Decode$maybe(_elm_lang$core$Json_Decode$int)),
+	A2(_elm_lang$core$Json_Decode_ops[':='], 'abandon', _elm_lang$core$Json_Decode$bool));
+var _user$project$TournamentDecoder$decodeTournament = A3(
+	_elm_lang$core$Json_Decode$object2,
+	_user$project$AppTypes$Tournament,
+	A2(
+		_elm_lang$core$Json_Decode_ops[':='],
+		'participants',
+		_elm_lang$core$Json_Decode$list(_user$project$TournamentDecoder$decodeParticipant)),
+	A2(
+		_elm_lang$core$Json_Decode_ops[':='],
+		'ranking',
+		_elm_lang$core$Json_Decode$list(_user$project$TournamentDecoder$decodeRank)));
+
+var _user$project$Tournament$clubText = function (ind) {
+	return A2(
+		_elm_lang$core$Maybe$withDefault,
+		A2(
+			_elm_lang$html$Html$span,
+			_elm_lang$core$Native_List.fromArray(
+				[]),
+			_elm_lang$core$Native_List.fromArray(
+				[])),
+		A2(_elm_lang$core$Maybe$map, _elm_lang$html$Html$text, ind.club));
+};
+var _user$project$Tournament$positionText = function (rank) {
+	return A2(
+		_elm_lang$core$Maybe$withDefault,
+		_elm_lang$html$Html$text('-'),
+		A2(
+			_elm_lang$core$Maybe$map,
+			function (_p0) {
+				return _elm_lang$html$Html$text(
+					_elm_lang$core$Basics$toString(_p0));
+			},
+			rank.position));
+};
+var _user$project$Tournament$viewTeamParticpant = F2(
+	function (rank, team) {
+		return A2(
+			_elm_lang$html$Html$tr,
+			_elm_lang$core$Native_List.fromArray(
+				[]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_user$project$Tournament$positionText(rank)
+						])),
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_user$project$Components$flag(team.country)
+						])),
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_elm_lang$html$Html$text(team.teamName)
+						]))
+				]));
+	});
+var _user$project$Tournament$viewIndividualParticipant = F2(
+	function (rank, ind) {
+		return A2(
+			_elm_lang$html$Html$tr,
+			_elm_lang$core$Native_List.fromArray(
+				[]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_user$project$Tournament$positionText(rank)
+						])),
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_user$project$Components$flag(ind.country)
+						])),
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_elm_lang$html$Html$text(ind.name.fullName)
+						])),
+					A2(
+					_elm_lang$html$Html$td,
+					_elm_lang$core$Native_List.fromArray(
+						[]),
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_user$project$Tournament$clubText(ind)
+						]))
+				]));
+	});
+var _user$project$Tournament$clubHeader = A2(
+	_elm_lang$html$Html$th,
+	_elm_lang$core$Native_List.fromArray(
+		[]),
+	_elm_lang$core$Native_List.fromArray(
+		[
+			_elm_lang$html$Html$text('Club')
+		]));
+var _user$project$Tournament$mainHeaders = _elm_lang$core$Native_List.fromArray(
+	[
+		A2(
+		_elm_lang$html$Html$th,
+		_elm_lang$core$Native_List.fromArray(
+			[]),
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_elm_lang$html$Html$text('#')
+			])),
+		A2(
+		_elm_lang$html$Html$th,
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_elm_lang$html$Html_Attributes$style(
+				_elm_lang$core$Native_List.fromArray(
+					[
+						{ctor: '_Tuple2', _0: 'min-width', _1: '75px;'}
+					]))
+			]),
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_elm_lang$html$Html$text('Country')
+			])),
+		A2(
+		_elm_lang$html$Html$th,
+		_elm_lang$core$Native_List.fromArray(
+			[]),
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_elm_lang$html$Html$text('Name')
+			]))
+	]);
+var _user$project$Tournament$hasParticipantId = F2(
+	function (pid, participant) {
+		var _p1 = participant;
+		if (_p1.ctor === 'Ind') {
+			return _elm_lang$core$Native_Utils.eq(_p1._0.participantId, pid);
+		} else {
+			return _elm_lang$core$Native_Utils.eq(_p1._0.participantId, pid);
+		}
+	});
+var _user$project$Tournament$viewRankRow = F2(
+	function (tournament, rank) {
+		var maybeParticipant = _elm_lang$core$List$head(
+			A2(
+				_elm_lang$core$List$filter,
+				_user$project$Tournament$hasParticipantId(rank.participantId),
+				tournament.participants));
+		var _p2 = maybeParticipant;
+		if (_p2.ctor === 'Nothing') {
+			return A2(
+				_elm_lang$html$Html$tr,
+				_elm_lang$core$Native_List.fromArray(
+					[]),
+				_elm_lang$core$Native_List.fromArray(
+					[]));
+		} else {
+			var _p3 = _p2._0;
+			if (_p3.ctor === 'Ind') {
+				return A2(_user$project$Tournament$viewIndividualParticipant, rank, _p3._0);
+			} else {
+				return A2(_user$project$Tournament$viewTeamParticpant, rank, _p3._0);
+			}
+		}
+	});
+var _user$project$Tournament$viewTournament = function (tournament) {
+	var isIndividualParticipant = function (x) {
+		var _p4 = x;
+		if (_p4.ctor === 'Ind') {
+			return true;
+		} else {
+			return false;
+		}
+	};
+	var isIndividual = A2(_elm_lang$core$List$all, isIndividualParticipant, tournament.participants);
+	var headers = isIndividual ? A2(
+		_elm_lang$core$Basics_ops['++'],
+		_user$project$Tournament$mainHeaders,
+		_elm_lang$core$Native_List.fromArray(
+			[_user$project$Tournament$clubHeader])) : _user$project$Tournament$mainHeaders;
+	return A2(
+		_elm_lang$html$Html$table,
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_elm_lang$html$Html_Attributes$class('table table-condensed table-striped table-hover')
+			]),
+		_elm_lang$core$Native_List.fromArray(
+			[
+				A2(
+				_elm_lang$html$Html$thead,
+				_elm_lang$core$Native_List.fromArray(
+					[]),
+				_elm_lang$core$Native_List.fromArray(
+					[
+						A2(
+						_elm_lang$html$Html$tr,
+						_elm_lang$core$Native_List.fromArray(
+							[]),
+						headers)
+					])),
+				A2(
+				_elm_lang$html$Html$tbody,
+				_elm_lang$core$Native_List.fromArray(
+					[]),
+				A2(
+					_elm_lang$core$List$map,
+					_user$project$Tournament$viewRankRow(tournament),
+					tournament.ranking))
+			]));
+};
+var _user$project$Tournament$buttonBar = A2(
+	_elm_lang$html$Html$div,
+	_elm_lang$core$Native_List.fromArray(
+		[
+			_elm_lang$html$Html_Attributes$class('btn-group')
+		]),
+	_elm_lang$core$Native_List.fromArray(
+		[
+			A2(
+			_elm_lang$html$Html$a,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class('btn btn-default btn-lg'),
+					_elm_lang$html$Html_Attributes$href('../../..')
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A2(
+					_elm_lang$html$Html$i,
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_elm_lang$html$Html_Attributes$class('fa fa-arrow-circle-left')
+						]),
+					_elm_lang$core$Native_List.fromArray(
+						[])),
+					_elm_lang$html$Html$text(' Back to event list')
+				])),
+			A2(
+			_elm_lang$html$Html$a,
+			_elm_lang$core$Native_List.fromArray(
+				[
+					_elm_lang$html$Html_Attributes$class('btn btn-default btn-lg'),
+					_elm_lang$html$Html_Attributes$href('index.html')
+				]),
+			_elm_lang$core$Native_List.fromArray(
+				[
+					A2(
+					_elm_lang$html$Html$i,
+					_elm_lang$core$Native_List.fromArray(
+						[
+							_elm_lang$html$Html_Attributes$class('fa fa-arrow-circle-left')
+						]),
+					_elm_lang$core$Native_List.fromArray(
+						[])),
+					_elm_lang$html$Html$text(' Back to event')
+				]))
+		]));
+var _user$project$Tournament$view = function (model) {
+	return A2(
+		_elm_lang$html$Html$div,
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_elm_lang$html$Html_Attributes$class('row')
+			]),
+		_elm_lang$core$Native_List.fromArray(
+			[
+				A2(
+				_elm_lang$html$Html$div,
+				_elm_lang$core$Native_List.fromArray(
+					[
+						_elm_lang$html$Html_Attributes$class('col-md-10 col-sm-12 col-xs-12 col-md-offset-1')
+					]),
+				_elm_lang$core$Native_List.fromArray(
+					[
+						_user$project$Tournament$buttonBar,
+						A2(
+						_elm_lang$core$Maybe$withDefault,
+						A2(
+							_elm_lang$html$Html$div,
+							_elm_lang$core$Native_List.fromArray(
+								[]),
+							_elm_lang$core$Native_List.fromArray(
+								[])),
+						A2(_elm_lang$core$Maybe$map, _user$project$Tournament$viewTournament, model.tournament))
+					]))
+			]));
+};
+var _user$project$Tournament$subscriptions = function (model) {
+	return _elm_lang$core$Platform_Sub$none;
+};
+var _user$project$Tournament$update = F2(
+	function (msg, model) {
+		var _p5 = msg;
+		if (_p5.ctor === 'NewData') {
+			return A2(
+				_elm_lang$core$Platform_Cmd_ops['!'],
+				_elm_lang$core$Native_Utils.update(
+					model,
+					{
+						tournament: _elm_lang$core$Maybe$Just(_p5._0)
+					}),
+				_elm_lang$core$Native_List.fromArray(
+					[]));
+		} else {
+			return A2(
+				_elm_lang$core$Platform_Cmd_ops['!'],
+				_elm_lang$core$Native_Utils.update(
+					model,
+					{
+						error: _elm_lang$core$Maybe$Just(_p5._0)
+					}),
+				_elm_lang$core$Native_List.fromArray(
+					[]));
+		}
+	});
+var _user$project$Tournament$Model = F3(
+	function (a, b, c) {
+		return {path: a, error: b, tournament: c};
+	});
+var _user$project$Tournament$NewData = function (a) {
+	return {ctor: 'NewData', _0: a};
+};
+var _user$project$Tournament$FetchFailed = function (a) {
+	return {ctor: 'FetchFailed', _0: a};
+};
+var _user$project$Tournament$loadDataCommand = function (path) {
+	return A3(
+		_elm_lang$core$Task$perform,
+		function (x) {
+			return _user$project$Tournament$FetchFailed(
+				_elm_lang$core$Basics$toString(x));
+		},
+		_user$project$Tournament$NewData,
+		A2(
+			_evancz$elm_http$Http$get,
+			_user$project$TournamentDecoder$decodeTournament,
+			_user$project$Utils$normalizePath(path)));
+};
+var _user$project$Tournament$initialModel = function (path) {
+	return A2(
+		_elm_lang$core$Platform_Cmd_ops['!'],
+		{path: path, error: _elm_lang$core$Maybe$Nothing, tournament: _elm_lang$core$Maybe$Nothing},
+		_elm_lang$core$Native_List.fromArray(
+			[
+				_user$project$Tournament$loadDataCommand(path)
+			]));
+};
+var _user$project$Tournament$main = {
+	main: _elm_lang$html$Html_App$programWithFlags(
+		{init: _user$project$Tournament$initialModel, view: _user$project$Tournament$view, update: _user$project$Tournament$update, subscriptions: _user$project$Tournament$subscriptions}),
+	flags: _elm_lang$core$Json_Decode$string
+};
+
 var Elm = {};
 Elm['App'] = Elm['App'] || {};
 _elm_lang$core$Native_Platform.addPublicModule(Elm['App'], 'App', typeof _user$project$App$main === 'undefined' ? null : _user$project$App$main);
 Elm['Event'] = Elm['Event'] || {};
 _elm_lang$core$Native_Platform.addPublicModule(Elm['Event'], 'Event', typeof _user$project$Event$main === 'undefined' ? null : _user$project$Event$main);
+Elm['Tournament'] = Elm['Tournament'] || {};
+_elm_lang$core$Native_Platform.addPublicModule(Elm['Tournament'], 'Tournament', typeof _user$project$Tournament$main === 'undefined' ? null : _user$project$Tournament$main);
 
 if (typeof define === "function" && define['amd'])
 {

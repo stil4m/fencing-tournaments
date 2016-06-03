@@ -1,0 +1,173 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3668-15",
+    "fieId" : {
+      "year" : 2016,
+      "id" : "138"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Gütersloh",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "ENDT",
+      "fullName" : "ENDT, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "27205"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lothar",
+      "lastName" : "HEMPELMANN",
+      "fullName" : "HEMPELMANN, Lothar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23526"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Franz",
+      "lastName" : "HIRT",
+      "fullName" : "HIRT, Franz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "17374"
+  }, {
+    "participantId" : "4",
+    "club" : "Chemnitzer PSV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tomas",
+      "lastName" : "KLEIN",
+      "fullName" : "KLEIN, Tomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "40982"
+  }, {
+    "participantId" : "5",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manfred",
+      "lastName" : "KONNES",
+      "fullName" : "KONNES, Manfred"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23520"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Wiblingen-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Roger",
+      "lastName" : "MENCK",
+      "fullName" : "MENCK, Roger"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2895"
+  }, {
+    "participantId" : "7",
+    "club" : "Pulheimer SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Axel",
+      "lastName" : "NELLES",
+      "fullName" : "NELLES, Axel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "4058"
+  }, {
+    "participantId" : "8",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hanns",
+      "lastName" : "PRECHTL",
+      "fullName" : "PRECHTL, Hanns"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2457"
+  }, {
+    "participantId" : "9",
+    "club" : "MTV Stedum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Werner",
+      "lastName" : "SÖCHTING",
+      "fullName" : "SÖCHTING, Werner"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87599"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Emden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hans",
+      "lastName" : "VISSER",
+      "fullName" : "VISSER, Hans"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "23523"
+  } ]
+}

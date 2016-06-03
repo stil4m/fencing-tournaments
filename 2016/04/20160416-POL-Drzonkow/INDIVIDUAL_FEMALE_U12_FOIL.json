@@ -1,0 +1,402 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11384-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "D`Artagnan Ursynow",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Helena",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Helena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362929"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anne Sophie",
+      "lastName" : "BULLAND",
+      "fullName" : "BULLAND, Anne Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333824"
+  }, {
+    "participantId" : "3",
+    "club" : "D`Artagnan Ursynow",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "CICHOROWSKA",
+      "fullName" : "CICHOROWSKA, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352269"
+  }, {
+    "participantId" : "4",
+    "club" : "D`Artagnan Ursynow",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "DABROWSKA",
+      "fullName" : "DABROWSKA, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362910"
+  }, {
+    "participantId" : "5",
+    "club" : "D`Artagnan Ursynow",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "DEGLES",
+      "fullName" : "DEGLES, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362912"
+  }, {
+    "participantId" : "6",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Weronika",
+      "lastName" : "GLAPKA",
+      "fullName" : "GLAPKA, Weronika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341077"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leah",
+      "lastName" : "HAASE",
+      "fullName" : "HAASE, Leah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333827"
+  }, {
+    "participantId" : "8",
+    "club" : "FSV Görlitz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "JENNEWEIN",
+      "fullName" : "JENNEWEIN, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353710"
+  }, {
+    "participantId" : "9",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "JERZ",
+      "fullName" : "JERZ, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352268"
+  }, {
+    "participantId" : "10",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "LEWUSZ",
+      "fullName" : "LEWUSZ, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352263"
+  }, {
+    "participantId" : "11",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Gabriela",
+      "lastName" : "MIETKA",
+      "fullName" : "MIETKA, Gabriela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341067"
+  }, {
+    "participantId" : "12",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Nel",
+      "lastName" : "NILEK",
+      "fullName" : "NILEK, Nel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349076"
+  }, {
+    "participantId" : "13",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "NOWAKOWSKA",
+      "fullName" : "NOWAKOWSKA, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327043"
+  }, {
+    "participantId" : "14",
+    "club" : "D`Artagnan Ursynow",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Natalia",
+      "lastName" : "PROWINSKA",
+      "fullName" : "PROWINSKA, Natalia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362913"
+  }, {
+    "participantId" : "15",
+    "club" : "D`Artagnan Ursynow",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "ROLNIK",
+      "fullName" : "ROLNIK, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362914"
+  }, {
+    "participantId" : "16",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Caitlin",
+      "lastName" : "STOLTE",
+      "fullName" : "STOLTE, Caitlin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340668"
+  }, {
+    "participantId" : "17",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Daniela",
+      "lastName" : "SZPEJNA",
+      "fullName" : "SZPEJNA, Daniela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340235"
+  }, {
+    "participantId" : "18",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "TANSKA",
+      "fullName" : "TANSKA, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362909"
+  }, {
+    "participantId" : "19",
+    "club" : "Zjednoczeni Pabianice",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Martyna",
+      "lastName" : "TOMASZEWSKA",
+      "fullName" : "TOMASZEWSKA, Martyna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352291"
+  }, {
+    "participantId" : "20",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Adrianna",
+      "lastName" : "WIERZCHOWSKA",
+      "fullName" : "WIERZCHOWSKA, Adrianna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349126"
+  }, {
+    "participantId" : "21",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nelly",
+      "lastName" : "SEMPER",
+      "fullName" : "SEMPER, Nelly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328849"
+  }, {
+    "participantId" : "22",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354006"
+  }, {
+    "participantId" : "23",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "PIHL",
+      "fullName" : "PIHL, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336660"
+  }, {
+    "participantId" : "24",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Serafina",
+      "lastName" : "NININ",
+      "fullName" : "NININ, Serafina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352235"
+  }, {
+    "participantId" : "25",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "JAKUBOWSKA",
+      "fullName" : "JAKUBOWSKA, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352290"
+  }, {
+    "participantId" : "26",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "BRÜCKNER",
+      "fullName" : "BRÜCKNER, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336677"
+  } ]
+}

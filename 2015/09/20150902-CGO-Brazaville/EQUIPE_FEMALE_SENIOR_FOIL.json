@@ -1,0 +1,49 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1313"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "TUN",
+    "teamName" : "TUNISIA",
+    "members" : null,
+    "fieId" : "6978",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "ALG",
+    "teamName" : "ALGERIA",
+    "members" : null,
+    "fieId" : "6946",
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "teamName" : "EGYPT",
+    "members" : null,
+    "fieId" : "9593",
+    "fwwId" : null
+  } ]
+}

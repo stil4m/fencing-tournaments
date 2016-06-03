@@ -1,0 +1,254 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3043-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN",
+    "members" : [ {
+      "firstName" : "Eduard",
+      "lastName" : "GERT",
+      "fullName" : "GERT, Eduard"
+    }, {
+      "firstName" : "Nick",
+      "lastName" : "HERBON",
+      "fullName" : "HERBON, Nick"
+    }, {
+      "firstName" : "Luis",
+      "lastName" : "BONAH",
+      "fullName" : "BONAH, Luis"
+    }, {
+      "firstName" : "Lorenz",
+      "lastName" : "KEMPF",
+      "fullName" : "KEMPF, Lorenz"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23382"
+  }, {
+    "participantId" : "2",
+    "club" : "CTG Koblenz",
+    "country" : "GER",
+    "teamName" : "CTG KOBLENZ",
+    "members" : [ {
+      "firstName" : "Stefan",
+      "lastName" : "RASIC",
+      "fullName" : "RASIC, Stefan"
+    }, {
+      "firstName" : "Devid",
+      "lastName" : "OLSCHANEZKI",
+      "fullName" : "OLSCHANEZKI, Devid"
+    }, {
+      "firstName" : "Felix",
+      "lastName" : "KALTER",
+      "fullName" : "KALTER, Felix"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32190"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TAUBERBISCHOFSHEIM",
+    "members" : [ {
+      "firstName" : "Jonathan",
+      "lastName" : "SAUER",
+      "fullName" : "SAUER, Jonathan"
+    }, {
+      "firstName" : "Constantin",
+      "lastName" : "KRAUSE",
+      "fullName" : "KRAUSE, Constantin"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "BELLMANN",
+      "fullName" : "BELLMANN, Jonas"
+    }, {
+      "firstName" : "Nils-Ole",
+      "lastName" : "PAUL",
+      "fullName" : "PAUL, Nils-Ole"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : [ {
+      "firstName" : "Leon",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Leon"
+    }, {
+      "firstName" : "David",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, David"
+    }, {
+      "firstName" : "Lars Benedikt",
+      "lastName" : "KÖCK",
+      "fullName" : "KÖCK, Lars Benedikt"
+    }, {
+      "firstName" : "Leon",
+      "lastName" : "SCHLAFFER",
+      "fullName" : "SCHLAFFER, Leon"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Jan Ole",
+      "lastName" : "HÜLSHÖRSTER",
+      "fullName" : "HÜLSHÖRSTER, Jan Ole"
+    }, {
+      "firstName" : "Lorenz",
+      "lastName" : "DUBINSKY",
+      "fullName" : "DUBINSKY, Lorenz"
+    }, {
+      "firstName" : "Siebo",
+      "lastName" : "ALBERS",
+      "fullName" : "ALBERS, Siebo"
+    }, {
+      "firstName" : "Younes-Guenael",
+      "lastName" : "NEKHILI",
+      "fullName" : "NEKHILI, Younes-Guenael"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "6",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "teamName" : "TSC E. DORTMUND",
+    "members" : [ {
+      "firstName" : "Till",
+      "lastName" : "BRÜGGENTHIES",
+      "fullName" : "BRÜGGENTHIES, Till"
+    }, {
+      "firstName" : "Martin",
+      "lastName" : "HAMELMANN",
+      "fullName" : "HAMELMANN, Martin"
+    }, {
+      "firstName" : "Leon",
+      "lastName" : "USOV",
+      "fullName" : "USOV, Leon"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20301"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "teamName" : "TSG EISLINGEN",
+    "members" : [ {
+      "firstName" : "Simon",
+      "lastName" : "RAPP",
+      "fullName" : "RAPP, Simon"
+    }, {
+      "firstName" : "Thomas",
+      "lastName" : "SCHAICH",
+      "fullName" : "SCHAICH, Thomas"
+    }, {
+      "firstName" : "Adrian",
+      "lastName" : "DEGEN",
+      "fullName" : "DEGEN, Adrian"
+    }, {
+      "firstName" : "Frederic",
+      "lastName" : "KINDLER",
+      "fullName" : "KINDLER, Frederic"
+    } ],
+    "fieId" : null,
+    "fwwId" : "30173"
+  }, {
+    "participantId" : "8",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : [ {
+      "firstName" : "Pascal",
+      "lastName" : "BECHER",
+      "fullName" : "BECHER, Pascal"
+    }, {
+      "firstName" : "Finn",
+      "lastName" : "SCHYMCZYK",
+      "fullName" : "SCHYMCZYK, Finn"
+    }, {
+      "firstName" : "Eric Simon",
+      "lastName" : "SEEFELD",
+      "fullName" : "SEEFELD, Eric Simon"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "DISLER",
+      "fullName" : "DISLER, Julian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32437"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "teamName" : "WÜRTH KÜNZELSAU",
+    "members" : [ {
+      "firstName" : "Fabian",
+      "lastName" : "LANDWEHR",
+      "fullName" : "LANDWEHR, Fabian"
+    }, {
+      "firstName" : "Daniel",
+      "lastName" : "BROMMER",
+      "fullName" : "BROMMER, Daniel"
+    }, {
+      "firstName" : "Eduard",
+      "lastName" : "WINTERGOLLER",
+      "fullName" : "WINTERGOLLER, Eduard"
+    }, {
+      "firstName" : "Marius",
+      "lastName" : "STITZ",
+      "fullName" : "STITZ, Marius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35814"
+  } ]
+}

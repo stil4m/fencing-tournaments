@@ -1,0 +1,362 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9024-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Hillerød FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "August",
+      "lastName" : "AAGESEN",
+      "fullName" : "AAGESEN, August"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359417"
+  }, {
+    "participantId" : "2",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "BAAGØE",
+      "fullName" : "BAAGØE, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323247"
+  }, {
+    "participantId" : "3",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Milo Oskar",
+      "lastName" : "BOYER-DRÆBY",
+      "fullName" : "BOYER-DRÆBY, Milo Oskar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353420"
+  }, {
+    "participantId" : "4",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Alfred",
+      "lastName" : "DIEMER",
+      "fullName" : "DIEMER, Alfred"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347161"
+  }, {
+    "participantId" : "5",
+    "club" : "FKF FLECHE Holbaek",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Valdemar",
+      "lastName" : "DITLEV CHRISTENSEN",
+      "fullName" : "DITLEV CHRISTENSEN, Valdemar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347860"
+  }, {
+    "participantId" : "6",
+    "club" : "Odense FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Asger Melchior",
+      "lastName" : "ENGGAARD",
+      "fullName" : "ENGGAARD, Asger Melchior"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353379"
+  }, {
+    "participantId" : "7",
+    "club" : "Hillerød FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "G. RASMUSSEN Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359418"
+  }, {
+    "participantId" : "8",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "HALD",
+      "fullName" : "HALD, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346023"
+  }, {
+    "participantId" : "9",
+    "club" : "TAAF",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Johan",
+      "lastName" : "HAMMERUP",
+      "fullName" : "HAMMERUP, Johan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359413"
+  }, {
+    "participantId" : "10",
+    "club" : "ALF Albertslund",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ketil",
+      "lastName" : "HANSEN",
+      "fullName" : "HANSEN, Ketil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359405"
+  }, {
+    "participantId" : "11",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Magnus Milton Dencker",
+      "lastName" : "HEDEGAARD",
+      "fullName" : "HEDEGAARD, Magnus Milton Dencker"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339651"
+  }, {
+    "participantId" : "12",
+    "club" : "RØF",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Kristian",
+      "lastName" : "KIKKENBORG",
+      "fullName" : "KIKKENBORG, Kristian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359409"
+  }, {
+    "participantId" : "13",
+    "club" : "Hillerød FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Adam",
+      "lastName" : "OBEL",
+      "fullName" : "OBEL, Adam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359416"
+  }, {
+    "participantId" : "14",
+    "club" : "VFK Varde 1969",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "PEDERSEN",
+      "fullName" : "PEDERSEN, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359045"
+  }, {
+    "participantId" : "15",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Sikker",
+      "lastName" : "RAGN JENSEN",
+      "fullName" : "RAGN JENSEN, Sikker"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359557"
+  }, {
+    "participantId" : "16",
+    "club" : "FKF FLECHE Holbaek",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "RASMUSSEN",
+      "fullName" : "RASMUSSEN, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358491"
+  }, {
+    "participantId" : "17",
+    "club" : "FKF FLECHE Holbaek",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "RAUN GLICK",
+      "fullName" : "RAUN GLICK, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348063"
+  }, {
+    "participantId" : "18",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Silas",
+      "lastName" : "SCHEELKE POULSEN",
+      "fullName" : "SCHEELKE POULSEN, Silas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312218"
+  }, {
+    "participantId" : "19",
+    "club" : "Hillerød FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Frederik",
+      "lastName" : "SPETTING WILLE",
+      "fullName" : "SPETTING WILLE, Frederik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359419"
+  }, {
+    "participantId" : "20",
+    "club" : "FKTV Vordingborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "STAGE",
+      "fullName" : "STAGE, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347806"
+  }, {
+    "participantId" : "21",
+    "club" : "RØF",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "STARUP",
+      "fullName" : "STARUP, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358506"
+  }, {
+    "participantId" : "22",
+    "club" : "ALF Albertslund",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "ZACHO",
+      "fullName" : "ZACHO, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359406"
+  } ]
+}

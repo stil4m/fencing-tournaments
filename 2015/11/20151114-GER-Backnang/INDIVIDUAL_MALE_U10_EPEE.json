@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1464-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico Leon",
+      "lastName" : "GECKELER",
+      "fullName" : "GECKELER, Nico Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329504"
+  }, {
+    "participantId" : "2",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aron",
+      "lastName" : "GROSS",
+      "fullName" : "GROSS, Aron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355218"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "HUBE",
+      "fullName" : "HUBE, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349600"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "KÜHBAUCH",
+      "fullName" : "KÜHBAUCH, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345533"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "LENHARDT",
+      "fullName" : "LENHARDT, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356674"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "NOTHACKER",
+      "fullName" : "NOTHACKER, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355265"
+  }, {
+    "participantId" : "7",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frederik",
+      "lastName" : "SPECHT",
+      "fullName" : "SPECHT, Frederik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355219"
+  }, {
+    "participantId" : "8",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "STRASSNER",
+      "fullName" : "STRASSNER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355221"
+  }, {
+    "participantId" : "9",
+    "club" : "PST Trier",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenzo",
+      "lastName" : "WARNKING",
+      "fullName" : "WARNKING, Lorenzo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351951"
+  } ]
+}

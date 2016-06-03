@@ -1,0 +1,194 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2697-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Enrico",
+      "lastName" : "CARRARA",
+      "fullName" : "CARRARA, Enrico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334340"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl Malte",
+      "lastName" : "EBERHARDT",
+      "fullName" : "EBERHARDT, Carl Malte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346006"
+  }, {
+    "participantId" : "3",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "GOLIASCH",
+      "fullName" : "GOLIASCH, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348181"
+  }, {
+    "participantId" : "4",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "GUNTERMANN",
+      "fullName" : "GUNTERMANN, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345377"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Achern FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janic",
+      "lastName" : "KOCH",
+      "fullName" : "KOCH, Janic"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348947"
+  }, {
+    "participantId" : "6",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "LOHMANN",
+      "fullName" : "LOHMANN, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358353"
+  }, {
+    "participantId" : "7",
+    "club" : "SG Kaarst",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bjarne",
+      "lastName" : "LUCAS",
+      "fullName" : "LUCAS, Bjarne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333169"
+  }, {
+    "participantId" : "8",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jarnu",
+      "lastName" : "PELZ",
+      "fullName" : "PELZ, Jarnu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349154"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leander",
+      "lastName" : "STRICKER",
+      "fullName" : "STRICKER, Leander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348077"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arian",
+      "lastName" : "TEWES",
+      "fullName" : "TEWES, Arian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347773"
+  }, {
+    "participantId" : "11",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magnus",
+      "lastName" : "WENZEL",
+      "fullName" : "WENZEL, Magnus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353637"
+  }, {
+    "participantId" : "12",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "EDEL",
+      "fullName" : "EDEL, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356945"
+  } ]
+}

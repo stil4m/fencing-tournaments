@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3469-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN",
+    "members" : [ {
+      "firstName" : "Jakob",
+      "lastName" : "HILGER",
+      "fullName" : "HILGER, Jakob"
+    }, {
+      "firstName" : "Raoul",
+      "lastName" : "BONAH",
+      "fullName" : "BONAH, Raoul"
+    }, {
+      "firstName" : "Hartmut",
+      "lastName" : "WRASE",
+      "fullName" : "WRASE, Hartmut"
+    }, {
+      "firstName" : "Luis",
+      "lastName" : "BONAH",
+      "fullName" : "BONAH, Luis"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23382"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "teamName" : "FSV MÜLHEIM",
+    "members" : [ {
+      "firstName" : "Vincent",
+      "lastName" : "KLUGER",
+      "fullName" : "KLUGER, Vincent"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "WIEDEKAMP",
+      "fullName" : "WIEDEKAMP, Philipp"
+    }, {
+      "firstName" : "Sören",
+      "lastName" : "GROTH",
+      "fullName" : "GROTH, Sören"
+    } ],
+    "fieId" : null,
+    "fwwId" : "45874"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "teamName" : "TV RATINGEN",
+    "members" : [ {
+      "firstName" : "Derek Darnley",
+      "lastName" : "DOMINGUE",
+      "fullName" : "DOMINGUE, Derek Darnley"
+    }, {
+      "firstName" : "Jan Ole",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Jan Ole"
+    }, {
+      "firstName" : "Mark",
+      "lastName" : "BILLE",
+      "fullName" : "BILLE, Mark"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35812"
+  }, {
+    "participantId" : "4",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : [ {
+      "firstName" : "Julian",
+      "lastName" : "DISLER",
+      "fullName" : "DISLER, Julian"
+    }, {
+      "firstName" : "Peter",
+      "lastName" : "SCHMITZ",
+      "fullName" : "SCHMITZ, Peter"
+    }, {
+      "firstName" : "Finn",
+      "lastName" : "SCHYMCZYK",
+      "fullName" : "SCHYMCZYK, Finn"
+    }, {
+      "firstName" : "Maciek",
+      "lastName" : "CHOJNACKI",
+      "fullName" : "CHOJNACKI, Maciek"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32437"
+  } ]
+}

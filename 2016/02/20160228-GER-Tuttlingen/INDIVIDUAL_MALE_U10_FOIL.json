@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6318-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSB Schwäbisch Gmünd",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "BARTH",
+      "fullName" : "BARTH, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332960"
+  }, {
+    "participantId" : "2",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilian",
+      "lastName" : "KNAPP",
+      "fullName" : "KNAPP, Emilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348129"
+  }, {
+    "participantId" : "3",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rakeem",
+      "lastName" : "MÖRCHEL",
+      "fullName" : "MÖRCHEL, Rakeem"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356924"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "SCHAADT",
+      "fullName" : "SCHAADT, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359149"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "SCHNEIDER-STRITTMATTER",
+      "fullName" : "SCHNEIDER-STRITTMATTER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338032"
+  } ]
+}

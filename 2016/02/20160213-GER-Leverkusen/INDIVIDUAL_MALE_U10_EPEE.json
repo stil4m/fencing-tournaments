@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1572-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "GEISSLER",
+      "fullName" : "GEISSLER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354557"
+  }, {
+    "participantId" : "2",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janusz",
+      "lastName" : "GRÄB",
+      "fullName" : "GRÄB, Janusz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349810"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tom",
+      "lastName" : "HELLMANN",
+      "fullName" : "HELLMANN, Tom"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354174"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356087"
+  }, {
+    "participantId" : "5",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan Luis",
+      "lastName" : "PRINZ",
+      "fullName" : "PRINZ, Jonathan Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348312"
+  }, {
+    "participantId" : "6",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "URBANSKI",
+      "fullName" : "URBANSKI, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353690"
+  } ]
+}

@@ -1,0 +1,458 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "http://www.engarde-service.com/files/britishfencing/britishchamps16/wf/",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "27",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Ayesha",
+      "lastName" : "FIHOSY",
+      "fullName" : "FIHOSY, Ayesha"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Philippa",
+      "lastName" : "MULLINS",
+      "fullName" : "MULLINS, Philippa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Chloe",
+      "lastName" : "DICKSON",
+      "fullName" : "DICKSON, Chloe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Katie",
+      "lastName" : "SMITH",
+      "fullName" : "SMITH, Katie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Kate",
+      "lastName" : "BEARDMORE",
+      "fullName" : "BEARDMORE, Kate"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Ruth",
+      "lastName" : "CLARKE",
+      "fullName" : "CLARKE, Ruth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "TAYLOR",
+      "fullName" : "TAYLOR, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Madison",
+      "lastName" : "PEARCE",
+      "fullName" : "PEARCE, Madison"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Oxana",
+      "lastName" : "MIKHALEVA",
+      "fullName" : "MIKHALEVA, Oxana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "BRYARS",
+      "fullName" : "BRYARS, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Catherine",
+      "lastName" : "COOK",
+      "fullName" : "COOK, Catherine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Zoe",
+      "lastName" : "SUDDERICK",
+      "fullName" : "SUDDERICK, Zoe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Tamara",
+      "lastName" : "CARNAC",
+      "fullName" : "CARNAC, Tamara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Keziah",
+      "lastName" : "BEATTIE",
+      "fullName" : "BEATTIE, Keziah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Sevil",
+      "lastName" : "BABAEVA",
+      "fullName" : "BABAEVA, Sevil"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Phoebe",
+      "lastName" : "NEWTON-HUGHES",
+      "fullName" : "NEWTON-HUGHES, Phoebe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Alice",
+      "lastName" : "CAMPBELL",
+      "fullName" : "CAMPBELL, Alice"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Nadya",
+      "lastName" : "YORDANOVA",
+      "fullName" : "YORDANOVA, Nadya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Chiara",
+      "lastName" : "MCDERMOTT",
+      "fullName" : "MCDERMOTT, Chiara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "20",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Amy",
+      "lastName" : "HOME",
+      "fullName" : "HOME, Amy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "21",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Ailsa",
+      "lastName" : "MORRISON",
+      "fullName" : "MORRISON, Ailsa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "22",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Mirren",
+      "lastName" : "BLACK",
+      "fullName" : "BLACK, Mirren"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "23",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Phoebe",
+      "lastName" : "HUGHES",
+      "fullName" : "HUGHES, Phoebe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "24",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Tegan",
+      "lastName" : "MCCALLUM",
+      "fullName" : "MCCALLUM, Tegan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "25",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Abigail",
+      "lastName" : "BROWN",
+      "fullName" : "BROWN, Abigail"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "26",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Amanda",
+      "lastName" : "MOND",
+      "fullName" : "MOND, Amanda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "27",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Ruth",
+      "lastName" : "TOLKIEN",
+      "fullName" : "TOLKIEN, Ruth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "28",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Tara",
+      "lastName" : "SALLABA",
+      "fullName" : "SALLABA, Tara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3688-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "UFC Frankfurt",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Ferdinando",
+      "lastName" : "ANGELONI",
+      "fullName" : "ANGELONI, Ferdinando"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359913"
+  }, {
+    "participantId" : "2",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sirin",
+      "lastName" : "CAN",
+      "fullName" : "CAN, Sirin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356780"
+  }, {
+    "participantId" : "3",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "FRIES",
+      "fullName" : "FRIES, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354216"
+  }, {
+    "participantId" : "4",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ludwig",
+      "lastName" : "KAHLBAUM",
+      "fullName" : "KAHLBAUM, Ludwig"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356779"
+  }, {
+    "participantId" : "5",
+    "club" : "UFC Frankfurt",
+    "country" : "BUL",
+    "name" : {
+      "firstName" : "Kaloyan",
+      "lastName" : "RYAPOV",
+      "fullName" : "RYAPOV, Kaloyan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336896"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jann-Rouven",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Jann-Rouven"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355109"
+  }, {
+    "participantId" : "7",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thorben",
+      "lastName" : "WIESEMANN",
+      "fullName" : "WIESEMANN, Thorben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337618"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Miko",
+      "lastName" : "WOMSER",
+      "fullName" : "WOMSER, Miko"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355116"
+  } ]
+}

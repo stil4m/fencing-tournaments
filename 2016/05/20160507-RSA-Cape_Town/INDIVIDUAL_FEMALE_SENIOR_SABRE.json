@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10138-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VASK Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Danielle",
+      "lastName" : "CERONIO",
+      "fullName" : "CERONIO, Danielle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353507"
+  }, {
+    "participantId" : "2",
+    "club" : "SFA Stellenbosch",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Akira",
+      "lastName" : "COETZEE",
+      "fullName" : "COETZEE, Akira"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351175"
+  }, {
+    "participantId" : "3",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Kathryn Jessica",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Kathryn Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37506",
+    "fwwId" : "344107"
+  }, {
+    "participantId" : "4",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Nicola",
+      "lastName" : "DA SILVA",
+      "fullName" : "DA SILVA, Nicola"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361685"
+  }, {
+    "participantId" : "5",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Marguerite",
+      "lastName" : "LANGTON",
+      "fullName" : "LANGTON, Marguerite"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "27397"
+  }, {
+    "participantId" : "6",
+    "club" : "IKSAFA Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Natalie",
+      "lastName" : "MUIR",
+      "fullName" : "MUIR, Natalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323189"
+  } ]
+}

@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7628-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "1",
+    "country" : "EST",
+    "teamName" : "ESTONIA",
+    "members" : [ {
+      "firstName" : "Karoliine",
+      "lastName" : "LOIT",
+      "fullName" : "LOIT, Karoliine"
+    }, {
+      "firstName" : "Sandra",
+      "lastName" : "SKOBLOV",
+      "fullName" : "SKOBLOV, Sandra"
+    }, {
+      "firstName" : "Andra",
+      "lastName" : "TALEN",
+      "fullName" : "TALEN, Andra"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15814"
+  }, {
+    "participantId" : "2",
+    "club" : "1",
+    "country" : "FRA",
+    "teamName" : "FRANCE",
+    "members" : [ {
+      "firstName" : "Perine",
+      "lastName" : "DEKNUYT",
+      "fullName" : "DEKNUYT, Perine"
+    }, {
+      "firstName" : "Louise-Amelie",
+      "lastName" : "VILLARD",
+      "fullName" : "VILLARD, Louise-Amelie"
+    }, {
+      "firstName" : "Aliya",
+      "lastName" : "BAYRAM",
+      "fullName" : "BAYRAM, Aliya"
+    }, {
+      "firstName" : "Emma",
+      "lastName" : "LAUVRAY",
+      "fullName" : "LAUVRAY, Emma"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15817"
+  }, {
+    "participantId" : "3",
+    "club" : "1",
+    "country" : "SUI",
+    "teamName" : "SWITZERLAND",
+    "members" : [ {
+      "firstName" : "Alessandra",
+      "lastName" : "LUNA",
+      "fullName" : "LUNA, Alessandra"
+    }, {
+      "firstName" : "Solene",
+      "lastName" : "MASSEREY",
+      "fullName" : "MASSEREY, Solene"
+    }, {
+      "firstName" : "Aurore",
+      "lastName" : "FAVRE",
+      "fullName" : "FAVRE, Aurore"
+    }, {
+      "firstName" : "Fiona",
+      "lastName" : "HATZ",
+      "fullName" : "HATZ, Fiona"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15869"
+  } ]
+}

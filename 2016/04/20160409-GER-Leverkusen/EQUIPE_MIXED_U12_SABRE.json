@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2229-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN",
+    "members" : [ {
+      "firstName" : "Philipp-Bernd",
+      "lastName" : "METHNER",
+      "fullName" : "METHNER, Philipp-Bernd"
+    }, {
+      "firstName" : "Sina",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Sina"
+    }, {
+      "firstName" : "Miriam",
+      "lastName" : "KUSIAN",
+      "fullName" : "KUSIAN, Miriam"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23382"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN 2",
+    "members" : [ {
+      "firstName" : "Pascal",
+      "lastName" : "BUSSMANN",
+      "fullName" : "BUSSMANN, Pascal"
+    }, {
+      "firstName" : "Nicole",
+      "lastName" : "GERT",
+      "fullName" : "GERT, Nicole"
+    }, {
+      "firstName" : "Felice",
+      "lastName" : "HERBON",
+      "fullName" : "HERBON, Felice"
+    }, {
+      "firstName" : "Victoria",
+      "lastName" : "JEDAMZIK",
+      "fullName" : "JEDAMZIK, Victoria"
+    } ],
+    "fieId" : null,
+    "fwwId" : "87682"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "teamName" : "TV RATINGEN",
+    "members" : [ {
+      "firstName" : "Mattis Philip",
+      "lastName" : "HABIG",
+      "fullName" : "HABIG, Mattis Philip"
+    }, {
+      "firstName" : "Tristan Maximilian",
+      "lastName" : "TEICHNER",
+      "fullName" : "TEICHNER, Tristan Maximilian"
+    }, {
+      "firstName" : "Henri",
+      "lastName" : "WOLFF",
+      "fullName" : "WOLFF, Henri"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "PASCHEN",
+      "fullName" : "PASCHEN, Simon"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35812"
+  }, {
+    "participantId" : "4",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "teamName" : "WMTV SOLINGEN",
+    "members" : [ {
+      "firstName" : "Philip",
+      "lastName" : "JAHN",
+      "fullName" : "JAHN, Philip"
+    }, {
+      "firstName" : "Jarnu",
+      "lastName" : "PELZ",
+      "fullName" : "PELZ, Jarnu"
+    }, {
+      "firstName" : "Nico",
+      "lastName" : "LOHMANN",
+      "fullName" : "LOHMANN, Nico"
+    }, {
+      "firstName" : "Marvin",
+      "lastName" : "SCHRAVEN",
+      "fullName" : "SCHRAVEN, Marvin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32437"
+  } ]
+}

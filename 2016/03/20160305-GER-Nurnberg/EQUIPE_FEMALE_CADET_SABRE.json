@@ -1,0 +1,38 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5597-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : [ {
+      "firstName" : "Fanny",
+      "lastName" : "STRAUB",
+      "fullName" : "STRAUB, Fanny"
+    }, {
+      "firstName" : "Christine",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Christine"
+    }, {
+      "firstName" : "Paula",
+      "lastName" : "SINGER",
+      "fullName" : "SINGER, Paula"
+    }, {
+      "firstName" : "Lavinia",
+      "lastName" : "DILER",
+      "fullName" : "DILER, Lavinia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32186"
+  } ]
+}

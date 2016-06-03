@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3467-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "DFC Düsseldorf",
+    "country" : "GER",
+    "teamName" : "DFC DÜSSELDORF",
+    "members" : [ {
+      "firstName" : "Noé Julien",
+      "lastName" : "DUPON",
+      "fullName" : "DUPON, Noé Julien"
+    }, {
+      "firstName" : "Michael",
+      "lastName" : "BEDEROW",
+      "fullName" : "BEDEROW, Michael"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "BOTH",
+      "fullName" : "BOTH, Maximilian"
+    }, {
+      "firstName" : "Tim",
+      "lastName" : "SAUERMANN",
+      "fullName" : "SAUERMANN, Tim"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52937"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : [ {
+      "firstName" : "Philipp",
+      "lastName" : "GORRAY",
+      "fullName" : "GORRAY, Philipp"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "BOY",
+      "fullName" : "BOY, Christian"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "HOSE",
+      "fullName" : "HOSE, Christian"
+    }, {
+      "firstName" : "Lars",
+      "lastName" : "EBIGT",
+      "fullName" : "EBIGT, Lars"
+    } ],
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Nils Michael",
+      "lastName" : "SCHRAMM",
+      "fullName" : "SCHRAMM, Nils Michael"
+    }, {
+      "firstName" : "Arne",
+      "lastName" : "MACHETANZ",
+      "fullName" : "MACHETANZ, Arne"
+    }, {
+      "firstName" : "Paul",
+      "lastName" : "TENBERGEN",
+      "fullName" : "TENBERGEN, Paul"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  } ]
+}

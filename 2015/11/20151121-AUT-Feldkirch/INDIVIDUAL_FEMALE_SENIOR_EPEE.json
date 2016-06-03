@@ -1,0 +1,378 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3514-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Natascha",
+      "lastName" : "DIETERICH",
+      "fullName" : "DIETERICH, Natascha"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124874"
+  }, {
+    "participantId" : "2",
+    "club" : "FK Balmung",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Christiana",
+      "lastName" : "ENGEL",
+      "fullName" : "ENGEL, Christiana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "28602"
+  }, {
+    "participantId" : "3",
+    "club" : "FTSJ Feldkirch",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Sonja",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Sonja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amelie",
+      "lastName" : "HANSCHKE",
+      "fullName" : "HANSCHKE, Amelie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36325",
+    "fwwId" : "52199"
+  }, {
+    "participantId" : "5",
+    "club" : "ZM Zillertal",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Ursula",
+      "lastName" : "LANGESEE",
+      "fullName" : "LANGESEE, Ursula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332398"
+  }, {
+    "participantId" : "6",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Therese",
+      "lastName" : "LORENZ",
+      "fullName" : "LORENZ, Therese"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "2153"
+  }, {
+    "participantId" : "7",
+    "club" : "FUL Linz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Judith",
+      "lastName" : "MADER",
+      "fullName" : "MADER, Judith"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312540"
+  }, {
+    "participantId" : "8",
+    "club" : "ASC Wien",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "MEHOFER",
+      "fullName" : "MEHOFER, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305396"
+  }, {
+    "participantId" : "9",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "MONSCHEIN",
+      "fullName" : "MONSCHEIN, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38758",
+    "fwwId" : "319569"
+  }, {
+    "participantId" : "10",
+    "club" : "TI Innsbruck",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Simone",
+      "lastName" : "MOSER",
+      "fullName" : "MOSER, Simone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353528"
+  }, {
+    "participantId" : "11",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Katrin",
+      "lastName" : "NIEDERMANN",
+      "fullName" : "NIEDERMANN, Katrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344174"
+  }, {
+    "participantId" : "12",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Elisabeth",
+      "lastName" : "PINGGERA",
+      "fullName" : "PINGGERA, Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36166",
+    "fwwId" : "118604"
+  }, {
+    "participantId" : "13",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "SCHMIDL",
+      "fullName" : "SCHMIDL, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28728",
+    "fwwId" : "123667"
+  }, {
+    "participantId" : "14",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Rosa",
+      "lastName" : "SCHMIDL",
+      "fullName" : "SCHMIDL, Rosa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319570"
+  }, {
+    "participantId" : "15",
+    "club" : "OÖ Landesfechtklub",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "SCHOTT",
+      "fullName" : "SCHOTT, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353915"
+  }, {
+    "participantId" : "16",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katrin",
+      "lastName" : "SOMMER",
+      "fullName" : "SOMMER, Katrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34621",
+    "fwwId" : "44712"
+  }, {
+    "participantId" : "17",
+    "club" : "FCO Otelfingen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Franziska",
+      "lastName" : "STERCHI",
+      "fullName" : "STERCHI, Franziska"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311065"
+  }, {
+    "participantId" : "18",
+    "club" : "AFC Salzburg",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Hildegard",
+      "lastName" : "STROHMEYER-EDER",
+      "fullName" : "STROHMEYER-EDER, Hildegard"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "11130"
+  }, {
+    "participantId" : "19",
+    "club" : "ASC Wien",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Dorothea",
+      "lastName" : "TANZMEISTER",
+      "fullName" : "TANZMEISTER, Dorothea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "17241"
+  }, {
+    "participantId" : "20",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "TISCH",
+      "fullName" : "TISCH, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34186",
+    "fwwId" : "52506"
+  }, {
+    "participantId" : "21",
+    "club" : "UWK Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "WAKONIG",
+      "fullName" : "WAKONIG, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308491"
+  }, {
+    "participantId" : "22",
+    "club" : "UWK Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "122711"
+  }, {
+    "participantId" : "23",
+    "club" : "GFU Graz",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Gloria",
+      "lastName" : "WOLKERSTORFER",
+      "fullName" : "WOLKERSTORFER, Gloria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34096",
+    "fwwId" : "307442"
+  } ]
+}

@@ -1,0 +1,646 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12877-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "40",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "34",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "39",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 34,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 35,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 36,
+    "participantId" : "38",
+    "abandon" : false
+  }, {
+    "position" : 37,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 39,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TUKS PRETORIA",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Christiaan",
+      "lastName" : "BESTER",
+      "fullName" : "BESTER, Christiaan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Robbie",
+      "lastName" : "BROWN",
+      "fullName" : "BROWN, Robbie"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "WAL",
+    "name" : {
+      "firstName" : "Jack",
+      "lastName" : "CAFARO",
+      "fullName" : "CAFARO, Jack"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Christopher",
+      "lastName" : "CARR",
+      "fullName" : "CARR, Christopher"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "Blade",
+    "country" : "SIN",
+    "name" : {
+      "firstName" : "Zachary Yi",
+      "lastName" : "CHEN",
+      "fullName" : "CHEN, Zachary Yi"
+    },
+    "gender" : "MALE",
+    "fieId" : "32986",
+    "fwwId" : "334029"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "SIN",
+    "name" : {
+      "firstName" : "Jefferson",
+      "lastName" : "CHEONG",
+      "fullName" : "CHEONG, Jefferson"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Lachlan",
+      "lastName" : "CROOK",
+      "fullName" : "CROOK, Lachlan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : "Regent Fencing Club",
+    "country" : "JER",
+    "name" : {
+      "firstName" : "Ryan",
+      "lastName" : "CUMMINS",
+      "fullName" : "CUMMINS, Ryan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344953"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Matthew",
+      "lastName" : "DICKINSON",
+      "fullName" : "DICKINSON, Matthew"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333310"
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "GUE",
+    "name" : {
+      "firstName" : "Rowan",
+      "lastName" : "FITTON",
+      "fullName" : "FITTON, Rowan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Ashutosh",
+      "lastName" : "GARG",
+      "fullName" : "GARG, Ashutosh"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354947"
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "NZL",
+    "name" : {
+      "firstName" : "James",
+      "lastName" : "HARWOOD",
+      "fullName" : "HARWOOD, James"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Isaac",
+      "lastName" : "HAYES",
+      "fullName" : "HAYES, Isaac"
+    },
+    "gender" : "MALE",
+    "fieId" : "36946",
+    "fwwId" : "350507"
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "NZL",
+    "name" : {
+      "firstName" : "Louis",
+      "lastName" : "JENNINGS",
+      "fullName" : "JENNINGS, Louis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Owen",
+      "lastName" : "JORDAN",
+      "fullName" : "JORDAN, Owen"
+    },
+    "gender" : "MALE",
+    "fieId" : "34836",
+    "fwwId" : "333447"
+  }, {
+    "participantId" : "16",
+    "club" : "TUKS PRETORIA",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Geza",
+      "lastName" : "KOZMA",
+      "fullName" : "KOZMA, Geza"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "GUE",
+    "name" : {
+      "firstName" : "James",
+      "lastName" : "LE MAITRE",
+      "fullName" : "LE MAITRE, James"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Matthew",
+      "lastName" : "LEVER",
+      "fullName" : "LEVER, Matthew"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : "MDF",
+    "country" : "SIN",
+    "name" : {
+      "firstName" : "Justin Ren Hsien",
+      "lastName" : "LIM",
+      "fullName" : "LIM, Justin Ren Hsien"
+    },
+    "gender" : "MALE",
+    "fieId" : "33679",
+    "fwwId" : "333839"
+  }, {
+    "participantId" : "20",
+    "club" : "Z Fencing",
+    "country" : "SIN",
+    "name" : {
+      "firstName" : "Aloysius Hoi Yeen",
+      "lastName" : "LOW",
+      "fullName" : "LOW, Aloysius Hoi Yeen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334012"
+  }, {
+    "participantId" : "21",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Lupanee",
+      "lastName" : "MAIBAM",
+      "fullName" : "MAIBAM, Lupanee"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "22",
+    "club" : null,
+    "country" : "WAL",
+    "name" : {
+      "firstName" : "George",
+      "lastName" : "MORRIS",
+      "fullName" : "MORRIS, George"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "23",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Dylan",
+      "lastName" : "MORRISON",
+      "fullName" : "MORRISON, Dylan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "24",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Tuphan Singh",
+      "lastName" : "NANDEIBAM",
+      "fullName" : "NANDEIBAM, Tuphan Singh"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354945"
+  }, {
+    "participantId" : "25",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Lachlan",
+      "lastName" : "OERMAN",
+      "fullName" : "OERMAN, Lachlan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346884"
+  }, {
+    "participantId" : "26",
+    "club" : null,
+    "country" : "NZL",
+    "name" : {
+      "firstName" : "Sheldon",
+      "lastName" : "OGILVIE",
+      "fullName" : "OGILVIE, Sheldon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349001"
+  }, {
+    "participantId" : "27",
+    "club" : null,
+    "country" : "SCO",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "PAPADOPOULOS",
+      "fullName" : "PAPADOPOULOS, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "28",
+    "club" : "VASK Bloemfontein",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Georgiou",
+      "lastName" : "SCHAEFFER",
+      "fullName" : "SCHAEFFER, Georgiou"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326477"
+  }, {
+    "participantId" : "29",
+    "club" : null,
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : "36550",
+    "fwwId" : "333176"
+  }, {
+    "participantId" : "30",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Aakash Ram",
+      "lastName" : "SEENIVASAN",
+      "fullName" : "SEENIVASAN, Aakash Ram"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "31",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "SELLS",
+      "fullName" : "SELLS, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : "36755",
+    "fwwId" : "342237"
+  }, {
+    "participantId" : "32",
+    "club" : null,
+    "country" : "SIN",
+    "name" : {
+      "firstName" : "Nigel",
+      "lastName" : "SIM",
+      "fullName" : "SIM, Nigel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350506"
+  }, {
+    "participantId" : "33",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Teja",
+      "lastName" : "SING",
+      "fullName" : "SING, Teja"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "34",
+    "club" : "Redhill and Reigate EC",
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Devlin",
+      "lastName" : "STIGANT",
+      "fullName" : "STIGANT, Devlin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339852"
+  }, {
+    "participantId" : "35",
+    "club" : null,
+    "country" : "IND",
+    "name" : {
+      "firstName" : "Aadhith Raj",
+      "lastName" : "SUNIL",
+      "fullName" : "SUNIL, Aadhith Raj"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "36",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "John",
+      "lastName" : "TIAN",
+      "fullName" : "TIAN, John"
+    },
+    "gender" : "MALE",
+    "fieId" : "35807",
+    "fwwId" : "344984"
+  }, {
+    "participantId" : "37",
+    "club" : "TFS Johannesburg",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Pavel",
+      "lastName" : "TYCHLER",
+      "fullName" : "TYCHLER, Pavel"
+    },
+    "gender" : "MALE",
+    "fieId" : "30645",
+    "fwwId" : "314762"
+  }, {
+    "participantId" : "38",
+    "club" : "FIREBIRD FC",
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Charl",
+      "lastName" : "VENTER",
+      "fullName" : "VENTER, Charl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "39",
+    "club" : null,
+    "country" : "GUE",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "WADE",
+      "fullName" : "WADE, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "40",
+    "club" : "Millfield School",
+    "country" : "ENG",
+    "name" : {
+      "firstName" : "Rooslan",
+      "lastName" : "WHELAN",
+      "fullName" : "WHELAN, Rooslan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333363"
+  } ]
+}

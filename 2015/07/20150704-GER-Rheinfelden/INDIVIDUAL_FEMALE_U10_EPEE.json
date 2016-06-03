@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12482-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eva",
+      "lastName" : "HAAG",
+      "fullName" : "HAAG, Eva"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346674"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philine",
+      "lastName" : "KALTENBACH",
+      "fullName" : "KALTENBACH, Philine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333732"
+  }, {
+    "participantId" : "3",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula-Marlen",
+      "lastName" : "MAIER",
+      "fullName" : "MAIER, Paula-Marlen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333598"
+  }, {
+    "participantId" : "4",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "PFAADT",
+      "fullName" : "PFAADT, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350493"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "REITZNER",
+      "fullName" : "REITZNER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345968"
+  } ]
+}

@@ -1,0 +1,206 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1325-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SC Den Bosch",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Timothy",
+      "lastName" : "ASSMANN",
+      "fullName" : "ASSMANN, Timothy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320078"
+  }, {
+    "participantId" : "2",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "GEHL",
+      "fullName" : "GEHL, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329466"
+  }, {
+    "participantId" : "3",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "HELD",
+      "fullName" : "HELD, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324131"
+  }, {
+    "participantId" : "4",
+    "club" : "SC Den Bosch",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Alec",
+      "lastName" : "KEPPEL",
+      "fullName" : "KEPPEL, Alec"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323912"
+  }, {
+    "participantId" : "5",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "KRACK",
+      "fullName" : "KRACK, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307210"
+  }, {
+    "participantId" : "6",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "SACKERMANN",
+      "fullName" : "SACKERMANN, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335328"
+  }, {
+    "participantId" : "7",
+    "club" : "Kempener TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan Philipp",
+      "lastName" : "SCHWICKART",
+      "fullName" : "SCHWICKART, Jan Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356563"
+  }, {
+    "participantId" : "8",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "VAN HEIJNINGEN",
+      "fullName" : "VAN HEIJNINGEN, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342281"
+  }, {
+    "participantId" : "9",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bennet",
+      "lastName" : "VAN RISSWYCK",
+      "fullName" : "VAN RISSWYCK, Bennet"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313941"
+  }, {
+    "participantId" : "10",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "ZIEGS",
+      "fullName" : "ZIEGS, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333423"
+  }, {
+    "participantId" : "11",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "RONDORF",
+      "fullName" : "RONDORF, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354172"
+  }, {
+    "participantId" : "12",
+    "club" : "s.v. d'Artagnan",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Sjoerd",
+      "lastName" : "GERAEDS",
+      "fullName" : "GERAEDS, Sjoerd"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349431"
+  }, {
+    "participantId" : "13",
+    "club" : "TSV Korbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "GÄNZ",
+      "fullName" : "GÄNZ, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318435"
+  } ]
+}

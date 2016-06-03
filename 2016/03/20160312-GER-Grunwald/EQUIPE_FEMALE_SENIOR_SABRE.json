@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4488-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "teamName" : "BAYER DORMAGEN",
+    "members" : [ {
+      "firstName" : "Anna",
+      "lastName" : "LIMBACH",
+      "fullName" : "LIMBACH, Anna"
+    }, {
+      "firstName" : "Sibylle",
+      "lastName" : "KLEMM",
+      "fullName" : "KLEMM, Sibylle"
+    }, {
+      "firstName" : "Stefanie",
+      "lastName" : "KUBISSA",
+      "fullName" : "KUBISSA, Stefanie"
+    }, {
+      "firstName" : "Judith",
+      "lastName" : "KUSIAN",
+      "fullName" : "KUSIAN, Judith"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23382"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TAUBERBISCHOFSHEIM",
+    "members" : [ {
+      "firstName" : "Kira",
+      "lastName" : "EIFLER",
+      "fullName" : "EIFLER, Kira"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "BREITKREUTZ",
+      "fullName" : "BREITKREUTZ, Laura"
+    }, {
+      "firstName" : "Nele",
+      "lastName" : "EIFLER",
+      "fullName" : "EIFLER, Nele"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "3",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "teamName" : "TSG EISLINGEN",
+    "members" : [ {
+      "firstName" : "Ann-Sophie",
+      "lastName" : "KINDLER",
+      "fullName" : "KINDLER, Ann-Sophie"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "PRESSMAR",
+      "fullName" : "PRESSMAR, Julia"
+    }, {
+      "firstName" : "Valentina",
+      "lastName" : "VOLKMANN",
+      "fullName" : "VOLKMANN, Valentina"
+    }, {
+      "firstName" : "Carol-Ann",
+      "lastName" : "KUHN",
+      "fullName" : "KUHN, Carol-Ann"
+    } ],
+    "fieId" : null,
+    "fwwId" : "30173"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "teamName" : "WÜRTH KÜNZELSAU",
+    "members" : [ {
+      "firstName" : "Luzia",
+      "lastName" : "HIRN",
+      "fullName" : "HIRN, Luzia"
+    }, {
+      "firstName" : "Lisa",
+      "lastName" : "GETTE",
+      "fullName" : "GETTE, Lisa"
+    }, {
+      "firstName" : "Julika",
+      "lastName" : "FUNKE",
+      "fullName" : "FUNKE, Julika"
+    }, {
+      "firstName" : "Anna-Lena",
+      "lastName" : "BÜRKERT",
+      "fullName" : "BÜRKERT, Anna-Lena"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35814"
+  } ]
+}

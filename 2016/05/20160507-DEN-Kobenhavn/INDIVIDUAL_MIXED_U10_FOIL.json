@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9039-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKT Bispebjerg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Gisli",
+      "lastName" : "BISOGNIN",
+      "fullName" : "BISOGNIN, Gisli"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "363237"
+  }, {
+    "participantId" : "2",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Nicolai",
+      "lastName" : "CARLIER-CARLSEN",
+      "fullName" : "CARLIER-CARLSEN, Nicolai"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359521"
+  }, {
+    "participantId" : "3",
+    "club" : "PARIS CEP",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Maxim",
+      "lastName" : "DUBREUIL",
+      "fullName" : "DUBREUIL, Maxim"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Raffaele",
+      "lastName" : "FU GIUGNO",
+      "fullName" : "FU GIUGNO, Raffaele"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353422"
+  }, {
+    "participantId" : "5",
+    "club" : "HFK Hellerup",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Xiangtian",
+      "lastName" : "LIU",
+      "fullName" : "LIU, Xiangtian"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "363242"
+  }, {
+    "participantId" : "6",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Elvis",
+      "lastName" : "MUNK SKJØDT",
+      "fullName" : "MUNK SKJØDT, Elvis"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "353657"
+  }, {
+    "participantId" : "7",
+    "club" : "PARIS CEP",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Morgane",
+      "lastName" : "ORVEN",
+      "fullName" : "ORVEN, Morgane"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "SCHWARTZ",
+      "fullName" : "SCHWARTZ, Theo"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "341687"
+  }, {
+    "participantId" : "9",
+    "club" : "FKT Kobenhavn",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Frode",
+      "lastName" : "VAABEN",
+      "fullName" : "VAABEN, Frode"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359412"
+  }, {
+    "participantId" : "10",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Júlíus Aron Thibautson",
+      "lastName" : "GUILBERT",
+      "fullName" : "GUILBERT, Júlíus Aron Thibautson"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "335825"
+  } ]
+}

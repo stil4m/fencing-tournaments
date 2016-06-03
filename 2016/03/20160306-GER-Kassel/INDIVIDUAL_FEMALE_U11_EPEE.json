@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3690-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sonja",
+      "lastName" : "BOXHEIMER",
+      "fullName" : "BOXHEIMER, Sonja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329197"
+  }, {
+    "participantId" : "2",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana",
+      "lastName" : "MEYER",
+      "fullName" : "MEYER, Jana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359974"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilija",
+      "lastName" : "OLJACA",
+      "fullName" : "OLJACA, Emilija"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358014"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emmy-Eleni",
+      "lastName" : "SCHRÖDER",
+      "fullName" : "SCHRÖDER, Emmy-Eleni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355433"
+  }, {
+    "participantId" : "5",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mariella",
+      "lastName" : "TOMIC",
+      "fullName" : "TOMIC, Mariella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329426"
+  } ]
+}

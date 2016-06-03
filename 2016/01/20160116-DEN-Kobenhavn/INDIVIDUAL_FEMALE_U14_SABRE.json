@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10390-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Kamille",
+      "lastName" : "HAUGE RASMUSSEN",
+      "fullName" : "HAUGE RASMUSSEN, Kamille"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336495"
+  }, {
+    "participantId" : "2",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Louise",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Louise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359392"
+  }, {
+    "participantId" : "3",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Anne Sofie",
+      "lastName" : "SANDAGER",
+      "fullName" : "SANDAGER, Anne Sofie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353424"
+  } ]
+}

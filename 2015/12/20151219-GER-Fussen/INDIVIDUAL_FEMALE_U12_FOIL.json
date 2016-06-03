@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3427-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vreni",
+      "lastName" : "BRUCKDORFER",
+      "fullName" : "BRUCKDORFER, Vreni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333783"
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Filippa",
+      "lastName" : "GAGERN",
+      "fullName" : "GAGERN, Filippa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349383"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "KAISER",
+      "fullName" : "KAISER, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335479"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maya",
+      "lastName" : "KÜHNE",
+      "fullName" : "KÜHNE, Maya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339684"
+  } ]
+}

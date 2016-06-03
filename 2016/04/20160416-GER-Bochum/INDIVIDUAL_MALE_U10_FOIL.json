@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2863-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "AUMANN",
+      "fullName" : "AUMANN, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360692"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Gütersloh",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leandro",
+      "lastName" : "BIGGA",
+      "fullName" : "BIGGA, Leandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355953"
+  }, {
+    "participantId" : "3",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "HÜSING",
+      "fullName" : "HÜSING, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355661"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Castrop-Rauxel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "KOS",
+      "fullName" : "KOS, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359200"
+  }, {
+    "participantId" : "5",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedikt",
+      "lastName" : "LEHNERT",
+      "fullName" : "LEHNERT, Benedikt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360693"
+  }, {
+    "participantId" : "6",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "MENNIGEN",
+      "fullName" : "MENNIGEN, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360691"
+  }, {
+    "participantId" : "7",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz-Viktor",
+      "lastName" : "VOLKENHOFF",
+      "fullName" : "VOLKENHOFF, Moritz-Viktor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359228"
+  } ]
+}

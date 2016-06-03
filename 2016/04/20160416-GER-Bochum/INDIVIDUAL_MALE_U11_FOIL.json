@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2862-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "GROLL",
+      "fullName" : "GROLL, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350858"
+  }, {
+    "participantId" : "2",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Axel",
+      "lastName" : "SADRIN",
+      "fullName" : "SADRIN, Axel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340839"
+  }, {
+    "participantId" : "3",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "STUDENT",
+      "fullName" : "STUDENT, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359229"
+  }, {
+    "participantId" : "4",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "TOMHOFER",
+      "fullName" : "TOMHOFER, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349192"
+  }, {
+    "participantId" : "5",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adrian",
+      "lastName" : "VIETMEIER",
+      "fullName" : "VIETMEIER, Adrian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

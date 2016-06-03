@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8788-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "HEINEMANN",
+      "fullName" : "HEINEMANN, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347653"
+  }, {
+    "participantId" : "2",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fenja",
+      "lastName" : "KINDEL",
+      "fullName" : "KINDEL, Fenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324147"
+  }, {
+    "participantId" : "3",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "AnnSophie",
+      "lastName" : "KUKLA Ann- Sophie",
+      "fullName" : "KUKLA Ann- Sophie, AnnSophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302551"
+  }, {
+    "participantId" : "4",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "MATTHIES",
+      "fullName" : "MATTHIES, Andrea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328249"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Schwerin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "MarieSophie",
+      "lastName" : "RODE Marie- Sophie",
+      "fullName" : "RODE Marie- Sophie, MarieSophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "302558"
+  } ]
+}

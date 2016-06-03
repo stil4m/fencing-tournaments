@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4736-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Viktoria",
+      "lastName" : "BERNSTEIN",
+      "fullName" : "BERNSTEIN, Viktoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341992"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mariu",
+      "lastName" : "HERBRANDT",
+      "fullName" : "HERBRANDT, Mariu"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342437"
+  }, {
+    "participantId" : "3",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "MAASSEN",
+      "fullName" : "MAASSEN, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348749"
+  }, {
+    "participantId" : "4",
+    "club" : "Lenneper TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "MANNEL",
+      "fullName" : "MANNEL, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357815"
+  }, {
+    "participantId" : "5",
+    "club" : "Lohausener SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elisabeth",
+      "lastName" : "NEUEN",
+      "fullName" : "NEUEN, Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359920"
+  }, {
+    "participantId" : "6",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Reimut",
+      "lastName" : "RIDDER",
+      "fullName" : "RIDDER, Reimut"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359894"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "SCHLECHTER",
+      "fullName" : "SCHLECHTER, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354558"
+  }, {
+    "participantId" : "8",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "WINHOVEN",
+      "fullName" : "WINHOVEN, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359897"
+  } ]
+}

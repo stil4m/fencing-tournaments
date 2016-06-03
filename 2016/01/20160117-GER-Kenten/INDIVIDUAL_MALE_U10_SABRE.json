@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2698-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : null,
+    "participantId" : "5",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "JAHN",
+      "fullName" : "JAHN, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356444"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "LÖLL",
+      "fullName" : "LÖLL, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340994"
+  }, {
+    "participantId" : "3",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabio",
+      "lastName" : "MADEDDU",
+      "fullName" : "MADEDDU, Fabio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353247"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Art",
+      "lastName" : "PROSSÉ",
+      "fullName" : "PROSSÉ, Art"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "TV Ratingen FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "WOLFF",
+      "fullName" : "WOLFF, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353673"
+  }, {
+    "participantId" : "6",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "ZBOROVSKIY",
+      "fullName" : "ZBOROVSKIY, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356946"
+  }, {
+    "participantId" : "7",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "ZSCHOMMLER",
+      "fullName" : "ZSCHOMMLER, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357138"
+  } ]
+}

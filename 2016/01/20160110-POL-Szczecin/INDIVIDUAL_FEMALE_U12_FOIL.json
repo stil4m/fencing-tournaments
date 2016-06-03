@@ -1,0 +1,918 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8068-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "47",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "42",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "61",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "43",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "57",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "48",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "44",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "46",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "55",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "58",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "45",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 34,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 35,
+    "participantId" : "53",
+    "abandon" : false
+  }, {
+    "position" : 36,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 37,
+    "participantId" : "50",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "59",
+    "abandon" : false
+  }, {
+    "position" : 39,
+    "participantId" : "40",
+    "abandon" : false
+  }, {
+    "position" : 40,
+    "participantId" : "60",
+    "abandon" : false
+  }, {
+    "position" : 41,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 41,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 43,
+    "participantId" : "39",
+    "abandon" : false
+  }, {
+    "position" : 44,
+    "participantId" : "24",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "ADRIANEK",
+      "fullName" : "ADRIANEK, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349139"
+  }, {
+    "participantId" : "2",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "BARNAS",
+      "fullName" : "BARNAS, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359114"
+  }, {
+    "participantId" : "3",
+    "club" : "Warta-Muszkieterowie Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Antonina",
+      "lastName" : "BARTOL",
+      "fullName" : "BARTOL, Antonina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347612"
+  }, {
+    "participantId" : "4",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Natalia",
+      "lastName" : "BARTOSIK",
+      "fullName" : "BARTOSIK, Natalia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349035"
+  }, {
+    "participantId" : "5",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Katarzyna",
+      "lastName" : "BEKALARCZYK",
+      "fullName" : "BEKALARCZYK, Katarzyna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347225"
+  }, {
+    "participantId" : "6",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354006"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anne Sophie",
+      "lastName" : "BULLAND",
+      "fullName" : "BULLAND, Anne Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333824"
+  }, {
+    "participantId" : "8",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "CISOWSKA",
+      "fullName" : "CISOWSKA, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347583"
+  }, {
+    "participantId" : "9",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Paulina",
+      "lastName" : "CZAJKA",
+      "fullName" : "CZAJKA, Paulina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359079"
+  }, {
+    "participantId" : "10",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Magdalena",
+      "lastName" : "DABECKA",
+      "fullName" : "DABECKA, Magdalena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348944"
+  }, {
+    "participantId" : "11",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marina",
+      "lastName" : "EISNER",
+      "fullName" : "EISNER, Marina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328848"
+  }, {
+    "participantId" : "12",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Daria",
+      "lastName" : "FILIPOWICZ",
+      "fullName" : "FILIPOWICZ, Daria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352270"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Grunewald",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "FINKENSTAEDT",
+      "fullName" : "FINKENSTAEDT, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354071"
+  }, {
+    "participantId" : "14",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Amelia",
+      "lastName" : "GAJDULEWICZ",
+      "fullName" : "GAJDULEWICZ, Amelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359077"
+  }, {
+    "participantId" : "15",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "GRACZYK",
+      "fullName" : "GRACZYK, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353237"
+  }, {
+    "participantId" : "16",
+    "club" : "USC Viadrina Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nike",
+      "lastName" : "GROSSER",
+      "fullName" : "GROSSER, Nike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309289"
+  }, {
+    "participantId" : "17",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leah",
+      "lastName" : "HAASE",
+      "fullName" : "HAASE, Leah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333827"
+  }, {
+    "participantId" : "18",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "HALUSZKIEWICZ",
+      "fullName" : "HALUSZKIEWICZ, Dominika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359243"
+  }, {
+    "participantId" : "19",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "JERZ",
+      "fullName" : "JERZ, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352268"
+  }, {
+    "participantId" : "20",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "KEDZIORA",
+      "fullName" : "KEDZIORA, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359244"
+  }, {
+    "participantId" : "21",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KOLOBEKOVA",
+      "fullName" : "KOLOBEKOVA, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340229"
+  }, {
+    "participantId" : "22",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Patrycja",
+      "lastName" : "KOWALCZYK",
+      "fullName" : "KOWALCZYK, Patrycja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359076"
+  }, {
+    "participantId" : "23",
+    "club" : "Budowlani Torun",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Oliwia",
+      "lastName" : "KOWALSKA",
+      "fullName" : "KOWALSKA, Oliwia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352265"
+  }, {
+    "participantId" : "24",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "KROCZYNSKA",
+      "fullName" : "KROCZYNSKA, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349118"
+  }, {
+    "participantId" : "25",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Oliwia",
+      "lastName" : "KULPACZYNSKA",
+      "fullName" : "KULPACZYNSKA, Oliwia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347594"
+  }, {
+    "participantId" : "26",
+    "club" : "AZS AWF Warszawa",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Antonina",
+      "lastName" : "KWIATKOWSKA",
+      "fullName" : "KWIATKOWSKA, Antonina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352287"
+  }, {
+    "participantId" : "27",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "LANGA",
+      "fullName" : "LANGA, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348938"
+  }, {
+    "participantId" : "28",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Karolina",
+      "lastName" : "LEWANDOWSKA",
+      "fullName" : "LEWANDOWSKA, Karolina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347589"
+  }, {
+    "participantId" : "29",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Natalia",
+      "lastName" : "LEWANDOWSKA",
+      "fullName" : "LEWANDOWSKA, Natalia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348940"
+  }, {
+    "participantId" : "30",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "LEWUSZ",
+      "fullName" : "LEWUSZ, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352263"
+  }, {
+    "participantId" : "31",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Jagoda",
+      "lastName" : "MICHALAK",
+      "fullName" : "MICHALAK, Jagoda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359075"
+  }, {
+    "participantId" : "32",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "MICHNIEWICZ",
+      "fullName" : "MICHNIEWICZ, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349119"
+  }, {
+    "participantId" : "33",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Gabriela",
+      "lastName" : "MIETKA",
+      "fullName" : "MIETKA, Gabriela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341067"
+  }, {
+    "participantId" : "34",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "MORDAK",
+      "fullName" : "MORDAK, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348043"
+  }, {
+    "participantId" : "35",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Alisa",
+      "lastName" : "MORDVINCEVA",
+      "fullName" : "MORDVINCEVA, Alisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350798"
+  }, {
+    "participantId" : "36",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "MULAK",
+      "fullName" : "MULAK, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348936"
+  }, {
+    "participantId" : "37",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "NAKLICKA",
+      "fullName" : "NAKLICKA, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333236"
+  }, {
+    "participantId" : "38",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "NGUYEN",
+      "fullName" : "NGUYEN, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359073"
+  }, {
+    "participantId" : "39",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Nel",
+      "lastName" : "NILEK",
+      "fullName" : "NILEK, Nel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349076"
+  }, {
+    "participantId" : "40",
+    "club" : "UKS Gryfek Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Aleksandra",
+      "lastName" : "NOWAK",
+      "fullName" : "NOWAK, Aleksandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329463"
+  }, {
+    "participantId" : "41",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Magdalena",
+      "lastName" : "OLEJNICZAK",
+      "fullName" : "OLEJNICZAK, Magdalena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359074"
+  }, {
+    "participantId" : "42",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Amelia",
+      "lastName" : "OLSZEWSKA",
+      "fullName" : "OLSZEWSKA, Amelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347582"
+  }, {
+    "participantId" : "43",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "PIATKOWSKA",
+      "fullName" : "PIATKOWSKA, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347590"
+  }, {
+    "participantId" : "44",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nelly",
+      "lastName" : "SEMPER",
+      "fullName" : "SEMPER, Nelly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328849"
+  }, {
+    "participantId" : "45",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Oliwia",
+      "lastName" : "SOLIWODA",
+      "fullName" : "SOLIWODA, Oliwia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347584"
+  }, {
+    "participantId" : "46",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Caitlin",
+      "lastName" : "STOLTE",
+      "fullName" : "STOLTE, Caitlin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340668"
+  }, {
+    "participantId" : "47",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "SZATARSKA",
+      "fullName" : "SZATARSKA, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "334432"
+  }, {
+    "participantId" : "48",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "SZCZECHOWSKA",
+      "fullName" : "SZCZECHOWSKA, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347592"
+  }, {
+    "participantId" : "49",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Daniela",
+      "lastName" : "SZPEJNA",
+      "fullName" : "SZPEJNA, Daniela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340235"
+  }, {
+    "participantId" : "50",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Alicja",
+      "lastName" : "TOMASZEWSKA",
+      "fullName" : "TOMASZEWSKA, Alicja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353238"
+  }, {
+    "participantId" : "51",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Sonia",
+      "lastName" : "TURBO",
+      "fullName" : "TURBO, Sonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315868"
+  }, {
+    "participantId" : "52",
+    "club" : "UKS Rondo Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Vanessa",
+      "lastName" : "TYLL",
+      "fullName" : "TYLL, Vanessa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349120"
+  }, {
+    "participantId" : "53",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Marija",
+      "lastName" : "VINOKUROVA",
+      "fullName" : "VINOKUROVA, Marija"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348906"
+  }, {
+    "participantId" : "54",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Adrianna",
+      "lastName" : "WIERZOCHOWSKA",
+      "fullName" : "WIERZOCHOWSKA, Adrianna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359245"
+  }, {
+    "participantId" : "55",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Matylda",
+      "lastName" : "WINIECKA",
+      "fullName" : "WINIECKA, Matylda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312562"
+  }, {
+    "participantId" : "56",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Matylda",
+      "lastName" : "WOJDYLAK",
+      "fullName" : "WOJDYLAK, Matylda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322605"
+  }, {
+    "participantId" : "57",
+    "club" : "Warta-Muszkieterowie Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Natalia",
+      "lastName" : "WOZNIAK",
+      "fullName" : "WOZNIAK, Natalia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327040"
+  }, {
+    "participantId" : "58",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ró&#380;a",
+      "lastName" : "WYKLAND",
+      "fullName" : "WYKLAND, Ró&#380;a"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347593"
+  }, {
+    "participantId" : "59",
+    "club" : "UKS Atena Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "WYTYK",
+      "fullName" : "WYTYK, Dominika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352277"
+  }, {
+    "participantId" : "60",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Kaja",
+      "lastName" : "ZIELONKA",
+      "fullName" : "ZIELONKA, Kaja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337539"
+  }, {
+    "participantId" : "61",
+    "club" : "Budowlani Torun",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Karolina",
+      "lastName" : "ZURAWSKA",
+      "fullName" : "ZURAWSKA, Karolina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340238"
+  } ]
+}

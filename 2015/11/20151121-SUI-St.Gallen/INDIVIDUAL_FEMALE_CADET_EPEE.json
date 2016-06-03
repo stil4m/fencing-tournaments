@@ -1,0 +1,634 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9210-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "39",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "38",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "34",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 34,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 35,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 36,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 37,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : null,
+    "participantId" : "5",
+    "abandon" : true
+  }, {
+    "position" : 22,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "LUG Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alessia",
+      "lastName" : "BALMELLI",
+      "fullName" : "BALMELLI, Alessia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312658"
+  }, {
+    "participantId" : "2",
+    "club" : "SEVM Vevey",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Victoria",
+      "lastName" : "BOSCHERINI",
+      "fullName" : "BOSCHERINI, Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323274"
+  }, {
+    "participantId" : "3",
+    "club" : "CAL Lausanne",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Audrey",
+      "lastName" : "BOUILLANT",
+      "fullName" : "BOUILLANT, Audrey"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310831"
+  }, {
+    "participantId" : "4",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Maren",
+      "lastName" : "BUERGIN",
+      "fullName" : "BUERGIN, Maren"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337537"
+  }, {
+    "participantId" : "5",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "BURGER",
+      "fullName" : "BURGER, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311520"
+  }, {
+    "participantId" : "6",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Isabelle",
+      "lastName" : "BURKHARD",
+      "fullName" : "BURKHARD, Isabelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349248"
+  }, {
+    "participantId" : "7",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Allana",
+      "lastName" : "BUU HOANG",
+      "fullName" : "BUU HOANG, Allana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310276"
+  }, {
+    "participantId" : "8",
+    "club" : "LUG Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Vera",
+      "lastName" : "CROVETTO",
+      "fullName" : "CROVETTO, Vera"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317632"
+  }, {
+    "participantId" : "9",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Dalia",
+      "lastName" : "DRATVA",
+      "fullName" : "DRATVA, Dalia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325495"
+  }, {
+    "participantId" : "10",
+    "club" : "LUG Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lucrezia",
+      "lastName" : "EBERHARD",
+      "fullName" : "EBERHARD, Lucrezia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317027"
+  }, {
+    "participantId" : "11",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Josephine",
+      "lastName" : "EBERHARDT",
+      "fullName" : "EBERHARDT, Josephine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310412"
+  }, {
+    "participantId" : "12",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Doriane",
+      "lastName" : "ECKERT",
+      "fullName" : "ECKERT, Doriane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311199"
+  }, {
+    "participantId" : "13",
+    "club" : "FECB Baden",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Hanna",
+      "lastName" : "ENKERLI",
+      "fullName" : "ENKERLI, Hanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347488"
+  }, {
+    "participantId" : "14",
+    "club" : "AFCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "EWALD",
+      "fullName" : "EWALD, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355449"
+  }, {
+    "participantId" : "15",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Angeline",
+      "lastName" : "FAVRE",
+      "fullName" : "FAVRE, Angeline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309826"
+  }, {
+    "participantId" : "16",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Aurore",
+      "lastName" : "FAVRE",
+      "fullName" : "FAVRE, Aurore"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37134",
+    "fwwId" : "310619"
+  }, {
+    "participantId" : "17",
+    "club" : "SAL Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Emilie",
+      "lastName" : "GABUTTI",
+      "fullName" : "GABUTTI, Emilie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319903"
+  }, {
+    "participantId" : "18",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Morella",
+      "lastName" : "GIGLI",
+      "fullName" : "GIGLI, Morella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317602"
+  }, {
+    "participantId" : "19",
+    "club" : "FGK Küssnacht",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Natascha",
+      "lastName" : "GRAF",
+      "fullName" : "GRAF, Natascha"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311042"
+  }, {
+    "participantId" : "20",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Aline",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Aline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332122"
+  }, {
+    "participantId" : "21",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Fiona",
+      "lastName" : "HATZ",
+      "fullName" : "HATZ, Fiona"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355767"
+  }, {
+    "participantId" : "22",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Sofia",
+      "lastName" : "JOIA",
+      "fullName" : "JOIA, Sofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317448"
+  }, {
+    "participantId" : "23",
+    "club" : "FGL Luzern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "JURT",
+      "fullName" : "JURT, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344153"
+  }, {
+    "participantId" : "24",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Sofie",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Sofie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "325808"
+  }, {
+    "participantId" : "25",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Rebecca",
+      "lastName" : "KESSLER",
+      "fullName" : "KESSLER, Rebecca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332503"
+  }, {
+    "participantId" : "26",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alessandra",
+      "lastName" : "LUNA",
+      "fullName" : "LUNA, Alessandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123812"
+  }, {
+    "participantId" : "27",
+    "club" : "CES Sierre",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Solene",
+      "lastName" : "MASSEREY",
+      "fullName" : "MASSEREY, Solene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311048"
+  }, {
+    "participantId" : "28",
+    "club" : "SEVM Vevey",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Celine",
+      "lastName" : "MOTTAZ",
+      "fullName" : "MOTTAZ, Celine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310319"
+  }, {
+    "participantId" : "29",
+    "club" : "CEM Morges",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alyssa",
+      "lastName" : "PASCHE",
+      "fullName" : "PASCHE, Alyssa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322255"
+  }, {
+    "participantId" : "30",
+    "club" : "SAL Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Claire",
+      "lastName" : "PETRINI",
+      "fullName" : "PETRINI, Claire"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317655"
+  }, {
+    "participantId" : "31",
+    "club" : "CAL Lausanne",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Anne Clémence",
+      "lastName" : "PIVETEAU",
+      "fullName" : "PIVETEAU, Anne Clémence"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "337877"
+  }, {
+    "participantId" : "32",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "RIGERT",
+      "fullName" : "RIGERT, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326998"
+  }, {
+    "participantId" : "33",
+    "club" : "LUG Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Giulia",
+      "lastName" : "RIZZELLO",
+      "fullName" : "RIZZELLO, Giulia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318730"
+  }, {
+    "participantId" : "34",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Louisa",
+      "lastName" : "ROGNON",
+      "fullName" : "ROGNON, Louisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310363"
+  }, {
+    "participantId" : "35",
+    "club" : "LUG Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Virginia",
+      "lastName" : "ROMEO",
+      "fullName" : "ROMEO, Virginia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328900"
+  }, {
+    "participantId" : "36",
+    "club" : "Chevaliers 1700",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Galadrielle Tünde",
+      "lastName" : "SAPIN",
+      "fullName" : "SAPIN, Galadrielle Tünde"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332412"
+  }, {
+    "participantId" : "37",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Ronja",
+      "lastName" : "SCHIBLER",
+      "fullName" : "SCHIBLER, Ronja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309997"
+  }, {
+    "participantId" : "38",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Katrina",
+      "lastName" : "STURMHOEFEL",
+      "fullName" : "STURMHOEFEL, Katrina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "311150"
+  }, {
+    "participantId" : "39",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Elin",
+      "lastName" : "VILLIGER",
+      "fullName" : "VILLIGER, Elin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "317029"
+  } ]
+}

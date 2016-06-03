@@ -1,0 +1,221 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11548-15",
+    "fieId" : {
+      "year" : 2016,
+      "id" : "138"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "BRENDLE",
+      "fullName" : "BRENDLE, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22919"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jochen",
+      "lastName" : "FENDT",
+      "fullName" : "FENDT, Jochen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "39875"
+  }, {
+    "participantId" : "3",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Axel",
+      "lastName" : "GANZ",
+      "fullName" : "GANZ, Axel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "21020"
+  }, {
+    "participantId" : "4",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "KNAUER",
+      "fullName" : "KNAUER, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87247"
+  }, {
+    "participantId" : "5",
+    "club" : "FG Karlsruhe 1978",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "27218"
+  }, {
+    "participantId" : "6",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "KURZ",
+      "fullName" : "KURZ, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "31853"
+  }, {
+    "participantId" : "7",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "LECHNER",
+      "fullName" : "LECHNER, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "20741"
+  }, {
+    "participantId" : "8",
+    "club" : "FC TuS Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "ÖTTL",
+      "fullName" : "ÖTTL, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321218"
+  }, {
+    "participantId" : "9",
+    "club" : "LILLE VAUBAN",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Pierre",
+      "lastName" : "PUPPATTI",
+      "fullName" : "PUPPATTI, Pierre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "101476"
+  }, {
+    "participantId" : "10",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "81347"
+  }, {
+    "participantId" : "11",
+    "club" : "VFL Kirchheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "35325"
+  }, {
+    "participantId" : "12",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentin",
+      "lastName" : "SCHOBER",
+      "fullName" : "SCHOBER, Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "823"
+  }, {
+    "participantId" : "13",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Achim",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Achim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2708"
+  } ]
+}

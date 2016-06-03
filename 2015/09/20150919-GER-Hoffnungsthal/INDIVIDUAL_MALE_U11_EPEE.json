@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3010-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "CONRADS",
+      "fullName" : "CONRADS, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322937"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "LUDEWIG",
+      "fullName" : "LUDEWIG, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348853"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "MASOUMIAN",
+      "fullName" : "MASOUMIAN, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308364"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilian",
+      "lastName" : "MOTYKA",
+      "fullName" : "MOTYKA, Emilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335553"
+  }, {
+    "participantId" : "5",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339593"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kim",
+      "lastName" : "NIEZOLDT",
+      "fullName" : "NIEZOLDT, Kim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342035"
+  }, {
+    "participantId" : "7",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils Luis",
+      "lastName" : "PASSENHEIM",
+      "fullName" : "PASSENHEIM, Nils Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349809"
+  }, {
+    "participantId" : "8",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vince Gaspar",
+      "lastName" : "SAUCEDO-SZENCI",
+      "fullName" : "SAUCEDO-SZENCI, Vince Gaspar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347171"
+  }, {
+    "participantId" : "9",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rafael",
+      "lastName" : "SCHUMACHER",
+      "fullName" : "SCHUMACHER, Rafael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344354"
+  }, {
+    "participantId" : "10",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "STANGE",
+      "fullName" : "STANGE, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344028"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Milan",
+      "lastName" : "STEINBACH",
+      "fullName" : "STEINBACH, Milan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344448"
+  }, {
+    "participantId" : "12",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "VELTRUP",
+      "fullName" : "VELTRUP, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337315"
+  }, {
+    "participantId" : "13",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Milan",
+      "lastName" : "WITZEL",
+      "fullName" : "WITZEL, Milan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329445"
+  } ]
+}

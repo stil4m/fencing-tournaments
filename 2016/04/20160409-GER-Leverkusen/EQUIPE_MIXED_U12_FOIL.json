@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2228-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "teamName" : "DUISBURGER FK",
+    "members" : [ {
+      "firstName" : "Bartolomé",
+      "lastName" : "STUBENRAUCH",
+      "fullName" : "STUBENRAUCH, Bartolomé"
+    }, {
+      "firstName" : "Keyan",
+      "lastName" : "KORKMAZ",
+      "fullName" : "KORKMAZ, Keyan"
+    }, {
+      "firstName" : "Julius",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Julius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "888"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : [ {
+      "firstName" : "Kilian",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Kilian"
+    }, {
+      "firstName" : "Hendrik",
+      "lastName" : "CÜPPERS",
+      "fullName" : "CÜPPERS, Hendrik"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "ROMMER",
+      "fullName" : "ROMMER, Laura"
+    }, {
+      "firstName" : "Jule",
+      "lastName" : "ISERN",
+      "fullName" : "ISERN, Jule"
+    } ],
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Alexander",
+      "lastName" : "HILBRANDT",
+      "fullName" : "HILBRANDT, Alexander"
+    }, {
+      "firstName" : "Lennox",
+      "lastName" : "VAN SETTEN VAN DER MEER",
+      "fullName" : "VAN SETTEN VAN DER MEER, Lennox"
+    }, {
+      "firstName" : "Vivian Marie",
+      "lastName" : "HENDLER",
+      "fullName" : "HENDLER, Vivian Marie"
+    }, {
+      "firstName" : "Renee",
+      "lastName" : "OYMANN",
+      "fullName" : "OYMANN, Renee"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS 2",
+    "members" : [ {
+      "firstName" : "Finn",
+      "lastName" : "MEIER-EBERT",
+      "fullName" : "MEIER-EBERT, Finn"
+    }, {
+      "firstName" : "Phil",
+      "lastName" : "HUSKE",
+      "fullName" : "HUSKE, Phil"
+    }, {
+      "firstName" : "Ben",
+      "lastName" : "HÖRNER",
+      "fullName" : "HÖRNER, Ben"
+    }, {
+      "firstName" : "Nicole",
+      "lastName" : "HARTFELDER",
+      "fullName" : "HARTFELDER, Nicole"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119111"
+  }, {
+    "participantId" : "5",
+    "club" : "Kölner FK",
+    "country" : "GER",
+    "teamName" : "KÖLNER FK",
+    "members" : [ {
+      "firstName" : "Carl",
+      "lastName" : "BOB",
+      "fullName" : "BOB, Carl"
+    }, {
+      "firstName" : "Luis Arndt",
+      "lastName" : "JANSSEN",
+      "fullName" : "JANSSEN, Luis Arndt"
+    }, {
+      "firstName" : "Emil",
+      "lastName" : "BOES",
+      "fullName" : "BOES, Emil"
+    }, {
+      "firstName" : "Carl Wieland",
+      "lastName" : "JANSSEN",
+      "fullName" : "JANSSEN, Carl Wieland"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52922"
+  }, {
+    "participantId" : "6",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "teamName" : "VFL KLEVE",
+    "members" : [ {
+      "firstName" : "Chris",
+      "lastName" : "VERFONDERN",
+      "fullName" : "VERFONDERN, Chris"
+    }, {
+      "firstName" : "Jorge",
+      "lastName" : "THÖNNES",
+      "fullName" : "THÖNNES, Jorge"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "LOOSCHELDERS",
+      "fullName" : "LOOSCHELDERS, Charlotte"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119504"
+  } ]
+}

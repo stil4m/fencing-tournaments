@@ -1,0 +1,282 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1404-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "16",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "ANDRES",
+      "fullName" : "ANDRES, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338614"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308665"
+  }, {
+    "participantId" : "3",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henrik",
+      "lastName" : "BÜLAU",
+      "fullName" : "BÜLAU, Henrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311950"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Till Julius",
+      "lastName" : "GIESE",
+      "fullName" : "GIESE, Till Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121463"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laurenz",
+      "lastName" : "HÄUBER",
+      "fullName" : "HÄUBER, Laurenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314753"
+  }, {
+    "participantId" : "6",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "HENZLER",
+      "fullName" : "HENZLER, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325009"
+  }, {
+    "participantId" : "7",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "HOGENMÜLLER",
+      "fullName" : "HOGENMÜLLER, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330349"
+  }, {
+    "participantId" : "8",
+    "club" : "TSF Ditzingen",
+    "country" : "MEX",
+    "name" : {
+      "firstName" : "Carlos",
+      "lastName" : "JIMENEZ",
+      "fullName" : "JIMENEZ, Carlos"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321238"
+  }, {
+    "participantId" : "9",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "KALTSAMIS",
+      "fullName" : "KALTSAMIS, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326897"
+  }, {
+    "participantId" : "10",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phong",
+      "lastName" : "KLUMPP",
+      "fullName" : "KLUMPP, Phong"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348117"
+  }, {
+    "participantId" : "11",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "LANDGRAF",
+      "fullName" : "LANDGRAF, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319302"
+  }, {
+    "participantId" : "12",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "PFANDER",
+      "fullName" : "PFANDER, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308403"
+  }, {
+    "participantId" : "13",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cedric",
+      "lastName" : "REISER",
+      "fullName" : "REISER, Cedric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121471"
+  }, {
+    "participantId" : "14",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannes",
+      "lastName" : "SCHMID",
+      "fullName" : "SCHMID, Hannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121464"
+  }, {
+    "participantId" : "15",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "SCHMID",
+      "fullName" : "SCHMID, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329415"
+  }, {
+    "participantId" : "16",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dolf",
+      "lastName" : "VON WIETERSHEIM",
+      "fullName" : "VON WIETERSHEIM, Dolf"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343584"
+  }, {
+    "participantId" : "17",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "WICHMANN",
+      "fullName" : "WICHMANN, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330351"
+  } ]
+}

@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12731-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlene",
+      "lastName" : "BEST",
+      "fullName" : "BEST, Marlene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333659"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "BLESSING",
+      "fullName" : "BLESSING, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330204"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Ansbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "DANIELIS",
+      "fullName" : "DANIELIS, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349198"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bad Kissingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "HAMBURG",
+      "fullName" : "HAMBURG, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319312"
+  }, {
+    "participantId" : "5",
+    "club" : "Post SV Nürnberg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vivienne",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Vivienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353497"
+  } ]
+}

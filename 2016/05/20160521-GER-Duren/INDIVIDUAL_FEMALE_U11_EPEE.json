@@ -1,0 +1,118 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4735-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "AMIAN",
+      "fullName" : "AMIAN, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349239"
+  }, {
+    "participantId" : "2",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maya",
+      "lastName" : "BIENEFELD",
+      "fullName" : "BIENEFELD, Maya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349273"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Juna",
+      "lastName" : "GONANO",
+      "fullName" : "GONANO, Juna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341965"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilith",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Lilith"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361287"
+  }, {
+    "participantId" : "5",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alrun",
+      "lastName" : "RIDDER",
+      "fullName" : "RIDDER, Alrun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359893"
+  }, {
+    "participantId" : "6",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "SECER",
+      "fullName" : "SECER, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356079"
+  }, {
+    "participantId" : "7",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "TUTTLA",
+      "fullName" : "TUTTLA, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354283"
+  } ]
+}

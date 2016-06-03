@@ -1,0 +1,285 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1305"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Sarra",
+      "lastName" : "BESBES",
+      "fullName" : "BESBES, Sarra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "12625",
+    "fwwId" : "32119"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Ayah",
+      "lastName" : "MAHDY",
+      "fullName" : "MAHDY, Ayah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "26855",
+    "fwwId" : "117847"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Nourhan",
+      "lastName" : "DESOUKY",
+      "fullName" : "DESOUKY, Nourhan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37688",
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Nardin",
+      "lastName" : "EHAB",
+      "fullName" : "EHAB, Nardin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34912",
+    "fwwId" : "338436"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Dorra",
+      "lastName" : "BEN JABALLAH",
+      "fullName" : "BEN JABALLAH, Dorra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "23074",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "CGO",
+    "name" : {
+      "firstName" : "Arsenelle",
+      "lastName" : "BABELA",
+      "fullName" : "BABELA, Arsenelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "38675",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Juliana",
+      "lastName" : "BARRETT",
+      "fullName" : "BARRETT, Juliana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28959",
+    "fwwId" : "304679"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Giselle",
+      "lastName" : "VICATOS",
+      "fullName" : "VICATOS, Giselle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "18346",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Tamryn",
+      "lastName" : "CARFOOT",
+      "fullName" : "CARFOOT, Tamryn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "27366",
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Aphiwe",
+      "lastName" : "TUKU",
+      "fullName" : "TUKU, Aphiwe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32964",
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Shirwit",
+      "lastName" : "GABER",
+      "fullName" : "GABER, Shirwit"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34915",
+    "fwwId" : "338439"
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Nesrine",
+      "lastName" : "GHRIB",
+      "fullName" : "GHRIB, Nesrine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "32451",
+    "fwwId" : "325319"
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Maya",
+      "lastName" : "MANSOURI",
+      "fullName" : "MANSOURI, Maya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "23070",
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "RWA",
+    "name" : {
+      "firstName" : "Tufaha",
+      "lastName" : "UWIHOREYE",
+      "fullName" : "UWIHOREYE, Tufaha"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "35062",
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "GHA",
+    "name" : {
+      "firstName" : "Yasmine",
+      "lastName" : "FOSU",
+      "fullName" : "FOSU, Yasmine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33442",
+    "fwwId" : "334407"
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "CGO",
+    "name" : {
+      "firstName" : "Julia Chancela",
+      "lastName" : "MASUAMA DIANZENZA",
+      "fullName" : "MASUAMA DIANZENZA, Julia Chancela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "36598",
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "COD",
+    "name" : {
+      "firstName" : "Gracia",
+      "lastName" : "MAKWANYA NYABILEKE",
+      "fullName" : "MAKWANYA NYABILEKE, Gracia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "27676",
+    "fwwId" : null
+  } ]
+}

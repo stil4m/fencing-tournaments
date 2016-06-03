@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12085-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Maestro's Klup Team",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "BÖING",
+      "fullName" : "BÖING, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358610"
+  }, {
+    "participantId" : "2",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "HOFMANN",
+      "fullName" : "HOFMANN, Emma"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358609"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luis",
+      "lastName" : "MARTIN-SCHÜTZ",
+      "fullName" : "MARTIN-SCHÜTZ, Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353996"
+  }, {
+    "participantId" : "4",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cecile",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Cecile"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348285"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laureano",
+      "lastName" : "MEHNER",
+      "fullName" : "MEHNER, Laureano"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353997"
+  }, {
+    "participantId" : "6",
+    "club" : "Schermacademie Zair",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Rachika",
+      "lastName" : "YOSHIMORI",
+      "fullName" : "YOSHIMORI, Rachika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356151"
+  }, {
+    "participantId" : "7",
+    "club" : "s.v. Tréville",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "DIJKSTRA",
+      "fullName" : "DIJKSTRA, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358706"
+  } ]
+}

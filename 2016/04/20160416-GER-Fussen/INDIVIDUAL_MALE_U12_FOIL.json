@@ -1,0 +1,238 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4525-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "ALTENRIEDER",
+      "fullName" : "ALTENRIEDER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318563"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "BÖCK",
+      "fullName" : "BÖCK, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333782"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Balint",
+      "lastName" : "CSONKA",
+      "fullName" : "CSONKA, Balint"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350993"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331695"
+  }, {
+    "participantId" : "5",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "GALUSCHKY",
+      "fullName" : "GALUSCHKY, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354437"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "KIESSLING",
+      "fullName" : "KIESSLING, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306974"
+  }, {
+    "participantId" : "7",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "KLOSTERMANN",
+      "fullName" : "KLOSTERMANN, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358343"
+  }, {
+    "participantId" : "8",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Edgar",
+      "lastName" : "SCHÄFF",
+      "fullName" : "SCHÄFF, Edgar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362758"
+  }, {
+    "participantId" : "9",
+    "club" : "Sportfechten Laim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "SCHIESSER",
+      "fullName" : "SCHIESSER, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350007"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331699"
+  }, {
+    "participantId" : "11",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Severin",
+      "lastName" : "SCHÖN",
+      "fullName" : "SCHÖN, Severin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333789"
+  }, {
+    "participantId" : "12",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bjarne",
+      "lastName" : "WOLTER",
+      "fullName" : "WOLTER, Bjarne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355312"
+  }, {
+    "participantId" : "13",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dominik",
+      "lastName" : "HOLM",
+      "fullName" : "HOLM, Dominik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335626"
+  }, {
+    "participantId" : "14",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "PIXIS",
+      "fullName" : "PIXIS, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355261"
+  }, {
+    "participantId" : "15",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonte",
+      "lastName" : "TATZKO",
+      "fullName" : "TATZKO, Jonte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358354"
+  } ]
+}

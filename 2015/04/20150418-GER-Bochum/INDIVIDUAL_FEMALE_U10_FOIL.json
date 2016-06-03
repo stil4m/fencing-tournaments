@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2866-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annemarie",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Annemarie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348158"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kenya Bo",
+      "lastName" : "HÖNINGER",
+      "fullName" : "HÖNINGER, Kenya Bo"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329350"
+  }, {
+    "participantId" : "3",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jule",
+      "lastName" : "ISERN",
+      "fullName" : "ISERN, Jule"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348161"
+  }, {
+    "participantId" : "4",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mareille",
+      "lastName" : "MARX",
+      "fullName" : "MARX, Mareille"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349486"
+  }, {
+    "participantId" : "5",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rubina Rose",
+      "lastName" : "GESCH",
+      "fullName" : "GESCH, Rubina Rose"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348770"
+  }, {
+    "participantId" : "6",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexia",
+      "lastName" : "HOFFMANN",
+      "fullName" : "HOFFMANN, Alexia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349352"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa Sophie",
+      "lastName" : "HOPPE",
+      "fullName" : "HOPPE, Theresa Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342307"
+  } ]
+}

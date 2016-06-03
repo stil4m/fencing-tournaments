@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12870-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "2",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "teamName" : "ETUF ESSEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "49826"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "4",
+    "club" : "Nordrhein",
+    "country" : "GER",
+    "teamName" : "STG DUISBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "353675"
+  } ]
+}

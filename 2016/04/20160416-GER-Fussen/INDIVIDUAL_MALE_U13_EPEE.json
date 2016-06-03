@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5193-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Nördlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dorian",
+      "lastName" : "JAUMANN",
+      "fullName" : "JAUMANN, Dorian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317898"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Ingolstadt",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Milosz",
+      "lastName" : "JEDZINIAK",
+      "fullName" : "JEDZINIAK, Milosz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355162"
+  }, {
+    "participantId" : "3",
+    "club" : "VFL Kaufering",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327346"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klemens",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Klemens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317997"
+  } ]
+}

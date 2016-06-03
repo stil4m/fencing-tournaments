@@ -1,0 +1,870 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2917-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "ALLEMAGNE",
+    "members" : [ {
+      "firstName" : "Christoph",
+      "lastName" : "KNEIP",
+      "fullName" : "KNEIP, Christoph"
+    }, {
+      "firstName" : "Jörg",
+      "lastName" : "FIEDLER",
+      "fullName" : "FIEDLER, Jörg"
+    }, {
+      "firstName" : "Constantin",
+      "lastName" : "BÖHM",
+      "fullName" : "BÖHM, Constantin"
+    }, {
+      "firstName" : "Stephan",
+      "lastName" : "REIN",
+      "fullName" : "REIN, Stephan"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "AUS",
+    "teamName" : "AUSTRALIE",
+    "members" : [ {
+      "firstName" : "James",
+      "lastName" : "LEWIS",
+      "fullName" : "LEWIS, James"
+    }, {
+      "firstName" : "Jeremy",
+      "lastName" : "SHELLEY",
+      "fullName" : "SHELLEY, Jeremy"
+    }, {
+      "firstName" : "Ross",
+      "lastName" : "AUSTEN",
+      "fullName" : "AUSTEN, Ross"
+    }, {
+      "firstName" : "Kristian",
+      "lastName" : "RADFORD",
+      "fullName" : "RADFORD, Kristian"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "BLR",
+    "teamName" : "BELARUS",
+    "members" : [ {
+      "firstName" : "Pavel",
+      "lastName" : "DUBOUSKI",
+      "fullName" : "DUBOUSKI, Pavel"
+    }, {
+      "firstName" : "Dzianis",
+      "lastName" : "PAULOUSKI",
+      "fullName" : "PAULOUSKI, Dzianis"
+    }, {
+      "firstName" : "Yavgen",
+      "lastName" : "BORISEVICH",
+      "fullName" : "BORISEVICH, Yavgen"
+    }, {
+      "firstName" : "Viacheslav",
+      "lastName" : "KARPOV",
+      "fullName" : "KARPOV, Viacheslav"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15797"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "BRA",
+    "teamName" : "BRESIL",
+    "members" : [ {
+      "firstName" : "Nicolas",
+      "lastName" : "FERREIRA",
+      "fullName" : "FERREIRA, Nicolas"
+    }, {
+      "firstName" : "Athos",
+      "lastName" : "SCHWANTES",
+      "fullName" : "SCHWANTES, Athos"
+    }, {
+      "firstName" : "Alexandre",
+      "lastName" : "CAMARGO",
+      "fullName" : "CAMARGO, Alexandre"
+    }, {
+      "firstName" : "Guilherme",
+      "lastName" : "MELARAGNO",
+      "fullName" : "MELARAGNO, Guilherme"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "CAN",
+    "teamName" : "CANADA",
+    "members" : [ {
+      "firstName" : "Vincent",
+      "lastName" : "PELLETIER",
+      "fullName" : "PELLETIER, Vincent"
+    }, {
+      "firstName" : "Jean",
+      "lastName" : "LELION",
+      "fullName" : "LELION, Jean"
+    }, {
+      "firstName" : "Hugues",
+      "lastName" : "BOISVERT-SIMARD",
+      "fullName" : "BOISVERT-SIMARD, Hugues"
+    }, {
+      "firstName" : "Laurie",
+      "lastName" : "SHONG",
+      "fullName" : "SHONG, Laurie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15802"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "CHN",
+    "teamName" : "CHINE",
+    "members" : [ {
+      "firstName" : "Yunlong",
+      "lastName" : "JIAO",
+      "fullName" : "JIAO, Yunlong"
+    }, {
+      "firstName" : "Gaofeng",
+      "lastName" : "SHI",
+      "fullName" : "SHI, Gaofeng"
+    }, {
+      "firstName" : "Chao",
+      "lastName" : "DONG",
+      "fullName" : "DONG, Chao"
+    }, {
+      "firstName" : "Zhen",
+      "lastName" : "LI",
+      "fullName" : "LI, Zhen"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "KOR",
+    "teamName" : "COREE",
+    "members" : [ {
+      "firstName" : "Seung Gu",
+      "lastName" : "KIM",
+      "fullName" : "KIM, Seung Gu"
+    }, {
+      "firstName" : "Kyoungdoo",
+      "lastName" : "PARK",
+      "fullName" : "PARK, Kyoungdoo"
+    }, {
+      "firstName" : "Seunghwa",
+      "lastName" : "JUNG",
+      "fullName" : "JUNG, Seunghwa"
+    }, {
+      "firstName" : "Youngjun",
+      "lastName" : "KWEON",
+      "fullName" : "KWEON, Youngjun"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "DEN",
+    "teamName" : "DANEMARK",
+    "members" : [ {
+      "firstName" : "Christian Schack",
+      "lastName" : "LINNEMANN",
+      "fullName" : "LINNEMANN, Christian Schack"
+    }, {
+      "firstName" : "Troels Christian",
+      "lastName" : "ROBL",
+      "fullName" : "ROBL, Troels Christian"
+    }, {
+      "firstName" : "Patrick",
+      "lastName" : "JØRGENSEN",
+      "fullName" : "JØRGENSEN, Patrick"
+    }, {
+      "firstName" : "Johannes Kristian",
+      "lastName" : "OLSEN",
+      "fullName" : "OLSEN, Johannes Kristian"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "EGY",
+    "teamName" : "EGYPTE",
+    "members" : [ {
+      "firstName" : "Mahmoud",
+      "lastName" : "MOHSEN",
+      "fullName" : "MOHSEN, Mahmoud"
+    }, {
+      "firstName" : "Mohannad",
+      "lastName" : "SAIF",
+      "fullName" : "SAIF, Mohannad"
+    }, {
+      "firstName" : "Ayman",
+      "lastName" : "FAYEZ",
+      "fullName" : "FAYEZ, Ayman"
+    }, {
+      "firstName" : "Ahmed",
+      "lastName" : "NABIL",
+      "fullName" : "NABIL, Ahmed"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "ESP",
+    "teamName" : "ESPAGNE",
+    "members" : [ {
+      "firstName" : "Alvaro",
+      "lastName" : "IBANEZ",
+      "fullName" : "IBANEZ, Alvaro"
+    }, {
+      "firstName" : "Yulen",
+      "lastName" : "PEREIRA",
+      "fullName" : "PEREIRA, Yulen"
+    }, {
+      "firstName" : "Jose Luis",
+      "lastName" : "ABAJO",
+      "fullName" : "ABAJO, Jose Luis"
+    }, {
+      "firstName" : "Miguel",
+      "lastName" : "MORATILLA",
+      "fullName" : "MORATILLA, Miguel"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "EST",
+    "teamName" : "ESTONIE",
+    "members" : [ {
+      "firstName" : "Nikolai",
+      "lastName" : "NOVOSJOLOV",
+      "fullName" : "NOVOSJOLOV, Nikolai"
+    }, {
+      "firstName" : "Juri",
+      "lastName" : "SALM",
+      "fullName" : "SALM, Juri"
+    }, {
+      "firstName" : "Marno",
+      "lastName" : "ALLIKA",
+      "fullName" : "ALLIKA, Marno"
+    }, {
+      "firstName" : "Sten",
+      "lastName" : "PRIINITS",
+      "fullName" : "PRIINITS, Sten"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "FIN",
+    "teamName" : "FINLANDE",
+    "members" : [ {
+      "firstName" : "Kasper",
+      "lastName" : "ROSLANDER",
+      "fullName" : "ROSLANDER, Kasper"
+    }, {
+      "firstName" : "Niko",
+      "lastName" : "VUORINEN",
+      "fullName" : "VUORINEN, Niko"
+    }, {
+      "firstName" : "Alexander",
+      "lastName" : "LAHTINEN",
+      "fullName" : "LAHTINEN, Alexander"
+    }, {
+      "firstName" : "Teemu",
+      "lastName" : "SEEVE",
+      "fullName" : "SEEVE, Teemu"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "FRA",
+    "teamName" : "FRANCE",
+    "members" : [ {
+      "firstName" : "Gauthier",
+      "lastName" : "GRUMIER",
+      "fullName" : "GRUMIER, Gauthier"
+    }, {
+      "firstName" : "Jean-Michel",
+      "lastName" : "LUCENAY",
+      "fullName" : "LUCENAY, Jean-Michel"
+    }, {
+      "firstName" : "Yannick",
+      "lastName" : "BOREL",
+      "fullName" : "BOREL, Yannick"
+    }, {
+      "firstName" : "Daniel",
+      "lastName" : "JERENT",
+      "fullName" : "JERENT, Daniel"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15817"
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "HKG",
+    "teamName" : "HONG KONG CHINE",
+    "members" : [ {
+      "firstName" : "Clarence Ka Tsun",
+      "lastName" : "LAI",
+      "fullName" : "LAI, Clarence Ka Tsun"
+    }, {
+      "firstName" : "Shun Him Himson",
+      "lastName" : "YAU",
+      "fullName" : "YAU, Shun Him Himson"
+    }, {
+      "firstName" : "Kiu",
+      "lastName" : "FONG",
+      "fullName" : "FONG, Kiu"
+    }, {
+      "firstName" : "Ho Tin",
+      "lastName" : "NG",
+      "fullName" : "NG, Ho Tin"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "HUN",
+    "teamName" : "HONGRIE",
+    "members" : [ {
+      "firstName" : "Geza",
+      "lastName" : "IMRE",
+      "fullName" : "IMRE, Geza"
+    }, {
+      "firstName" : "Peter",
+      "lastName" : "SOMFAI",
+      "fullName" : "SOMFAI, Peter"
+    }, {
+      "firstName" : "Gabor",
+      "lastName" : "BOCZKO",
+      "fullName" : "BOCZKO, Gabor"
+    }, {
+      "firstName" : "Andras",
+      "lastName" : "REDLI",
+      "fullName" : "REDLI, Andras"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "IRI",
+    "teamName" : "IRAN",
+    "members" : [ {
+      "firstName" : "Mohammad",
+      "lastName" : "ESMAEILI",
+      "fullName" : "ESMAEILI, Mohammad"
+    }, {
+      "firstName" : "Taher",
+      "lastName" : "ASHOURI",
+      "fullName" : "ASHOURI, Taher"
+    }, {
+      "firstName" : "Mohammad Ali",
+      "lastName" : "KEYHANI",
+      "fullName" : "KEYHANI, Mohammad Ali"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15830"
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "ISR",
+    "teamName" : "ISRAEL",
+    "members" : [ {
+      "firstName" : "Yuval Shalom",
+      "lastName" : "FREILICH",
+      "fullName" : "FREILICH, Yuval Shalom"
+    }, {
+      "firstName" : "Ariel",
+      "lastName" : "DRIZIN",
+      "fullName" : "DRIZIN, Ariel"
+    }, {
+      "firstName" : "Grigori",
+      "lastName" : "BESKIN",
+      "fullName" : "BESKIN, Grigori"
+    }, {
+      "firstName" : "Ido",
+      "lastName" : "HERPE",
+      "fullName" : "HERPE, Ido"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15831"
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "ITA",
+    "teamName" : "ITALIE",
+    "members" : [ {
+      "firstName" : "Enrico",
+      "lastName" : "GAROZZO",
+      "fullName" : "GAROZZO, Enrico"
+    }, {
+      "firstName" : "Andrea",
+      "lastName" : "SANTARELLI",
+      "fullName" : "SANTARELLI, Andrea"
+    }, {
+      "firstName" : "Marco",
+      "lastName" : "FICHERA",
+      "fullName" : "FICHERA, Marco"
+    }, {
+      "firstName" : "Paolo",
+      "lastName" : "PIZZO",
+      "fullName" : "PIZZO, Paolo"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "JPN",
+    "teamName" : "JAPON",
+    "members" : [ {
+      "firstName" : "Satoru",
+      "lastName" : "UYAMA",
+      "fullName" : "UYAMA, Satoru"
+    }, {
+      "firstName" : "Inochi",
+      "lastName" : "ITO",
+      "fullName" : "ITO, Inochi"
+    }, {
+      "firstName" : "Kazuyasu",
+      "lastName" : "MINOBE",
+      "fullName" : "MINOBE, Kazuyasu"
+    }, {
+      "firstName" : "Masaru",
+      "lastName" : "YAMADA",
+      "fullName" : "YAMADA, Masaru"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "20",
+    "club" : null,
+    "country" : "KAZ",
+    "teamName" : "KAZAKHSTAN",
+    "members" : [ {
+      "firstName" : "Elmir",
+      "lastName" : "ALIMZHANOV",
+      "fullName" : "ALIMZHANOV, Elmir"
+    }, {
+      "firstName" : "Kirill",
+      "lastName" : "ZHAKUPOV",
+      "fullName" : "ZHAKUPOV, Kirill"
+    }, {
+      "firstName" : "Dmitriy",
+      "lastName" : "ALEXANIN",
+      "fullName" : "ALEXANIN, Dmitriy"
+    }, {
+      "firstName" : "Ivan",
+      "lastName" : "DERYABIN",
+      "fullName" : "DERYABIN, Ivan"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15836"
+  }, {
+    "participantId" : "21",
+    "club" : null,
+    "country" : "NOR",
+    "teamName" : "NORVEGE",
+    "members" : [ {
+      "firstName" : "Jonas",
+      "lastName" : "LUND",
+      "fullName" : "LUND, Jonas"
+    }, {
+      "firstName" : "Sturla",
+      "lastName" : "TORKILDSEN",
+      "fullName" : "TORKILDSEN, Sturla"
+    }, {
+      "firstName" : "Fredrik",
+      "lastName" : "BACKER",
+      "fullName" : "BACKER, Fredrik"
+    }, {
+      "firstName" : "Bartosz",
+      "lastName" : "PIASECKI",
+      "fullName" : "PIASECKI, Bartosz"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "22",
+    "club" : null,
+    "country" : "UZB",
+    "teamName" : "OUZBEKISTAN",
+    "members" : [ {
+      "firstName" : "Fayzulla",
+      "lastName" : "ALIMOV",
+      "fullName" : "ALIMOV, Fayzulla"
+    }, {
+      "firstName" : "Javokhirbek",
+      "lastName" : "NURMATOV",
+      "fullName" : "NURMATOV, Javokhirbek"
+    }, {
+      "firstName" : "Roman",
+      "lastName" : "ALEKSANDROV",
+      "fullName" : "ALEKSANDROV, Roman"
+    }, {
+      "firstName" : "Ruslan",
+      "lastName" : "KUDAYEV",
+      "fullName" : "KUDAYEV, Ruslan"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "23",
+    "club" : null,
+    "country" : "POL",
+    "teamName" : "POLOGNE",
+    "members" : [ {
+      "firstName" : "Krzysztof",
+      "lastName" : "MIKOLAJCZAK",
+      "fullName" : "MIKOLAJCZAK, Krzysztof"
+    }, {
+      "firstName" : "Radoslaw",
+      "lastName" : "ZAWROTNIAK",
+      "fullName" : "ZAWROTNIAK, Radoslaw"
+    }, {
+      "firstName" : "Filip",
+      "lastName" : "BRONISZEWSKI",
+      "fullName" : "BRONISZEWSKI, Filip"
+    }, {
+      "firstName" : "Mateusz",
+      "lastName" : "NYCZ",
+      "fullName" : "NYCZ, Mateusz"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "24",
+    "club" : null,
+    "country" : "CZE",
+    "teamName" : "REPUBLIQUE TCHEQUE",
+    "members" : [ {
+      "firstName" : "Pavel",
+      "lastName" : "PITRA",
+      "fullName" : "PITRA, Pavel"
+    }, {
+      "firstName" : "Richard",
+      "lastName" : "POKORNY",
+      "fullName" : "POKORNY, Richard"
+    }, {
+      "firstName" : "Jiri",
+      "lastName" : "BERAN",
+      "fullName" : "BERAN, Jiri"
+    }, {
+      "firstName" : "Martin",
+      "lastName" : "RUBES",
+      "fullName" : "RUBES, Martin"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "25",
+    "club" : null,
+    "country" : "RUS",
+    "teamName" : "RUSSIE",
+    "members" : [ {
+      "firstName" : "Anton",
+      "lastName" : "AVDEEV",
+      "fullName" : "AVDEEV, Anton"
+    }, {
+      "firstName" : "Pavel",
+      "lastName" : "SUKHOV",
+      "fullName" : "SUKHOV, Pavel"
+    }, {
+      "firstName" : "Vadim",
+      "lastName" : "ANOKHIN",
+      "fullName" : "ANOKHIN, Vadim"
+    }, {
+      "firstName" : "Sergey",
+      "lastName" : "KHODOS",
+      "fullName" : "KHODOS, Sergey"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "26",
+    "club" : null,
+    "country" : "SWE",
+    "teamName" : "SUEDE",
+    "members" : [ {
+      "firstName" : "Adam",
+      "lastName" : "LARSSON",
+      "fullName" : "LARSSON, Adam"
+    }, {
+      "firstName" : "Jakob",
+      "lastName" : "STYMNE",
+      "fullName" : "STYMNE, Jakob"
+    }, {
+      "firstName" : "Robin",
+      "lastName" : "KASE",
+      "fullName" : "KASE, Robin"
+    }, {
+      "firstName" : "Gabriel",
+      "lastName" : "ROSENBERG",
+      "fullName" : "ROSENBERG, Gabriel"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "27",
+    "club" : null,
+    "country" : "SUI",
+    "teamName" : "SUISSE",
+    "members" : [ {
+      "firstName" : "Max",
+      "lastName" : "HEINZER",
+      "fullName" : "HEINZER, Max"
+    }, {
+      "firstName" : "Benjamin",
+      "lastName" : "STEFFEN",
+      "fullName" : "STEFFEN, Benjamin"
+    }, {
+      "firstName" : "Peer",
+      "lastName" : "BORSKY",
+      "fullName" : "BORSKY, Peer"
+    }, {
+      "firstName" : "Fabian",
+      "lastName" : "KAUTER",
+      "fullName" : "KAUTER, Fabian"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "28",
+    "club" : null,
+    "country" : "TUR",
+    "teamName" : "TURQUIE",
+    "members" : [ {
+      "firstName" : "Orkun",
+      "lastName" : "GOKBULUT",
+      "fullName" : "GOKBULUT, Orkun"
+    }, {
+      "firstName" : "Murtaza Berkan",
+      "lastName" : "ANIL",
+      "fullName" : "ANIL, Murtaza Berkan"
+    }, {
+      "firstName" : "Okan",
+      "lastName" : "KARADENIZ",
+      "fullName" : "KARADENIZ, Okan"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "29",
+    "club" : null,
+    "country" : "USA",
+    "teamName" : "U.S.A.",
+    "members" : [ {
+      "firstName" : "Jimmy",
+      "lastName" : "MOODY",
+      "fullName" : "MOODY, Jimmy"
+    }, {
+      "firstName" : "Yeisser",
+      "lastName" : "RAMIREZ",
+      "fullName" : "RAMIREZ, Yeisser"
+    }, {
+      "firstName" : "Benjamin",
+      "lastName" : "BRATTON",
+      "fullName" : "BRATTON, Benjamin"
+    }, {
+      "firstName" : "Jason",
+      "lastName" : "PRYOR",
+      "fullName" : "PRYOR, Jason"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15879"
+  }, {
+    "participantId" : "30",
+    "club" : null,
+    "country" : "UKR",
+    "teamName" : "UKRAINE",
+    "members" : [ {
+      "firstName" : "Dmitriy",
+      "lastName" : "KARUCHENKO",
+      "fullName" : "KARUCHENKO, Dmitriy"
+    }, {
+      "firstName" : "Bogdan",
+      "lastName" : "NIKISHIN",
+      "fullName" : "NIKISHIN, Bogdan"
+    }, {
+      "firstName" : "Anatoliy",
+      "lastName" : "HEREY",
+      "fullName" : "HEREY, Anatoliy"
+    }, {
+      "firstName" : "Maksym",
+      "lastName" : "KHVOROST",
+      "fullName" : "KHVOROST, Maksym"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15877"
+  }, {
+    "participantId" : "31",
+    "club" : null,
+    "country" : "VEN",
+    "teamName" : "VENEZUELA",
+    "members" : [ {
+      "firstName" : "Silvio",
+      "lastName" : "FERNANDEZ",
+      "fullName" : "FERNANDEZ, Silvio"
+    }, {
+      "firstName" : "Aaron Jose",
+      "lastName" : "JIMENEZ ORTIZ",
+      "fullName" : "JIMENEZ ORTIZ, Aaron Jose"
+    }, {
+      "firstName" : "Kelvin",
+      "lastName" : "CANAS",
+      "fullName" : "CANAS, Kelvin"
+    }, {
+      "firstName" : "Francisco",
+      "lastName" : "LIMARDO",
+      "fullName" : "LIMARDO, Francisco"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15880"
+  } ]
+}

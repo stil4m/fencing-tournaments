@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5595-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : [ {
+      "firstName" : "Lars Benedikt",
+      "lastName" : "KÖCK",
+      "fullName" : "KÖCK, Lars Benedikt"
+    }, {
+      "firstName" : "David",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, David"
+    }, {
+      "firstName" : "Leon",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Leon"
+    }, {
+      "firstName" : "Daniel",
+      "lastName" : "PREIS",
+      "fullName" : "PREIS, Daniel"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : [ {
+      "firstName" : "Marc",
+      "lastName" : "MÜNSTER",
+      "fullName" : "MÜNSTER, Marc"
+    }, {
+      "firstName" : "Timmy",
+      "lastName" : "BAUER",
+      "fullName" : "BAUER, Timmy"
+    }, {
+      "firstName" : "Rémi",
+      "lastName" : "TERRASSON",
+      "fullName" : "TERRASSON, Rémi"
+    }, {
+      "firstName" : "Andreas",
+      "lastName" : "BLUHM",
+      "fullName" : "BLUHM, Andreas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35627"
+  }, {
+    "participantId" : "3",
+    "club" : "SSV Schrobenhausen",
+    "country" : "GER",
+    "teamName" : "SSV SCHROBENHAUSEN",
+    "members" : [ {
+      "firstName" : "Tobias",
+      "lastName" : "BEHRENDT",
+      "fullName" : "BEHRENDT, Tobias"
+    }, {
+      "firstName" : "Sergej",
+      "lastName" : "HANS",
+      "fullName" : "HANS, Sergej"
+    }, {
+      "firstName" : "Jürgen",
+      "lastName" : "HALBACH",
+      "fullName" : "HALBACH, Jürgen"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119321"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Grünwald",
+    "country" : "GER",
+    "teamName" : "TSV GRÜNWALD",
+    "members" : [ {
+      "firstName" : "Thorsten",
+      "lastName" : "BRANDT",
+      "fullName" : "BRANDT, Thorsten"
+    }, {
+      "firstName" : "Julian",
+      "lastName" : "BRANDT",
+      "fullName" : "BRANDT, Julian"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "BRANDT",
+      "fullName" : "BRANDT, Florian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119411"
+  } ]
+}

@@ -1,0 +1,150 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2871-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Franziska Luise",
+      "lastName" : "SCHEWE",
+      "fullName" : "SCHEWE, Franziska Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patricia Vera",
+      "lastName" : "SCHULENBURG",
+      "fullName" : "SCHULENBURG, Patricia Vera"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324096"
+  }, {
+    "participantId" : "3",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "TECKHAUS",
+      "fullName" : "TECKHAUS, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340999"
+  }, {
+    "participantId" : "4",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joelle",
+      "lastName" : "COUROUBLE",
+      "fullName" : "COUROUBLE, Joelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318950"
+  }, {
+    "participantId" : "5",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339910"
+  }, {
+    "participantId" : "6",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "HOLLINDERBÄUMER",
+      "fullName" : "HOLLINDERBÄUMER, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339909"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "JÜTTEN",
+      "fullName" : "JÜTTEN, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319032"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolin",
+      "lastName" : "SEIBEL",
+      "fullName" : "SEIBEL, Carolin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347792"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ruby",
+      "lastName" : "CANNEY",
+      "fullName" : "CANNEY, Ruby"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333272"
+  } ]
+}

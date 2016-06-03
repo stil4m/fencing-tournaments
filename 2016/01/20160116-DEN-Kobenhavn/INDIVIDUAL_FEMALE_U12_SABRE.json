@@ -1,0 +1,54 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10392-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FKT Viborg",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Ea",
+      "lastName" : "LYKKE HANSEN",
+      "fullName" : "LYKKE HANSEN, Ea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340797"
+  }, {
+    "participantId" : "2",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Louise",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Louise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359392"
+  }, {
+    "participantId" : "3",
+    "club" : "Roskilde FK",
+    "country" : "DEN",
+    "name" : {
+      "firstName" : "Kamille",
+      "lastName" : "HAUGE RASMUSSEN",
+      "fullName" : "HAUGE RASMUSSEN, Kamille"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336495"
+  } ]
+}

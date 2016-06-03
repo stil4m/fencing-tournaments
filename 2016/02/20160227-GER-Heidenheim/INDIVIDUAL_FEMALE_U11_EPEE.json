@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12726-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mariella",
+      "lastName" : "TOMIC",
+      "fullName" : "TOMIC, Mariella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329426"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emmy-Eleni",
+      "lastName" : "SCHRÖDER",
+      "fullName" : "SCHRÖDER, Emmy-Eleni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355433"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie Leonore",
+      "lastName" : "RANK",
+      "fullName" : "RANK, Marie Leonore"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336422"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "PAHLOW",
+      "fullName" : "PAHLOW, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351954"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "REMPFER",
+      "fullName" : "REMPFER, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318616"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolin",
+      "lastName" : "DIETRICH",
+      "fullName" : "DIETRICH, Carolin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349922"
+  } ]
+}

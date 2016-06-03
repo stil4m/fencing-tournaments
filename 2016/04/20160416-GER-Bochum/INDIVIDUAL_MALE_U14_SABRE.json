@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7252-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maik",
+      "lastName" : "CONNEMANN",
+      "fullName" : "CONNEMANN, Maik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336832"
+  }, {
+    "participantId" : "2",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "EIRICH",
+      "fullName" : "EIRICH, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328226"
+  }, {
+    "participantId" : "3",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malte Alexander",
+      "lastName" : "GRÜGER",
+      "fullName" : "GRÜGER, Malte Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342483"
+  }, {
+    "participantId" : "4",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jost",
+      "lastName" : "KASSEBAUM",
+      "fullName" : "KASSEBAUM, Jost"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340513"
+  }, {
+    "participantId" : "5",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "SCHÜTT",
+      "fullName" : "SCHÜTT, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349673"
+  } ]
+}

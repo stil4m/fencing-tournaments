@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5584-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TSG 2005 Bamberg",
+    "country" : "GER",
+    "teamName" : "TSG BAMBERG",
+    "members" : [ {
+      "firstName" : "Wiebke",
+      "lastName" : "BRANDT",
+      "fullName" : "BRANDT, Wiebke"
+    }, {
+      "firstName" : "Isabelle",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Isabelle"
+    }, {
+      "firstName" : "Amy",
+      "lastName" : "DEUBER",
+      "fullName" : "DEUBER, Amy"
+    }, {
+      "firstName" : "Luisa",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Luisa"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "TV Feldkirchen",
+    "country" : "GER",
+    "teamName" : "TV FELDKIRCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "MTV MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

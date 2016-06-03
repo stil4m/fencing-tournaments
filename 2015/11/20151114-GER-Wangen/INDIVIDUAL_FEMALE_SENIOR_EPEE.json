@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7214-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simone",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Simone"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "10165"
+  }, {
+    "participantId" : "2",
+    "club" : "KV Laupheim - Fechten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "HÖCHSTÄDTER",
+      "fullName" : "HÖCHSTÄDTER, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353773"
+  }, {
+    "participantId" : "3",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Barbara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89096"
+  }, {
+    "participantId" : "4",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Andrea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "83762"
+  }, {
+    "participantId" : "5",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stefanie",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Stefanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348932"
+  }, {
+    "participantId" : "6",
+    "club" : "AS Pro Vercelli",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Francesca",
+      "lastName" : "TAGLIABO",
+      "fullName" : "TAGLIABO, Francesca"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309451"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Memmingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "WÖLFLE",
+      "fullName" : "WÖLFLE, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315325"
+  } ]
+}

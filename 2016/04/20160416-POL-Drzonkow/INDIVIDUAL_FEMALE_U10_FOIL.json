@@ -1,0 +1,162 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11386-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Gabriela",
+      "lastName" : "BESSMANN",
+      "fullName" : "BESSMANN, Gabriela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359241"
+  }, {
+    "participantId" : "2",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Lucja",
+      "lastName" : "DUHA",
+      "fullName" : "DUHA, Lucja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362917"
+  }, {
+    "participantId" : "3",
+    "club" : "UKS Salle Gdansk",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Linda",
+      "lastName" : "FALKIEWICZ",
+      "fullName" : "FALKIEWICZ, Linda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359242"
+  }, {
+    "participantId" : "4",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "GORALCZYK",
+      "fullName" : "GORALCZYK, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338707"
+  }, {
+    "participantId" : "5",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Nikol",
+      "lastName" : "JUNELE",
+      "fullName" : "JUNELE, Nikol"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346061"
+  }, {
+    "participantId" : "6",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "LACHMANN",
+      "fullName" : "LACHMANN, Barbara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338992"
+  }, {
+    "participantId" : "7",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zofia",
+      "lastName" : "NOWAKOWSKA",
+      "fullName" : "NOWAKOWSKA, Zofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347946"
+  }, {
+    "participantId" : "8",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "WOJEWODZKA",
+      "fullName" : "WOJEWODZKA, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341078"
+  }, {
+    "participantId" : "9",
+    "club" : "Zjednoczeni Pabianice",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "WALCZYK",
+      "fullName" : "WALCZYK, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352292"
+  }, {
+    "participantId" : "10",
+    "club" : "WKS Kolejarz Wroclaw",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Bianka",
+      "lastName" : "TELATYNSKA",
+      "fullName" : "TELATYNSKA, Bianka"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333235"
+  } ]
+}

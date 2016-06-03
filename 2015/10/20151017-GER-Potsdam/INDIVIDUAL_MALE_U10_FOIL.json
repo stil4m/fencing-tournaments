@@ -1,0 +1,182 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8063-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Grajer",
+      "lastName" : "AMBARCUMJAN",
+      "fullName" : "AMBARCUMJAN, Grajer"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346069"
+  }, {
+    "participantId" : "2",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tristan",
+      "lastName" : "BRÜGGEMANN",
+      "fullName" : "BRÜGGEMANN, Tristan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348866"
+  }, {
+    "participantId" : "3",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silas",
+      "lastName" : "ERFURT",
+      "fullName" : "ERFURT, Silas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333725"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "KROMM",
+      "fullName" : "KROMM, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336647"
+  }, {
+    "participantId" : "5",
+    "club" : "Asmens",
+    "country" : "LAT",
+    "name" : {
+      "firstName" : "Nikita",
+      "lastName" : "PONOMARENKO",
+      "fullName" : "PONOMARENKO, Nikita"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357149"
+  }, {
+    "participantId" : "6",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hugo",
+      "lastName" : "SALUS",
+      "fullName" : "SALUS, Hugo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348958"
+  }, {
+    "participantId" : "7",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "SCHROEDER",
+      "fullName" : "SCHROEDER, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342100"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333828"
+  }, {
+    "participantId" : "9",
+    "club" : "FSC Cottbus",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353670"
+  }, {
+    "participantId" : "10",
+    "club" : "PFC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "WILD",
+      "fullName" : "WILD, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324281"
+  }, {
+    "participantId" : "11",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "KOWALEWSKY",
+      "fullName" : "KOWALEWSKY, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336682"
+  } ]
+}

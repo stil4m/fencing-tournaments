@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13425-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nela",
+      "lastName" : "DÄMPFER",
+      "fullName" : "DÄMPFER, Nela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352685"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "KOSIN",
+      "fullName" : "KOSIN, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354383"
+  }, {
+    "participantId" : "3",
+    "club" : "Spartak St. Petersburg",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "KRASNOSHCHEKOVA",
+      "fullName" : "KRASNOSHCHEKOVA, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361257"
+  }, {
+    "participantId" : "4",
+    "club" : "VFL Marburg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "KRöPELIN Fenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daria Marie",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Daria Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359266"
+  }, {
+    "participantId" : "6",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "LOOSCHELDERS",
+      "fullName" : "LOOSCHELDERS, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360632"
+  }, {
+    "participantId" : "7",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadja",
+      "lastName" : "MÖLLERING",
+      "fullName" : "MÖLLERING, Nadja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352415"
+  }, {
+    "participantId" : "8",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Reimut",
+      "lastName" : "RIDDER",
+      "fullName" : "RIDDER, Reimut"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359894"
+  }, {
+    "participantId" : "9",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Zoe Sophie",
+      "lastName" : "SIEGERT",
+      "fullName" : "SIEGERT, Zoe Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359267"
+  }, {
+    "participantId" : "10",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leefke",
+      "lastName" : "VENDERBOSCH",
+      "fullName" : "VENDERBOSCH, Leefke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360635"
+  } ]
+}

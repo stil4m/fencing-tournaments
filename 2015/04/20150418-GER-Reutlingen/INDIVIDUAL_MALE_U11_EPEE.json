@@ -1,0 +1,426 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1435-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "19",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Mosbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matteo",
+      "lastName" : "IANNELLO",
+      "fullName" : "IANNELLO, Matteo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318922"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Ravenstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "KOZIELSKI",
+      "fullName" : "KOZIELSKI, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324292"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtclub Ettlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "RAPP",
+      "fullName" : "RAPP, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328545"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Darius",
+      "lastName" : "SIEWERT",
+      "fullName" : "SIEWERT, Darius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303172"
+  }, {
+    "participantId" : "5",
+    "club" : "Heidelberger FC/TSG R.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "LANGER",
+      "fullName" : "LANGER, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332510"
+  }, {
+    "participantId" : "6",
+    "club" : "Heidelberger FC/TSG R.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "RIES",
+      "fullName" : "RIES, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338140"
+  }, {
+    "participantId" : "7",
+    "club" : "Heidelberger FC/TSG R.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "WEGNER",
+      "fullName" : "WEGNER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332467"
+  }, {
+    "participantId" : "8",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nikita",
+      "lastName" : "LORENZ",
+      "fullName" : "LORENZ, Nikita"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319309"
+  }, {
+    "participantId" : "9",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eric",
+      "lastName" : "REICHENBACH",
+      "fullName" : "REICHENBACH, Eric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319298"
+  }, {
+    "participantId" : "10",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benedict",
+      "lastName" : "SCHENKENGEL",
+      "fullName" : "SCHENKENGEL, Benedict"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329433"
+  }, {
+    "participantId" : "11",
+    "club" : "Mannheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patrik",
+      "lastName" : "NOVIKOV",
+      "fullName" : "NOVIKOV, Patrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324400"
+  }, {
+    "participantId" : "12",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "RIEDLER",
+      "fullName" : "RIEDLER, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346355"
+  }, {
+    "participantId" : "13",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "STEINMANN",
+      "fullName" : "STEINMANN, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346356"
+  }, {
+    "participantId" : "14",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "HERMANN",
+      "fullName" : "HERMANN, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346411"
+  }, {
+    "participantId" : "15",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca-Leon",
+      "lastName" : "PEUKER",
+      "fullName" : "PEUKER, Luca-Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346413"
+  }, {
+    "participantId" : "16",
+    "club" : "TSG Balingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "SCHIESS",
+      "fullName" : "SCHIESS, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335040"
+  }, {
+    "participantId" : "17",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lionel",
+      "lastName" : "AIERLE",
+      "fullName" : "AIERLE, Lionel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327333"
+  }, {
+    "participantId" : "18",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "BRUDI",
+      "fullName" : "BRUDI, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338815"
+  }, {
+    "participantId" : "19",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patrick",
+      "lastName" : "BUNKE",
+      "fullName" : "BUNKE, Patrick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329503"
+  }, {
+    "participantId" : "20",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul Jakob",
+      "lastName" : "HOGENMÜLLER",
+      "fullName" : "HOGENMÜLLER, Paul Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332953"
+  }, {
+    "participantId" : "21",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "MAUSHARDT",
+      "fullName" : "MAUSHARDT, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343583"
+  }, {
+    "participantId" : "22",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leander",
+      "lastName" : "NIGGEBRÜGGE",
+      "fullName" : "NIGGEBRÜGGE, Leander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338811"
+  }, {
+    "participantId" : "23",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils Henrik",
+      "lastName" : "PFLÜGER",
+      "fullName" : "PFLÜGER, Nils Henrik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326899"
+  }, {
+    "participantId" : "24",
+    "club" : "TSV Crailsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "ANGERMÜLLER",
+      "fullName" : "ANGERMÜLLER, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342529"
+  }, {
+    "participantId" : "25",
+    "club" : "TSV Crailsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "ANGERMÜLLER",
+      "fullName" : "ANGERMÜLLER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342530"
+  }, {
+    "participantId" : "26",
+    "club" : "TSV Crailsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jeremias",
+      "lastName" : "BÖHM",
+      "fullName" : "BÖHM, Jeremias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329378"
+  }, {
+    "participantId" : "27",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christoph",
+      "lastName" : "MENSEN",
+      "fullName" : "MENSEN, Christoph"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312178"
+  }, {
+    "participantId" : "28",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "ZAISER",
+      "fullName" : "ZAISER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318618"
+  } ]
+}

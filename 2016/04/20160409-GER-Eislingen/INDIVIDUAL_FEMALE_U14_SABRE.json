@@ -1,0 +1,298 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1502-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "FROMME",
+      "fullName" : "FROMME, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307256"
+  }, {
+    "participantId" : "2",
+    "club" : "SK Houstka",
+    "country" : "CZE",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "HERRMANNOVA",
+      "fullName" : "HERRMANNOVA, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338449"
+  }, {
+    "participantId" : "3",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "KAHN",
+      "fullName" : "KAHN, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329218"
+  }, {
+    "participantId" : "4",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "KERSCHBAUM",
+      "fullName" : "KERSCHBAUM, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328310"
+  }, {
+    "participantId" : "5",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Violetta",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Violetta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305758"
+  }, {
+    "participantId" : "6",
+    "club" : "SK Houstka",
+    "country" : "CZE",
+    "name" : {
+      "firstName" : "Veronika",
+      "lastName" : "KULICHOVA",
+      "fullName" : "KULICHOVA, Veronika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350065"
+  }, {
+    "participantId" : "7",
+    "club" : "TS Göppingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pia Beatrice",
+      "lastName" : "LA CORTE",
+      "fullName" : "LA CORTE, Pia Beatrice"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324027"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annika",
+      "lastName" : "LECHEL",
+      "fullName" : "LECHEL, Annika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305662"
+  }, {
+    "participantId" : "9",
+    "club" : "MMX Fecht Club Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clara",
+      "lastName" : "MÄSCHKE",
+      "fullName" : "MÄSCHKE, Clara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303948"
+  }, {
+    "participantId" : "10",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303596"
+  }, {
+    "participantId" : "11",
+    "club" : "SK Houstka",
+    "country" : "CZE",
+    "name" : {
+      "firstName" : "Adela",
+      "lastName" : "NOVAKOVA",
+      "fullName" : "NOVAKOVA, Adela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359343"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Würth Künzelsau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vienna",
+      "lastName" : "STAPF",
+      "fullName" : "STAPF, Vienna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305667"
+  }, {
+    "participantId" : "13",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christin",
+      "lastName" : "THEISEN",
+      "fullName" : "THEISEN, Christin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328309"
+  }, {
+    "participantId" : "14",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Celina",
+      "lastName" : "TREFFKORN",
+      "fullName" : "TREFFKORN, Celina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89516"
+  }, {
+    "participantId" : "15",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alicia",
+      "lastName" : "WEINAND",
+      "fullName" : "WEINAND, Alicia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314225"
+  }, {
+    "participantId" : "16",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Shannen",
+      "lastName" : "KUHN",
+      "fullName" : "KUHN, Shannen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89519"
+  }, {
+    "participantId" : "17",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chiara",
+      "lastName" : "BLAZIC",
+      "fullName" : "BLAZIC, Chiara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328852"
+  }, {
+    "participantId" : "18",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ylvi",
+      "lastName" : "SCHILLINGER",
+      "fullName" : "SCHILLINGER, Ylvi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305666"
+  }, {
+    "participantId" : "19",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tais",
+      "lastName" : "KUZMIN",
+      "fullName" : "KUZMIN, Tais"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305002"
+  } ]
+}

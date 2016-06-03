@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3433-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chayenne",
+      "lastName" : "BÜCHNER",
+      "fullName" : "BÜCHNER, Chayenne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336724"
+  }, {
+    "participantId" : "2",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "CADAO",
+      "fullName" : "CADAO, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336732"
+  }, {
+    "participantId" : "3",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Saskia",
+      "lastName" : "DITTMER",
+      "fullName" : "DITTMER, Saskia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336719"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "MARX",
+      "fullName" : "MARX, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336723"
+  } ]
+}

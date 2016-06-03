@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2900-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Kölner FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl",
+      "lastName" : "BOB",
+      "fullName" : "BOB, Carl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353828"
+  }, {
+    "participantId" : "2",
+    "club" : "Kölner FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emil",
+      "lastName" : "BOES",
+      "fullName" : "BOES, Emil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349669"
+  }, {
+    "participantId" : "3",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "BÖS",
+      "fullName" : "BÖS, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "352418"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Konrad",
+      "lastName" : "DETERT",
+      "fullName" : "DETERT, Konrad"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349073"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "HILBRANDT",
+      "fullName" : "HILBRANDT, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337947"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "HUSKE",
+      "fullName" : "HUSKE, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353994"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "JOBST",
+      "fullName" : "JOBST, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363360"
+  }, {
+    "participantId" : "8",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mustafa",
+      "lastName" : "KARABULUT",
+      "fullName" : "KARABULUT, Mustafa"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360975"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kimi Oliver",
+      "lastName" : "KRACH",
+      "fullName" : "KRACH, Kimi Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358212"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Neuss",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "PIEPER",
+      "fullName" : "PIEPER, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357379"
+  }, {
+    "participantId" : "11",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justin",
+      "lastName" : "RICHTSCHEID",
+      "fullName" : "RICHTSCHEID, Justin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "352416"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "SCHRIEK",
+      "fullName" : "SCHRIEK, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358217"
+  }, {
+    "participantId" : "13",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sönke",
+      "lastName" : "TEN THOREN",
+      "fullName" : "TEN THOREN, Sönke"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355710"
+  }, {
+    "participantId" : "14",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tom-Niklas",
+      "lastName" : "TRABANDT",
+      "fullName" : "TRABANDT, Tom-Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346443"
+  }, {
+    "participantId" : "15",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kilian",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Kilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348157"
+  } ]
+}

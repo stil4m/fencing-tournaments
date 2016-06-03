@@ -1,0 +1,526 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3055-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "teamName" : "BAYER LEVERKUSEN",
+    "members" : [ {
+      "firstName" : "Lennart",
+      "lastName" : "ESSER",
+      "fullName" : "ESSER, Lennart"
+    }, {
+      "firstName" : "Maximilian Rubens",
+      "lastName" : "KÄMEREIT",
+      "fullName" : "KÄMEREIT, Maximilian Rubens"
+    }, {
+      "firstName" : "Louis",
+      "lastName" : "BONGARD",
+      "fullName" : "BONGARD, Louis"
+    }, {
+      "firstName" : "Dean",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Dean"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19853"
+  }, {
+    "participantId" : "2",
+    "club" : "Blau-Weiss Buchholz",
+    "country" : "GER",
+    "teamName" : "BLAU-WEISS BUCHHOLZ",
+    "members" : [ {
+      "firstName" : "Thore",
+      "lastName" : "JOSWIG",
+      "fullName" : "JOSWIG, Thore"
+    }, {
+      "firstName" : "Lennart",
+      "lastName" : "KOLANDER",
+      "fullName" : "KOLANDER, Lennart"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "SPÖTHE",
+      "fullName" : "SPÖTHE, Maximilian"
+    }, {
+      "firstName" : "Eske",
+      "lastName" : "BLECKEN",
+      "fullName" : "BLECKEN, Eske"
+    } ],
+    "fieId" : null,
+    "fwwId" : "93806"
+  }, {
+    "participantId" : "3",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "teamName" : "EFG ESSEN",
+    "members" : [ {
+      "firstName" : "Luca",
+      "lastName" : "HUSEMANN",
+      "fullName" : "HUSEMANN, Luca"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "HAPPE",
+      "fullName" : "HAPPE, Philipp"
+    }, {
+      "firstName" : "Julius",
+      "lastName" : "DEHN",
+      "fullName" : "DEHN, Julius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19856"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Hardheim-Höpfingen",
+    "country" : "GER",
+    "teamName" : "FC HARDHEIM-HÖPFINGEN",
+    "members" : [ {
+      "firstName" : "Lukas",
+      "lastName" : "KLEINER",
+      "fullName" : "KLEINER, Lukas"
+    }, {
+      "firstName" : "Fabian",
+      "lastName" : "THÜNGEN",
+      "fullName" : "THÜNGEN, Fabian"
+    }, {
+      "firstName" : "David",
+      "lastName" : "RÖDEL",
+      "fullName" : "RÖDEL, David"
+    }, {
+      "firstName" : "Lukas",
+      "lastName" : "DORNHÖFER",
+      "fullName" : "DORNHÖFER, Lukas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "37920"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "teamName" : "FC LEIPZIG",
+    "members" : [ {
+      "firstName" : "Jonas",
+      "lastName" : "ENZMANN",
+      "fullName" : "ENZMANN, Jonas"
+    }, {
+      "firstName" : "Anton",
+      "lastName" : "KOVAL",
+      "fullName" : "KOVAL, Anton"
+    }, {
+      "firstName" : "Artur",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Artur"
+    }, {
+      "firstName" : "Tom",
+      "lastName" : "THIELE",
+      "fullName" : "THIELE, Tom"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32166"
+  }, {
+    "participantId" : "6",
+    "club" : "Fechterring Hochwald",
+    "country" : "GER",
+    "teamName" : "FR HOCHWALD WADERN",
+    "members" : [ {
+      "firstName" : "Joshua",
+      "lastName" : "IRSCH",
+      "fullName" : "IRSCH, Joshua"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "ZENS",
+      "fullName" : "ZENS, Philipp"
+    }, {
+      "firstName" : "Luca",
+      "lastName" : "HAAS",
+      "fullName" : "HAAS, Luca"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "PALTZ",
+      "fullName" : "PALTZ, Simon"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20609"
+  }, {
+    "participantId" : "7",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Carl-Noah",
+      "lastName" : "FRÖSCHL",
+      "fullName" : "FRÖSCHL, Carl-Noah"
+    }, {
+      "firstName" : "Julian Dominic",
+      "lastName" : "SEYD",
+      "fullName" : "SEYD, Julian Dominic"
+    }, {
+      "firstName" : "Niklas",
+      "lastName" : "DEISSLER",
+      "fullName" : "DEISSLER, Niklas"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "MEZES",
+      "fullName" : "MEZES, Christian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "8",
+    "club" : "1.SC Norderstedt",
+    "country" : "GER",
+    "teamName" : "NORDERSTEDT",
+    "members" : [ {
+      "firstName" : "Joram",
+      "lastName" : "BOEHNKE",
+      "fullName" : "BOEHNKE, Joram"
+    }, {
+      "firstName" : "Mark",
+      "lastName" : "SAUTER",
+      "fullName" : "SAUTER, Mark"
+    }, {
+      "firstName" : "Lasse",
+      "lastName" : "SCHILLING",
+      "fullName" : "SCHILLING, Lasse"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23251"
+  }, {
+    "participantId" : "9",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Tim",
+      "lastName" : "LUCAS",
+      "fullName" : "LUCAS, Tim"
+    }, {
+      "firstName" : "Julius Paul",
+      "lastName" : "BITTERLING",
+      "fullName" : "BITTERLING, Julius Paul"
+    }, {
+      "firstName" : "Fabio",
+      "lastName" : "MURRU",
+      "fullName" : "MURRU, Fabio"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "10",
+    "club" : "Sachsen",
+    "country" : "GER",
+    "teamName" : "STG BISCHOFSWERDA/DRESDEN",
+    "members" : [ {
+      "firstName" : "Jonas",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Jonas"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "KESSLER",
+      "fullName" : "KESSLER, Simon"
+    }, {
+      "firstName" : "Niclas",
+      "lastName" : "HELBIG",
+      "fullName" : "HELBIG, Niclas"
+    }, {
+      "firstName" : "Kilian",
+      "lastName" : "WIEDEMANN",
+      "fullName" : "WIEDEMANN, Kilian"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "Thüringen",
+    "country" : "GER",
+    "teamName" : "STG MEININGEN/SAALFELD",
+    "members" : [ {
+      "firstName" : "Anton",
+      "lastName" : "REIN",
+      "fullName" : "REIN, Anton"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "KETZER",
+      "fullName" : "KETZER, Maximilian"
+    }, {
+      "firstName" : "Pascal",
+      "lastName" : "SCHIER",
+      "fullName" : "SCHIER, Pascal"
+    }, {
+      "firstName" : "Sebastian",
+      "lastName" : "OLEAK",
+      "fullName" : "OLEAK, Sebastian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "340739"
+  }, {
+    "participantId" : "12",
+    "club" : "Hessen",
+    "country" : "GER",
+    "teamName" : "STG SCHNEIDHEIM/FRANKFURT",
+    "members" : [ {
+      "firstName" : "Marcel",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Marcel"
+    }, {
+      "firstName" : "Nicolas",
+      "lastName" : "MAUTE",
+      "fullName" : "MAUTE, Nicolas"
+    }, {
+      "firstName" : "Tassilo Che Maria",
+      "lastName" : "IXKES",
+      "fullName" : "IXKES, Tassilo Che Maria"
+    }, {
+      "firstName" : "Kacper",
+      "lastName" : "KACZMAREK",
+      "fullName" : "KACZMAREK, Kacper"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : "Württemberg",
+    "country" : "GER",
+    "teamName" : "STG SCHWENNINGEN/FRIEDRICHSHAFEN",
+    "members" : [ {
+      "firstName" : "Lucas",
+      "lastName" : "FENDT",
+      "fullName" : "FENDT, Lucas"
+    }, {
+      "firstName" : "Athanasios",
+      "lastName" : "TSIAGKANAS",
+      "fullName" : "TSIAGKANAS, Athanasios"
+    }, {
+      "firstName" : "Marco",
+      "lastName" : "BIRKENMAIER",
+      "fullName" : "BIRKENMAIER, Marco"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : "Baden-Süd",
+    "country" : "GER",
+    "teamName" : "STG WALDKIRCH/BADEN-BADEN",
+    "members" : [ {
+      "firstName" : "Marlin",
+      "lastName" : "KIENZLE",
+      "fullName" : "KIENZLE, Marlin"
+    }, {
+      "firstName" : "Gabriel",
+      "lastName" : "VOLK",
+      "fullName" : "VOLK, Gabriel"
+    }, {
+      "firstName" : "Hugo",
+      "lastName" : "LOTTER",
+      "fullName" : "LOTTER, Hugo"
+    }, {
+      "firstName" : "Constantin",
+      "lastName" : "BERNER",
+      "fullName" : "BERNER, Constantin"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : "Berlin",
+    "country" : "GER",
+    "teamName" : "STG WITTENAU/GRUNEWALD",
+    "members" : [ {
+      "firstName" : "Sebastian",
+      "lastName" : "PONCE HENRICH",
+      "fullName" : "PONCE HENRICH, Sebastian"
+    }, {
+      "firstName" : "Phil",
+      "lastName" : "WASZAK",
+      "fullName" : "WASZAK, Phil"
+    }, {
+      "firstName" : "Till",
+      "lastName" : "GÜNTHER",
+      "fullName" : "GÜNTHER, Till"
+    }, {
+      "firstName" : "Julius",
+      "lastName" : "RITTER",
+      "fullName" : "RITTER, Julius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "334578"
+  }, {
+    "participantId" : "16",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "teamName" : "SV BÖBLINGEN",
+    "members" : [ {
+      "firstName" : "Tobias",
+      "lastName" : "WECKERLE",
+      "fullName" : "WECKERLE, Tobias"
+    }, {
+      "firstName" : "Christos",
+      "lastName" : "KOIOS",
+      "fullName" : "KOIOS, Christos"
+    }, {
+      "firstName" : "Jared",
+      "lastName" : "DENK",
+      "fullName" : "DENK, Jared"
+    }, {
+      "firstName" : "Hannes",
+      "lastName" : "KECECI",
+      "fullName" : "KECECI, Hannes"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20611"
+  }, {
+    "participantId" : "17",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : [ {
+      "firstName" : "Gerrit",
+      "lastName" : "VON LAUE",
+      "fullName" : "VON LAUE, Gerrit"
+    }, {
+      "firstName" : "Dominik",
+      "lastName" : "GECKELER",
+      "fullName" : "GECKELER, Dominik"
+    }, {
+      "firstName" : "Max",
+      "lastName" : "WEISE",
+      "fullName" : "WEISE, Max"
+    }, {
+      "firstName" : "Finn",
+      "lastName" : "SCHULZE",
+      "fullName" : "SCHULZE, Finn"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52948"
+  }, {
+    "participantId" : "18",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "teamName" : "TSV HAGEN 1860",
+    "members" : [ {
+      "firstName" : "Moritz",
+      "lastName" : "SCHUMACHER",
+      "fullName" : "SCHUMACHER, Moritz"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "KERPER",
+      "fullName" : "KERPER, Simon"
+    }, {
+      "firstName" : "Marius",
+      "lastName" : "AUERSWALD",
+      "fullName" : "AUERSWALD, Marius"
+    }, {
+      "firstName" : "Levin Ole",
+      "lastName" : "BEHRENS",
+      "fullName" : "BEHRENS, Levin Ole"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20604"
+  }, {
+    "participantId" : "19",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Manuel",
+      "lastName" : "RIEBLINGER",
+      "fullName" : "RIEBLINGER, Manuel"
+    }, {
+      "firstName" : "Jakob",
+      "lastName" : "SCHÖFFLER",
+      "fullName" : "SCHÖFFLER, Jakob"
+    }, {
+      "firstName" : "Fabian",
+      "lastName" : "RIEBLINGER",
+      "fullName" : "RIEBLINGER, Fabian"
+    }, {
+      "firstName" : "Jan",
+      "lastName" : "TALAN",
+      "fullName" : "TALAN, Jan"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  } ]
+}

@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2256-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "teamName" : "TG BIBERACH",
+    "members" : [ {
+      "firstName" : "Sibylle",
+      "lastName" : "DING",
+      "fullName" : "DING, Sibylle"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "DALL",
+      "fullName" : "DALL, Anna"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "DING",
+      "fullName" : "DING, Charlotte"
+    } ],
+    "fieId" : null,
+    "fwwId" : "82812"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "teamName" : "TSG REUTLINGEN",
+    "members" : [ {
+      "firstName" : "Anna Marie",
+      "lastName" : "HOGENMÜLLER",
+      "fullName" : "HOGENMÜLLER, Anna Marie"
+    }, {
+      "firstName" : "Alexandra",
+      "lastName" : "ISLEBE",
+      "fullName" : "ISLEBE, Alexandra"
+    }, {
+      "firstName" : "Sophie",
+      "lastName" : "SCHILL",
+      "fullName" : "SCHILL, Sophie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52948"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

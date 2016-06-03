@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3689-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Timo",
+      "lastName" : "ANSCHPERGER",
+      "fullName" : "ANSCHPERGER, Timo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337388"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas Titus",
+      "lastName" : "CLAVES",
+      "fullName" : "CLAVES, Jonas Titus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358054"
+  }, {
+    "participantId" : "3",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "DERGAY",
+      "fullName" : "DERGAY, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329932"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "EHRINGHAUS",
+      "fullName" : "EHRINGHAUS, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329389"
+  }, {
+    "participantId" : "5",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "ENTALTSEV",
+      "fullName" : "ENTALTSEV, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325716"
+  }, {
+    "participantId" : "6",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "FASSBENDER",
+      "fullName" : "FASSBENDER, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356776"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Yannis-Eric",
+      "lastName" : "GLÖCKNER",
+      "fullName" : "GLÖCKNER, Yannis-Eric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337988"
+  }, {
+    "participantId" : "8",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "HUMAYER",
+      "fullName" : "HUMAYER, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359983"
+  }, {
+    "participantId" : "9",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andór Bélà",
+      "lastName" : "IXKES",
+      "fullName" : "IXKES, Andór Bélà"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349834"
+  }, {
+    "participantId" : "10",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tibór Leander",
+      "lastName" : "IXKES",
+      "fullName" : "IXKES, Tibór Leander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349835"
+  }, {
+    "participantId" : "11",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "KLEESIEK",
+      "fullName" : "KLEESIEK, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302922"
+  }, {
+    "participantId" : "12",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Takashi",
+      "lastName" : "LAKEBRINK",
+      "fullName" : "LAKEBRINK, Takashi"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356774"
+  }, {
+    "participantId" : "13",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan Philip",
+      "lastName" : "METHE",
+      "fullName" : "METHE, Jan Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "302940"
+  }, {
+    "participantId" : "14",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Till",
+      "lastName" : "NÄHRING",
+      "fullName" : "NÄHRING, Till"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355113"
+  }, {
+    "participantId" : "15",
+    "club" : "UFC Frankfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tristan",
+      "lastName" : "SCHMINKE",
+      "fullName" : "SCHMINKE, Tristan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325011"
+  } ]
+}

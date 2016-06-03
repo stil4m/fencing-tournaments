@@ -1,0 +1,150 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2702-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Xenia",
+      "lastName" : "AHINARA-BEERMANN",
+      "fullName" : "AHINARA-BEERMANN, Xenia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338120"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nora",
+      "lastName" : "GILLES",
+      "fullName" : "GILLES, Nora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342408"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Victoria",
+      "lastName" : "GRAUDINS",
+      "fullName" : "GRAUDINS, Victoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345956"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Achern FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anastasija",
+      "lastName" : "HIRSCHFELD",
+      "fullName" : "HIRSCHFELD, Anastasija"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336382"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Wetzlar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Coco Caprice",
+      "lastName" : "MARX",
+      "fullName" : "MARX, Coco Caprice"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "340996"
+  }, {
+    "participantId" : "6",
+    "club" : "Königsbacher SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "MITNACHT",
+      "fullName" : "MITNACHT, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348183"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Dormagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "WEILAND",
+      "fullName" : "WEILAND, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351690"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Kenten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "WERTH",
+      "fullName" : "WERTH, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "343850"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "PECORONI",
+      "fullName" : "PECORONI, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356225"
+  } ]
+}

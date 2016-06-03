@@ -1,0 +1,178 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2867-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tristan",
+      "lastName" : "COSACK",
+      "fullName" : "COSACK, Tristan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349901"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "EHRINGHAUS",
+      "fullName" : "EHRINGHAUS, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329389"
+  }, {
+    "participantId" : "3",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kassian",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Kassian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347932"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359160"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Till",
+      "lastName" : "NÄHRING",
+      "fullName" : "NÄHRING, Till"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355113"
+  }, {
+    "participantId" : "6",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rasmus",
+      "lastName" : "OHLSSON",
+      "fullName" : "OHLSSON, Rasmus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338955"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336411"
+  }, {
+    "participantId" : "8",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Oskar",
+      "lastName" : "SPEKER",
+      "fullName" : "SPEKER, Oskar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342324"
+  }, {
+    "participantId" : "9",
+    "club" : "WMTV Solingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lorenz",
+      "lastName" : "SPIERZAK",
+      "fullName" : "SPIERZAK, Lorenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340511"
+  }, {
+    "participantId" : "10",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336007"
+  }, {
+    "participantId" : "11",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "MENZEL",
+      "fullName" : "MENZEL, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357681"
+  } ]
+}

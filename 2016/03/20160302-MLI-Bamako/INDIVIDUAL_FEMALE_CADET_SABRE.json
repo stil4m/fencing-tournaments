@@ -1,0 +1,141 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2016,
+      "id" : "1301"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Logayn",
+      "lastName" : "FARAMAWE",
+      "fullName" : "FARAMAWE, Logayn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34465",
+    "fwwId" : "337290"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Khadija",
+      "lastName" : "CHEMKHI",
+      "fullName" : "CHEMKHI, Khadija"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37080",
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Yasmine",
+      "lastName" : "DAGHFOUS",
+      "fullName" : "DAGHFOUS, Yasmine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "37081",
+    "fwwId" : "350307"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Alima",
+      "lastName" : "DEMBELE",
+      "fullName" : "DEMBELE, Alima"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "34547",
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "GHA",
+    "name" : {
+      "firstName" : "Yasmine",
+      "lastName" : "FOSU",
+      "fullName" : "FOSU, Yasmine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33442",
+    "fwwId" : "334407"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Aissata",
+      "lastName" : "SIDIBE",
+      "fullName" : "SIDIBE, Aissata"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40458",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Assetou",
+      "lastName" : "COULIBALY",
+      "fullName" : "COULIBALY, Assetou"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40462",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Kadiatou",
+      "lastName" : "DIARRA",
+      "fullName" : "DIARRA, Kadiatou"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "40460",
+    "fwwId" : null
+  } ]
+}

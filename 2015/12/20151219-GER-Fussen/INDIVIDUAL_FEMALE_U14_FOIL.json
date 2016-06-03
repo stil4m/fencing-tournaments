@@ -1,0 +1,146 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3415-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "FETSCHER",
+      "fullName" : "FETSCHER, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351601"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Clara",
+      "lastName" : "GRIEGEL",
+      "fullName" : "GRIEGEL, Clara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357233"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "KIESSLING",
+      "fullName" : "KIESSLING, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335473"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Feldkirchen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vedika Daphne",
+      "lastName" : "KILLINGER",
+      "fullName" : "KILLINGER, Vedika Daphne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330143"
+  }, {
+    "participantId" : "5",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Flavia",
+      "lastName" : "OLIVIERI",
+      "fullName" : "OLIVIERI, Flavia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123704"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sabina",
+      "lastName" : "RUCK",
+      "fullName" : "RUCK, Sabina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333730"
+  }, {
+    "participantId" : "7",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "STASCHEK",
+      "fullName" : "STASCHEK, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308194"
+  }, {
+    "participantId" : "8",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melina",
+      "lastName" : "TSOGIDIS",
+      "fullName" : "TSOGIDIS, Melina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313900"
+  }, {
+    "participantId" : "9",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adeline",
+      "lastName" : "VON CANSTEIN",
+      "fullName" : "VON CANSTEIN, Adeline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353177"
+  } ]
+}

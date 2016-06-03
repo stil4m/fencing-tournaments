@@ -1,0 +1,157 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2013,
+      "id" : "588"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Azza",
+      "lastName" : "BESBES",
+      "fullName" : "BESBES, Azza"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "15847",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mennatalla",
+      "lastName" : "AHMED",
+      "fullName" : "AHMED, Mennatalla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25671",
+    "fwwId" : "93366"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mariam",
+      "lastName" : "EL SWAY",
+      "fullName" : "EL SWAY, Mariam"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "21300",
+    "fwwId" : "51299"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "SEN",
+    "name" : {
+      "firstName" : "Mame Awa",
+      "lastName" : "NDAO",
+      "fullName" : "NDAO, Mame Awa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "25679",
+    "fwwId" : "93360"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Hela",
+      "lastName" : "BESBES",
+      "fullName" : "BESBES, Hela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "10405",
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Elvira",
+      "lastName" : "WOOD",
+      "fullName" : "WOOD, Elvira"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "19284",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Hananja",
+      "lastName" : "STEYN",
+      "fullName" : "STEYN, Hananja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28485",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Alison Francis",
+      "lastName" : "MACLACHLAN",
+      "fullName" : "MACLACHLAN, Alison Francis"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "33227",
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Keena",
+      "lastName" : "FOURIE",
+      "fullName" : "FOURIE, Keena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : "28484",
+    "fwwId" : null
+  } ]
+}

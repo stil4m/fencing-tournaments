@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3376-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elfi",
+      "lastName" : "BENDER",
+      "fullName" : "BENDER, Elfi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23685"
+  }, {
+    "participantId" : "2",
+    "club" : "Duisburger FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Irina",
+      "lastName" : "BUNN",
+      "fullName" : "BUNN, Irina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23703"
+  }, {
+    "participantId" : "3",
+    "club" : "VFL Wolfsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bärbel",
+      "lastName" : "GORIUS",
+      "fullName" : "GORIUS, Bärbel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23700"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Brigitte",
+      "lastName" : "GREUNKE",
+      "fullName" : "GREUNKE, Brigitte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "2511"
+  }, {
+    "participantId" : "5",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annegret",
+      "lastName" : "HAMANN",
+      "fullName" : "HAMANN, Annegret"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "48099"
+  }, {
+    "participantId" : "6",
+    "club" : "Post SV Nürnberg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ute",
+      "lastName" : "SCHIFFMANN",
+      "fullName" : "SCHIFFMANN, Ute"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304361"
+  } ]
+}

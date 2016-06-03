@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5586-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "USC MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "MTV München",
+    "country" : "GER",
+    "teamName" : "MTV MÜNCHEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "22571"
+  }, {
+    "participantId" : "3",
+    "club" : "SGS Erlangen",
+    "country" : "GER",
+    "teamName" : "SGS ERLANGEN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "28187"
+  }, {
+    "participantId" : "4",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG WÜRZBURG/SCHWEINFURT",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "355107"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : "329372"
+  } ]
+}

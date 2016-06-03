@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3034-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "BRA",
+    "name" : {
+      "firstName" : "Carolina",
+      "lastName" : "ALVES DE LIMA",
+      "fullName" : "ALVES DE LIMA, Carolina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329544"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "ERNST",
+      "fullName" : "ERNST, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346351"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melissa",
+      "lastName" : "HAGER",
+      "fullName" : "HAGER, Melissa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330347"
+  }, {
+    "participantId" : "4",
+    "club" : "SV Böblingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphaelia",
+      "lastName" : "KOIOU",
+      "fullName" : "KOIOU, Raphaelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353272"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kaya Sophie",
+      "lastName" : "LANGHOFF",
+      "fullName" : "LANGHOFF, Kaya Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356673"
+  }, {
+    "participantId" : "6",
+    "club" : "Heidenheimer SB",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "LIPINSKAYA",
+      "fullName" : "LIPINSKAYA, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333794"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Reutlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tamara",
+      "lastName" : "LUMMERZHEIM",
+      "fullName" : "LUMMERZHEIM, Tamara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326898"
+  }, {
+    "participantId" : "8",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jule",
+      "lastName" : "PUCHER",
+      "fullName" : "PUCHER, Jule"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348125"
+  }, {
+    "participantId" : "9",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "SANDER",
+      "fullName" : "SANDER, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330345"
+  }, {
+    "participantId" : "10",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aurelia",
+      "lastName" : "SCHÖNBORN",
+      "fullName" : "SCHÖNBORN, Aurelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329427"
+  }, {
+    "participantId" : "11",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elisabeth",
+      "lastName" : "SHAPOVALOV",
+      "fullName" : "SHAPOVALOV, Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335196"
+  }, {
+    "participantId" : "12",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SPIELVOGEL",
+      "fullName" : "SPIELVOGEL, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349853"
+  }, {
+    "participantId" : "13",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Celia",
+      "lastName" : "WIETSCHORKE",
+      "fullName" : "WIETSCHORKE, Celia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357179"
+  }, {
+    "participantId" : "14",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina",
+      "lastName" : "ZERRWECK",
+      "fullName" : "ZERRWECK, Lina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335311"
+  }, {
+    "participantId" : "15",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexandra",
+      "lastName" : "ZITTEL",
+      "fullName" : "ZITTEL, Alexandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319300"
+  } ]
+}

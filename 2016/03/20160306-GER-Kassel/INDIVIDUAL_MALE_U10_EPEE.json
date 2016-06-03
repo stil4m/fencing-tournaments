@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6718-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finn",
+      "lastName" : "FAHNERT",
+      "fullName" : "FAHNERT, Finn"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355111"
+  }, {
+    "participantId" : "2",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hank",
+      "lastName" : "HAAKE",
+      "fullName" : "HAAKE, Hank"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359973"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Dillenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max-Julius",
+      "lastName" : "HEINECKE",
+      "fullName" : "HEINECKE, Max-Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355110"
+  }, {
+    "participantId" : "4",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "JUNGNICKEL",
+      "fullName" : "JUNGNICKEL, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359984"
+  }, {
+    "participantId" : "5",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "LANGER",
+      "fullName" : "LANGER, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359971"
+  }, {
+    "participantId" : "6",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arik",
+      "lastName" : "MÜLLER-GEBEL",
+      "fullName" : "MÜLLER-GEBEL, Arik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359986"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Korbach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niels",
+      "lastName" : "NORD",
+      "fullName" : "NORD, Niels"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357555"
+  }, {
+    "participantId" : "8",
+    "club" : "Frankfurter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ahmed",
+      "lastName" : "NOUR-ELDIN",
+      "fullName" : "NOUR-ELDIN, Ahmed"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342612"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Kassel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matteo",
+      "lastName" : "PHILIPPI",
+      "fullName" : "PHILIPPI, Matteo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324092"
+  }, {
+    "participantId" : "10",
+    "club" : "SSG Bensheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "WINKLER",
+      "fullName" : "WINKLER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359969"
+  } ]
+}

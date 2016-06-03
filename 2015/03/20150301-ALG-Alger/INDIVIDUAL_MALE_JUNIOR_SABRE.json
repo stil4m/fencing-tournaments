@@ -1,0 +1,285 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : null,
+    "fieId" : {
+      "year" : 2015,
+      "id" : "860"
+    },
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "17",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mohab",
+      "lastName" : "SAMER",
+      "fullName" : "SAMER, Mohab"
+    },
+    "gender" : "MALE",
+    "fieId" : "30389",
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Fares",
+      "lastName" : "FERJANI",
+      "fullName" : "FERJANI, Fares"
+    },
+    "gender" : "MALE",
+    "fieId" : "32326",
+    "fwwId" : "324474"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mokhtar",
+      "lastName" : "WAFAEY",
+      "fullName" : "WAFAEY, Mokhtar"
+    },
+    "gender" : "MALE",
+    "fieId" : "32724",
+    "fwwId" : "326373"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Zin Eddine",
+      "lastName" : "HEROUI",
+      "fullName" : "HEROUI, Zin Eddine"
+    },
+    "gender" : "MALE",
+    "fieId" : "33697",
+    "fwwId" : "333154"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Mohamed",
+      "lastName" : "AMER",
+      "fullName" : "AMER, Mohamed"
+    },
+    "gender" : "MALE",
+    "fieId" : "31118",
+    "fwwId" : "316412"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Ridha",
+      "lastName" : "ZDIRI",
+      "fullName" : "ZDIRI, Ridha"
+    },
+    "gender" : "MALE",
+    "fieId" : "32332",
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "EGY",
+    "name" : {
+      "firstName" : "Ahmed",
+      "lastName" : "EHAB",
+      "fullName" : "EHAB, Ahmed"
+    },
+    "gender" : "MALE",
+    "fieId" : "30331",
+    "fwwId" : null
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Boubacar",
+      "lastName" : "BALLO",
+      "fullName" : "BALLO, Boubacar"
+    },
+    "gender" : "MALE",
+    "fieId" : "32954",
+    "fwwId" : "327455"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Ugo Daniel",
+      "lastName" : "GAMBERONI",
+      "fullName" : "GAMBERONI, Ugo Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : "34167",
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Andrew",
+      "lastName" : "HOWITT",
+      "fullName" : "HOWITT, Andrew"
+    },
+    "gender" : "MALE",
+    "fieId" : "28819",
+    "fwwId" : "304255"
+  }, {
+    "participantId" : "11",
+    "club" : null,
+    "country" : "TUN",
+    "name" : {
+      "firstName" : "Ahmed",
+      "lastName" : "FERJANI",
+      "fullName" : "FERJANI, Ahmed"
+    },
+    "gender" : "MALE",
+    "fieId" : "35036",
+    "fwwId" : "339115"
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Akram",
+      "lastName" : "BOUNABI",
+      "fullName" : "BOUNABI, Akram"
+    },
+    "gender" : "MALE",
+    "fieId" : "32427",
+    "fwwId" : "325360"
+  }, {
+    "participantId" : "13",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "WOLSKI",
+      "fullName" : "WOLSKI, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : "32560",
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "MLI",
+    "name" : {
+      "firstName" : "Abdoul",
+      "lastName" : "KAFAR KANE",
+      "fullName" : "KAFAR KANE, Abdoul"
+    },
+    "gender" : "MALE",
+    "fieId" : "34934",
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "SEN",
+    "name" : {
+      "firstName" : "Assane",
+      "lastName" : "DIOP",
+      "fullName" : "DIOP, Assane"
+    },
+    "gender" : "MALE",
+    "fieId" : "37462",
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "ALG",
+    "name" : {
+      "firstName" : "Hamza Adel",
+      "lastName" : "KASDI",
+      "fullName" : "KASDI, Hamza Adel"
+    },
+    "gender" : "MALE",
+    "fieId" : "36744",
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "RSA",
+    "name" : {
+      "firstName" : "Dandre",
+      "lastName" : "DE JONG",
+      "fullName" : "DE JONG, Dandre"
+    },
+    "gender" : "MALE",
+    "fieId" : "37370",
+    "fwwId" : null
+  } ]
+}

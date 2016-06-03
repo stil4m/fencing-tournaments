@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2846-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339910"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ruby",
+      "lastName" : "CANNEY",
+      "fullName" : "CANNEY, Ruby"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333272"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Gladbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sonja",
+      "lastName" : "HÄSELHOFF",
+      "fullName" : "HÄSELHOFF, Sonja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "352692"
+  }, {
+    "participantId" : "4",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "HOLLINDERBÄUMER",
+      "fullName" : "HOLLINDERBÄUMER, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339909"
+  }, {
+    "participantId" : "5",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mara",
+      "lastName" : "MAIER",
+      "fullName" : "MAIER, Mara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341366"
+  }, {
+    "participantId" : "6",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "TLIGACHEV",
+      "fullName" : "TLIGACHEV, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353640"
+  } ]
+}

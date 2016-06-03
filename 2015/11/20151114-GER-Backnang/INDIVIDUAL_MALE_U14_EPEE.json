@@ -1,0 +1,206 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1460-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtverein Heidelberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sedat",
+      "lastName" : "BAKAY",
+      "fullName" : "BAKAY, Sedat"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308872"
+  }, {
+    "participantId" : "2",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laurenz",
+      "lastName" : "HÄUBER",
+      "fullName" : "HÄUBER, Laurenz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314753"
+  }, {
+    "participantId" : "3",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "HENZLER",
+      "fullName" : "HENZLER, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325009"
+  }, {
+    "participantId" : "4",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "HOGENMÜLLER",
+      "fullName" : "HOGENMÜLLER, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330349"
+  }, {
+    "participantId" : "5",
+    "club" : "SV Illingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "HUMBECK",
+      "fullName" : "HUMBECK, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339455"
+  }, {
+    "participantId" : "6",
+    "club" : "TSF Ditzingen",
+    "country" : "MEX",
+    "name" : {
+      "firstName" : "Carlos",
+      "lastName" : "JIMENEZ",
+      "fullName" : "JIMENEZ, Carlos"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "321238"
+  }, {
+    "participantId" : "7",
+    "club" : "SV Illingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phillip",
+      "lastName" : "RADDATZ",
+      "fullName" : "RADDATZ, Phillip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314905"
+  }, {
+    "participantId" : "8",
+    "club" : "SV Esslingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "VOLLENKEMPER",
+      "fullName" : "VOLLENKEMPER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351435"
+  }, {
+    "participantId" : "9",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "WICHMANN",
+      "fullName" : "WICHMANN, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330351"
+  }, {
+    "participantId" : "10",
+    "club" : "FS Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luis",
+      "lastName" : "WOLFINGER",
+      "fullName" : "WOLFINGER, Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341369"
+  }, {
+    "participantId" : "11",
+    "club" : "TSG Backnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "GERISCH",
+      "fullName" : "GERISCH, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315017"
+  }, {
+    "participantId" : "12",
+    "club" : "FC Hardheim-Höpfingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laurin",
+      "lastName" : "EDER",
+      "fullName" : "EDER, Laurin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347492"
+  }, {
+    "participantId" : "13",
+    "club" : "FS Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "SAUTER",
+      "fullName" : "SAUTER, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315241"
+  } ]
+}

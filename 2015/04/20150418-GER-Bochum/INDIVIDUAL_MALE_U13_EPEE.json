@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1120-14",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cedrik Henry",
+      "lastName" : "FAST",
+      "fullName" : "FAST, Cedrik Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318141"
+  }, {
+    "participantId" : "2",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ludwig",
+      "lastName" : "WAHLS",
+      "fullName" : "WAHLS, Ludwig"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315082"
+  }, {
+    "participantId" : "3",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lasse",
+      "lastName" : "VISSING",
+      "fullName" : "VISSING, Lasse"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308397"
+  }, {
+    "participantId" : "4",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "BRANDTS",
+      "fullName" : "BRANDTS, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305013"
+  }, {
+    "participantId" : "5",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Louis Wolfgang",
+      "lastName" : "MONTAG",
+      "fullName" : "MONTAG, Louis Wolfgang"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318949"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alba",
+      "lastName" : "STEINBRECHER",
+      "fullName" : "STEINBRECHER, Alba"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322205"
+  } ]
+}
