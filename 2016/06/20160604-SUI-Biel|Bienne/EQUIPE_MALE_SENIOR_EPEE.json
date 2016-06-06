@@ -1,0 +1,174 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9471-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "teamName" : "BFC Basel",
+    "members" : [ {
+      "firstName" : "Jérome",
+      "lastName" : "SCHMIDLIN",
+      "fullName" : "SCHMIDLIN, Jérome"
+    }, {
+      "firstName" : "Jérôme",
+      "lastName" : "JEANNET",
+      "fullName" : "JEANNET, Jérôme"
+    }, {
+      "firstName" : "Philippe",
+      "lastName" : "OBERSON",
+      "fullName" : "OBERSON, Philippe"
+    }, {
+      "firstName" : "Alexandre",
+      "lastName" : "OBERSON",
+      "fullName" : "OBERSON, Alexandre"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "teamName" : "CEB BIENNE BIEL",
+    "members" : [ {
+      "firstName" : "Charles-Eric",
+      "lastName" : "OSWALD",
+      "fullName" : "OSWALD, Charles-Eric"
+    }, {
+      "firstName" : "Basil",
+      "lastName" : "HOFFMANN",
+      "fullName" : "HOFFMANN, Basil"
+    }, {
+      "firstName" : "Alexandre",
+      "lastName" : "PITTET",
+      "fullName" : "PITTET, Alexandre"
+    }, {
+      "firstName" : "Flurin",
+      "lastName" : "GAECHTER",
+      "fullName" : "GAECHTER, Flurin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313679"
+  }, {
+    "participantId" : "3",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "teamName" : "FCZ ZUG",
+    "members" : [ {
+      "firstName" : "Daniel",
+      "lastName" : "CAPALDO",
+      "fullName" : "CAPALDO, Daniel"
+    }, {
+      "firstName" : "Tobias",
+      "lastName" : "BOLLMANN",
+      "fullName" : "BOLLMANN, Tobias"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "BALMER",
+      "fullName" : "BALMER, Simon"
+    }, {
+      "firstName" : "Severin",
+      "lastName" : "DE SEPIBUS",
+      "fullName" : "DE SEPIBUS, Severin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313695"
+  }, {
+    "participantId" : "4",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "teamName" : "SEB BASEL",
+    "members" : [ {
+      "firstName" : "Bernardo",
+      "lastName" : "DELARUE-BIZZINI",
+      "fullName" : "DELARUE-BIZZINI, Bernardo"
+    }, {
+      "firstName" : "Benjamin",
+      "lastName" : "STEFFEN",
+      "fullName" : "STEFFEN, Benjamin"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "STAUB",
+      "fullName" : "STAUB, Florian"
+    }, {
+      "firstName" : "Max",
+      "lastName" : "HEINZER",
+      "fullName" : "HEINZER, Max"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23214"
+  }, {
+    "participantId" : "5",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "teamName" : "SEG GENEVE",
+    "members" : [ {
+      "firstName" : "Valentin",
+      "lastName" : "PIREK",
+      "fullName" : "PIREK, Valentin"
+    }, {
+      "firstName" : "Leandro",
+      "lastName" : "SANZ",
+      "fullName" : "SANZ, Leandro"
+    }, {
+      "firstName" : "Louis",
+      "lastName" : "BOURGEOIS",
+      "fullName" : "BOURGEOIS, Louis"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313715"
+  }, {
+    "participantId" : "6",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "teamName" : "ZFC ZÜRICH",
+    "members" : [ {
+      "firstName" : "Dmitrij",
+      "lastName" : "MARCHUKOV",
+      "fullName" : "MARCHUKOV, Dmitrij"
+    }, {
+      "firstName" : "Peer",
+      "lastName" : "BORSKY",
+      "fullName" : "BORSKY, Peer"
+    }, {
+      "firstName" : "Georg",
+      "lastName" : "KUHN",
+      "fullName" : "KUHN, Georg"
+    }, {
+      "firstName" : "Bruce",
+      "lastName" : "BRUNOLD",
+      "fullName" : "BRUNOLD, Bruce"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313721"
+  } ]
+}

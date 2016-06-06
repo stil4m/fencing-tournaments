@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Friedrichshafen",
+    "name" : "Internationales Jugendliga Degenturnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "5ecee708-1718-46db-940c-dba30d6e16eb",
+    "path" : "/2016/06/20160604-GER-Friedrichshafen/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e25dcd84-e045-474a-93b4-2b00dace341e",
+    "path" : "/2016/06/20160604-GER-Friedrichshafen/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "07f98a7a-2271-41e4-993b-97bc891faaf6",
+    "path" : "/2016/06/20160604-GER-Friedrichshafen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "daa705de-8e9b-4110-958c-dc44c1588b99",
+    "path" : "/2016/06/20160604-GER-Friedrichshafen/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

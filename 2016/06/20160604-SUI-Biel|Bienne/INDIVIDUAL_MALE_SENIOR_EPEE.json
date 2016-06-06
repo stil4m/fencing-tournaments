@@ -1,0 +1,954 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9213-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "38",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "51",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "41",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "52",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "50",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "39",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "59",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "42",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "44",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "45",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "57",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "58",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "54",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "47",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "34",
+    "abandon" : false
+  }, {
+    "position" : 34,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 35,
+    "participantId" : "49",
+    "abandon" : false
+  }, {
+    "position" : 36,
+    "participantId" : "53",
+    "abandon" : false
+  }, {
+    "position" : 37,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 39,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 40,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 41,
+    "participantId" : "55",
+    "abandon" : false
+  }, {
+    "position" : 42,
+    "participantId" : "56",
+    "abandon" : false
+  }, {
+    "position" : 43,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 44,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 45,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 46,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 47,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 48,
+    "participantId" : "48",
+    "abandon" : false
+  }, {
+    "position" : 49,
+    "participantId" : "43",
+    "abandon" : false
+  }, {
+    "position" : 50,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 51,
+    "participantId" : "40",
+    "abandon" : false
+  }, {
+    "position" : 52,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 53,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 54,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 55,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 56,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 56,
+    "participantId" : "46",
+    "abandon" : false
+  }, {
+    "position" : 58,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 59,
+    "participantId" : "21",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "BALMER",
+      "fullName" : "BALMER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "20425"
+  }, {
+    "participantId" : "2",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alexis",
+      "lastName" : "BAYARD",
+      "fullName" : "BAYARD, Alexis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "124885"
+  }, {
+    "participantId" : "3",
+    "club" : "AFZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Guillaume",
+      "lastName" : "BENOIST",
+      "fullName" : "BENOIST, Guillaume"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303376"
+  }, {
+    "participantId" : "4",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "BERTSCHINGER",
+      "fullName" : "BERTSCHINGER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307917"
+  }, {
+    "participantId" : "5",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Noé",
+      "lastName" : "BOLLINGER",
+      "fullName" : "BOLLINGER, Noé"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311522"
+  }, {
+    "participantId" : "6",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "BOLLMANN",
+      "fullName" : "BOLLMANN, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "18067"
+  }, {
+    "participantId" : "7",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Louis",
+      "lastName" : "BOURGEOIS",
+      "fullName" : "BOURGEOIS, Louis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "4840"
+  }, {
+    "participantId" : "8",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "BROGER",
+      "fullName" : "BROGER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329520"
+  }, {
+    "participantId" : "9",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Bruce",
+      "lastName" : "BRUNOLD",
+      "fullName" : "BRUNOLD, Bruce"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "49475"
+  }, {
+    "participantId" : "10",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "CAPALDO",
+      "fullName" : "CAPALDO, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "55816"
+  }, {
+    "participantId" : "11",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alec",
+      "lastName" : "CHENAUX",
+      "fullName" : "CHENAUX, Alec"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309714"
+  }, {
+    "participantId" : "12",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lorin Noam",
+      "lastName" : "CRIBLEZ",
+      "fullName" : "CRIBLEZ, Lorin Noam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311018"
+  }, {
+    "participantId" : "13",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Severin",
+      "lastName" : "DE SEPIBUS",
+      "fullName" : "DE SEPIBUS, Severin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "18068"
+  }, {
+    "participantId" : "14",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Bernardo",
+      "lastName" : "DELARUE-BIZZINI",
+      "fullName" : "DELARUE-BIZZINI, Bernardo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "118194"
+  }, {
+    "participantId" : "15",
+    "club" : "CAL Lausanne",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "DOUSSE",
+      "fullName" : "DOUSSE, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "12039"
+  }, {
+    "participantId" : "16",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Laurent",
+      "lastName" : "EMCH",
+      "fullName" : "EMCH, Laurent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309702"
+  }, {
+    "participantId" : "17",
+    "club" : "FSZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Deniz",
+      "lastName" : "ERNST",
+      "fullName" : "ERNST, Deniz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309691"
+  }, {
+    "participantId" : "18",
+    "club" : "FGL Luzern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Josua",
+      "lastName" : "ERNST",
+      "fullName" : "ERNST, Josua"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353163"
+  }, {
+    "participantId" : "19",
+    "club" : "CAL Lausanne",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Sébastien",
+      "lastName" : "FONTANNAZ",
+      "fullName" : "FONTANNAZ, Sébastien"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303879"
+  }, {
+    "participantId" : "20",
+    "club" : "AFCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Flavio",
+      "lastName" : "FORTIGUERRA",
+      "fullName" : "FORTIGUERRA, Flavio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310878"
+  }, {
+    "participantId" : "21",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "FUHRIMANN",
+      "fullName" : "FUHRIMANN, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341188"
+  }, {
+    "participantId" : "22",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Flurin",
+      "lastName" : "GAECHTER",
+      "fullName" : "GAECHTER, Flurin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22011"
+  }, {
+    "participantId" : "23",
+    "club" : "FCO Otelfingen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "HALDIMANN",
+      "fullName" : "HALDIMANN, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310853"
+  }, {
+    "participantId" : "24",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nick",
+      "lastName" : "HATZ",
+      "fullName" : "HATZ, Nick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310907"
+  }, {
+    "participantId" : "25",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "HEINZER",
+      "fullName" : "HEINZER, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "20210"
+  }, {
+    "participantId" : "26",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Basil",
+      "lastName" : "HOFFMANN",
+      "fullName" : "HOFFMANN, Basil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "8646"
+  }, {
+    "participantId" : "27",
+    "club" : "FSZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "HUNZIKER",
+      "fullName" : "HUNZIKER, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310543"
+  }, {
+    "participantId" : "28",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Hans",
+      "lastName" : "KLOTZ",
+      "fullName" : "KLOTZ, Hans"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "7149"
+  }, {
+    "participantId" : "29",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Olivier",
+      "lastName" : "LAMON",
+      "fullName" : "LAMON, Olivier"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "53026"
+  }, {
+    "participantId" : "30",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "MALCOTTI",
+      "fullName" : "MALCOTTI, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122768"
+  }, {
+    "participantId" : "31",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Dmitrij",
+      "lastName" : "MARCHUKOV",
+      "fullName" : "MARCHUKOV, Dmitrij"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310693"
+  }, {
+    "participantId" : "32",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Cyrille",
+      "lastName" : "MASSEREY",
+      "fullName" : "MASSEREY, Cyrille"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311047"
+  }, {
+    "participantId" : "33",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Clément",
+      "lastName" : "METRAILLER",
+      "fullName" : "METRAILLER, Clément"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308021"
+  }, {
+    "participantId" : "34",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "MICHELLOD",
+      "fullName" : "MICHELLOD, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309859"
+  }, {
+    "participantId" : "35",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "MÜLLER NIELABA",
+      "fullName" : "MÜLLER NIELABA, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122770"
+  }, {
+    "participantId" : "36",
+    "club" : "LUG Lugano",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Michele",
+      "lastName" : "NIGGELER",
+      "fullName" : "NIGGELER, Michele"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "55161"
+  }, {
+    "participantId" : "37",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alexandre",
+      "lastName" : "OBERSON",
+      "fullName" : "OBERSON, Alexandre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22202"
+  }, {
+    "participantId" : "38",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Philippe",
+      "lastName" : "OBERSON",
+      "fullName" : "OBERSON, Philippe"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2547"
+  }, {
+    "participantId" : "39",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Charles-Eric",
+      "lastName" : "OSWALD",
+      "fullName" : "OSWALD, Charles-Eric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308930"
+  }, {
+    "participantId" : "40",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jannik",
+      "lastName" : "PFEIFER",
+      "fullName" : "PFEIFER, Jannik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311076"
+  }, {
+    "participantId" : "41",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Alexandre",
+      "lastName" : "PITTET",
+      "fullName" : "PITTET, Alexandre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "22091"
+  }, {
+    "participantId" : "42",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nicolas",
+      "lastName" : "REDING",
+      "fullName" : "REDING, Nicolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "35360"
+  }, {
+    "participantId" : "43",
+    "club" : "AFZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Mike Domenik",
+      "lastName" : "RINDERKNECHT",
+      "fullName" : "RINDERKNECHT, Mike Domenik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345919"
+  }, {
+    "participantId" : "44",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Antoine",
+      "lastName" : "ROGNON",
+      "fullName" : "ROGNON, Antoine"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307927"
+  }, {
+    "participantId" : "45",
+    "club" : "SEG Geneve",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Leandro",
+      "lastName" : "SANZ",
+      "fullName" : "SANZ, Leandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "54866"
+  }, {
+    "participantId" : "46",
+    "club" : "SES Sion",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Yannick",
+      "lastName" : "SCHMIDLI",
+      "fullName" : "SCHMIDLI, Yannick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308350"
+  }, {
+    "participantId" : "47",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jérome",
+      "lastName" : "SCHMIDLIN",
+      "fullName" : "SCHMIDLIN, Jérome"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "25923"
+  }, {
+    "participantId" : "48",
+    "club" : "FCB Bern",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Luc",
+      "lastName" : "SCHNELL",
+      "fullName" : "SCHNELL, Luc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349401"
+  }, {
+    "participantId" : "49",
+    "club" : "CEB Bienne Biel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jordi",
+      "lastName" : "SOUTULLO",
+      "fullName" : "SOUTULLO, Jordi"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311079"
+  }, {
+    "participantId" : "50",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Luca",
+      "lastName" : "SPONGA",
+      "fullName" : "SPONGA, Luca"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "4600"
+  }, {
+    "participantId" : "51",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "STAUB",
+      "fullName" : "STAUB, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "31905"
+  }, {
+    "participantId" : "52",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "STEFFEN",
+      "fullName" : "STEFFEN, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "11639"
+  }, {
+    "participantId" : "53",
+    "club" : "FSZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "STEHLI",
+      "fullName" : "STEHLI, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328706"
+  }, {
+    "participantId" : "54",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Xavier",
+      "lastName" : "STENGEL",
+      "fullName" : "STENGEL, Xavier"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312840"
+  }, {
+    "participantId" : "55",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Maxime",
+      "lastName" : "STIERLI",
+      "fullName" : "STIERLI, Maxime"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310867"
+  }, {
+    "participantId" : "56",
+    "club" : "SESAF Fribourg",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "UHLIG",
+      "fullName" : "UHLIG, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "53947"
+  }, {
+    "participantId" : "57",
+    "club" : "ZFC Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jori",
+      "lastName" : "VILLIGER",
+      "fullName" : "VILLIGER, Jori"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317814"
+  }, {
+    "participantId" : "58",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Frederik",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Frederik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308659"
+  }, {
+    "participantId" : "59",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Daniele",
+      "lastName" : "ZORZATO",
+      "fullName" : "ZORZATO, Daniele"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "90160"
+  } ]
+}

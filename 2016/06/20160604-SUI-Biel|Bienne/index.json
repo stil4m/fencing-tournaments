@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Biel/Bienne",
+    "name" : "2016 Championnats suisses",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "a8666c59-04d6-4404-b668-9f15e91eaee7",
+    "path" : "/2016/06/20160604-SUI-Biel|Bienne/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4a6c77e0-67bc-4480-8597-a07f61ffb1c5",
+    "path" : "/2016/06/20160604-SUI-Biel|Bienne/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "770fb3dc-7072-4bf4-8088-21e184201052",
+    "path" : "/2016/06/20160604-SUI-Biel|Bienne/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d3f0d17a-92bf-4f4e-b525-02b5b0101e57",
+    "path" : "/2016/06/20160604-SUI-Biel|Bienne/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

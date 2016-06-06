@@ -1,0 +1,322 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4245-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "15",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Nürnberger FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Claudia",
+      "lastName" : "ADER",
+      "fullName" : "ADER, Claudia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350261"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Geesche",
+      "lastName" : "BOEDECKER",
+      "fullName" : "BOEDECKER, Geesche"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86383"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katja",
+      "lastName" : "BURKHARDT",
+      "fullName" : "BURKHARDT, Katja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "31949"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katja",
+      "lastName" : "CRUSTEWITZ",
+      "fullName" : "CRUSTEWITZ, Katja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "9226"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Dörnigheim",
+    "country" : "CAN",
+    "name" : {
+      "firstName" : "Rose",
+      "lastName" : "FINTER",
+      "fullName" : "FINTER, Rose"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "19877"
+  }, {
+    "participantId" : "6",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie-Louise",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Marie-Louise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323383"
+  }, {
+    "participantId" : "7",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "FRICKE",
+      "fullName" : "FRICKE, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "82027"
+  }, {
+    "participantId" : "8",
+    "club" : "SB DJK Rosenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Konstanze",
+      "lastName" : "KLÖPPER",
+      "fullName" : "KLÖPPER, Konstanze"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324133"
+  }, {
+    "participantId" : "9",
+    "club" : "SB DJK Rosenheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ulrike",
+      "lastName" : "KLÖPPER",
+      "fullName" : "KLÖPPER, Ulrike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "49359"
+  }, {
+    "participantId" : "10",
+    "club" : "KTF Luitpold München",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Erika",
+      "lastName" : "MAI",
+      "fullName" : "MAI, Erika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304622"
+  }, {
+    "participantId" : "11",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cristina",
+      "lastName" : "MAZZOLA",
+      "fullName" : "MAZZOLA, Cristina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "334633"
+  }, {
+    "participantId" : "12",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Zsofia",
+      "lastName" : "POSGAY",
+      "fullName" : "POSGAY, Zsofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "123401"
+  }, {
+    "participantId" : "13",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "SCHORMAIR",
+      "fullName" : "SCHORMAIR, Barbara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "11330"
+  }, {
+    "participantId" : "14",
+    "club" : "VFL Marburg FA",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linda",
+      "lastName" : "SCHULTZE",
+      "fullName" : "SCHULTZE, Linda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "21633"
+  }, {
+    "participantId" : "15",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Esther",
+      "lastName" : "THOME",
+      "fullName" : "THOME, Esther"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308195"
+  }, {
+    "participantId" : "16",
+    "club" : "MTV Giessen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cora",
+      "lastName" : "WEIMER",
+      "fullName" : "WEIMER, Cora"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117601"
+  }, {
+    "participantId" : "17",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silke",
+      "lastName" : "WELTZIEN",
+      "fullName" : "WELTZIEN, Silke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43553"
+  }, {
+    "participantId" : "18",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "WELTZIEN",
+      "fullName" : "WELTZIEN, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "48987"
+  }, {
+    "participantId" : "19",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "ZIEGON",
+      "fullName" : "ZIEGON, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43747"
+  }, {
+    "participantId" : "20",
+    "club" : "FC Regensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christiane",
+      "lastName" : "ZWICKER",
+      "fullName" : "ZWICKER, Christiane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "18365"
+  } ]
+}

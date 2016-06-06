@@ -1,0 +1,214 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9472-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "teamName" : "BFC Basel",
+    "members" : [ {
+      "firstName" : "Friederike",
+      "lastName" : "BENNING",
+      "fullName" : "BENNING, Friederike"
+    }, {
+      "firstName" : "Susan",
+      "lastName" : "TREVES",
+      "fullName" : "TREVES, Susan"
+    }, {
+      "firstName" : "Nora",
+      "lastName" : "BAUD",
+      "fullName" : "BAUD, Nora"
+    }, {
+      "firstName" : "Viktoria-Luise",
+      "lastName" : "KOCH",
+      "fullName" : "KOCH, Viktoria-Luise"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "AFCB Bern",
+    "country" : "SUI",
+    "teamName" : "AFCB BERN",
+    "members" : [ {
+      "firstName" : "Leandra",
+      "lastName" : "SCHIBLER",
+      "fullName" : "SCHIBLER, Leandra"
+    }, {
+      "firstName" : "Julie",
+      "lastName" : "SELZ",
+      "fullName" : "SELZ, Julie"
+    }, {
+      "firstName" : "Lara",
+      "lastName" : "AEBI",
+      "fullName" : "AEBI, Lara"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313673"
+  }, {
+    "participantId" : "3",
+    "club" : "CER Romont",
+    "country" : "SUI",
+    "teamName" : "CER ROMONT",
+    "members" : [ {
+      "firstName" : "Kerstin",
+      "lastName" : "VON TOLL",
+      "fullName" : "VON TOLL, Kerstin"
+    }, {
+      "firstName" : "Maria",
+      "lastName" : "SAPIN-DORNACHER",
+      "fullName" : "SAPIN-DORNACHER, Maria"
+    }, {
+      "firstName" : "Alyson",
+      "lastName" : "SALZANO",
+      "fullName" : "SALZANO, Alyson"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313684"
+  }, {
+    "participantId" : "4",
+    "club" : "CES Sierre",
+    "country" : "SUI",
+    "teamName" : "CES SIERRE",
+    "members" : [ {
+      "firstName" : "Aurore",
+      "lastName" : "FAVRE",
+      "fullName" : "FAVRE, Aurore"
+    }, {
+      "firstName" : "Angeline",
+      "lastName" : "FAVRE",
+      "fullName" : "FAVRE, Angeline"
+    }, {
+      "firstName" : "Solene",
+      "lastName" : "MASSEREY",
+      "fullName" : "MASSEREY, Solene"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313685"
+  }, {
+    "participantId" : "5",
+    "club" : "FCZ Zug",
+    "country" : "SUI",
+    "teamName" : "FCZ ZUG",
+    "members" : [ {
+      "firstName" : "Manon",
+      "lastName" : "EMMENEGGER",
+      "fullName" : "EMMENEGGER, Manon"
+    }, {
+      "firstName" : "Miriam",
+      "lastName" : "DE SEPIBUS",
+      "fullName" : "DE SEPIBUS, Miriam"
+    }, {
+      "firstName" : "Solange",
+      "lastName" : "EMMENEGGER",
+      "fullName" : "EMMENEGGER, Solange"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313695"
+  }, {
+    "participantId" : "6",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "teamName" : "SEB BASEL",
+    "members" : [ {
+      "firstName" : "Valentina",
+      "lastName" : "BOS",
+      "fullName" : "BOS, Valentina"
+    }, {
+      "firstName" : "Kim",
+      "lastName" : "BUECH",
+      "fullName" : "BUECH, Kim"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "STAEHLI",
+      "fullName" : "STAEHLI, Laura"
+    }, {
+      "firstName" : "Alexandra",
+      "lastName" : "BLUM",
+      "fullName" : "BLUM, Alexandra"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23214"
+  }, {
+    "participantId" : "7",
+    "club" : "SEB Basel",
+    "country" : "SUI",
+    "teamName" : "SEB BASEL 2",
+    "members" : [ {
+      "firstName" : "Thale",
+      "lastName" : "HILLE-DAHL",
+      "fullName" : "HILLE-DAHL, Thale"
+    }, {
+      "firstName" : "Katrina",
+      "lastName" : "STURMHOEFEL",
+      "fullName" : "STURMHOEFEL, Katrina"
+    }, {
+      "firstName" : "Anna Katharina",
+      "lastName" : "OBRECHT",
+      "fullName" : "OBRECHT, Anna Katharina"
+    }, {
+      "firstName" : "Martina",
+      "lastName" : "STAEHLI",
+      "fullName" : "STAEHLI, Martina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "314924"
+  }, {
+    "participantId" : "8",
+    "club" : "SEN Neuchatel",
+    "country" : "SUI",
+    "teamName" : "SEN NEUCHATEL",
+    "members" : [ {
+      "firstName" : "Nadia",
+      "lastName" : "ROGNON",
+      "fullName" : "ROGNON, Nadia"
+    }, {
+      "firstName" : "Jenny",
+      "lastName" : "PEGO MAGALHAES",
+      "fullName" : "PEGO MAGALHAES, Jenny"
+    }, {
+      "firstName" : "Natalia",
+      "lastName" : "CHALON",
+      "fullName" : "CHALON, Natalia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "313716"
+  } ]
+}

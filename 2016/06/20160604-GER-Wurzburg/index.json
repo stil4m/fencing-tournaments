@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Würzburg",
+    "name" : "Würzburger Stadtwappen",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "39dbccec-bd08-4b17-8ed8-92b1fbcf1ea5",
+    "path" : "/2016/06/20160604-GER-Wurzburg/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "64efaa5d-4260-4c46-8bee-aeed93c807e2",
+    "path" : "/2016/06/20160604-GER-Wurzburg/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d717c75b-c26a-4fa3-a1ca-360d65a89a73",
+    "path" : "/2016/06/20160604-GER-Wurzburg/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5c84c679-53cb-4139-a6c0-b64e02c4cf9b",
+    "path" : "/2016/06/20160604-GER-Wurzburg/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 5
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

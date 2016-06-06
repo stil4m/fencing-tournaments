@@ -1,0 +1,498 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4748-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "teamName" : "BERLINER FC",
+    "members" : [ {
+      "firstName" : "Karla",
+      "lastName" : "EIS",
+      "fullName" : "EIS, Karla"
+    }, {
+      "firstName" : "Rebekka",
+      "lastName" : "WALD",
+      "fullName" : "WALD, Rebekka"
+    }, {
+      "firstName" : "Leslie",
+      "lastName" : "HOFERICHTER",
+      "fullName" : "HOFERICHTER, Leslie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "56791"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "teamName" : "EINTRACHT DUISBURG",
+    "members" : [ {
+      "firstName" : "Sarah",
+      "lastName" : "WOLDT",
+      "fullName" : "WOLDT, Sarah"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "ADLER",
+      "fullName" : "ADLER, Laura"
+    }, {
+      "firstName" : "Leonie",
+      "lastName" : "EBIGT",
+      "fullName" : "EBIGT, Leonie"
+    }, {
+      "firstName" : "Katharina",
+      "lastName" : "MANG",
+      "fullName" : "MANG, Katharina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "320"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Fürth",
+    "country" : "GER",
+    "teamName" : "FC FÜRTH",
+    "members" : [ {
+      "firstName" : "Lara",
+      "lastName" : "ERK",
+      "fullName" : "ERK, Lara"
+    }, {
+      "firstName" : "Luise",
+      "lastName" : "FREITAG",
+      "fullName" : "FREITAG, Luise"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "LASER",
+      "fullName" : "LASER, Charlotte"
+    } ],
+    "fieId" : null,
+    "fwwId" : "33760"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "teamName" : "FC IMMENDINGEN",
+    "members" : [ {
+      "firstName" : "Annika",
+      "lastName" : "HOGLUND",
+      "fullName" : "HOGLUND, Annika"
+    }, {
+      "firstName" : "Moana",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Moana"
+    }, {
+      "firstName" : "Maja",
+      "lastName" : "FÄSSLE",
+      "fullName" : "FÄSSLE, Maja"
+    } ],
+    "fieId" : null,
+    "fwwId" : "94015"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Johanna",
+      "lastName" : "FÉRON",
+      "fullName" : "FÉRON, Johanna"
+    }, {
+      "firstName" : "Sabrina",
+      "lastName" : "WELTING",
+      "fullName" : "WELTING, Sabrina"
+    }, {
+      "firstName" : "Pia",
+      "lastName" : "UELTGESFORTH",
+      "fullName" : "UELTGESFORTH, Pia"
+    }, {
+      "firstName" : "Greta",
+      "lastName" : "JANSEN",
+      "fullName" : "JANSEN, Greta"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Tauberbischofsheim",
+    "country" : "GER",
+    "teamName" : "FC TAUBERBISCHOFSHEIM",
+    "members" : [ {
+      "firstName" : "Caecilia",
+      "lastName" : "THÜRMER",
+      "fullName" : "THÜRMER, Caecilia"
+    }, {
+      "firstName" : "Evelyn",
+      "lastName" : "ZEHNER",
+      "fullName" : "ZEHNER, Evelyn"
+    }, {
+      "firstName" : "Mara Sofie",
+      "lastName" : "VOESTE",
+      "fullName" : "VOESTE, Mara Sofie"
+    }, {
+      "firstName" : "Aliya",
+      "lastName" : "DHUIQUE-HEIN",
+      "fullName" : "DHUIQUE-HEIN, Aliya"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19855"
+  }, {
+    "participantId" : "7",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "teamName" : "FSC JENA",
+    "members" : [ {
+      "firstName" : "Pauline",
+      "lastName" : "BUCHWALD",
+      "fullName" : "BUCHWALD, Pauline"
+    }, {
+      "firstName" : "Emilie",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Emilie"
+    }, {
+      "firstName" : "Lena",
+      "lastName" : "HUBOLD",
+      "fullName" : "HUBOLD, Lena"
+    }, {
+      "firstName" : "Laura Sophie",
+      "lastName" : "HÖNNGER",
+      "fullName" : "HÖNNGER, Laura Sophie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20625"
+  }, {
+    "participantId" : "8",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : [ {
+      "firstName" : "Anna Sophie",
+      "lastName" : "KOTHIERINGER",
+      "fullName" : "KOTHIERINGER, Anna Sophie"
+    }, {
+      "firstName" : "Valerie",
+      "lastName" : "ZU RHEIN VON BLEUL",
+      "fullName" : "ZU RHEIN VON BLEUL, Valerie"
+    }, {
+      "firstName" : "Lucy",
+      "lastName" : "KARL",
+      "fullName" : "KARL, Lucy"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35627"
+  }, {
+    "participantId" : "9",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "teamName" : "OFC BONN",
+    "members" : [ {
+      "firstName" : "Mona",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Mona"
+    }, {
+      "firstName" : "Charlotte",
+      "lastName" : "BONGARD",
+      "fullName" : "BONGARD, Charlotte"
+    }, {
+      "firstName" : "Kari",
+      "lastName" : "WEINER",
+      "fullName" : "WEINER, Kari"
+    }, {
+      "firstName" : "Annalena",
+      "lastName" : "SHIGIHARA",
+      "fullName" : "SHIGIHARA, Annalena"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19861"
+  }, {
+    "participantId" : "10",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "teamName" : "SC BERLIN",
+    "members" : [ {
+      "firstName" : "Hanna",
+      "lastName" : "SCHNABEL",
+      "fullName" : "SCHNABEL, Hanna"
+    }, {
+      "firstName" : "Celine",
+      "lastName" : "TIMM",
+      "fullName" : "TIMM, Celine"
+    }, {
+      "firstName" : "Johanna",
+      "lastName" : "VÖLKER",
+      "fullName" : "VÖLKER, Johanna"
+    }, {
+      "firstName" : "Juliane",
+      "lastName" : "BIEDERMANN",
+      "fullName" : "BIEDERMANN, Juliane"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19847"
+  }, {
+    "participantId" : "11",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "teamName" : "SC KORB",
+    "members" : [ {
+      "firstName" : "Greta",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Greta"
+    }, {
+      "firstName" : "Aline",
+      "lastName" : "RUSTLER",
+      "fullName" : "RUSTLER, Aline"
+    }, {
+      "firstName" : "Leonie",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Leonie"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "KAPPEL",
+      "fullName" : "KAPPEL, Lea"
+    } ],
+    "fieId" : null,
+    "fwwId" : "56774"
+  }, {
+    "participantId" : "12",
+    "club" : "Sachsen",
+    "country" : "GER",
+    "teamName" : "STG DRESDEN/CHEMNITZ",
+    "members" : [ {
+      "firstName" : "Linda",
+      "lastName" : "STERZIK",
+      "fullName" : "STERZIK, Linda"
+    }, {
+      "firstName" : "Tina",
+      "lastName" : "WENZKE",
+      "fullName" : "WENZKE, Tina"
+    }, {
+      "firstName" : "Verena",
+      "lastName" : "SCHILLING",
+      "fullName" : "SCHILLING, Verena"
+    } ],
+    "fieId" : null,
+    "fwwId" : "363944"
+  }, {
+    "participantId" : "13",
+    "club" : "Sachsen-Anhalt",
+    "country" : "GER",
+    "teamName" : "STG HALLE/MAGDEBURG",
+    "members" : [ {
+      "firstName" : "Ira",
+      "lastName" : "SOTHEN",
+      "fullName" : "SOTHEN, Ira"
+    }, {
+      "firstName" : "Alida",
+      "lastName" : "RIEDEL",
+      "fullName" : "RIEDEL, Alida"
+    }, {
+      "firstName" : "Andrea",
+      "lastName" : "MATTHIES",
+      "fullName" : "MATTHIES, Andrea"
+    } ],
+    "fieId" : null,
+    "fwwId" : "363410"
+  }, {
+    "participantId" : "14",
+    "club" : "Niedersachsen",
+    "country" : "GER",
+    "teamName" : "STG HILDESHEIM/WILHELMSHAVEN",
+    "members" : [ {
+      "firstName" : "Louisa",
+      "lastName" : "SÖLTER",
+      "fullName" : "SÖLTER, Louisa"
+    }, {
+      "firstName" : "Caroline",
+      "lastName" : "VON FINCKENSTEIN",
+      "fullName" : "VON FINCKENSTEIN, Caroline"
+    }, {
+      "firstName" : "Paula",
+      "lastName" : "DE LA ROCHE",
+      "fullName" : "DE LA ROCHE, Paula"
+    } ],
+    "fieId" : null,
+    "fwwId" : "363862"
+  }, {
+    "participantId" : "15",
+    "club" : "Schleswig-Holstein",
+    "country" : "GER",
+    "teamName" : "STG PINNEBERG/LÜBECK",
+    "members" : [ {
+      "firstName" : "Greta",
+      "lastName" : "RÖPKE",
+      "fullName" : "RÖPKE, Greta"
+    }, {
+      "firstName" : "Frauke",
+      "lastName" : "GODAU",
+      "fullName" : "GODAU, Frauke"
+    }, {
+      "firstName" : "Anne Sophie",
+      "lastName" : "SCHNEEGANS",
+      "fullName" : "SCHNEEGANS, Anne Sophie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "54717"
+  }, {
+    "participantId" : "16",
+    "club" : "TB Hamburg-Eilbeck",
+    "country" : "GER",
+    "teamName" : "TB HAMBURG-EILBECK",
+    "members" : [ {
+      "firstName" : "Lina",
+      "lastName" : "DREWS",
+      "fullName" : "DREWS, Lina"
+    }, {
+      "firstName" : "Sofia",
+      "lastName" : "KNAP",
+      "fullName" : "KNAP, Sofia"
+    }, {
+      "firstName" : "Xenia",
+      "lastName" : "MAUL",
+      "fullName" : "MAUL, Xenia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119343"
+  }, {
+    "participantId" : "17",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "teamName" : "TFC HANAU",
+    "members" : [ {
+      "firstName" : "Angelina",
+      "lastName" : "PHILIPP",
+      "fullName" : "PHILIPP, Angelina"
+    }, {
+      "firstName" : "Marie",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Marie"
+    }, {
+      "firstName" : "Emma",
+      "lastName" : "GEYER",
+      "fullName" : "GEYER, Emma"
+    }, {
+      "firstName" : "Malina",
+      "lastName" : "GRÖNINGER",
+      "fullName" : "GRÖNINGER, Malina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "30079"
+  }, {
+    "participantId" : "18",
+    "club" : "TSG Weinheim",
+    "country" : "GER",
+    "teamName" : "TSG WEINHEIM",
+    "members" : [ {
+      "firstName" : "Maike",
+      "lastName" : "ERHARDT",
+      "fullName" : "ERHARDT, Maike"
+    }, {
+      "firstName" : "Anne",
+      "lastName" : "KIRSCH",
+      "fullName" : "KIRSCH, Anne"
+    }, {
+      "firstName" : "Celia",
+      "lastName" : "HOHENADEL",
+      "fullName" : "HOHENADEL, Celia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "56773"
+  }, {
+    "participantId" : "19",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "teamName" : "TV HAUENEBERSTEIN",
+    "members" : [ {
+      "firstName" : "Sophie",
+      "lastName" : "BLACK",
+      "fullName" : "BLACK, Sophie"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    }, {
+      "firstName" : "Annaluise",
+      "lastName" : "BIPPES",
+      "fullName" : "BIPPES, Annaluise"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329420"
+  } ]
+}

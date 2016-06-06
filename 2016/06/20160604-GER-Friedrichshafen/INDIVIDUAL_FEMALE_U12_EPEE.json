@@ -1,0 +1,246 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9545-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG SCHWENNINGEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luisa",
+      "lastName" : "BARTMANN",
+      "fullName" : "BARTMANN, Luisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luisa",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Luisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353785"
+  }, {
+    "participantId" : "3",
+    "club" : "FTSJD DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Konstanze",
+      "lastName" : "GRABHER",
+      "fullName" : "GRABHER, Konstanze"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "FTSJD DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lilly",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Lilly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "VA FTSJD DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lilly-Eleonore",
+      "lastName" : "KLEINERT",
+      "fullName" : "KLEINERT, Lilly-Eleonore"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "TG SCHWENNINGEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charis",
+      "lastName" : "LÄMMLER",
+      "fullName" : "LÄMMLER, Charis"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "7",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "LEINER",
+      "fullName" : "LEINER, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344801"
+  }, {
+    "participantId" : "8",
+    "club" : "FC HOHENEMS",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Ana",
+      "lastName" : "LEPIR",
+      "fullName" : "LEPIR, Ana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "MTG WANGEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : "TG SCHWENNINGEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "PAHLOW",
+      "fullName" : "PAHLOW, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "TSV OBERAMMERGAU",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "REITZNER",
+      "fullName" : "REITZNER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : "VA FTSJD DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "RüDISSER Nola"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : "VA FTSJD DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "RüDISSER Ronja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "14",
+    "club" : "FCSG ST. GALLEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Luzia",
+      "lastName" : "SCHINDLER",
+      "fullName" : "SCHINDLER, Luzia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "15",
+    "club" : "FCSG ST. GALLEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Myu",
+      "lastName" : "SCHIWY",
+      "fullName" : "SCHIWY, Myu"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : "FGS SCHAFFHAUSEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Zoé",
+      "lastName" : "SCHUPPISSER",
+      "fullName" : "SCHUPPISSER, Zoé"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "17",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marina",
+      "lastName" : "VICECONTI",
+      "fullName" : "VICECONTI, Marina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356228"
+  } ]
+}

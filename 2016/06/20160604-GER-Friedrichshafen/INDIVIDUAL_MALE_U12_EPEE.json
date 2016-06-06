@@ -1,0 +1,298 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "9546-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "19",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG SCHWENNINGEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "John",
+      "lastName" : "BADER",
+      "fullName" : "BADER, John"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "SSV ULM 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "BIRKMEIER",
+      "fullName" : "BIRKMEIER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FCSG ST. GALLEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Levi Elia Nathanaël",
+      "lastName" : "DIEM",
+      "fullName" : "DIEM, Levi Elia Nathanaël"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "FCSG ST. GALLEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nevio",
+      "lastName" : "FUX",
+      "fullName" : "FUX, Nevio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "FCSG ST. GALLEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Pierric",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Pierric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Sven",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Sven"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327726"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HELD",
+      "fullName" : "HELD, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350619"
+  }, {
+    "participantId" : "8",
+    "club" : "ETSV OFFENBURG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marwin",
+      "lastName" : "HEUBERGER",
+      "fullName" : "HEUBERGER, Marwin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "VA FTSJD DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "HUCHLER",
+      "fullName" : "HUCHLER, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : "FCSG ST. GALLEN",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nicolai",
+      "lastName" : "HUTTER",
+      "fullName" : "HUTTER, Nicolai"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "VFB FRIEDRICHSHAFEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dario",
+      "lastName" : "KNÖR",
+      "fullName" : "KNÖR, Dario"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "12",
+    "club" : "VFB FRIEDRICHSHAFEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cornelius",
+      "lastName" : "KUHLMANN",
+      "fullName" : "KUHLMANN, Cornelius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "13",
+    "club" : "TSV Tettnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "NEUMEISTER",
+      "fullName" : "NEUMEISTER, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361629"
+  }, {
+    "participantId" : "14",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philip",
+      "lastName" : "NOTHACKER",
+      "fullName" : "NOTHACKER, Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355265"
+  }, {
+    "participantId" : "15",
+    "club" : "TG SCHWENNINGEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca-Leon",
+      "lastName" : "PEUKER",
+      "fullName" : "PEUKER, Luca-Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "16",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dennis",
+      "lastName" : "PLISCHKE",
+      "fullName" : "PLISCHKE, Dennis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319165"
+  }, {
+    "participantId" : "17",
+    "club" : "FECHTAKADEMIE RAVENSBURG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Adrian",
+      "lastName" : "REITER",
+      "fullName" : "REITER, Adrian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "18",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dominik",
+      "lastName" : "RENZ",
+      "fullName" : "RENZ, Dominik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326648"
+  }, {
+    "participantId" : "19",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363198"
+  }, {
+    "participantId" : "20",
+    "club" : "TSV Pliezhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "ZAISER",
+      "fullName" : "ZAISER, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318618"
+  } ]
+}

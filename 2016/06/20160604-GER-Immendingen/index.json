@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Immendingen",
+    "name" : "Deutsche A-Jugend-Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 5
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7b1b7b15-8982-4e36-a7fe-f44c1227b40e",
+    "path" : "/2016/06/20160604-GER-Immendingen/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6cdb89af-4cec-4a5f-b85f-128d4782211d",
+    "path" : "/2016/06/20160604-GER-Immendingen/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

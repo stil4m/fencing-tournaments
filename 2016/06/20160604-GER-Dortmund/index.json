@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Dortmund",
+    "name" : "Dortmunder Junioren Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "323f2ba4-3527-4f84-ba30-1b0b43cab682",
+    "path" : "/2016/06/20160604-GER-Dortmund/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f9d02dc3-709d-40de-b91f-e5bc3e6110e0",
+    "path" : "/2016/06/20160604-GER-Dortmund/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}
