@@ -8343,9 +8343,19 @@ var _user$project$Components$dateText = function (d) {
 					_user$project$Components$fixZero(d.day)))));
 };
 
-var _user$project$EventRow$eventLink = function (_p0) {
-	var _p1 = _p0;
-	var _p3 = _p1.startDate;
+var _user$project$EventRow$replaceAll = F2(
+	function (from, to) {
+		return A3(
+			_elm_lang$core$Regex$replace,
+			_elm_lang$core$Regex$All,
+			_elm_lang$core$Regex$regex(from),
+			function (_p0) {
+				return to;
+			});
+	});
+var _user$project$EventRow$eventLink = function (_p1) {
+	var _p2 = _p1;
+	var _p3 = _p2.startDate;
 	return A2(
 		_elm_lang$core$Basics_ops['++'],
 		'./event.html#',
@@ -8375,18 +8385,15 @@ var _user$project$EventRow$eventLink = function (_p0) {
 										'-',
 										A2(
 											_elm_lang$core$Basics_ops['++'],
-											_p1.country,
+											_p2.country,
 											A2(
 												_elm_lang$core$Basics_ops['++'],
 												'-',
-												A4(
-													_elm_lang$core$Regex$replace,
-													_elm_lang$core$Regex$All,
-													_elm_lang$core$Regex$regex(' '),
-													function (_p2) {
-														return '_';
-													},
-													_p1.location))))))))))));
+												A3(
+													_user$project$EventRow$replaceAll,
+													'/',
+													'|',
+													A3(_user$project$EventRow$replaceAll, ' ', '_', _p2.location)))))))))))));
 };
 var _user$project$EventRow$visitButton = function (event) {
 	return A2(
