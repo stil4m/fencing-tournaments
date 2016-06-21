@@ -1,0 +1,198 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6778-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Johannes",
+      "lastName" : "ZYBER",
+      "fullName" : "ZYBER, Johannes"
+    }, {
+      "firstName" : "Matthias",
+      "lastName" : "NEUHAUS",
+      "fullName" : "NEUHAUS, Matthias"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "WIEDNER",
+      "fullName" : "WIEDNER, Jonas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "teamName" : "FECHTCENTRUM HALLE",
+    "members" : [ {
+      "firstName" : "Christoph",
+      "lastName" : "SCHÄTZKE",
+      "fullName" : "SCHÄTZKE, Christoph"
+    }, {
+      "firstName" : "Bernd",
+      "lastName" : "STÖHR",
+      "fullName" : "STÖHR, Bernd"
+    }, {
+      "firstName" : "Eric",
+      "lastName" : "BRAATZ",
+      "fullName" : "BRAATZ, Eric"
+    }, {
+      "firstName" : "Jan",
+      "lastName" : "LOSERT",
+      "fullName" : "LOSERT, Jan"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20296"
+  }, {
+    "participantId" : "3",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "teamName" : "FSC JENA",
+    "members" : [ {
+      "firstName" : "Michael",
+      "lastName" : "STANEK",
+      "fullName" : "STANEK, Michael"
+    }, {
+      "firstName" : "Holger",
+      "lastName" : "LABISCH",
+      "fullName" : "LABISCH, Holger"
+    }, {
+      "firstName" : "Johannes",
+      "lastName" : "HUFNAGL",
+      "fullName" : "HUFNAGL, Johannes"
+    }, {
+      "firstName" : "Nils",
+      "lastName" : "WESTPHAL",
+      "fullName" : "WESTPHAL, Nils"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20625"
+  }, {
+    "participantId" : "4",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Oliver",
+      "lastName" : "SCHWEIZER",
+      "fullName" : "SCHWEIZER, Oliver"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "KAUFMANN",
+      "fullName" : "KAUFMANN, Florian"
+    }, {
+      "firstName" : "Marino",
+      "lastName" : "BULLINGER",
+      "fullName" : "BULLINGER, Marino"
+    }, {
+      "firstName" : "Alexander",
+      "lastName" : "GSCHING",
+      "fullName" : "GSCHING, Alexander"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "5",
+    "club" : "HFC Lübeck",
+    "country" : "GER",
+    "teamName" : "HFC LÜBECK",
+    "members" : [ {
+      "firstName" : "Henrik",
+      "lastName" : "FEY",
+      "fullName" : "FEY, Henrik"
+    }, {
+      "firstName" : "Mathias",
+      "lastName" : "BURCHARDT",
+      "fullName" : "BURCHARDT, Mathias"
+    }, {
+      "firstName" : "Hans-Martin",
+      "lastName" : "RAEKER",
+      "fullName" : "RAEKER, Hans-Martin"
+    }, {
+      "firstName" : "Jan Hendrik",
+      "lastName" : "LÜHR",
+      "fullName" : "LÜHR, Jan Hendrik"
+    } ],
+    "fieId" : null,
+    "fwwId" : "30232"
+  }, {
+    "participantId" : "6",
+    "club" : "OSC Berlin",
+    "country" : "GER",
+    "teamName" : "OSC BERLIN",
+    "members" : [ {
+      "firstName" : "Marcel",
+      "lastName" : "GMEREK",
+      "fullName" : "GMEREK, Marcel"
+    }, {
+      "firstName" : "Silvio",
+      "lastName" : "THELEMANN",
+      "fullName" : "THELEMANN, Silvio"
+    }, {
+      "firstName" : "Alister",
+      "lastName" : "MAZZOTTI",
+      "fullName" : "MAZZOTTI, Alister"
+    }, {
+      "firstName" : "Nils",
+      "lastName" : "KOLBINGER",
+      "fullName" : "KOLBINGER, Nils"
+    } ],
+    "fieId" : null,
+    "fwwId" : "56807"
+  }, {
+    "participantId" : "7",
+    "club" : "PSV Stuttgart",
+    "country" : "GER",
+    "teamName" : "PSV STUTTGART",
+    "members" : [ {
+      "firstName" : "Jan-Marco",
+      "lastName" : "AMREIN",
+      "fullName" : "AMREIN, Jan-Marco"
+    }, {
+      "firstName" : "Matthias",
+      "lastName" : "PRIBIK",
+      "fullName" : "PRIBIK, Matthias"
+    }, {
+      "firstName" : "Jassir",
+      "lastName" : "HICKEL",
+      "fullName" : "HICKEL, Jassir"
+    } ],
+    "fieId" : null,
+    "fwwId" : "27210"
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Würzburg",
+    "name" : "Bayerische Junioren Meisterschaften",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 19
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ac49a389-ebba-45fc-9028-abc99675e9ca",
+    "path" : "/2016/06/20160618-GER-Wurzburg/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "68304d1d-1257-40d1-ac0f-b6a28cfbc394",
+    "path" : "/2016/06/20160618-GER-Wurzburg/EQUIPE_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "b51a925e-170d-49ad-8919-2d31f7c9aff9",
+    "path" : "/2016/06/20160618-GER-Wurzburg/EQUIPE_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "a84aec40-4be5-4dd4-8e24-b349bbd35abb",
+    "path" : "/2016/06/20160618-GER-Wurzburg/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e37cb142-aa80-446c-ad81-d00007436d81",
+    "path" : "/2016/06/20160618-GER-Wurzburg/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d90eb638-3bf1-407e-9c04-f196bf036914",
+    "path" : "/2016/06/20160618-GER-Wurzburg/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5b0e9e11-b0b9-4c44-8f5f-65f9405d1a27",
+    "path" : "/2016/06/20160618-GER-Wurzburg/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e9856d9c-48c2-4b54-a0cc-90d80b0ff8da",
+    "path" : "/2016/06/20160618-GER-Wurzburg/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c81a62e7-a877-4fdd-9041-51dd7a838f47",
+    "path" : "/2016/06/20160618-GER-Wurzburg/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

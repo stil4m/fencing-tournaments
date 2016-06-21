@@ -1,0 +1,60 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Potsdam",
+    "name" : "Brandenburgische Schüler Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "e611cdb7-8c59-489b-8963-38b2352851f7",
+    "path" : "/2016/06/20160618-GER-Potsdam/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "c7147e8d-a853-4a32-8677-ee909b58796a",
+    "path" : "/2016/06/20160618-GER-Potsdam/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a5efeb25-6d45-4f7d-b22f-3299f8716314",
+    "path" : "/2016/06/20160618-GER-Potsdam/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

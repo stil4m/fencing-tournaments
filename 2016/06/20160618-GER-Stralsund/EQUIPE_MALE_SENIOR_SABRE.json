@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6780-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "teamName" : "BERLINER FC",
+    "members" : [ {
+      "firstName" : "Andreas",
+      "lastName" : "BARTHELMES",
+      "fullName" : "BARTHELMES, Andreas"
+    }, {
+      "firstName" : "Robert",
+      "lastName" : "GEORGES",
+      "fullName" : "GEORGES, Robert"
+    }, {
+      "firstName" : "Martin",
+      "lastName" : "STIER",
+      "fullName" : "STIER, Martin"
+    }, {
+      "firstName" : "Carsten",
+      "lastName" : "ROESLER",
+      "fullName" : "ROESLER, Carsten"
+    } ],
+    "fieId" : null,
+    "fwwId" : "56791"
+  }, {
+    "participantId" : "2",
+    "club" : "ETV Hamburg",
+    "country" : "GER",
+    "teamName" : "ETV HAMBURG",
+    "members" : [ {
+      "firstName" : "Olaf",
+      "lastName" : "ZIEBELL",
+      "fullName" : "ZIEBELL, Olaf"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "KOCH",
+      "fullName" : "KOCH, Christian"
+    }, {
+      "firstName" : "Paul",
+      "lastName" : "DONALDSON",
+      "fullName" : "DONALDSON, Paul"
+    }, {
+      "firstName" : "Richard",
+      "lastName" : "ADEMA",
+      "fullName" : "ADEMA, Richard"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22573"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "teamName" : "FC SCHKEUDITZ",
+    "members" : [ {
+      "firstName" : "Tom",
+      "lastName" : "LANGHAMMER",
+      "fullName" : "LANGHAMMER, Tom"
+    }, {
+      "firstName" : "Marko",
+      "lastName" : "HEIGEL",
+      "fullName" : "HEIGEL, Marko"
+    }, {
+      "firstName" : "Frank",
+      "lastName" : "HERZIG",
+      "fullName" : "HERZIG, Frank"
+    }, {
+      "firstName" : "Knut",
+      "lastName" : "SÖNNICHSEN",
+      "fullName" : "SÖNNICHSEN, Knut"
+    } ],
+    "fieId" : null,
+    "fwwId" : "94037"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : [ {
+      "firstName" : "David",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, David"
+    }, {
+      "firstName" : "Jakob",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Jakob"
+    }, {
+      "firstName" : "Lars Benedikt",
+      "lastName" : "KÖCK",
+      "fullName" : "KÖCK, Lars Benedikt"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "5",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "teamName" : "FSV MÜLHEIM",
+    "members" : [ {
+      "firstName" : "Sören",
+      "lastName" : "GROTH",
+      "fullName" : "GROTH, Sören"
+    }, {
+      "firstName" : "Felix",
+      "lastName" : "RANG",
+      "fullName" : "RANG, Felix"
+    }, {
+      "firstName" : "Vincent",
+      "lastName" : "KLUGER",
+      "fullName" : "KLUGER, Vincent"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "WIEDEKAMP",
+      "fullName" : "WIEDEKAMP, Philipp"
+    } ],
+    "fieId" : null,
+    "fwwId" : "45874"
+  }, {
+    "participantId" : "6",
+    "club" : "MTV Mainz",
+    "country" : "GER",
+    "teamName" : "MTV MAINZ",
+    "members" : [ {
+      "firstName" : "Svend",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Svend"
+    }, {
+      "firstName" : "Jan",
+      "lastName" : "HOSCHNA",
+      "fullName" : "HOSCHNA, Jan"
+    }, {
+      "firstName" : "Marcus",
+      "lastName" : "BUSJAN",
+      "fullName" : "BUSJAN, Marcus"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32191"
+  }, {
+    "participantId" : "7",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "teamName" : "TSG EISLINGEN",
+    "members" : [ {
+      "firstName" : "Paul",
+      "lastName" : "HARSCH",
+      "fullName" : "HARSCH, Paul"
+    }, {
+      "firstName" : "Viktor",
+      "lastName" : "KREISCHER",
+      "fullName" : "KREISCHER, Viktor"
+    }, {
+      "firstName" : "Alexander",
+      "lastName" : "HOLTMANN",
+      "fullName" : "HOLTMANN, Alexander"
+    } ],
+    "fieId" : null,
+    "fwwId" : "30173"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Alsfeld",
+    "country" : "GER",
+    "teamName" : "TV ALSFELD",
+    "members" : [ {
+      "firstName" : "Moritz",
+      "lastName" : "EISENTRÄGER",
+      "fullName" : "EISENTRÄGER, Moritz"
+    }, {
+      "firstName" : "Cornelius",
+      "lastName" : "MACH",
+      "fullName" : "MACH, Cornelius"
+    }, {
+      "firstName" : "Fredrik",
+      "lastName" : "TOST",
+      "fullName" : "TOST, Fredrik"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35628"
+  } ]
+}

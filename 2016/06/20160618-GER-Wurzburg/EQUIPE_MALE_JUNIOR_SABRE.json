@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5617-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "teamName" : "FR NÜRNBERG",
+    "members" : [ {
+      "firstName" : "Lars Benedikt",
+      "lastName" : "KÖCK",
+      "fullName" : "KÖCK, Lars Benedikt"
+    }, {
+      "firstName" : "Jakob",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Jakob"
+    }, {
+      "firstName" : "David",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, David"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32186"
+  }, {
+    "participantId" : "2",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG MÜNCHEN/WEILHEIM",
+    "members" : [ {
+      "firstName" : "Paul",
+      "lastName" : "SKORODUMOW",
+      "fullName" : "SKORODUMOW, Paul"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "BÄUMLER",
+      "fullName" : "BÄUMLER, Jonas"
+    }, {
+      "firstName" : "Colm",
+      "lastName" : "SPRINGER",
+      "fullName" : "SPRINGER, Colm"
+    } ],
+    "fieId" : null,
+    "fwwId" : "357980"
+  } ]
+}

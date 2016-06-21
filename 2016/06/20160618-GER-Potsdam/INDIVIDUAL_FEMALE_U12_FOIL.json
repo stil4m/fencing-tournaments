@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7592-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "OSC Potsdam",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daria",
+      "lastName" : "GLININA",
+      "fullName" : "GLININA, Daria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350803"
+  }, {
+    "participantId" : "2",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karoline",
+      "lastName" : "KRAUTER",
+      "fullName" : "KRAUTER, Karoline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316760"
+  }, {
+    "participantId" : "3",
+    "club" : "SVA Oranienburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martha Elisabeth",
+      "lastName" : "LEWIN",
+      "fullName" : "LEWIN, Martha Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348453"
+  }, {
+    "participantId" : "4",
+    "club" : "SV Lok Pritzwalk",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentine",
+      "lastName" : "PROSS",
+      "fullName" : "PROSS, Valentine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358566"
+  }, {
+    "participantId" : "5",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marisa",
+      "lastName" : "WINDE",
+      "fullName" : "WINDE, Marisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "364153"
+  } ]
+}

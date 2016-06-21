@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5615-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG Oberammergau/Ingolstadt/Kaufbeuren",
+    "members" : [ {
+      "firstName" : "Lorenz",
+      "lastName" : "JAKOB",
+      "fullName" : "JAKOB, Lorenz"
+    }, {
+      "firstName" : "Marcel",
+      "lastName" : "ETTENGRUBER",
+      "fullName" : "ETTENGRUBER, Marcel"
+    }, {
+      "firstName" : "Paul",
+      "lastName" : "HAUMAYR",
+      "fullName" : "HAUMAYR, Paul"
+    }, {
+      "firstName" : "Stefan",
+      "lastName" : "KOPPENHOFER",
+      "fullName" : "KOPPENHOFER, Stefan"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Fabian",
+      "lastName" : "RIEBLINGER",
+      "fullName" : "RIEBLINGER, Fabian"
+    }, {
+      "firstName" : "Vincent",
+      "lastName" : "MÖCKL",
+      "fullName" : "MÖCKL, Vincent"
+    }, {
+      "firstName" : "Manuel",
+      "lastName" : "RIEBLINGER",
+      "fullName" : "RIEBLINGER, Manuel"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG 2",
+    "members" : [ {
+      "firstName" : "Leon",
+      "lastName" : "GIESSER",
+      "fullName" : "GIESSER, Leon"
+    }, {
+      "firstName" : "Jan",
+      "lastName" : "TALAN",
+      "fullName" : "TALAN, Jan"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "MARTINEZ",
+      "fullName" : "MARTINEZ, Philipp"
+    }, {
+      "firstName" : "Tin",
+      "lastName" : "TALAN",
+      "fullName" : "TALAN, Tin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329373"
+  } ]
+}

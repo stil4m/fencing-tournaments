@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5613-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG Füssen/Kaufbeuren",
+    "members" : [ {
+      "firstName" : "Kerstin",
+      "lastName" : "MÜNZ",
+      "fullName" : "MÜNZ, Kerstin"
+    }, {
+      "firstName" : "Sophia",
+      "lastName" : "GIMPLE",
+      "fullName" : "GIMPLE, Sophia"
+    }, {
+      "firstName" : "Elena",
+      "lastName" : "DOLCETTI",
+      "fullName" : "DOLCETTI, Elena"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Michaela",
+      "lastName" : "DIETRICH",
+      "fullName" : "DIETRICH, Michaela"
+    }, {
+      "firstName" : "Eva",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Eva"
+    }, {
+      "firstName" : "Nina",
+      "lastName" : "TOBIAS",
+      "fullName" : "TOBIAS, Nina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  } ]
+}

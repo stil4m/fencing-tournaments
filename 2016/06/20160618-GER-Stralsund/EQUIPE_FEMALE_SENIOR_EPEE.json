@@ -1,0 +1,226 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6776-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Einheit Altenburg",
+    "country" : "GER",
+    "teamName" : "EINHEIT ALTENBURG",
+    "members" : [ {
+      "firstName" : "Jana",
+      "lastName" : "LEDIG",
+      "fullName" : "LEDIG, Jana"
+    }, {
+      "firstName" : "Katja",
+      "lastName" : "KATZSCH-BRACHERT",
+      "fullName" : "KATZSCH-BRACHERT, Katja"
+    }, {
+      "firstName" : "Katarina",
+      "lastName" : "LAHN",
+      "fullName" : "LAHN, Katarina"
+    }, {
+      "firstName" : "Anne-Marie",
+      "lastName" : "DÖHLER",
+      "fullName" : "DÖHLER, Anne-Marie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "93964"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtfreunde Münster",
+    "country" : "GER",
+    "teamName" : "FECHTFREUNDE MÜNSTER",
+    "members" : [ {
+      "firstName" : "Esther",
+      "lastName" : "PASCH",
+      "fullName" : "PASCH, Esther"
+    }, {
+      "firstName" : "Kim",
+      "lastName" : "KÖTTERHEINRICH",
+      "fullName" : "KÖTTERHEINRICH, Kim"
+    }, {
+      "firstName" : "Friederike",
+      "lastName" : "ROTHMUND",
+      "fullName" : "ROTHMUND, Friederike"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119200"
+  }, {
+    "participantId" : "3",
+    "club" : "Hamburger FC",
+    "country" : "GER",
+    "teamName" : "HAMBURGER FC",
+    "members" : [ {
+      "firstName" : "Ammerentie",
+      "lastName" : "LUTEIJN",
+      "fullName" : "LUTEIJN, Ammerentie"
+    }, {
+      "firstName" : "Kerstin",
+      "lastName" : "WERNER",
+      "fullName" : "WERNER, Kerstin"
+    }, {
+      "firstName" : "Insa",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Insa"
+    }, {
+      "firstName" : "Heide",
+      "lastName" : "NIESALLA",
+      "fullName" : "NIESALLA, Heide"
+    } ],
+    "fieId" : null,
+    "fwwId" : "32529"
+  }, {
+    "participantId" : "4",
+    "club" : "PSV Berlin",
+    "country" : "GER",
+    "teamName" : "PSV BERLIN",
+    "members" : [ {
+      "firstName" : "Francoise",
+      "lastName" : "HERREN",
+      "fullName" : "HERREN, Francoise"
+    }, {
+      "firstName" : "Kirsten",
+      "lastName" : "HALM",
+      "fullName" : "HALM, Kirsten"
+    }, {
+      "firstName" : "Franziska",
+      "lastName" : "PAULI",
+      "fullName" : "PAULI, Franziska"
+    }, {
+      "firstName" : "Kamila",
+      "lastName" : "OLSZEWSKA",
+      "fullName" : "OLSZEWSKA, Kamila"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52944"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Anja",
+      "lastName" : "HÄNDLER",
+      "fullName" : "HÄNDLER, Anja"
+    }, {
+      "firstName" : "Vanessa",
+      "lastName" : "BERGER",
+      "fullName" : "BERGER, Vanessa"
+    }, {
+      "firstName" : "Bianca Ines",
+      "lastName" : "GREUL",
+      "fullName" : "GREUL, Bianca Ines"
+    }, {
+      "firstName" : "Mareike",
+      "lastName" : "ZIEGLER",
+      "fullName" : "ZIEGLER, Mareike"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  }, {
+    "participantId" : "6",
+    "club" : "TSG Friesenheim",
+    "country" : "GER",
+    "teamName" : "TSG FRIESENHEIM",
+    "members" : [ {
+      "firstName" : "Bettina",
+      "lastName" : "FICHTEL",
+      "fullName" : "FICHTEL, Bettina"
+    }, {
+      "firstName" : "Renate",
+      "lastName" : "ALLES",
+      "fullName" : "ALLES, Renate"
+    }, {
+      "firstName" : "Lili",
+      "lastName" : "PLAGA",
+      "fullName" : "PLAGA, Lili"
+    }, {
+      "firstName" : "Karen",
+      "lastName" : "NEUHAUS",
+      "fullName" : "NEUHAUS, Karen"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20303"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Charlotte",
+      "lastName" : "KANES",
+      "fullName" : "KANES, Charlotte"
+    }, {
+      "firstName" : "Sarah",
+      "lastName" : "FLAGNER",
+      "fullName" : "FLAGNER, Sarah"
+    }, {
+      "firstName" : "Denise",
+      "lastName" : "BRACHERT",
+      "fullName" : "BRACHERT, Denise"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "8",
+    "club" : "Wiesbadener FC",
+    "country" : "GER",
+    "teamName" : "WIESBADENER FC",
+    "members" : [ {
+      "firstName" : "Skadi",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Skadi"
+    }, {
+      "firstName" : "Angela",
+      "lastName" : "ÖZTANIL",
+      "fullName" : "ÖZTANIL, Angela"
+    }, {
+      "firstName" : "Joanna",
+      "lastName" : "PLASTROTMANN",
+      "fullName" : "PLASTROTMANN, Joanna"
+    }, {
+      "firstName" : "Larissa",
+      "lastName" : "NOVIKOV",
+      "fullName" : "NOVIKOV, Larissa"
+    } ],
+    "fieId" : null,
+    "fwwId" : "44800"
+  } ]
+}

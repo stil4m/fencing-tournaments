@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Stralsund",
+    "name" : "Finale Deutschlandpokal",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "97aaf65b-247b-4f43-813a-a7afd0e49ecd",
+    "path" : "/2016/06/20160618-GER-Stralsund/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "186fe5d7-ad44-4562-bff7-677ecc31d61e",
+    "path" : "/2016/06/20160618-GER-Stralsund/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "6d490f0c-8a60-41e3-bac8-4afe85ce985d",
+    "path" : "/2016/06/20160618-GER-Stralsund/EQUIPE_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "00a42348-453c-4c5d-bce6-091abf76bf30",
+    "path" : "/2016/06/20160618-GER-Stralsund/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8f6a789a-11e9-47c6-8dfc-79196037a17d",
+    "path" : "/2016/06/20160618-GER-Stralsund/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8ae04a54-eb26-4762-9d66-5455a51e017b",
+    "path" : "/2016/06/20160618-GER-Stralsund/EQUIPE_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 18
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6777-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "ETV Hamburg",
+    "country" : "GER",
+    "teamName" : "ETV HAMBURG",
+    "members" : [ {
+      "firstName" : "Rabea",
+      "lastName" : "HAMBACH-RICHTER",
+      "fullName" : "HAMBACH-RICHTER, Rabea"
+    }, {
+      "firstName" : "Carla",
+      "lastName" : "ROOK",
+      "fullName" : "ROOK, Carla"
+    }, {
+      "firstName" : "Gesche",
+      "lastName" : "REIMERS",
+      "fullName" : "REIMERS, Gesche"
+    }, {
+      "firstName" : "Sophie",
+      "lastName" : "AHRENDT",
+      "fullName" : "AHRENDT, Sophie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22573"
+  }, {
+    "participantId" : "2",
+    "club" : "FSV Mülheim/Ruhr",
+    "country" : "GER",
+    "teamName" : "FSV MÜLHEIM",
+    "members" : [ {
+      "firstName" : "Lara",
+      "lastName" : "LAUSCH",
+      "fullName" : "LAUSCH, Lara"
+    }, {
+      "firstName" : "Luisa Katharina",
+      "lastName" : "ALEFS",
+      "fullName" : "ALEFS, Luisa Katharina"
+    }, {
+      "firstName" : "Kay Marie",
+      "lastName" : "HELLWIG",
+      "fullName" : "HELLWIG, Kay Marie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "45874"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "teamName" : "TG HERFORD",
+    "members" : [ {
+      "firstName" : "LeeLeyna",
+      "lastName" : "OH Lee- Leyna",
+      "fullName" : "OH Lee- Leyna, LeeLeyna"
+    }, {
+      "firstName" : "Sabrina-Anabell",
+      "lastName" : "HÖPNER",
+      "fullName" : "HÖPNER, Sabrina-Anabell"
+    }, {
+      "firstName" : "Merle",
+      "lastName" : "GIZINSKI",
+      "fullName" : "GIZINSKI, Merle"
+    }, {
+      "firstName" : "Imke",
+      "lastName" : "WARNECKE",
+      "fullName" : "WARNECKE, Imke"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119352"
+  }, {
+    "participantId" : "4",
+    "club" : "TSG Eislingen",
+    "country" : "GER",
+    "teamName" : "TSG EISLINGEN",
+    "members" : [ {
+      "firstName" : "Celina",
+      "lastName" : "TREFFKORN",
+      "fullName" : "TREFFKORN, Celina"
+    }, {
+      "firstName" : "Lea",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Lea"
+    }, {
+      "firstName" : "Annette",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Annette"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "MILLER",
+      "fullName" : "MILLER, Anna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "30173"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Alsfeld",
+    "country" : "GER",
+    "teamName" : "TV ALSFELD",
+    "members" : [ {
+      "firstName" : "Marie",
+      "lastName" : "TURVOLD",
+      "fullName" : "TURVOLD, Marie"
+    }, {
+      "firstName" : "Solvejg",
+      "lastName" : "KLEBER",
+      "fullName" : "KLEBER, Solvejg"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "STORK",
+      "fullName" : "STORK, Laura"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35628"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "teamName" : "TV JAHN OELDE",
+    "members" : [ {
+      "firstName" : "Lea",
+      "lastName" : "BISPING",
+      "fullName" : "BISPING, Lea"
+    }, {
+      "firstName" : "Leona",
+      "lastName" : "REIMANN",
+      "fullName" : "REIMANN, Leona"
+    }, {
+      "firstName" : "Amelie",
+      "lastName" : "KLAMM",
+      "fullName" : "KLAMM, Amelie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119477"
+  } ]
+}

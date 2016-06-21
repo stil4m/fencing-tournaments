@@ -1,0 +1,94 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3405-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lavinia",
+      "lastName" : "DILER",
+      "fullName" : "DILER, Lavinia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354545"
+  }, {
+    "participantId" : "2",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jana Sophie",
+      "lastName" : "KNAPP",
+      "fullName" : "KNAPP, Jana Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306934"
+  }, {
+    "participantId" : "3",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "SINGER",
+      "fullName" : "SINGER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89645"
+  }, {
+    "participantId" : "4",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "PFLAUM",
+      "fullName" : "PFLAUM, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318583"
+  }, {
+    "participantId" : "5",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "STEPHAN",
+      "fullName" : "STEPHAN, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320405"
+  }, {
+    "participantId" : "6",
+    "club" : "FR Nürnberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sofia",
+      "lastName" : "MESCHERJAKOV",
+      "fullName" : "MESCHERJAKOV, Sofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312829"
+  } ]
+}
