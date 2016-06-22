@@ -6,20 +6,7 @@
 		<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 	</head>
 	<body>
-		<div class="navbar navbar-default navbar-fixed-top">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<a class="navbar-brand" href="http://stil4m.github.io/fencing-tournaments">Fencing Tournaments</a>
-				</div>
-			</div>
-		</div>
-		<div class="container-fluid" style="margin-top:60px">
-			<div class="row">
-				<div class="col-md-10 col-sm-12 col-xs-12 col-md-offset-1">
-					<div id="content"></div>
-					<script src="http://stil4m.github.io/fencing-tournaments/generated/main.js"></script><script>Elm.App.embed(document.getElementById("content"));</script>
-				</div>
-			</div>
-		</div>
+		<div id="content"></div>
+		<script src="http://stil4m.github.io/fencing-tournaments/generated/main.js"></script><script>Elm.Main.embed(document.getElementById("content"));</script>
 	</body>
 </html>
