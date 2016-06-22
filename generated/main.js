@@ -10695,10 +10695,7 @@ var _user$project$Main$init = function (result) {
 	return A2(
 		_user$project$Main$urlUpdate,
 		result,
-		A2(
-			_user$project$Main$Model,
-			_user$project$Common_Pages$Event('2016/06/20160618-GER-Potsdam'),
-			_user$project$Main$NoContent));
+		A2(_user$project$Main$Model, _user$project$Common_Pages$Home, _user$project$Main$NoContent));
 };
 var _user$project$Main$main = {
 	main: A2(
