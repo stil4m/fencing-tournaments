@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Ditzingen",
+    "name" : "Württembergische Schülermeisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f7800eec-0b34-4726-9905-1c0f5a09aa16",
+    "path" : "/2016/06/20160625-GER-Ditzingen/EQUIPE_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f366ea82-9edd-436d-ae05-eb5571c24bcc",
+    "path" : "/2016/06/20160625-GER-Ditzingen/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a180efd3-fd55-435e-b943-d76352325949",
+    "path" : "/2016/06/20160625-GER-Ditzingen/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1cded351-b6b4-48d3-9787-4feaad35c07c",
+    "path" : "/2016/06/20160625-GER-Ditzingen/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "eb82dadf-9aa8-49c5-bcf1-590a66148202",
+    "path" : "/2016/06/20160625-GER-Ditzingen/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "56d6d4b1-f058-498e-a7d1-66bcaeb2bcfe",
+    "path" : "/2016/06/20160625-GER-Ditzingen/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cfd44da6-1d05-4c80-8024-36fb1f7b4d27",
+    "path" : "/2016/06/20160625-GER-Ditzingen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

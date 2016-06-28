@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2262-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Heidenheimer SB",
+    "country" : "GER",
+    "teamName" : "HEIDENHEIMER SB",
+    "members" : [ {
+      "firstName" : "Alexandra",
+      "lastName" : "ZITTEL",
+      "fullName" : "ZITTEL, Alexandra"
+    }, {
+      "firstName" : "Emmy-Eleni",
+      "lastName" : "SCHRÖDER",
+      "fullName" : "SCHRÖDER, Emmy-Eleni"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "LIPINSKAYA",
+      "fullName" : "LIPINSKAYA, Anna"
+    }, {
+      "firstName" : "Mariella",
+      "lastName" : "TOMIC",
+      "fullName" : "TOMIC, Mariella"
+    } ],
+    "fieId" : null,
+    "fwwId" : "19860"
+  }, {
+    "participantId" : "2",
+    "club" : "Württemberg",
+    "country" : "GER",
+    "teamName" : "STG BÖBLINGEN/BACKNANG",
+    "members" : [ {
+      "firstName" : "Hannah",
+      "lastName" : "ERNST",
+      "fullName" : "ERNST, Hannah"
+    }, {
+      "firstName" : "Lina",
+      "lastName" : "ZERRWECK",
+      "fullName" : "ZERRWECK, Lina"
+    }, {
+      "firstName" : "Raphaelia",
+      "lastName" : "KOIOU",
+      "fullName" : "KOIOU, Raphaelia"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "teamName" : "TG SCHWENNINGEN",
+    "members" : [ {
+      "firstName" : "Johanna",
+      "lastName" : "PAHLOW",
+      "fullName" : "PAHLOW, Johanna"
+    }, {
+      "firstName" : "Charis",
+      "lastName" : "LÄMMLER",
+      "fullName" : "LÄMMLER, Charis"
+    }, {
+      "firstName" : "Luisa",
+      "lastName" : "BARTMANN",
+      "fullName" : "BARTMANN, Luisa"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22236"
+  }, {
+    "participantId" : "4",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "teamName" : "TSF DITZINGEN",
+    "members" : [ {
+      "firstName" : "Jule",
+      "lastName" : "PUCHER",
+      "fullName" : "PUCHER, Jule"
+    }, {
+      "firstName" : "Emilia",
+      "lastName" : "WIRTH",
+      "fullName" : "WIRTH, Emilia"
+    }, {
+      "firstName" : "Emilia",
+      "lastName" : "SANDER",
+      "fullName" : "SANDER, Emilia"
+    }, {
+      "firstName" : "Melissa",
+      "lastName" : "HAGER",
+      "fullName" : "HAGER, Melissa"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22572"
+  } ]
+}

@@ -1,0 +1,218 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6609-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thomas",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Thomas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359540"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frank",
+      "lastName" : "HAHN",
+      "fullName" : "HAHN, Frank"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309323"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hellfried",
+      "lastName" : "HOFFMANN",
+      "fullName" : "HOFFMANN, Hellfried"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "52214"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hansjörg",
+      "lastName" : "JOCKERS",
+      "fullName" : "JOCKERS, Hansjörg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342706"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "JUNT",
+      "fullName" : "JUNT, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "40795"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan",
+      "lastName" : "KANNENGIESSER",
+      "fullName" : "KANNENGIESSER, Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314016"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Granit",
+      "lastName" : "KRASNIQI",
+      "fullName" : "KRASNIQI, Granit"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314015"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Überlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ingo",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Ingo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "41324"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Walter",
+      "lastName" : "MEHNE",
+      "fullName" : "MEHNE, Walter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "41610"
+  }, {
+    "participantId" : "10",
+    "club" : "FS Geisingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentino",
+      "lastName" : "RANDAZZO",
+      "fullName" : "RANDAZZO, Valentino"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "81259"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "SCHAADT",
+      "fullName" : "SCHAADT, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347832"
+  }, {
+    "participantId" : "12",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324870"
+  }, {
+    "participantId" : "13",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "SCHATTMAIER",
+      "fullName" : "SCHATTMAIER, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355437"
+  } ]
+}

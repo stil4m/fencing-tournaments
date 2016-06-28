@@ -1,0 +1,228 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Villingen",
+    "name" : "Off. Südbadische Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "821751e7-0eb6-46e6-9d71-d6eaf15a8e8d",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "3f8660de-cbcc-43ef-924f-3d5e566db923",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8dbd0871-f08c-4bc6-9a19-b78c02da069e",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "298ad40f-49d1-4c80-b33f-0a5e8a3de482",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d32b24ed-8975-4f4e-a238-a380d53076ee",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "eb183c55-8f5a-41cb-bde5-db2af1d9c551",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_FEMALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e496bb94-d2f0-4b5c-b33d-b4282481da6c",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "f4ae4a37-dfa8-4166-ac97-3ef8a3f39294",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "43458321-dae5-4540-8b23-9fbc57750920",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "93b579d8-3099-410e-867a-939645bb2bbc",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "00526593-ea43-455b-a820-6cf3c9b78e3b",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7b932527-78d2-4f46-afe7-823daf536de0",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "678891e0-e0f1-4c3c-955f-4c9b416ddc49",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_U11_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7dcd1d3f-b683-448f-95ec-f88267477bf5",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 26
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ec33fa38-133e-4b12-93cd-e1af86660008",
+    "path" : "/2016/06/20160626-GER-Villingen/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 6,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

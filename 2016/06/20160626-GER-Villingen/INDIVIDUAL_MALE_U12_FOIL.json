@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8506-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim Ole",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Tim Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314012"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331695"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mark",
+      "lastName" : "HOCHSTÄTTER",
+      "fullName" : "HOCHSTÄTTER, Mark"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363947"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Trossingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pablo",
+      "lastName" : "ILG",
+      "fullName" : "ILG, Pablo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359316"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "KORINTH",
+      "fullName" : "KORINTH, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363948"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "PAULS",
+      "fullName" : "PAULS, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359535"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347633"
+  }, {
+    "participantId" : "8",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331699"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "SOMMERER",
+      "fullName" : "SOMMERER, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347636"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Trossingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "TUSCHKAH",
+      "fullName" : "TUSCHKAH, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334779"
+  } ]
+}

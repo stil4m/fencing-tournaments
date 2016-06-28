@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6592-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annaluise",
+      "lastName" : "BIPPES",
+      "fullName" : "BIPPES, Annaluise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349378"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lourdes",
+      "lastName" : "DARNSTEDT",
+      "fullName" : "DARNSTEDT, Lourdes"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359747"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florentina",
+      "lastName" : "GRIENINGER",
+      "fullName" : "GRIENINGER, Florentina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124951"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melina",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Melina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322415"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Überlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "LEHMANN",
+      "fullName" : "LEHMANN, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350726"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amelie",
+      "lastName" : "WENGLEIN",
+      "fullName" : "WENGLEIN, Amelie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350905"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilli",
+      "lastName" : "WINKLER",
+      "fullName" : "WINKLER, Lilli"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349203"
+  } ]
+}

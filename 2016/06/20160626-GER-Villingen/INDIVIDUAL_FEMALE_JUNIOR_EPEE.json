@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6622-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Päd. Baden Baden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "BÜRCK",
+      "fullName" : "BÜRCK, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117419"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Myléne",
+      "lastName" : "LEIER",
+      "fullName" : "LEIER, Myléne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312804"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melanie",
+      "lastName" : "LIPPERT",
+      "fullName" : "LIPPERT, Melanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "90131"
+  }, {
+    "participantId" : "4",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cosima",
+      "lastName" : "NOPPER",
+      "fullName" : "NOPPER, Cosima"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307684"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "RAPP",
+      "fullName" : "RAPP, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326441"
+  }, {
+    "participantId" : "6",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Patricia",
+      "lastName" : "RUF",
+      "fullName" : "RUF, Patricia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361361"
+  } ]
+}

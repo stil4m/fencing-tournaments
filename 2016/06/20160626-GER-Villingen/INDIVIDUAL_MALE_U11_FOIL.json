@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8508-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "TUR",
+    "name" : {
+      "firstName" : "Mem-Diyar",
+      "lastName" : "ASLAN",
+      "fullName" : "ASLAN, Mem-Diyar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336415"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "BRÄUER",
+      "fullName" : "BRÄUER, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336420"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "ENGL",
+      "fullName" : "ENGL, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349381"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "GABRIEL",
+      "fullName" : "GABRIEL, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350331"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christoph",
+      "lastName" : "HÖPPNER",
+      "fullName" : "HÖPPNER, Christoph"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360560"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "SARUTZKI",
+      "fullName" : "SARUTZKI, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350904"
+  } ]
+}

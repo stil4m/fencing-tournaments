@@ -1,0 +1,410 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6421-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "21",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "BARENTIEN",
+      "fullName" : "BARENTIEN, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358114"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andreas",
+      "lastName" : "BREITMOSER",
+      "fullName" : "BREITMOSER, Andreas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305430"
+  }, {
+    "participantId" : "3",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "BRELL",
+      "fullName" : "BRELL, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "312087"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Waldshut",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cornelius",
+      "lastName" : "BÜCKLERS",
+      "fullName" : "BÜCKLERS, Cornelius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324905"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silas Justus",
+      "lastName" : "GETTO",
+      "fullName" : "GETTO, Silas Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324867"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "GRIENINGER",
+      "fullName" : "GRIENINGER, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309321"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frank",
+      "lastName" : "HAHN",
+      "fullName" : "HAHN, Frank"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "309323"
+  }, {
+    "participantId" : "8",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "HIPP",
+      "fullName" : "HIPP, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122969"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "HUBER",
+      "fullName" : "HUBER, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "304566"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "JAESCHKE",
+      "fullName" : "JAESCHKE, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360044"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentin",
+      "lastName" : "JETTER",
+      "fullName" : "JETTER, Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354548"
+  }, {
+    "participantId" : "12",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "JUNT",
+      "fullName" : "JUNT, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120189"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Makar",
+      "lastName" : "KHRUSHCHEV",
+      "fullName" : "KHRUSHCHEV, Makar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351197"
+  }, {
+    "participantId" : "14",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pablo",
+      "lastName" : "KOENIG",
+      "fullName" : "KOENIG, Pablo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120188"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "KUNZE",
+      "fullName" : "KUNZE, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359147"
+  }, {
+    "participantId" : "16",
+    "club" : "TV Alzey",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "MATTER",
+      "fullName" : "MATTER, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348573"
+  }, {
+    "participantId" : "17",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard Gregor",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Leonard Gregor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123335"
+  }, {
+    "participantId" : "18",
+    "club" : "FS Geisingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentino",
+      "lastName" : "RANDAZZO",
+      "fullName" : "RANDAZZO, Valentino"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "81259"
+  }, {
+    "participantId" : "19",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Samuel",
+      "lastName" : "SCHAADT",
+      "fullName" : "SCHAADT, Samuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347832"
+  }, {
+    "participantId" : "20",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324871"
+  }, {
+    "participantId" : "21",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kevin",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Kevin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "334789"
+  }, {
+    "participantId" : "22",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "SCHULZ-ANDRÉ",
+      "fullName" : "SCHULZ-ANDRÉ, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358116"
+  }, {
+    "participantId" : "23",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "SPÄTE",
+      "fullName" : "SPÄTE, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349372"
+  }, {
+    "participantId" : "24",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal Bernhard",
+      "lastName" : "UHL",
+      "fullName" : "UHL, Pascal Bernhard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "314018"
+  }, {
+    "participantId" : "25",
+    "club" : "TV Villingen",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Roland",
+      "lastName" : "ULLMANN",
+      "fullName" : "ULLMANN, Roland"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335091"
+  } ]
+}

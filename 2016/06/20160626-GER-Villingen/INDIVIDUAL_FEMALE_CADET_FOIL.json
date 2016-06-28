@@ -1,0 +1,214 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6420-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "BLACK",
+      "fullName" : "BLACK, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329369"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly Marie",
+      "lastName" : "BUCHHOLZ",
+      "fullName" : "BUCHHOLZ, Lilly Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328930"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "FÄSSLE",
+      "fullName" : "FÄSSLE, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315714"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Letizia",
+      "lastName" : "FERRI",
+      "fullName" : "FERRI, Letizia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338031"
+  }, {
+    "participantId" : "5",
+    "club" : "TG Trossingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maxi",
+      "lastName" : "HALLER",
+      "fullName" : "HALLER, Maxi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "334776"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moana",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Moana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350096"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Myléne",
+      "lastName" : "LEIER",
+      "fullName" : "LEIER, Myléne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312804"
+  }, {
+    "participantId" : "8",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cecilia",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Cecilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323346"
+  }, {
+    "participantId" : "9",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "ÖTTL",
+      "fullName" : "ÖTTL, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318999"
+  }, {
+    "participantId" : "10",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aline",
+      "lastName" : "RUSTLER",
+      "fullName" : "RUSTLER, Aline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324552"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  }, {
+    "participantId" : "12",
+    "club" : "TV Villingen",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Evelyn",
+      "lastName" : "ULLMANN",
+      "fullName" : "ULLMANN, Evelyn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335090"
+  }, {
+    "participantId" : "13",
+    "club" : "SC Korb",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "VOGEL",
+      "fullName" : "VOGEL, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "315038"
+  } ]
+}

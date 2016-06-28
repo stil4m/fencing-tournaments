@@ -1,0 +1,186 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8510-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "GABEL",
+      "fullName" : "GABEL, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350899"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joos",
+      "lastName" : "HEINDL",
+      "fullName" : "HEINDL, Joos"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360498"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "HUBER",
+      "fullName" : "HUBER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349375"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kajus",
+      "lastName" : "LOTTER",
+      "fullName" : "LOTTER, Kajus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349380"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "MALETZ",
+      "fullName" : "MALETZ, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350900"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ferdinand",
+      "lastName" : "SANTL",
+      "fullName" : "SANTL, Ferdinand"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324265"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "SCHAADT",
+      "fullName" : "SCHAADT, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359149"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fritz",
+      "lastName" : "SCHALK",
+      "fullName" : "SCHALK, Fritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359750"
+  }, {
+    "participantId" : "9",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hagen",
+      "lastName" : "SCHEID",
+      "fullName" : "SCHEID, Hagen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337018"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Tuttlingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "SCHNEIDER-STRITTMATTER",
+      "fullName" : "SCHNEIDER-STRITTMATTER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338032"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "STROBEL",
+      "fullName" : "STROBEL, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359533"
+  } ]
+}

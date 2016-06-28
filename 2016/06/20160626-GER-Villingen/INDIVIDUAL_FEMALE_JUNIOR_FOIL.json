@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "6621-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "BLACK",
+      "fullName" : "BLACK, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329369"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Villingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilly Marie",
+      "lastName" : "BUCHHOLZ",
+      "fullName" : "BUCHHOLZ, Lilly Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328930"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Immendingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moana",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Moana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "350096"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Myléne",
+      "lastName" : "LEIER",
+      "fullName" : "LEIER, Myléne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312804"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Konstanz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cecilia",
+      "lastName" : "MAYER",
+      "fullName" : "MAYER, Cecilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323346"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Villingen",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Evelyn",
+      "lastName" : "ULLMANN",
+      "fullName" : "ULLMANN, Evelyn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335090"
+  } ]
+}
