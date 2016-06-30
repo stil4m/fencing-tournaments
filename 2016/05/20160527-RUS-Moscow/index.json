@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "RUS",
+    "city" : "Moscow",
+    "name" : "Sabre de Moscou / Grand Prix",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 27
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "ad8c34e0-57ce-47c4-abe7-965333bd63d8",
+    "path" : "/2016/05/20160527-RUS-Moscow/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 28
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "f5712919-7752-41b7-9470-fa2dd955525e",
+    "path" : "/2016/05/20160527-RUS-Moscow/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 5,
+      "d" : 27
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}
