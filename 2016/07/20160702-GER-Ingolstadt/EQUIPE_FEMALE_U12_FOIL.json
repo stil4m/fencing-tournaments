@@ -1,0 +1,34 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12192-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "teamName" : "FECHTCLUB MÜNCHEN Fechtclub München",
+    "members" : [ {
+      "firstName" : "Livia",
+      "lastName" : "OLIVIERI",
+      "fullName" : "OLIVIERI, Livia"
+    }, {
+      "firstName" : "Christina",
+      "lastName" : "TSOGIDIS",
+      "fullName" : "TSOGIDIS, Christina"
+    }, {
+      "firstName" : "Eleftheria",
+      "lastName" : "SOULEMEZI",
+      "fullName" : "SOULEMEZI, Eleftheria"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

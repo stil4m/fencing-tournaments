@@ -1,0 +1,86 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13829-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "teamName" : "MTG WANGEN",
+    "members" : [ {
+      "firstName" : "Michael",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Michael"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Maximilian"
+    }, {
+      "firstName" : "Fabian",
+      "lastName" : "DESCHLER",
+      "fullName" : "DESCHLER, Fabian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119265"
+  }, {
+    "participantId" : "2",
+    "club" : "SG Biberach - FA Ravensburg",
+    "country" : "GER",
+    "teamName" : "SG Biberach - Ravensburg",
+    "members" : [ {
+      "firstName" : "Andreas",
+      "lastName" : "DING",
+      "fullName" : "DING, Andreas"
+    }, {
+      "firstName" : "Ulf",
+      "lastName" : "RITTHALER",
+      "fullName" : "RITTHALER, Ulf"
+    }, {
+      "firstName" : "Tobias",
+      "lastName" : "DING",
+      "fullName" : "DING, Tobias"
+    }, {
+      "firstName" : "Daniel",
+      "lastName" : "RENNER",
+      "fullName" : "RENNER, Daniel"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "teamName" : "TSB RAVENSBURG",
+    "members" : [ {
+      "firstName" : "Adrian",
+      "lastName" : "STRAUB",
+      "fullName" : "STRAUB, Adrian"
+    }, {
+      "firstName" : "Nico",
+      "lastName" : "SCHATTMAIER",
+      "fullName" : "SCHATTMAIER, Nico"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "WELLER",
+      "fullName" : "WELLER, Simon"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119382"
+  } ]
+}

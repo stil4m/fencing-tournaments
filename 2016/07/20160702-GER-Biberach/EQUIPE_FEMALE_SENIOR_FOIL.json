@@ -1,0 +1,62 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13828-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "teamName" : "MTG WANGEN",
+    "members" : [ {
+      "firstName" : "Britta",
+      "lastName" : "AMANN",
+      "fullName" : "AMANN, Britta"
+    }, {
+      "firstName" : "Magdalena",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Magdalena"
+    }, {
+      "firstName" : "Barbara",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Barbara"
+    }, {
+      "firstName" : "Stefanie",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Stefanie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119265"
+  }, {
+    "participantId" : "2",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "teamName" : "TSB RAVENSBURG",
+    "members" : [ {
+      "firstName" : "Alina",
+      "lastName" : "HOLLECZEK",
+      "fullName" : "HOLLECZEK, Alina"
+    }, {
+      "firstName" : "Almut",
+      "lastName" : "GOSSENBERGER",
+      "fullName" : "GOSSENBERGER, Almut"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "WINKHARDT",
+      "fullName" : "WINKHARDT, Julia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119382"
+  } ]
+}

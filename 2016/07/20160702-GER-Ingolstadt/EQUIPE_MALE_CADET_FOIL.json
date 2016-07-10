@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5601-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "KTF Luitpold München",
+    "country" : "GER",
+    "teamName" : "KTF MÜNCHEN",
+    "members" : [ {
+      "firstName" : "Max",
+      "lastName" : "KLOSTERMANN",
+      "fullName" : "KLOSTERMANN, Max"
+    }, {
+      "firstName" : "Felix",
+      "lastName" : "REMMERTZ",
+      "fullName" : "REMMERTZ, Felix"
+    }, {
+      "firstName" : "Korbinian",
+      "lastName" : "KOLLER",
+      "fullName" : "KOLLER, Korbinian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "35627"
+  }, {
+    "participantId" : "2",
+    "club" : "MTV München",
+    "country" : "GER",
+    "teamName" : "MTV MÜNCHEN",
+    "members" : [ {
+      "firstName" : "Jan",
+      "lastName" : "FRITSCHE",
+      "fullName" : "FRITSCHE, Jan"
+    }, {
+      "firstName" : "Leonardo",
+      "lastName" : "ACKERMANN",
+      "fullName" : "ACKERMANN, Leonardo"
+    }, {
+      "firstName" : "Florian",
+      "lastName" : "STADLBAUER",
+      "fullName" : "STADLBAUER, Florian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "22571"
+  }, {
+    "participantId" : "3",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG FÜRTH/WÜRZBURG",
+    "members" : [ {
+      "firstName" : "Lukas",
+      "lastName" : "BECK",
+      "fullName" : "BECK, Lukas"
+    }, {
+      "firstName" : "Richard",
+      "lastName" : "MEIER",
+      "fullName" : "MEIER, Richard"
+    }, {
+      "firstName" : "Nikolai",
+      "lastName" : "DJAWADI",
+      "fullName" : "DJAWADI, Nikolai"
+    } ],
+    "fieId" : null,
+    "fwwId" : "342802"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "teamName" : "TSV NEU-ULM",
+    "members" : [ {
+      "firstName" : "Felix",
+      "lastName" : "KLAUS",
+      "fullName" : "KLAUS, Felix"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "EICHENBERG",
+      "fullName" : "EICHENBERG, Maximilian"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "KIBIK",
+      "fullName" : "KIBIK, Christian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52924"
+  } ]
+}

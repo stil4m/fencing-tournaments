@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2557-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Britta",
+      "lastName" : "AMANN",
+      "fullName" : "AMANN, Britta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "12437"
+  }, {
+    "participantId" : "2",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Almut",
+      "lastName" : "GOSSENBERGER",
+      "fullName" : "GOSSENBERGER, Almut"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "24682"
+  }, {
+    "participantId" : "3",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Barbara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "89096"
+  }, {
+    "participantId" : "4",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magdalena",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Magdalena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307292"
+  }, {
+    "participantId" : "5",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stefanie",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Stefanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348932"
+  } ]
+}

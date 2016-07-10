@@ -2,6 +2,36 @@
   "c" : "GER",
   "s" : {
     "y" : 2016,
+    "m" : 7,
+    "d" : 2
+  },
+  "t" : [ [ "S", "F", "F", "I" ], [ "S", "F", "F", "E" ], [ "S", "F", "M", "E" ], [ "J", "F", "M", "I" ], [ "C", "F", "F", "I" ], [ "C", "F", "M", "I" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 7,
+    "d" : 2
+  },
+  "l" : "Biberach",
+  "n" : "Bezirksmeisterschaften Oberland"
+}, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
+    "m" : 7,
+    "d" : 2
+  },
+  "t" : [ [ "C", "F", "M", "E" ], [ "U12", "F", "F", "E" ], [ "C", "E", "M", "E" ], [ "U12", "F", "M", "E" ], [ "C", "F", "F", "E" ], [ "C", "E", "F", "E" ] ],
+  "e" : {
+    "y" : 2016,
+    "m" : 7,
+    "d" : 3
+  },
+  "l" : "Ingolstadt",
+  "n" : "Bayerische Mannschaftsmeisterschaft"
+}, {
+  "c" : "GER",
+  "s" : {
+    "y" : 2016,
     "m" : 6,
     "d" : 26
   },

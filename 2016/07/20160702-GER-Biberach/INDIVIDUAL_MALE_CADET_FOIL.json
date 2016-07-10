@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2568-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "DING",
+      "fullName" : "DING, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320220"
+  }, {
+    "participantId" : "2",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "EBERLE",
+      "fullName" : "EBERLE, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348436"
+  }, {
+    "participantId" : "3",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "HIPP",
+      "fullName" : "HIPP, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122969"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "SCHIRMER",
+      "fullName" : "SCHIRMER, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120540"
+  } ]
+}

@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2569-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "DING",
+      "fullName" : "DING, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320218"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sibylle",
+      "lastName" : "DING",
+      "fullName" : "DING, Sibylle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320219"
+  }, {
+    "participantId" : "3",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "HOLLECZEK",
+      "fullName" : "HOLLECZEK, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348432"
+  }, {
+    "participantId" : "4",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magdalena",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Magdalena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307292"
+  }, {
+    "participantId" : "5",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "WINKHARDT",
+      "fullName" : "WINKHARDT, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348435"
+  } ]
+}

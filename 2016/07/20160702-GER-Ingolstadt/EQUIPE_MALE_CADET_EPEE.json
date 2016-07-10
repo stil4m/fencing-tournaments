@@ -1,0 +1,78 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5598-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Leon",
+      "lastName" : "GIESSER",
+      "fullName" : "GIESSER, Leon"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "MARTINEZ",
+      "fullName" : "MARTINEZ, Philipp"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "LÖFLATH",
+      "fullName" : "LÖFLATH, Jonas"
+    }, {
+      "firstName" : "Jan",
+      "lastName" : "TALAN",
+      "fullName" : "TALAN, Jan"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "teamName" : "TV INGOLSTADT",
+    "members" : [ {
+      "firstName" : "Daniel",
+      "lastName" : "GRIGENCHA",
+      "fullName" : "GRIGENCHA, Daniel"
+    }, {
+      "firstName" : "Christian",
+      "lastName" : "BEERSCHNEIDER",
+      "fullName" : "BEERSCHNEIDER, Christian"
+    }, {
+      "firstName" : "Robert",
+      "lastName" : "NESTRIPKE",
+      "fullName" : "NESTRIPKE, Robert"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52943"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG 2",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "TV Kaufbeuren",
+    "country" : "GER",
+    "teamName" : "TV KAUFBEUREN",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

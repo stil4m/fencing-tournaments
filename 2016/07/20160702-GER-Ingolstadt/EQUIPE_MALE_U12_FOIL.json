@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12191-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "teamName" : "FECHTCLUB MÜNCHEN Fechtclub München",
+    "members" : [ {
+      "firstName" : "Alexander",
+      "lastName" : "SCHEFFLER",
+      "fullName" : "SCHEFFLER, Alexander"
+    }, {
+      "firstName" : "Julius",
+      "lastName" : "DIEM",
+      "fullName" : "DIEM, Julius"
+    }, {
+      "firstName" : "Niklas",
+      "lastName" : "DIESTELKAMP",
+      "fullName" : "DIESTELKAMP, Niklas"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "FS TG Würzburg",
+    "country" : "GER",
+    "teamName" : "TG WÜRZBURG",
+    "members" : [ {
+      "firstName" : "Thorben",
+      "lastName" : "HOCK",
+      "fullName" : "HOCK, Thorben"
+    }, {
+      "firstName" : "Tonio Elia",
+      "lastName" : "SIMON",
+      "fullName" : "SIMON, Tonio Elia"
+    }, {
+      "firstName" : "Emil",
+      "lastName" : "SCHNELLER",
+      "fullName" : "SCHNELLER, Emil"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

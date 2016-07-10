@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5599-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "teamName" : "FECHTCLUB MÜNCHEN Fechtclub München",
+    "members" : [ {
+      "firstName" : "Josefine",
+      "lastName" : "WALLNER",
+      "fullName" : "WALLNER, Josefine"
+    }, {
+      "firstName" : "Mathilde",
+      "lastName" : "TOELKE",
+      "fullName" : "TOELKE, Mathilde"
+    }, {
+      "firstName" : "Emma",
+      "lastName" : "SCHAFFT",
+      "fullName" : "SCHAFFT, Emma"
+    }, {
+      "firstName" : "Lina",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Lina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "355192"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG",
+    "members" : [ {
+      "firstName" : "Marina",
+      "lastName" : "KLEES",
+      "fullName" : "KLEES, Marina"
+    }, {
+      "firstName" : "Kristin",
+      "lastName" : "SCHÄDEL",
+      "fullName" : "SCHÄDEL, Kristin"
+    }, {
+      "firstName" : "Lara",
+      "lastName" : "ROTHSTEIN",
+      "fullName" : "ROTHSTEIN, Lara"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329372"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "teamName" : "TV AUGSBURG 2",
+    "members" : [ {
+      "firstName" : "Paula",
+      "lastName" : "KOHLER",
+      "fullName" : "KOHLER, Paula"
+    }, {
+      "firstName" : "Amelie",
+      "lastName" : "LÖFLATH",
+      "fullName" : "LÖFLATH, Amelie"
+    }, {
+      "firstName" : "Michaela",
+      "lastName" : "DIETRICH",
+      "fullName" : "DIETRICH, Michaela"
+    }, {
+      "firstName" : "Laura",
+      "lastName" : "MARSCHALL",
+      "fullName" : "MARSCHALL, Laura"
+    } ],
+    "fieId" : null,
+    "fwwId" : "329373"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Ingolstadt",
+    "country" : "GER",
+    "teamName" : "TV INGOLSTADT",
+    "members" : [ {
+      "firstName" : "Theresa",
+      "lastName" : "MERK",
+      "fullName" : "MERK, Theresa"
+    }, {
+      "firstName" : "Josefa",
+      "lastName" : "MERK",
+      "fullName" : "MERK, Josefa"
+    }, {
+      "firstName" : "Valeria",
+      "lastName" : "BEFUS",
+      "fullName" : "BEFUS, Valeria"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52943"
+  } ]
+}

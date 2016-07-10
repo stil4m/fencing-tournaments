@@ -1,0 +1,82 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5600-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Sportfechten Laim",
+    "country" : "GER",
+    "teamName" : "SPORTFECHTEN LAIM",
+    "members" : [ {
+      "firstName" : "Julia",
+      "lastName" : "LENZ",
+      "fullName" : "LENZ, Julia"
+    }, {
+      "firstName" : "Anna Marie",
+      "lastName" : "BADER",
+      "fullName" : "BADER, Anna Marie"
+    }, {
+      "firstName" : "Johanna",
+      "lastName" : "GÜNTHER",
+      "fullName" : "GÜNTHER, Johanna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119315"
+  }, {
+    "participantId" : "2",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG MÜNCHEN/FÜRTH",
+    "members" : [ {
+      "firstName" : "Flavia",
+      "lastName" : "OLIVIERI",
+      "fullName" : "OLIVIERI, Flavia"
+    }, {
+      "firstName" : "Lara",
+      "lastName" : "ERK",
+      "fullName" : "ERK, Lara"
+    }, {
+      "firstName" : "Sabina",
+      "lastName" : "RUCK",
+      "fullName" : "RUCK, Sabina"
+    } ],
+    "fieId" : null,
+    "fwwId" : "82575"
+  }, {
+    "participantId" : "3",
+    "club" : "Bayern",
+    "country" : "GER",
+    "teamName" : "STG MÜNCHEN/WÜRZBURG",
+    "members" : [ {
+      "firstName" : "Anna Sophie",
+      "lastName" : "KOTHIERINGER",
+      "fullName" : "KOTHIERINGER, Anna Sophie"
+    }, {
+      "firstName" : "Svenja",
+      "lastName" : "STASCHEK",
+      "fullName" : "STASCHEK, Svenja"
+    }, {
+      "firstName" : "Lucy",
+      "lastName" : "KARL",
+      "fullName" : "KARL, Lucy"
+    } ],
+    "fieId" : null,
+    "fwwId" : "364629"
+  } ]
+}

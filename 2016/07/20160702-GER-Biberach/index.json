@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Biberach",
+    "name" : "Bezirksmeisterschaften Oberland",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "0a279abd-d9dd-41e3-b2e7-6b0397162cdc",
+    "path" : "/2016/07/20160702-GER-Biberach/EQUIPE_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "7846f4a2-9087-43bf-8959-e8ad6494ba68",
+    "path" : "/2016/07/20160702-GER-Biberach/EQUIPE_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "2f9f2def-7bc3-41a9-845f-3f883c15fbd3",
+    "path" : "/2016/07/20160702-GER-Biberach/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "682336b4-be8b-4910-afcd-87f73423696d",
+    "path" : "/2016/07/20160702-GER-Biberach/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a7c20d22-3784-4a18-be79-b4744fe3c29e",
+    "path" : "/2016/07/20160702-GER-Biberach/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b1a5e46d-ba66-4740-8206-714fe5b4b98e",
+    "path" : "/2016/07/20160702-GER-Biberach/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

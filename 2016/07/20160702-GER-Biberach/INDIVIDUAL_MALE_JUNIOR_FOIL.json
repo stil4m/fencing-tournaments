@@ -1,0 +1,110 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2562-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "DESCHLER",
+      "fullName" : "DESCHLER, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "117086"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "DING",
+      "fullName" : "DING, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320220"
+  }, {
+    "participantId" : "3",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "EBERLE",
+      "fullName" : "EBERLE, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348436"
+  }, {
+    "participantId" : "4",
+    "club" : "TSB Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "HIPP",
+      "fullName" : "HIPP, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "122969"
+  }, {
+    "participantId" : "5",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "85601"
+  }, {
+    "participantId" : "6",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307293"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "SCHIRMER",
+      "fullName" : "SCHIRMER, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120540"
+  } ]
+}

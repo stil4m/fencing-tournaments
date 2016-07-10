@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Ingolstadt",
+    "name" : "Bayerische Mannschaftsmeisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 2
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7a47585d-6dd9-4479-ac9d-86673eb51fab",
+    "path" : "/2016/07/20160702-GER-Ingolstadt/EQUIPE_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "863a4013-acb4-4c8b-baa0-a2dd134abff1",
+    "path" : "/2016/07/20160702-GER-Ingolstadt/EQUIPE_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ccdff7b3-4ce9-4e4e-a8a6-4e3d3a436dfd",
+    "path" : "/2016/07/20160702-GER-Ingolstadt/EQUIPE_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "32a3d32c-d3df-4f13-96b3-23dced2cc392",
+    "path" : "/2016/07/20160702-GER-Ingolstadt/EQUIPE_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ac5efd25-4c40-4e69-b836-f1af3e417850",
+    "path" : "/2016/07/20160702-GER-Ingolstadt/EQUIPE_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "0799f516-c51e-4400-9a41-cb98943becf6",
+    "path" : "/2016/07/20160702-GER-Ingolstadt/EQUIPE_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 7,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}
