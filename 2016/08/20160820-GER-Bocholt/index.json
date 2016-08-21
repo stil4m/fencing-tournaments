@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bocholt",
+    "name" : "Inflight Challenge",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "1b7377b9-287f-4018-8f1c-21423d809479",
+    "path" : "/2016/08/20160820-GER-Bocholt/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ee143f84-f8e4-41fd-b06d-6d48062349d6",
+    "path" : "/2016/08/20160820-GER-Bocholt/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "69e8b6e5-44eb-4447-b88a-d35ef1013d75",
+    "path" : "/2016/08/20160820-GER-Bocholt/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "94de8ba1-f513-453a-bb1d-c0baa032ea5c",
+    "path" : "/2016/08/20160820-GER-Bocholt/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "78376175-0c7d-445e-8aba-3814df175096",
+    "path" : "/2016/08/20160820-GER-Bocholt/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "4cc157a3-1447-4fe0-99ec-18374e13c533",
+    "path" : "/2016/08/20160820-GER-Bocholt/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 8,
+      "d" : 20
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

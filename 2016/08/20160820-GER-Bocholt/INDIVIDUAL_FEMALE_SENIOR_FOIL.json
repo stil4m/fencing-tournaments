@@ -1,0 +1,298 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8511-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "16",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG Bruchsal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pauline",
+      "lastName" : "AUER",
+      "fullName" : "AUER, Pauline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347145"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "BLACK",
+      "fullName" : "BLACK, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329369"
+  }, {
+    "participantId" : "3",
+    "club" : "Beau Geste",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Elise",
+      "lastName" : "BUTIN BIK",
+      "fullName" : "BUTIN BIK, Elise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348175"
+  }, {
+    "participantId" : "4",
+    "club" : "s.v. Scaramouche",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Maria",
+      "lastName" : "DE GRAAF-STOEL",
+      "fullName" : "DE GRAAF-STOEL, Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23682"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Gütersloh",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabelle",
+      "lastName" : "FLACK",
+      "fullName" : "FLACK, Isabelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88925"
+  }, {
+    "participantId" : "6",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "GEYER",
+      "fullName" : "GEYER, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329951"
+  }, {
+    "participantId" : "7",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malina",
+      "lastName" : "GRÖNINGER",
+      "fullName" : "GRÖNINGER, Malina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307367"
+  }, {
+    "participantId" : "8",
+    "club" : "TSG Bruchsal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Barbara",
+      "lastName" : "KIRCHGÄSSNER",
+      "fullName" : "KIRCHGÄSSNER, Barbara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347146"
+  }, {
+    "participantId" : "9",
+    "club" : "Aldershot FC",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Ela",
+      "lastName" : "KUCHARSKA",
+      "fullName" : "KUCHARSKA, Ela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342741"
+  }, {
+    "participantId" : "10",
+    "club" : "s.v. Scaramouche",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Dinie",
+      "lastName" : "MEIJER-EVERS",
+      "fullName" : "MEIJER-EVERS, Dinie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23697"
+  }, {
+    "participantId" : "11",
+    "club" : "Aldershot FC",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Serena",
+      "lastName" : "PATEL",
+      "fullName" : "PATEL, Serena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319610"
+  }, {
+    "participantId" : "12",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Angelina",
+      "lastName" : "PHILIPP",
+      "fullName" : "PHILIPP, Angelina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329952"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  }, {
+    "participantId" : "14",
+    "club" : "TFC Hanau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307263"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329368"
+  }, {
+    "participantId" : "16",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felicia",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Felicia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336419"
+  }, {
+    "participantId" : "17",
+    "club" : "SC Parcival",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Annemaine",
+      "lastName" : "SWENNEN",
+      "fullName" : "SWENNEN, Annemaine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342749"
+  }, {
+    "participantId" : "18",
+    "club" : "SC Parcival",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Marjolein",
+      "lastName" : "WAUTERS",
+      "fullName" : "WAUTERS, Marjolein"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356588"
+  } ]
+}
