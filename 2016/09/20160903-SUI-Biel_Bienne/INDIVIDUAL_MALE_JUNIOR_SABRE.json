@@ -1,0 +1,150 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14186-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "CEF Founex",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nicolas",
+      "lastName" : "CLAUDON",
+      "fullName" : "CLAUDON, Nicolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356434"
+  }, {
+    "participantId" : "2",
+    "club" : "CHC Châtelaine",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Stefan",
+      "lastName" : "FRIEDHEIM",
+      "fullName" : "FRIEDHEIM, Stefan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315246"
+  }, {
+    "participantId" : "3",
+    "club" : "CEF Founex",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Ugo Daniel",
+      "lastName" : "GAMBERONI",
+      "fullName" : "GAMBERONI, Ugo Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335412"
+  }, {
+    "participantId" : "4",
+    "club" : "CHC Châtelaine",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "KOHLMANN",
+      "fullName" : "KOHLMANN, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "316924"
+  }, {
+    "participantId" : "5",
+    "club" : "CHC Châtelaine",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Moussa",
+      "lastName" : "N'DIAYE",
+      "fullName" : "N'DIAYE, Moussa"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337604"
+  }, {
+    "participantId" : "6",
+    "club" : "CEF Founex",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Adrien",
+      "lastName" : "PERROUD",
+      "fullName" : "PERROUD, Adrien"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310599"
+  }, {
+    "participantId" : "7",
+    "club" : "CEF Founex",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Rémi",
+      "lastName" : "PERROUD",
+      "fullName" : "PERROUD, Rémi"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310601"
+  }, {
+    "participantId" : "8",
+    "club" : "SEVM Vevey",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Yann",
+      "lastName" : "URAN",
+      "fullName" : "URAN, Yann"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310600"
+  }, {
+    "participantId" : "9",
+    "club" : "CHC Châtelaine",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Basile",
+      "lastName" : "DOGNY CADELLI",
+      "fullName" : "DOGNY CADELLI, Basile"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "317535"
+  } ]
+}

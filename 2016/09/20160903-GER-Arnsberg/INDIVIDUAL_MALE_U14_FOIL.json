@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2104-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justin",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Justin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329630"
+  }, {
+    "participantId" : "2",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maurus",
+      "lastName" : "HEGGE",
+      "fullName" : "HEGGE, Maurus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120630"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bigge-Olsberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sam Louis",
+      "lastName" : "KLUGE",
+      "fullName" : "KLUGE, Sam Louis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338159"
+  }, {
+    "participantId" : "4",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Andre",
+      "lastName" : "LÄTZEL",
+      "fullName" : "LÄTZEL, Andre"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350460"
+  }, {
+    "participantId" : "5",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sven",
+      "lastName" : "LÄTZEL",
+      "fullName" : "LÄTZEL, Sven"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350461"
+  }, {
+    "participantId" : "6",
+    "club" : "FSG Ruhr Wattenscheid",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pascal",
+      "lastName" : "MAKOSSA",
+      "fullName" : "MAKOSSA, Pascal"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338151"
+  }, {
+    "participantId" : "7",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben Bijan",
+      "lastName" : "MORMANN",
+      "fullName" : "MORMANN, Ben Bijan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318237"
+  }, {
+    "participantId" : "8",
+    "club" : "Remscheider SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Felix",
+      "lastName" : "SEEMANN",
+      "fullName" : "SEEMANN, Felix"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336314"
+  }, {
+    "participantId" : "9",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonard",
+      "lastName" : "VELLMANNS",
+      "fullName" : "VELLMANNS, Leonard"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328164"
+  }, {
+    "participantId" : "10",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mattis",
+      "lastName" : "WETZLAR",
+      "fullName" : "WETZLAR, Mattis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322123"
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "SUI",
+    "city" : "Biel Bienne",
+    "name" : "CNJ Challenge S. Carmina",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "88eaf92f-5461-4fbc-a9eb-676d494b13d1",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cf46c40d-abf5-4768-ad00-aaaf04a20caf",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_FEMALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "9477d181-de82-4d07-afa5-aca92dbbd0bb",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4803d106-1d11-4623-9ab8-2d15780879c8",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8824edcd-5d82-4778-ae9d-430829ed9db2",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_MALE_CADET_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "913480ef-205a-4287-9f0f-7e134a7258e7",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "1212f580-50c5-4099-89b3-46b3309dcddd",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7d39691e-5815-44d7-8f2a-75151582dec1",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "30e594c1-0bd0-4c66-9770-50402c69a69b",
+    "path" : "/2016/09/20160903-SUI-Biel_Bienne/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

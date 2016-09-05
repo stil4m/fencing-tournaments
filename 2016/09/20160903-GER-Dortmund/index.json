@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Dortmund",
+    "name" : "Nordrhein-Westfalen Meisterschaft",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "34814ba9-61c1-4515-bd86-8c703438d6ec",
+    "path" : "/2016/09/20160903-GER-Dortmund/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "684c2a77-ac49-41dd-adcd-0df79bc6bab3",
+    "path" : "/2016/09/20160903-GER-Dortmund/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "a158366f-1153-4d49-a341-e6dc5291d857",
+    "path" : "/2016/09/20160903-GER-Dortmund/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "5fb1a6d8-06f5-439e-956f-5e254a38b889",
+    "path" : "/2016/09/20160903-GER-Dortmund/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "55bf81c6-40bb-4f02-93f7-276fa073dad5",
+    "path" : "/2016/09/20160903-GER-Dortmund/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 3
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ef6dc4a5-bf28-4c10-af58-5ce9be0e7eec",
+    "path" : "/2016/09/20160903-GER-Dortmund/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 4
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14179-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "CEM Morges",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Loïc",
+      "lastName" : "BADOUX",
+      "fullName" : "BADOUX, Loïc"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310833"
+  }, {
+    "participantId" : "2",
+    "club" : "FSZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "HUNZIKER",
+      "fullName" : "HUNZIKER, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "310543"
+  }, {
+    "participantId" : "3",
+    "club" : "FSZ Zürich",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Louis",
+      "lastName" : "MUNTWYLER",
+      "fullName" : "MUNTWYLER, Louis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "124877"
+  }, {
+    "participantId" : "4",
+    "club" : "CEM Morges",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Oliver",
+      "lastName" : "TOTH",
+      "fullName" : "TOTH, Oliver"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311459"
+  } ]
+}

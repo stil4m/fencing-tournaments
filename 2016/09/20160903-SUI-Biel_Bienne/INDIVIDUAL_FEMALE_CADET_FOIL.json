@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14184-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "CEM Morges",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Lise",
+      "lastName" : "BACHMANN",
+      "fullName" : "BACHMANN, Lise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "310737"
+  }, {
+    "participantId" : "2",
+    "club" : "CS Roma",
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Alessandra",
+      "lastName" : "CRESTA",
+      "fullName" : "CRESTA, Alessandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345074"
+  } ]
+}

@@ -1,0 +1,694 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11322-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "34",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "36",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "38",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "41",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "35",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "37",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "39",
+    "abandon" : false
+  }, {
+    "position" : 33,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 34,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 35,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 36,
+    "participantId" : "40",
+    "abandon" : false
+  }, {
+    "position" : 37,
+    "participantId" : "42",
+    "abandon" : false
+  }, {
+    "position" : 38,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 39,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 40,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 41,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 42,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fenja",
+      "lastName" : "ANDREAS",
+      "fullName" : "ANDREAS, Fenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323971"
+  }, {
+    "participantId" : "2",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Neda",
+      "lastName" : "AYAS",
+      "fullName" : "AYAS, Neda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305337"
+  }, {
+    "participantId" : "3",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna Zoe",
+      "lastName" : "BRAUNE",
+      "fullName" : "BRAUNE, Anna Zoe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318236"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabelle",
+      "lastName" : "BÜRGER",
+      "fullName" : "BÜRGER, Isabelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "52433"
+  }, {
+    "participantId" : "5",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carina",
+      "lastName" : "DICK",
+      "fullName" : "DICK, Carina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326684"
+  }, {
+    "participantId" : "6",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah Samuela",
+      "lastName" : "FRANCO",
+      "fullName" : "FRANCO, Sarah Samuela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304985"
+  }, {
+    "participantId" : "7",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ella",
+      "lastName" : "GÖDDE",
+      "fullName" : "GÖDDE, Ella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322933"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noa Cosima",
+      "lastName" : "GOEDEJOHANN",
+      "fullName" : "GOEDEJOHANN, Noa Cosima"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "82840"
+  }, {
+    "participantId" : "9",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "GRÖNE",
+      "fullName" : "GRÖNE, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326313"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Gladbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "HÄSELHOFF",
+      "fullName" : "HÄSELHOFF, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305014"
+  }, {
+    "participantId" : "11",
+    "club" : "Aachener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gala",
+      "lastName" : "HESS",
+      "fullName" : "HESS, Gala"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "303793"
+  }, {
+    "participantId" : "12",
+    "club" : "TV Gladbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "HOLLÄNDER",
+      "fullName" : "HOLLÄNDER, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323111"
+  }, {
+    "participantId" : "13",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henrike",
+      "lastName" : "HÜLSHÖRSTER",
+      "fullName" : "HÜLSHÖRSTER, Henrike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307672"
+  }, {
+    "participantId" : "14",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lotte",
+      "lastName" : "KETTLING",
+      "fullName" : "KETTLING, Lotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "119889"
+  }, {
+    "participantId" : "15",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rabea",
+      "lastName" : "KINDEL",
+      "fullName" : "KINDEL, Rabea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319028"
+  }, {
+    "participantId" : "16",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elena",
+      "lastName" : "KIRSCHNER",
+      "fullName" : "KIRSCHNER, Elena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305187"
+  }, {
+    "participantId" : "17",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lea",
+      "lastName" : "KUCHALSKI",
+      "fullName" : "KUCHALSKI, Lea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "41178"
+  }, {
+    "participantId" : "18",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia Sophie",
+      "lastName" : "LANGER",
+      "fullName" : "LANGER, Mia Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307413"
+  }, {
+    "participantId" : "19",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "LANKES",
+      "fullName" : "LANKES, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120274"
+  }, {
+    "participantId" : "20",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "LUDOLF",
+      "fullName" : "LUDOLF, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "52263"
+  }, {
+    "participantId" : "21",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florina",
+      "lastName" : "MAKHOVSKA",
+      "fullName" : "MAKHOVSKA, Florina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "80759"
+  }, {
+    "participantId" : "22",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "MASTHOFF",
+      "fullName" : "MASTHOFF, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305339"
+  }, {
+    "participantId" : "23",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jule Hanna",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Jule Hanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313294"
+  }, {
+    "participantId" : "24",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasmin",
+      "lastName" : "NAGLER",
+      "fullName" : "NAGLER, Jasmin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336711"
+  }, {
+    "participantId" : "25",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "NEUER",
+      "fullName" : "NEUER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324691"
+  }, {
+    "participantId" : "26",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annika",
+      "lastName" : "OBERBÜSCHER",
+      "fullName" : "OBERBÜSCHER, Annika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338989"
+  }, {
+    "participantId" : "27",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "REINHOLD",
+      "fullName" : "REINHOLD, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305340"
+  }, {
+    "participantId" : "28",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlen",
+      "lastName" : "REINHOLD",
+      "fullName" : "REINHOLD, Marlen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316969"
+  }, {
+    "participantId" : "29",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ariane",
+      "lastName" : "RIPPERT",
+      "fullName" : "RIPPERT, Ariane"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313983"
+  }, {
+    "participantId" : "30",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maike",
+      "lastName" : "SCHICKER",
+      "fullName" : "SCHICKER, Maike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324950"
+  }, {
+    "participantId" : "31",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pia",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Pia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121406"
+  }, {
+    "participantId" : "32",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily",
+      "lastName" : "SCHULTE",
+      "fullName" : "SCHULTE, Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "119713"
+  }, {
+    "participantId" : "33",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luisa Emilia",
+      "lastName" : "SPIERZAK",
+      "fullName" : "SPIERZAK, Luisa Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339215"
+  }, {
+    "participantId" : "34",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadja",
+      "lastName" : "STEPUK",
+      "fullName" : "STEPUK, Nadja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124360"
+  }, {
+    "participantId" : "35",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Miriam",
+      "lastName" : "THOMA",
+      "fullName" : "THOMA, Miriam"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312403"
+  }, {
+    "participantId" : "36",
+    "club" : "Lohausener SV",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Caroline",
+      "lastName" : "VAN ELDIK",
+      "fullName" : "VAN ELDIK, Caroline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "314944"
+  }, {
+    "participantId" : "37",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "VON PRONDZINSKI",
+      "fullName" : "VON PRONDZINSKI, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349664"
+  }, {
+    "participantId" : "38",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chantal",
+      "lastName" : "WEILER",
+      "fullName" : "WEILER, Chantal"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "81718"
+  }, {
+    "participantId" : "39",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Shari",
+      "lastName" : "WEINHOLZ",
+      "fullName" : "WEINHOLZ, Shari"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304127"
+  }, {
+    "participantId" : "40",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "WILKE",
+      "fullName" : "WILKE, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121454"
+  }, {
+    "participantId" : "41",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melissa",
+      "lastName" : "WILKE",
+      "fullName" : "WILKE, Melissa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304988"
+  }, {
+    "participantId" : "42",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "ZUR MÜHLEN",
+      "fullName" : "ZUR MÜHLEN, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307078"
+  }, {
+    "participantId" : "43",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "THOMAS",
+      "fullName" : "THOMAS, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "118901"
+  } ]
+}
