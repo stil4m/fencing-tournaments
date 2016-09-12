@@ -1,0 +1,330 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1054-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "12",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ann-Kathrin",
+      "lastName" : "BOCKHOLT",
+      "fullName" : "BOCKHOLT, Ann-Kathrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88874"
+  }, {
+    "participantId" : "2",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gesine",
+      "lastName" : "EIKEL",
+      "fullName" : "EIKEL, Gesine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88835"
+  }, {
+    "participantId" : "3",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jessica Aishen",
+      "lastName" : "EITTORF",
+      "fullName" : "EITTORF, Jessica Aishen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "53248"
+  }, {
+    "participantId" : "4",
+    "club" : "MTV Braunschweig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wibke",
+      "lastName" : "EXNER",
+      "fullName" : "EXNER, Wibke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "15034"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Gütersloh",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabelle",
+      "lastName" : "FLACK",
+      "fullName" : "FLACK, Isabelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88925"
+  }, {
+    "participantId" : "6",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henrietta",
+      "lastName" : "HOLZE",
+      "fullName" : "HOLZE, Henrietta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88191"
+  }, {
+    "participantId" : "7",
+    "club" : "FV Bremen 1860",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "KLEINSCHMIT",
+      "fullName" : "KLEINSCHMIT, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "38719"
+  }, {
+    "participantId" : "8",
+    "club" : "HFC Lübeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hilke",
+      "lastName" : "KOLLMETZ",
+      "fullName" : "KOLLMETZ, Hilke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "1730"
+  }, {
+    "participantId" : "9",
+    "club" : "MTV Braunschweig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucy",
+      "lastName" : "KÖLSCH",
+      "fullName" : "KÖLSCH, Lucy"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "118751"
+  }, {
+    "participantId" : "10",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jessica",
+      "lastName" : "MAMOK",
+      "fullName" : "MAMOK, Jessica"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "24904"
+  }, {
+    "participantId" : "11",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sandra",
+      "lastName" : "MIRUT",
+      "fullName" : "MIRUT, Sandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322548"
+  }, {
+    "participantId" : "12",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malene",
+      "lastName" : "NAATZ",
+      "fullName" : "NAATZ, Malene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344059"
+  }, {
+    "participantId" : "13",
+    "club" : "TSV Winsen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "PALAPIES",
+      "fullName" : "PALAPIES, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "32533"
+  }, {
+    "participantId" : "14",
+    "club" : "MTV Braunschweig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "ROHMANN",
+      "fullName" : "ROHMANN, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "48302"
+  }, {
+    "participantId" : "15",
+    "club" : "FG TG Münster",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dorina",
+      "lastName" : "ROSENBAUM",
+      "fullName" : "ROSENBAUM, Dorina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "24906"
+  }, {
+    "participantId" : "16",
+    "club" : "Spartak St. Petersburg",
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Mariia",
+      "lastName" : "RUDOLPH",
+      "fullName" : "RUDOLPH, Mariia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "343829"
+  }, {
+    "participantId" : "17",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadine",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Nadine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120531"
+  }, {
+    "participantId" : "18",
+    "club" : "FV Bremen 1860",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jeanine",
+      "lastName" : "STABER",
+      "fullName" : "STABER, Jeanine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326167"
+  }, {
+    "participantId" : "19",
+    "club" : "MTV Braunschweig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Seidel",
+      "lastName" : "STEFANIE",
+      "fullName" : "STEFANIE, Seidel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357846"
+  }, {
+    "participantId" : "20",
+    "club" : "VFL Hüls",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja-Olympia",
+      "lastName" : "SWOBODA",
+      "fullName" : "SWOBODA, Svenja-Olympia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117309"
+  } ]
+}

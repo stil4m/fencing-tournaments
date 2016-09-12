@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1333-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Viktoria",
+      "lastName" : "BERNSTEIN",
+      "fullName" : "BERNSTEIN, Viktoria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341992"
+  }, {
+    "participantId" : "2",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna-Lena",
+      "lastName" : "FREUND",
+      "fullName" : "FREUND, Anna-Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361478"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mia",
+      "lastName" : "GRUPE",
+      "fullName" : "GRUPE, Mia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354556"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "MAASSEN",
+      "fullName" : "MAASSEN, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348749"
+  }, {
+    "participantId" : "5",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilli",
+      "lastName" : "MESSLER",
+      "fullName" : "MESSLER, Lilli"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362221"
+  } ]
+}

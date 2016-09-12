@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1332-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "BW Schneidhain",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sonja",
+      "lastName" : "BOXHEIMER",
+      "fullName" : "BOXHEIMER, Sonja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329197"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Juna",
+      "lastName" : "GONANO",
+      "fullName" : "GONANO, Juna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341965"
+  }, {
+    "participantId" : "3",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jennifer",
+      "lastName" : "TUTTLA",
+      "fullName" : "TUTTLA, Jennifer"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354283"
+  } ]
+}

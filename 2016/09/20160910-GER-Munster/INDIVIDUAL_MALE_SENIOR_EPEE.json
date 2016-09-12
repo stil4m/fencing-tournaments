@@ -1,0 +1,490 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1056-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "3533"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "BIRTH",
+      "fullName" : "BIRTH, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "118963"
+  }, {
+    "participantId" : "3",
+    "club" : "Maison de l Escrime",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Nicolas",
+      "lastName" : "BOULANGE",
+      "fullName" : "BOULANGE, Nicolas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358942"
+  }, {
+    "participantId" : "4",
+    "club" : "Blau-Weiss Buchholz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arthur",
+      "lastName" : "DRIEGER",
+      "fullName" : "DRIEGER, Arthur"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "39668"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christoph",
+      "lastName" : "EGGENSTEIN-DEIMEL",
+      "fullName" : "EGGENSTEIN-DEIMEL, Christoph"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "12115"
+  }, {
+    "participantId" : "6",
+    "club" : "SC Itzehoe",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mads",
+      "lastName" : "ESKILDSEN",
+      "fullName" : "ESKILDSEN, Mads"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "52160"
+  }, {
+    "participantId" : "7",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Egor",
+      "lastName" : "EVSENIN",
+      "fullName" : "EVSENIN, Egor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "45079"
+  }, {
+    "participantId" : "8",
+    "club" : "FG Segeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "FERMOR",
+      "fullName" : "FERMOR, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318964"
+  }, {
+    "participantId" : "9",
+    "club" : "TK Hannover",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "FRENZ",
+      "fullName" : "FRENZ, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "30231"
+  }, {
+    "participantId" : "10",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dennis",
+      "lastName" : "GROTHKLAUS",
+      "fullName" : "GROTHKLAUS, Dennis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "24919"
+  }, {
+    "participantId" : "11",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HEMPELMANN",
+      "fullName" : "HEMPELMANN, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "18590"
+  }, {
+    "participantId" : "12",
+    "club" : "Elmshorner MTV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elmar",
+      "lastName" : "HERRMANN",
+      "fullName" : "HERRMANN, Elmar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326805"
+  }, {
+    "participantId" : "13",
+    "club" : "Maison de l Escrime",
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Geoffroy",
+      "lastName" : "HUSSON",
+      "fullName" : "HUSSON, Geoffroy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "308831"
+  }, {
+    "participantId" : "14",
+    "club" : "ETV Hamburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "KLEIN",
+      "fullName" : "KLEIN, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87146"
+  }, {
+    "participantId" : "15",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "MARCHET",
+      "fullName" : "MARCHET, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "412"
+  }, {
+    "participantId" : "16",
+    "club" : "Soester TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Roland",
+      "lastName" : "MESCHEDE",
+      "fullName" : "MESCHEDE, Roland"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "30308"
+  }, {
+    "participantId" : "17",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nico",
+      "lastName" : "NOETZEL",
+      "fullName" : "NOETZEL, Nico"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "85840"
+  }, {
+    "participantId" : "18",
+    "club" : "Maison de l Escrime",
+    "country" : "VEN",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "OROZCO",
+      "fullName" : "OROZCO, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358967"
+  }, {
+    "participantId" : "19",
+    "club" : "TK Hannover",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rainer",
+      "lastName" : "RAUCH",
+      "fullName" : "RAUCH, Rainer"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2004"
+  }, {
+    "participantId" : "20",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "SCHMITT SPELLMANN",
+      "fullName" : "SCHMITT SPELLMANN, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339846"
+  }, {
+    "participantId" : "21",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "SCHUMACHER",
+      "fullName" : "SCHUMACHER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121455"
+  }, {
+    "participantId" : "22",
+    "club" : "FG Segeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kilian",
+      "lastName" : "STADTER",
+      "fullName" : "STADTER, Kilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "43047"
+  }, {
+    "participantId" : "23",
+    "club" : "Blau-Weiss Buchholz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "STAGE",
+      "fullName" : "STAGE, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324437"
+  }, {
+    "participantId" : "24",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manuel",
+      "lastName" : "TWENT",
+      "fullName" : "TWENT, Manuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "305024"
+  }, {
+    "participantId" : "25",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "VORMWEG",
+      "fullName" : "VORMWEG, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319119"
+  }, {
+    "participantId" : "26",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thilo",
+      "lastName" : "VOSS",
+      "fullName" : "VOSS, Thilo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "25329"
+  }, {
+    "participantId" : "27",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noe",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Noe"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "37626"
+  }, {
+    "participantId" : "28",
+    "club" : "FC Bremen-Nord",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Wladimir",
+      "lastName" : "WELSCH",
+      "fullName" : "WELSCH, Wladimir"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "52513"
+  }, {
+    "participantId" : "29",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Markus",
+      "lastName" : "WETZLAR",
+      "fullName" : "WETZLAR, Markus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "152140"
+  }, {
+    "participantId" : "30",
+    "club" : "Eintracht Hildesheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stefan",
+      "lastName" : "WOLFTEICH",
+      "fullName" : "WOLFTEICH, Stefan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "34937"
+  } ]
+}

@@ -1,0 +1,202 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1330-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Severin",
+      "lastName" : "BAUERDAHL",
+      "fullName" : "BAUERDAHL, Severin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362218"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "CEFERINO MARX",
+      "fullName" : "CEFERINO MARX, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363760"
+  }, {
+    "participantId" : "3",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375415"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jacopo Samuele",
+      "lastName" : "FRANCO",
+      "fullName" : "FRANCO, Jacopo Samuele"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338458"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "GEISSLER",
+      "fullName" : "GEISSLER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354557"
+  }, {
+    "participantId" : "6",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "HEIMANN",
+      "fullName" : "HEIMANN, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363761"
+  }, {
+    "participantId" : "7",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Timo",
+      "lastName" : "KÜNNETH",
+      "fullName" : "KÜNNETH, Timo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362220"
+  }, {
+    "participantId" : "8",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leandro",
+      "lastName" : "MACCHIANO",
+      "fullName" : "MACCHIANO, Leandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363762"
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan Luis",
+      "lastName" : "PRINZ",
+      "fullName" : "PRINZ, Jonathan Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348312"
+  }, {
+    "participantId" : "10",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363763"
+  }, {
+    "participantId" : "11",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "SCHRUMPF",
+      "fullName" : "SCHRUMPF, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363812"
+  }, {
+    "participantId" : "12",
+    "club" : "s.v. RobbSchermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Ramon",
+      "lastName" : "VRIES",
+      "fullName" : "VRIES, Ramon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358664"
+  } ]
+}
