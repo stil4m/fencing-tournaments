@@ -1,0 +1,114 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2750-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "teamName" : "LÜDENSCHEIDER TV",
+    "members" : [ {
+      "firstName" : "Robert",
+      "lastName" : "BRANDTS",
+      "fullName" : "BRANDTS, Robert"
+    }, {
+      "firstName" : "Valentin",
+      "lastName" : "ENDERS",
+      "fullName" : "ENDERS, Valentin"
+    }, {
+      "firstName" : "Yaser",
+      "lastName" : "ABD EL GAWAD",
+      "fullName" : "ABD EL GAWAD, Yaser"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119260"
+  }, {
+    "participantId" : "2",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG Quernheim/Bielefeld",
+    "members" : [ {
+      "firstName" : "Jonas",
+      "lastName" : "SCHMITT SPELLMANN",
+      "fullName" : "SCHMITT SPELLMANN, Jonas"
+    }, {
+      "firstName" : "Cedrik Henry",
+      "lastName" : "FAST",
+      "fullName" : "FAST, Cedrik Henry"
+    }, {
+      "firstName" : "Luca-David",
+      "lastName" : "RÜCKERT",
+      "fullName" : "RÜCKERT, Luca-David"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG Warendorf/Paderborn",
+    "members" : [ {
+      "firstName" : "Lasse",
+      "lastName" : "VISSING",
+      "fullName" : "VISSING, Lasse"
+    }, {
+      "firstName" : "Jonas",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Jonas"
+    }, {
+      "firstName" : "Max",
+      "lastName" : "BRINKHOFF",
+      "fullName" : "BRINKHOFF, Max"
+    }, {
+      "firstName" : "Laurenz",
+      "lastName" : "WIENHOLD",
+      "fullName" : "WIENHOLD, Laurenz"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "teamName" : "TSV HAGEN 1860",
+    "members" : [ {
+      "firstName" : "Moritz",
+      "lastName" : "SCHUMACHER",
+      "fullName" : "SCHUMACHER, Moritz"
+    }, {
+      "firstName" : "Levin Ole",
+      "lastName" : "BEHRENS",
+      "fullName" : "BEHRENS, Levin Ole"
+    }, {
+      "firstName" : "Adrian",
+      "lastName" : "SEUTHE",
+      "fullName" : "SEUTHE, Adrian"
+    }, {
+      "firstName" : "Simon",
+      "lastName" : "KERPER",
+      "fullName" : "KERPER, Simon"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20604"
+  } ]
+}

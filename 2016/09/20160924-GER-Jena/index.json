@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Jena",
+    "name" : "Internationales Junioren Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "3302ff66-54a4-4246-a5a7-19092722bc49",
+    "path" : "/2016/09/20160924-GER-Jena/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

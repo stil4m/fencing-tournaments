@@ -1,0 +1,186 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Mülheim an der Ruhr",
+    "name" : "Internationales Degen-Pokal-Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b30b5857-20cf-40db-baac-2d6d686cdf5b",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "db9ba5f5-aac3-426f-bd03-b22fec7a5683",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "90ae210a-79b7-4d36-951e-f3dd4b927a2f",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "181b5993-85c1-4992-8e8d-362486a01344",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "7f5f6c87-0186-4854-8140-4daf58b4126d",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e7094e81-8dce-4a1c-83fc-0b628f89f6fc",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ca2509a-9647-410e-9f4b-59c034897c30",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1bce373d-f2a4-42ca-b4b1-970c8d2f7465",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0d999400-2cc1-4479-8931-83b42c0dcbe7",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8ead051e-95c7-40ee-9c02-fbbf040babdb",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "93e02216-101c-40bb-9f9d-ebf81765843a",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "4f527342-89c1-4acd-a66c-d14d0390939b",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

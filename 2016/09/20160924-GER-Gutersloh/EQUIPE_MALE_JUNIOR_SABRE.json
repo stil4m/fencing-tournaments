@@ -1,0 +1,66 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2752-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG Herford/Oelde",
+    "members" : [ {
+      "firstName" : "Sebastian",
+      "lastName" : "ANGRICK",
+      "fullName" : "ANGRICK, Sebastian"
+    }, {
+      "firstName" : "Neil",
+      "lastName" : "HEIDKAMP",
+      "fullName" : "HEIDKAMP, Neil"
+    }, {
+      "firstName" : "André",
+      "lastName" : "FABIAN",
+      "fullName" : "FABIAN, André"
+    }, {
+      "firstName" : "Marlon",
+      "lastName" : "LEICHERT",
+      "fullName" : "LEICHERT, Marlon"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "teamName" : "TSC EINTRACHT DORTMUND",
+    "members" : [ {
+      "firstName" : "Erik",
+      "lastName" : "UFERT",
+      "fullName" : "UFERT, Erik"
+    }, {
+      "firstName" : "Malte Alexander",
+      "lastName" : "GRÜGER",
+      "fullName" : "GRÜGER, Malte Alexander"
+    }, {
+      "firstName" : "Fabian",
+      "lastName" : "BONK",
+      "fullName" : "BONK, Fabian"
+    }, {
+      "firstName" : "Julius",
+      "lastName" : "WIEDERHÖFT",
+      "fullName" : "WIEDERHÖFT, Julius"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20301"
+  } ]
+}

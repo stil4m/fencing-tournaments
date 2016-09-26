@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1068-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anouk Aziza",
+      "lastName" : "CENAN",
+      "fullName" : "CENAN, Anouk Aziza"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318103"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "DRÖLLE",
+      "fullName" : "DRÖLLE, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "361592"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah Samuela",
+      "lastName" : "FRANCO",
+      "fullName" : "FRANCO, Sarah Samuela"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304985"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "GRÖNE",
+      "fullName" : "GRÖNE, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326313"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Gladbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "HÄSELHOFF",
+      "fullName" : "HÄSELHOFF, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305014"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Gladbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Käthe",
+      "lastName" : "HEISTERKAMP",
+      "fullName" : "HEISTERKAMP, Käthe"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "329494"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Gladbeck",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophie",
+      "lastName" : "HOLLÄNDER",
+      "fullName" : "HOLLÄNDER, Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "323111"
+  }, {
+    "participantId" : "8",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lotte",
+      "lastName" : "KETTLING",
+      "fullName" : "KETTLING, Lotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "119889"
+  }, {
+    "participantId" : "9",
+    "club" : "Fencing Team Bocholt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "LANKES",
+      "fullName" : "LANKES, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120274"
+  }, {
+    "participantId" : "10",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lynn",
+      "lastName" : "SCHOCKENHOFF",
+      "fullName" : "SCHOCKENHOFF, Lynn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88181"
+  }, {
+    "participantId" : "11",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "SILLING",
+      "fullName" : "SILLING, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "364271"
+  }, {
+    "participantId" : "12",
+    "club" : "TV Neheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Rika",
+      "lastName" : "STUTE",
+      "fullName" : "STUTE, Rika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349900"
+  }, {
+    "participantId" : "13",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Miriam",
+      "lastName" : "THOMA",
+      "fullName" : "THOMA, Miriam"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312403"
+  }, {
+    "participantId" : "14",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "WILKE",
+      "fullName" : "WILKE, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121454"
+  }, {
+    "participantId" : "15",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melissa",
+      "lastName" : "WILKE",
+      "fullName" : "WILKE, Melissa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "304988"
+  } ]
+}

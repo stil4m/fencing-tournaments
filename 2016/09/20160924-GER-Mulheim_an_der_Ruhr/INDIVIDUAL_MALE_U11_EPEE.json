@@ -1,0 +1,202 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3022-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "BINGENER",
+      "fullName" : "BINGENER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357713"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "CEFERINO MARX",
+      "fullName" : "CEFERINO MARX, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363760"
+  }, {
+    "participantId" : "3",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel Alexander",
+      "lastName" : "CLAUS",
+      "fullName" : "CLAUS, Daniel Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "359303"
+  }, {
+    "participantId" : "4",
+    "club" : "Fecht Club Krefeld",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "FISCHER",
+      "fullName" : "FISCHER, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375415"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "GEISSLER",
+      "fullName" : "GEISSLER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354557"
+  }, {
+    "participantId" : "6",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janusz",
+      "lastName" : "GRÄB",
+      "fullName" : "GRÄB, Janusz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "349810"
+  }, {
+    "participantId" : "7",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Timo",
+      "lastName" : "KÜNNETH",
+      "fullName" : "KÜNNETH, Timo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362220"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marc Arthur",
+      "lastName" : "POHL",
+      "fullName" : "POHL, Marc Arthur"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350225"
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jonathan Luis",
+      "lastName" : "PRINZ",
+      "fullName" : "PRINZ, Jonathan Luis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348312"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "STÖCKER",
+      "fullName" : "STÖCKER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "320537"
+  }, {
+    "participantId" : "11",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Safouane",
+      "lastName" : "TACHRIFET",
+      "fullName" : "TACHRIFET, Safouane"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360490"
+  }, {
+    "participantId" : "12",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350222"
+  } ]
+}

@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2749-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Westfalen",
+    "country" : "GER",
+    "teamName" : "STG Quernheim/Hüls",
+    "members" : [ {
+      "firstName" : "Norina-Sophie",
+      "lastName" : "MOWE",
+      "fullName" : "MOWE, Norina-Sophie"
+    }, {
+      "firstName" : "Svenja-Olympia",
+      "lastName" : "SWOBODA",
+      "fullName" : "SWOBODA, Svenja-Olympia"
+    }, {
+      "firstName" : "Nadine",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Nadine"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "teamName" : "TB BURGSTEINFURT",
+    "members" : [ {
+      "firstName" : "Sandra",
+      "lastName" : "MIRUT",
+      "fullName" : "MIRUT, Sandra"
+    }, {
+      "firstName" : "Stella",
+      "lastName" : "BRESLER",
+      "fullName" : "BRESLER, Stella"
+    }, {
+      "firstName" : "Ann-Kathrin",
+      "lastName" : "BOCKHOLT",
+      "fullName" : "BOCKHOLT, Ann-Kathrin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20627"
+  } ]
+}

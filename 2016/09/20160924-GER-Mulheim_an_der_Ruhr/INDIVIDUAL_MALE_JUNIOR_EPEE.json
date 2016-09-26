@@ -1,0 +1,234 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3017-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius",
+      "lastName" : "DEHN",
+      "fullName" : "DEHN, Julius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119592"
+  }, {
+    "participantId" : "2",
+    "club" : "Fencing Ermelo",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Tristan",
+      "lastName" : "DEKKER",
+      "fullName" : "DEKKER, Tristan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "348089"
+  }, {
+    "participantId" : "3",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "HAPPE",
+      "fullName" : "HAPPE, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "124099"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian Rubens",
+      "lastName" : "KÄMEREIT",
+      "fullName" : "KÄMEREIT, Maximilian Rubens"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "121340"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "LUCAS",
+      "fullName" : "LUCAS, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330016"
+  }, {
+    "participantId" : "6",
+    "club" : "EFG Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bruno",
+      "lastName" : "MASTHOFF",
+      "fullName" : "MASTHOFF, Bruno"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "87874"
+  }, {
+    "participantId" : "7",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "OLSTOWSKI",
+      "fullName" : "OLSTOWSKI, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354170"
+  }, {
+    "participantId" : "8",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Corvin",
+      "lastName" : "REMSCHEID",
+      "fullName" : "REMSCHEID, Corvin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343851"
+  }, {
+    "participantId" : "9",
+    "club" : "Schermacademie Zair",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Roy",
+      "lastName" : "VAN GILST",
+      "fullName" : "VAN GILST, Roy"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344951"
+  }, {
+    "participantId" : "10",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "WINKLER",
+      "fullName" : "WINKLER, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326688"
+  }, {
+    "participantId" : "11",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "WISSKIRCHEN",
+      "fullName" : "WISSKIRCHEN, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "86013"
+  }, {
+    "participantId" : "12",
+    "club" : "Fencing Ermelo",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Maxim",
+      "lastName" : "ZEWE",
+      "fullName" : "ZEWE, Maxim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333181"
+  }, {
+    "participantId" : "13",
+    "club" : "Solinger TB",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "ZIEGS",
+      "fullName" : "ZIEGS, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333423"
+  }, {
+    "participantId" : "14",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lars",
+      "lastName" : "ZUR MÜHLEN",
+      "fullName" : "ZUR MÜHLEN, Lars"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119901"
+  } ]
+}

@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3023-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Rheydter TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Severin",
+      "lastName" : "BAUERDAHL",
+      "fullName" : "BAUERDAHL, Severin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362218"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "HEIMANN",
+      "fullName" : "HEIMANN, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363761"
+  }, {
+    "participantId" : "3",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz Leander",
+      "lastName" : "HEUM",
+      "fullName" : "HEUM, Moritz Leander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360493"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Bayer Leverkusen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gideon-Lucien",
+      "lastName" : "KOLDITZ",
+      "fullName" : "KOLDITZ, Gideon-Lucien"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363904"
+  }, {
+    "participantId" : "5",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leandro",
+      "lastName" : "MACCHIANO",
+      "fullName" : "MACCHIANO, Leandro"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363762"
+  }, {
+    "participantId" : "6",
+    "club" : "Düsseldorfer FV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "MAUSS",
+      "fullName" : "MAUSS, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360494"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Hoffnungsthal",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benno",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Benno"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344447"
+  }, {
+    "participantId" : "8",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frederick Jonathan",
+      "lastName" : "RÜHL",
+      "fullName" : "RÜHL, Frederick Jonathan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339437"
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363763"
+  }, {
+    "participantId" : "10",
+    "club" : "Fechtzentrum Solingen e.V.",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "SCHRUMPF",
+      "fullName" : "SCHRUMPF, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363812"
+  } ]
+}

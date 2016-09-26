@@ -1,0 +1,154 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1069-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ann-Kathrin",
+      "lastName" : "BOCKHOLT",
+      "fullName" : "BOCKHOLT, Ann-Kathrin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88874"
+  }, {
+    "participantId" : "2",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stella",
+      "lastName" : "BRESLER",
+      "fullName" : "BRESLER, Stella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "39310"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aurelia",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Aurelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88765"
+  }, {
+    "participantId" : "4",
+    "club" : "Hasper FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fiona",
+      "lastName" : "KÖHLER",
+      "fullName" : "KÖHLER, Fiona"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "86978"
+  }, {
+    "participantId" : "5",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sandra",
+      "lastName" : "MIRUT",
+      "fullName" : "MIRUT, Sandra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "322548"
+  }, {
+    "participantId" : "6",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Norina-Sophie",
+      "lastName" : "MOWE",
+      "fullName" : "MOWE, Norina-Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "45430"
+  }, {
+    "participantId" : "7",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadine",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Nadine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "120531"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "SCHUHEN",
+      "fullName" : "SCHUHEN, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351678"
+  }, {
+    "participantId" : "9",
+    "club" : "VFL Hüls",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja-Olympia",
+      "lastName" : "SWOBODA",
+      "fullName" : "SWOBODA, Svenja-Olympia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117309"
+  } ]
+}

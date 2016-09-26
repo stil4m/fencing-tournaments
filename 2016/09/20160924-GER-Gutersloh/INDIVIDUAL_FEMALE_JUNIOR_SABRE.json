@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1066-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Herner TC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlene",
+      "lastName" : "BUDDE",
+      "fullName" : "BUDDE, Marlene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "92504"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Merle",
+      "lastName" : "GIZINSKI",
+      "fullName" : "GIZINSKI, Merle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319093"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aurelia",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Aurelia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "88765"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carmen",
+      "lastName" : "SENF",
+      "fullName" : "SENF, Carmen"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305533"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolin",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Carolin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342310"
+  } ]
+}

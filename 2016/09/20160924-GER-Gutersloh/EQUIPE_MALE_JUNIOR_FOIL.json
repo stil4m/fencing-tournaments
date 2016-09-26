@@ -1,0 +1,66 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2748-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "teamName" : "QUERNHEIMER FC",
+    "members" : [ {
+      "firstName" : "Georg",
+      "lastName" : "ADRIAN",
+      "fullName" : "ADRIAN, Georg"
+    }, {
+      "firstName" : "Silas",
+      "lastName" : "HEIDENREICH",
+      "fullName" : "HEIDENREICH, Silas"
+    }, {
+      "firstName" : "Justin",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Justin"
+    }, {
+      "firstName" : "Philipp",
+      "lastName" : "KRÖGER",
+      "fullName" : "KRÖGER, Philipp"
+    } ],
+    "fieId" : null,
+    "fwwId" : "23381"
+  }, {
+    "participantId" : "2",
+    "club" : "TB Burgsteinfurt",
+    "country" : "GER",
+    "teamName" : "TB BURGSTEINFURT 1",
+    "members" : [ {
+      "firstName" : "Erik Marten",
+      "lastName" : "BALDAUF",
+      "fullName" : "BALDAUF, Erik Marten"
+    }, {
+      "firstName" : "Justian",
+      "lastName" : "MOOR",
+      "fullName" : "MOOR, Justian"
+    }, {
+      "firstName" : "Tom",
+      "lastName" : "LOHR",
+      "fullName" : "LOHR, Tom"
+    }, {
+      "firstName" : "Konstantin",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Konstantin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "361766"
+  } ]
+}

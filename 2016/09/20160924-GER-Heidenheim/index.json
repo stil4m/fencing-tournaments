@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Heidenheim",
+    "name" : "Internationales Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "206d61ec-8de6-4de2-8963-0ad82bae124b",
+    "path" : "/2016/09/20160924-GER-Heidenheim/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}
