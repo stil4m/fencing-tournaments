@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14267-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maximilian",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Maximilian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "307293"
+  }, {
+    "participantId" : "2",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "SPAETH",
+      "fullName" : "SPAETH, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313994"
+  } ]
+}

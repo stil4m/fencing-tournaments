@@ -1,0 +1,144 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Friedrichshafen",
+    "name" : "Bezirksmeisterschaft Oberland",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "342a3ef2-caf1-400b-bad1-aee0893848f4",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/EQUIPE_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2713f05f-9a6d-407e-848c-f05c78a432ea",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/EQUIPE_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6f8f2027-841e-44cf-ae72-149677dba671",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "38d6b8c8-622e-4b86-a2cf-bb5fe089d5e6",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ee301681-7f51-4630-8f3b-6b897685faca",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "fc230963-7dd7-47fd-948d-0f2117da022f",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "3ce6a005-cdbd-4140-aaf4-1f0b6b8acb5e",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "cd376397-52bd-4652-99c6-5b0949dccfd7",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "e482dbf0-426a-482b-984a-2a0a392d5bdc",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

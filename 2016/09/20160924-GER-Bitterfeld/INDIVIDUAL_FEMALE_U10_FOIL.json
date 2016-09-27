@@ -1,0 +1,98 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3082-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emely",
+      "lastName" : "HAUPT",
+      "fullName" : "HAUPT, Emely"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354221"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lotte",
+      "lastName" : "KUCHENBECKER",
+      "fullName" : "KUCHENBECKER, Lotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362834"
+  }, {
+    "participantId" : "3",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sienna Emilia",
+      "lastName" : "SCHÄFER",
+      "fullName" : "SCHÄFER, Sienna Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362297"
+  }, {
+    "participantId" : "4",
+    "club" : "FSC Nordhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "WILLING",
+      "fullName" : "WILLING, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "364053"
+  }, {
+    "participantId" : "5",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elina",
+      "lastName" : "ENDNER",
+      "fullName" : "ENDNER, Elina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353560"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anne",
+      "lastName" : "SÄNDIG",
+      "fullName" : "SÄNDIG, Anne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362837"
+  } ]
+}

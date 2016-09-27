@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3073-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jasmin",
+      "lastName" : "FIEDLER",
+      "fullName" : "FIEDLER, Jasmin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330240"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Markkleeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alma",
+      "lastName" : "GAMKE",
+      "fullName" : "GAMKE, Alma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357997"
+  }, {
+    "participantId" : "3",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "HAMSCH",
+      "fullName" : "HAMSCH, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345017"
+  }, {
+    "participantId" : "4",
+    "club" : "Blau-Weiß Kleinmachnow",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karoline",
+      "lastName" : "KRAUTER",
+      "fullName" : "KRAUTER, Karoline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "316760"
+  }, {
+    "participantId" : "5",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josefine Elisabeth",
+      "lastName" : "KRETSCHMER",
+      "fullName" : "KRETSCHMER, Josefine Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328049"
+  }, {
+    "participantId" : "6",
+    "club" : "Chemnitzer PSV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilian",
+      "lastName" : "LOHS",
+      "fullName" : "LOHS, Lilian"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345349"
+  }, {
+    "participantId" : "7",
+    "club" : "FSC Nordhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mara Henrike",
+      "lastName" : "NIKOLEIZIG",
+      "fullName" : "NIKOLEIZIG, Mara Henrike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307589"
+  }, {
+    "participantId" : "8",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lena",
+      "lastName" : "WOLLSCHLÄGER",
+      "fullName" : "WOLLSCHLÄGER, Lena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362293"
+  }, {
+    "participantId" : "9",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "ZINECKER",
+      "fullName" : "ZINECKER, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351305"
+  }, {
+    "participantId" : "10",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nina",
+      "lastName" : "ZIENICKER",
+      "fullName" : "ZIENICKER, Nina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358789"
+  } ]
+}

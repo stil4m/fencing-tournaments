@@ -1,0 +1,102 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14275-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "BLOCHING",
+      "fullName" : "BLOCHING, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363184"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "HELD",
+      "fullName" : "HELD, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350619"
+  }, {
+    "participantId" : "3",
+    "club" : "KV Laupheim - Fechten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Quirin",
+      "lastName" : "KRAUS",
+      "fullName" : "KRAUS, Quirin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363308"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "RUNG",
+      "fullName" : "RUNG, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363181"
+  }, {
+    "participantId" : "5",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastijan",
+      "lastName" : "SKRLJ",
+      "fullName" : "SKRLJ, Sebastijan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363182"
+  }, {
+    "participantId" : "6",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "REINHARDT",
+      "fullName" : "REINHARDT, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363180"
+  } ]
+}

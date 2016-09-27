@@ -1,0 +1,110 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14281-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "teamName" : "FECHTAKADE RAVENSBURG",
+    "members" : [ {
+      "firstName" : "Bernd",
+      "lastName" : "ROLSER",
+      "fullName" : "ROLSER, Bernd"
+    }, {
+      "firstName" : "Siegfried",
+      "lastName" : "BÖSE",
+      "fullName" : "BÖSE, Siegfried"
+    }, {
+      "firstName" : "Ulf",
+      "lastName" : "RITTHALER",
+      "fullName" : "RITTHALER, Ulf"
+    }, {
+      "firstName" : "Jan",
+      "lastName" : "ZECHEL",
+      "fullName" : "ZECHEL, Jan"
+    } ],
+    "fieId" : null,
+    "fwwId" : "328925"
+  }, {
+    "participantId" : "2",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "teamName" : "MTG WANGEN",
+    "members" : [ {
+      "firstName" : "Fabian",
+      "lastName" : "DESCHLER",
+      "fullName" : "DESCHLER, Fabian"
+    }, {
+      "firstName" : "Michael",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Michael"
+    }, {
+      "firstName" : "Maximilian",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Maximilian"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119265"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Laupheim",
+    "country" : "GER",
+    "teamName" : "TSV LAUPHEIM",
+    "members" : [ {
+      "firstName" : "Niklas",
+      "lastName" : "SCHIRMER",
+      "fullName" : "SCHIRMER, Niklas"
+    }, {
+      "firstName" : "Stefan",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Stefan"
+    }, {
+      "firstName" : "Thomas",
+      "lastName" : "BENZING",
+      "fullName" : "BENZING, Thomas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20613"
+  }, {
+    "participantId" : "4",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "teamName" : "VFB FRIEDRICHSHAFEN",
+    "members" : [ {
+      "firstName" : "Marco",
+      "lastName" : "BIRKENMAIER",
+      "fullName" : "BIRKENMAIER, Marco"
+    }, {
+      "firstName" : "Gerhard",
+      "lastName" : "BIRKENMAIER",
+      "fullName" : "BIRKENMAIER, Gerhard"
+    }, {
+      "firstName" : "Thomas",
+      "lastName" : "HEILMANN",
+      "fullName" : "HEILMANN, Thomas"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52955"
+  } ]
+}

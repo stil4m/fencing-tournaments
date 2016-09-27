@@ -1,0 +1,330 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3079-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "AHLVERS",
+      "fullName" : "AHLVERS, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363888"
+  }, {
+    "participantId" : "2",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julian",
+      "lastName" : "BECKER",
+      "fullName" : "BECKER, Julian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363014"
+  }, {
+    "participantId" : "3",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Otto",
+      "lastName" : "BECKMANN",
+      "fullName" : "BECKMANN, Otto"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "345449"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "BEYER",
+      "fullName" : "BEYER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353558"
+  }, {
+    "participantId" : "5",
+    "club" : "Wernigeröder SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ramon",
+      "lastName" : "BOLLMANN",
+      "fullName" : "BOLLMANN, Ramon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363942"
+  }, {
+    "participantId" : "6",
+    "club" : "PSV Weimar",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arne-Friedrich",
+      "lastName" : "BÖTTCHER",
+      "fullName" : "BÖTTCHER, Arne-Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357489"
+  }, {
+    "participantId" : "7",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "HEINZE",
+      "fullName" : "HEINZE, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362301"
+  }, {
+    "participantId" : "8",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlie Lennox",
+      "lastName" : "HERRMANN",
+      "fullName" : "HERRMANN, Charlie Lennox"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363143"
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca Nicky",
+      "lastName" : "LEIMERT",
+      "fullName" : "LEIMERT, Luca Nicky"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363889"
+  }, {
+    "participantId" : "10",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theodor",
+      "lastName" : "OTTO",
+      "fullName" : "OTTO, Theodor"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350736"
+  }, {
+    "participantId" : "11",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Milan",
+      "lastName" : "PESTER",
+      "fullName" : "PESTER, Milan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363772"
+  }, {
+    "participantId" : "12",
+    "club" : "Einheit Altenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ole",
+      "lastName" : "PETERSEN",
+      "fullName" : "PETERSEN, Ole"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335315"
+  }, {
+    "participantId" : "13",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vincent",
+      "lastName" : "POLLMER",
+      "fullName" : "POLLMER, Vincent"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363890"
+  }, {
+    "participantId" : "14",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Konrad",
+      "lastName" : "SCHMIDT",
+      "fullName" : "SCHMIDT, Konrad"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362336"
+  }, {
+    "participantId" : "15",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Frederik",
+      "lastName" : "SCHÜTZE",
+      "fullName" : "SCHÜTZE, Frederik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351075"
+  }, {
+    "participantId" : "16",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "SCHWIBS",
+      "fullName" : "SCHWIBS, Benjamin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354399"
+  }, {
+    "participantId" : "17",
+    "club" : "WKS Kolejarz Wroclaw",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Jan",
+      "lastName" : "SOWA",
+      "fullName" : "SOWA, Jan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376237"
+  }, {
+    "participantId" : "18",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malte",
+      "lastName" : "UEBERALL",
+      "fullName" : "UEBERALL, Malte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354387"
+  }, {
+    "participantId" : "19",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julius Fridolin",
+      "lastName" : "VON SONNTAG",
+      "fullName" : "VON SONNTAG, Julius Fridolin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358647"
+  }, {
+    "participantId" : "20",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kurt",
+      "lastName" : "WIELAND",
+      "fullName" : "WIELAND, Kurt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362299"
+  } ]
+}

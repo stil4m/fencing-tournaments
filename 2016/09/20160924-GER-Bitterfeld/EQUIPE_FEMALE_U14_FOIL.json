@@ -1,0 +1,166 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "5825-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "teamName" : "FC MOERS",
+    "members" : [ {
+      "firstName" : "Lara Emma",
+      "lastName" : "BERGMANN",
+      "fullName" : "BERGMANN, Lara Emma"
+    }, {
+      "firstName" : "Emily",
+      "lastName" : "KLOCKHAUS",
+      "fullName" : "KLOCKHAUS, Emily"
+    }, {
+      "firstName" : "Celine",
+      "lastName" : "PACHMANN",
+      "fullName" : "PACHMANN, Celine"
+    }, {
+      "firstName" : "Merle",
+      "lastName" : "STIEREN",
+      "fullName" : "STIEREN, Merle"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20623"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "teamName" : "FC RADEBEUL",
+    "members" : [ {
+      "firstName" : "Isabell",
+      "lastName" : "THIERBACH",
+      "fullName" : "THIERBACH, Isabell"
+    }, {
+      "firstName" : "Cora Elisabeth",
+      "lastName" : "SCHALLER",
+      "fullName" : "SCHALLER, Cora Elisabeth"
+    }, {
+      "firstName" : "Lina Elisabeth",
+      "lastName" : "WEMME",
+      "fullName" : "WEMME, Lina Elisabeth"
+    }, {
+      "firstName" : "Hannah",
+      "lastName" : "SIBILLA",
+      "fullName" : "SIBILLA, Hannah"
+    } ],
+    "fieId" : null,
+    "fwwId" : "327311"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "teamName" : "FC RADEBEUL 2",
+    "members" : [ {
+      "firstName" : "Helene",
+      "lastName" : "WEINERT",
+      "fullName" : "WEINERT, Helene"
+    }, {
+      "firstName" : "Alina-Sophie",
+      "lastName" : "WOLF",
+      "fullName" : "WOLF, Alina-Sophie"
+    }, {
+      "firstName" : "Eva",
+      "lastName" : "BUCHE",
+      "fullName" : "BUCHE, Eva"
+    }, {
+      "firstName" : "Arabelle",
+      "lastName" : "KÜNANZ",
+      "fullName" : "KÜNANZ, Arabelle"
+    } ],
+    "fieId" : null,
+    "fwwId" : "342634"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "teamName" : "FECHTCENTRUM HALLE",
+    "members" : [ {
+      "firstName" : "Jennifer",
+      "lastName" : "BALLE",
+      "fullName" : "BALLE, Jennifer"
+    }, {
+      "firstName" : "Sonja",
+      "lastName" : "BÖTTGER",
+      "fullName" : "BÖTTGER, Sonja"
+    }, {
+      "firstName" : "Jasmin",
+      "lastName" : "FIEDLER",
+      "fullName" : "FIEDLER, Jasmin"
+    } ],
+    "fieId" : null,
+    "fwwId" : "20296"
+  }, {
+    "participantId" : "5",
+    "club" : "FSV Görlitz",
+    "country" : "GER",
+    "teamName" : "FSV GÖRLITZ",
+    "members" : [ {
+      "firstName" : "Katja",
+      "lastName" : "EIF",
+      "fullName" : "EIF, Katja"
+    }, {
+      "firstName" : "Lilli",
+      "lastName" : "TRÄGER",
+      "fullName" : "TRÄGER, Lilli"
+    }, {
+      "firstName" : "Magdalena",
+      "lastName" : "FOLDA",
+      "fullName" : "FOLDA, Magdalena"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119231"
+  }, {
+    "participantId" : "6",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "teamName" : "USC MAGDEBURG",
+    "members" : [ {
+      "firstName" : "Luise",
+      "lastName" : "HAMSCH",
+      "fullName" : "HAMSCH, Luise"
+    }, {
+      "firstName" : "Celine Anna Marie",
+      "lastName" : "MIKULSKI",
+      "fullName" : "MIKULSKI, Celine Anna Marie"
+    }, {
+      "firstName" : "Julia",
+      "lastName" : "RATSCHKOV",
+      "fullName" : "RATSCHKOV, Julia"
+    } ],
+    "fieId" : null,
+    "fwwId" : "21930"
+  } ]
+}

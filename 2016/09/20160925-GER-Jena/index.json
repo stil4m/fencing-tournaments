@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Jena",
+    "name" : "Internationales Juniorinnen Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "b37692b7-559b-40c7-9b4f-6f0a0ae1db14",
+    "path" : "/2016/09/20160925-GER-Jena/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

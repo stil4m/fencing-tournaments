@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1089-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mark-Philip",
+      "lastName" : "AUF DEM HÖVEL",
+      "fullName" : "AUF DEM HÖVEL, Mark-Philip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323349"
+  }, {
+    "participantId" : "2",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "FIETZ",
+      "fullName" : "FIETZ, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329485"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "FRESE",
+      "fullName" : "FRESE, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353623"
+  }, {
+    "participantId" : "4",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "UFERT",
+      "fullName" : "UFERT, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "315273"
+  }, {
+    "participantId" : "5",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jan Martin",
+      "lastName" : "WEBER",
+      "fullName" : "WEBER, Jan Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "329482"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Milan",
+      "lastName" : "WIEGARD",
+      "fullName" : "WIEGARD, Milan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327330"
+  } ]
+}

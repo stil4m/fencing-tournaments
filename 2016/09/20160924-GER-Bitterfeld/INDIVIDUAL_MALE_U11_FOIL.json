@@ -1,0 +1,394 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3078-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "16",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anton",
+      "lastName" : "ALBRECHT",
+      "fullName" : "ALBRECHT, Anton"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357697"
+  }, {
+    "participantId" : "2",
+    "club" : "Einheit Altenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ludwig",
+      "lastName" : "BÖRNGEN",
+      "fullName" : "BÖRNGEN, Ludwig"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354108"
+  }, {
+    "participantId" : "3",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Timo",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Timo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363243"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "GIERIG",
+      "fullName" : "GIERIG, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362818"
+  }, {
+    "participantId" : "5",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "GRAJETZKI",
+      "fullName" : "GRAJETZKI, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361759"
+  }, {
+    "participantId" : "6",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Louis",
+      "lastName" : "HEINZE",
+      "fullName" : "HEINZE, Louis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358656"
+  }, {
+    "participantId" : "7",
+    "club" : "USC Magdeburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Philipp",
+      "lastName" : "JORDAN",
+      "fullName" : "JORDAN, Philipp"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362335"
+  }, {
+    "participantId" : "8",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aaron",
+      "lastName" : "KABJOLL",
+      "fullName" : "KABJOLL, Aaron"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344008"
+  }, {
+    "participantId" : "9",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "KÖCKE",
+      "fullName" : "KÖCKE, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362831"
+  }, {
+    "participantId" : "10",
+    "club" : "SV Chemie Rodleben",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jannis",
+      "lastName" : "KRAWCZYK",
+      "fullName" : "KRAWCZYK, Jannis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "343350"
+  }, {
+    "participantId" : "11",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carl",
+      "lastName" : "KUNNIG",
+      "fullName" : "KUNNIG, Carl"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354453"
+  }, {
+    "participantId" : "12",
+    "club" : "SV Chemie Rodleben",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Yannick",
+      "lastName" : "LEUSCHNER",
+      "fullName" : "LEUSCHNER, Yannick"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363860"
+  }, {
+    "participantId" : "13",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arvid Elias",
+      "lastName" : "NEUSS",
+      "fullName" : "NEUSS, Arvid Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "354808"
+  }, {
+    "participantId" : "14",
+    "club" : "TUS Osterburg Weida",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kurt",
+      "lastName" : "REICHARDT",
+      "fullName" : "REICHARDT, Kurt"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344009"
+  }, {
+    "participantId" : "15",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "RÖSNER",
+      "fullName" : "RÖSNER, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363884"
+  }, {
+    "participantId" : "16",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jo Pierré",
+      "lastName" : "SCHELLBACH",
+      "fullName" : "SCHELLBACH, Jo Pierré"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362829"
+  }, {
+    "participantId" : "17",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Matthias",
+      "lastName" : "SCHLIETER",
+      "fullName" : "SCHLIETER, Matthias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337751"
+  }, {
+    "participantId" : "18",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon Robert",
+      "lastName" : "SCHRÖDER",
+      "fullName" : "SCHRÖDER, Leon Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362836"
+  }, {
+    "participantId" : "19",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "SCHULZ",
+      "fullName" : "SCHULZ, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333828"
+  }, {
+    "participantId" : "20",
+    "club" : "FZ Erfurt EnGarde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "SONS",
+      "fullName" : "SONS, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353376"
+  }, {
+    "participantId" : "21",
+    "club" : "TV Markkleeberg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "SPREMBERG",
+      "fullName" : "SPREMBERG, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356199"
+  }, {
+    "participantId" : "22",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "TIPPMER",
+      "fullName" : "TIPPMER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362822"
+  }, {
+    "participantId" : "23",
+    "club" : "FSV Görlitz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "WACHA",
+      "fullName" : "WACHA, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361452"
+  }, {
+    "participantId" : "24",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Louis",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Louis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "352230"
+  } ]
+}

@@ -1,0 +1,158 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "3080-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Wernigeröder SV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Selina Marie",
+      "lastName" : "BREHME",
+      "fullName" : "BREHME, Selina Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363943"
+  }, {
+    "participantId" : "2",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Greta",
+      "lastName" : "GARAND",
+      "fullName" : "GARAND, Greta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363773"
+  }, {
+    "participantId" : "3",
+    "club" : "FSC Jena",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luise",
+      "lastName" : "MACHOLD",
+      "fullName" : "MACHOLD, Luise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355377"
+  }, {
+    "participantId" : "4",
+    "club" : "FSC Nordhausen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "OEHLER",
+      "fullName" : "OEHLER, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309131"
+  }, {
+    "participantId" : "5",
+    "club" : "Dresdener FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leonie",
+      "lastName" : "RIEGER",
+      "fullName" : "RIEGER, Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354766"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Leipzig",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Josie",
+      "lastName" : "RÖSELER",
+      "fullName" : "RÖSELER, Josie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348764"
+  }, {
+    "participantId" : "7",
+    "club" : "FSV Görlitz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kimberly",
+      "lastName" : "WALTHER",
+      "fullName" : "WALTHER, Kimberly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "327892"
+  }, {
+    "participantId" : "8",
+    "club" : "Fechtcentrum Halle",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "RUTZ",
+      "fullName" : "RUTZ, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354400"
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtclub Radebeul",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie",
+      "lastName" : "PERL",
+      "fullName" : "PERL, Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362823"
+  }, {
+    "participantId" : "10",
+    "club" : "FC Schkeuditz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kiara",
+      "lastName" : "OBERLÄNDER",
+      "fullName" : "OBERLÄNDER, Kiara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362840"
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1083-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Maria",
+      "lastName" : "ADRIAN",
+      "fullName" : "ADRIAN, Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306989"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "FOYSI",
+      "fullName" : "FOYSI, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351738"
+  }, {
+    "participantId" : "3",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sinem Dicle",
+      "lastName" : "KATKAY",
+      "fullName" : "KATKAY, Sinem Dicle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333624"
+  }, {
+    "participantId" : "4",
+    "club" : "Hasper FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie Helene",
+      "lastName" : "KLEYER",
+      "fullName" : "KLEYER, Marie Helene"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "326306"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lilian",
+      "lastName" : "MANDT",
+      "fullName" : "MANDT, Lilian"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355731"
+  }, {
+    "participantId" : "6",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ella",
+      "lastName" : "MÖNNING",
+      "fullName" : "MÖNNING, Ella"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360703"
+  }, {
+    "participantId" : "7",
+    "club" : "Hasper FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Isabell Maria",
+      "lastName" : "REISEWITZ",
+      "fullName" : "REISEWITZ, Isabell Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "319494"
+  }, {
+    "participantId" : "8",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laetita Leonie",
+      "lastName" : "WOJCIK",
+      "fullName" : "WOJCIK, Laetita Leonie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "364497"
+  } ]
+}

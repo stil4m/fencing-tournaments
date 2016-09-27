@@ -85,6 +85,20 @@
       "weapon" : "EPEE"
     }
   }, {
+    "identifier" : "86cfefff-e556-49bc-a417-e89c9438401b",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
     "identifier" : "e7094e81-8dce-4a1c-83fc-0b628f89f6fc",
     "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_U14_EPEE.json",
     "date" : {
@@ -165,6 +179,20 @@
     "category" : {
       "composition" : "INDIVIDUAL",
       "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "ad570fa6-95cb-4c15-a803-3550a5bbb6c6",
+    "path" : "/2016/09/20160924-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
       "gender" : "MALE",
       "weapon" : "EPEE"
     }

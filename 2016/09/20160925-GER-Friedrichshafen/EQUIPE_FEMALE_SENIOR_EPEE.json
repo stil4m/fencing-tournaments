@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14282-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "teamName" : "MTG WANGEN",
+    "members" : [ {
+      "firstName" : "Stefanie",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Stefanie"
+    }, {
+      "firstName" : "Magdalena",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Magdalena"
+    }, {
+      "firstName" : "Barbara",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Barbara"
+    } ],
+    "fieId" : null,
+    "fwwId" : "119265"
+  }, {
+    "participantId" : "2",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "teamName" : "VFB FRIEDRICHSHAFEN",
+    "members" : [ {
+      "firstName" : "Jasmin",
+      "lastName" : "BIRKENMAIER",
+      "fullName" : "BIRKENMAIER, Jasmin"
+    }, {
+      "firstName" : "Noemi",
+      "lastName" : "HEILMANN",
+      "fullName" : "HEILMANN, Noemi"
+    }, {
+      "firstName" : "Alena",
+      "lastName" : "STIER",
+      "fullName" : "STIER, Alena"
+    }, {
+      "firstName" : "Britta",
+      "lastName" : "AMANN",
+      "fullName" : "AMANN, Britta"
+    } ],
+    "fieId" : null,
+    "fwwId" : "52955"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "teamName" : "FECHTAKADE RAVENSBURG",
+    "members" : null,
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

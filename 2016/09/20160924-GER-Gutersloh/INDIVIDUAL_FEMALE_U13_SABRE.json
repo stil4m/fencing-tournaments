@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1079-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jamie",
+      "lastName" : "HEIDKAMP",
+      "fullName" : "HEIDKAMP, Jamie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363254"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Jahn Oelde",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anastasia",
+      "lastName" : "REICHERT",
+      "fullName" : "REICHERT, Anastasia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363025"
+  } ]
+}
