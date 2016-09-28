@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1080-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339910"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ruby",
+      "lastName" : "CANNEY",
+      "fullName" : "CANNEY, Ruby"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333272"
+  }, {
+    "participantId" : "3",
+    "club" : "Lüdenscheider TV",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joelle",
+      "lastName" : "COUROUBLE",
+      "fullName" : "COUROUBLE, Joelle"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "318950"
+  }, {
+    "participantId" : "4",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alina",
+      "lastName" : "TLIGACHEV",
+      "fullName" : "TLIGACHEV, Alina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353640"
+  } ]
+}

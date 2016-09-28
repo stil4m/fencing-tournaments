@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14268-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marla",
+      "lastName" : "DEMEL",
+      "fullName" : "DEMEL, Marla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342602"
+  }, {
+    "participantId" : "2",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Selina",
+      "lastName" : "GAISER",
+      "fullName" : "GAISER, Selina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353541"
+  }, {
+    "participantId" : "3",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noemi",
+      "lastName" : "HEILMANN",
+      "fullName" : "HEILMANN, Noemi"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "313998"
+  } ]
+}

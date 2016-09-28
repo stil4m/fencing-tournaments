@@ -57,6 +57,20 @@
       "weapon" : "EPEE"
     }
   }, {
+    "identifier" : "13d41015-44c4-4830-a541-1db9a3f8fbf5",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
     "identifier" : "38d6b8c8-622e-4b86-a2cf-bb5fe089d5e6",
     "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
     "date" : {
@@ -123,6 +137,20 @@
     "category" : {
       "composition" : "INDIVIDUAL",
       "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "88801286-aa40-4892-808c-5048368b2c5e",
+    "path" : "/2016/09/20160925-GER-Friedrichshafen/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
       "gender" : "MALE",
       "weapon" : "EPEE"
     }

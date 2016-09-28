@@ -141,6 +141,20 @@
       "weapon" : "FOIL"
     }
   }, {
+    "identifier" : "b0cb83d2-ee77-4c34-9477-e31cd2817724",
+    "path" : "/2016/09/20160924-GER-Bitterfeld/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 24
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
     "identifier" : "9136799f-2564-4c40-aa9c-3482498b773d",
     "path" : "/2016/09/20160924-GER-Bitterfeld/INDIVIDUAL_MALE_U13_FOIL.json",
     "date" : {
@@ -151,6 +165,20 @@
     "category" : {
       "composition" : "INDIVIDUAL",
       "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "d32ec312-f966-45fc-bd11-e491ec515d63",
+    "path" : "/2016/09/20160924-GER-Bitterfeld/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 9,
+      "d" : 25
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
       "gender" : "MALE",
       "weapon" : "FOIL"
     }
