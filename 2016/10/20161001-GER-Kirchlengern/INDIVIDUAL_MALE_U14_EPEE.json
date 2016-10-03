@@ -1,0 +1,250 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2833-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "FIP",
+      "fullName" : "FIP, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333190"
+  }, {
+    "participantId" : "2",
+    "club" : "SV Vorwärts Nordhorn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Thorge",
+      "lastName" : "HEILS",
+      "fullName" : "HEILS, Thorge"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361588"
+  }, {
+    "participantId" : "3",
+    "club" : "MTV Minden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Friedrich",
+      "lastName" : "LOHSE",
+      "fullName" : "LOHSE, Friedrich"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335570"
+  }, {
+    "participantId" : "4",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leo Eugen",
+      "lastName" : "LÜNGEN",
+      "fullName" : "LÜNGEN, Leo Eugen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322191"
+  }, {
+    "participantId" : "5",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "MENZEL",
+      "fullName" : "MENZEL, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357681"
+  }, {
+    "participantId" : "6",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Justus",
+      "lastName" : "MIDDENDORF",
+      "fullName" : "MIDDENDORF, Justus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333189"
+  }, {
+    "participantId" : "7",
+    "club" : "MTV Minden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Kian",
+      "lastName" : "MOUSTAFA",
+      "fullName" : "MOUSTAFA, Kian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322393"
+  }, {
+    "participantId" : "8",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Yannis",
+      "lastName" : "MÜLLER",
+      "fullName" : "MÜLLER, Yannis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333192"
+  }, {
+    "participantId" : "9",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Keanu",
+      "lastName" : "NAGEL",
+      "fullName" : "NAGEL, Keanu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "336010"
+  }, {
+    "participantId" : "10",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leon",
+      "lastName" : "NIEHUES",
+      "fullName" : "NIEHUES, Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322943"
+  }, {
+    "participantId" : "11",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Falk",
+      "lastName" : "POETEN",
+      "fullName" : "POETEN, Falk"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376444"
+  }, {
+    "participantId" : "12",
+    "club" : "TuS Hamm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niels Hagen",
+      "lastName" : "POETEN",
+      "fullName" : "POETEN, Niels Hagen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350036"
+  }, {
+    "participantId" : "13",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Mika",
+      "lastName" : "STEUCK",
+      "fullName" : "STEUCK, Mika"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360613"
+  }, {
+    "participantId" : "14",
+    "club" : "MTV Minden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Noah",
+      "lastName" : "WELLER",
+      "fullName" : "WELLER, Noah"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322328"
+  }, {
+    "participantId" : "15",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Janis",
+      "lastName" : "WESTER",
+      "fullName" : "WESTER, Janis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "358339"
+  } ]
+}

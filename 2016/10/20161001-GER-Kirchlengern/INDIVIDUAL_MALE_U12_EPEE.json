@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2843-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Linus",
+      "lastName" : "BRÜGGEMANN",
+      "fullName" : "BRÜGGEMANN, Linus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361488"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "CLUSEN",
+      "fullName" : "CLUSEN, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335297"
+  }, {
+    "participantId" : "3",
+    "club" : "TSV Hagen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jacopo Samuele",
+      "lastName" : "FRANCO",
+      "fullName" : "FRANCO, Jacopo Samuele"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338458"
+  }, {
+    "participantId" : "4",
+    "club" : "FSG Warendorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tom",
+      "lastName" : "HOCHGREFE",
+      "fullName" : "HOCHGREFE, Tom"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376689"
+  }, {
+    "participantId" : "5",
+    "club" : "SV Vorwärts Nordhorn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elian",
+      "lastName" : "KIEHL",
+      "fullName" : "KIEHL, Elian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361589"
+  }, {
+    "participantId" : "6",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luis Finley",
+      "lastName" : "KRAFT",
+      "fullName" : "KRAFT, Luis Finley"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361493"
+  }, {
+    "participantId" : "7",
+    "club" : "Blau-Weiss Buchholz",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "PAFFENHOLZ",
+      "fullName" : "PAFFENHOLZ, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "324434"
+  }, {
+    "participantId" : "8",
+    "club" : "TV Paderborn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Manuel",
+      "lastName" : "PLACZEK",
+      "fullName" : "PLACZEK, Manuel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350745"
+  }, {
+    "participantId" : "9",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leo",
+      "lastName" : "SPÄTH",
+      "fullName" : "SPÄTH, Leo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356278"
+  }, {
+    "participantId" : "10",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Joel",
+      "lastName" : "STEFFEN",
+      "fullName" : "STEFFEN, Joel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353588"
+  } ]
+}

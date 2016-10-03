@@ -1,0 +1,54 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11455-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Chiara",
+      "lastName" : "PRZYBILLA",
+      "fullName" : "PRZYBILLA, Chiara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344791"
+  }, {
+    "participantId" : "2",
+    "club" : "TV JAHN OELDE",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leni Marie",
+      "lastName" : "TERRAHE",
+      "fullName" : "TERRAHE, Leni Marie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : null,
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : ""
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

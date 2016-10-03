@@ -1,0 +1,186 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1755-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "9",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Eva",
+      "lastName" : "ENGLER",
+      "fullName" : "ENGLER, Eva"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358213"
+  }, {
+    "participantId" : "2",
+    "club" : "ETUF Essen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alma Sophie",
+      "lastName" : "GOLINSKI",
+      "fullName" : "GOLINSKI, Alma Sophie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360991"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Svenja",
+      "lastName" : "KOSIN",
+      "fullName" : "KOSIN, Svenja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354383"
+  }, {
+    "participantId" : "4",
+    "club" : "FC im VfL Bochum",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Daria Maria",
+      "lastName" : "KRÜGER",
+      "fullName" : "KRÜGER, Daria Maria"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359266"
+  }, {
+    "participantId" : "5",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charlotte",
+      "lastName" : "LOOSCHELDERS",
+      "fullName" : "LOOSCHELDERS, Charlotte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360632"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "MEISSNER",
+      "fullName" : "MEISSNER, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357476"
+  }, {
+    "participantId" : "7",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Reimut",
+      "lastName" : "RIDDER",
+      "fullName" : "RIDDER, Reimut"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359894"
+  }, {
+    "participantId" : "8",
+    "club" : "S.V. TER WEER",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Jasmijn",
+      "lastName" : "VAN DER POST",
+      "fullName" : "VAN DER POST, Jasmijn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "VFL Merkur Kleve",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leefke",
+      "lastName" : "VENDERBOSCH",
+      "fullName" : "VENDERBOSCH, Leefke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360635"
+  }, {
+    "participantId" : "10",
+    "club" : "Holland Schermen",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Norah",
+      "lastName" : "WANJAMA",
+      "fullName" : "WANJAMA, Norah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363396"
+  }, {
+    "participantId" : "11",
+    "club" : "Schermacademie Zair",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Rachika",
+      "lastName" : "YOSHIMORI",
+      "fullName" : "YOSHIMORI, Rachika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356151"
+  } ]
+}

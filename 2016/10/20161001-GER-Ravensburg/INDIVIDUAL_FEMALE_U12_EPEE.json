@@ -1,0 +1,102 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12716-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FC Hohenems",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "JOPPI",
+      "fullName" : "JOPPI, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330885"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Charis",
+      "lastName" : "LÄMMLER",
+      "fullName" : "LÄMMLER, Charis"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "343351"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Hohenems",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Ana",
+      "lastName" : "LEPIR",
+      "fullName" : "LEPIR, Ana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "330887"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johanna",
+      "lastName" : "PAHLOW",
+      "fullName" : "PAHLOW, Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "351954"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Oberammergau",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "REITZNER",
+      "fullName" : "REITZNER, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "345968"
+  }, {
+    "participantId" : "6",
+    "club" : "FS Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marie Leonore",
+      "lastName" : "RANK",
+      "fullName" : "RANK, Marie Leonore"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "336422"
+  } ]
+}

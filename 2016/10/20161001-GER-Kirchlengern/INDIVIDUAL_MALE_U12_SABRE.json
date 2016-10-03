@@ -1,0 +1,26 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11456-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "WORTMANN",
+      "fullName" : "WORTMANN, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363252"
+  } ]
+}

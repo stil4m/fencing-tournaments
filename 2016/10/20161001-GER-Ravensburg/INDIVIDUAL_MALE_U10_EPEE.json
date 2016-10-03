@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14478-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Robert",
+      "lastName" : "EBERLE",
+      "fullName" : "EBERLE, Robert"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355216"
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Tettnang",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "NEUMEISTER",
+      "fullName" : "NEUMEISTER, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "361629"
+  }, {
+    "participantId" : "3",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Colten",
+      "lastName" : "WILLERS",
+      "fullName" : "WILLERS, Colten"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356680"
+  } ]
+}

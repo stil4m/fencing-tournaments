@@ -1,0 +1,202 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1888-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "ANGRICK",
+      "fullName" : "ANGRICK, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319022"
+  }, {
+    "participantId" : "2",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "AUSBÜTTEL",
+      "fullName" : "AUSBÜTTEL, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "344116"
+  }, {
+    "participantId" : "3",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nils",
+      "lastName" : "BIERMANN",
+      "fullName" : "BIERMANN, Nils"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "319050"
+  }, {
+    "participantId" : "4",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phil",
+      "lastName" : "EIRICH",
+      "fullName" : "EIRICH, Phil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328226"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Gabriel",
+      "lastName" : "FABER",
+      "fullName" : "FABER, Gabriel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375871"
+  }, {
+    "participantId" : "6",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malte Alexander",
+      "lastName" : "GRÜGER",
+      "fullName" : "GRÜGER, Malte Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342483"
+  }, {
+    "participantId" : "7",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Neil",
+      "lastName" : "HEIDKAMP",
+      "fullName" : "HEIDKAMP, Neil"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363253"
+  }, {
+    "participantId" : "8",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jost",
+      "lastName" : "KASSEBAUM",
+      "fullName" : "KASSEBAUM, Jost"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340513"
+  }, {
+    "participantId" : "9",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marlon",
+      "lastName" : "LEICHERT",
+      "fullName" : "LEICHERT, Marlon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323222"
+  }, {
+    "participantId" : "10",
+    "club" : "TG Herford",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Malte",
+      "lastName" : "SCHERBATH",
+      "fullName" : "SCHERBATH, Malte"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350240"
+  }, {
+    "participantId" : "11",
+    "club" : "FS Bielefelder TG",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Niklas",
+      "lastName" : "SOKOLOWSKI",
+      "fullName" : "SOKOLOWSKI, Niklas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "303891"
+  }, {
+    "participantId" : "12",
+    "club" : "TSC Eintr. Dortmund",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "UFERT",
+      "fullName" : "UFERT, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120244"
+  } ]
+}

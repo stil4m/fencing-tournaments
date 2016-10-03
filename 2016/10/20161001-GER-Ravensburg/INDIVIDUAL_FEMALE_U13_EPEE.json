@@ -1,0 +1,42 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12719-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FTS DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lilly",
+      "lastName" : "KLEINERT",
+      "fullName" : "KLEINERT, Lilly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Ronja",
+      "lastName" : "RÜDISSER",
+      "fullName" : "RÜDISSER, Ronja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "364243"
+  } ]
+}

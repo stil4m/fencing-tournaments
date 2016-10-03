@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14477-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346678"
+  }, {
+    "participantId" : "2",
+    "club" : "FTS DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Emely",
+      "lastName" : "NOVAK",
+      "fullName" : "NOVAK, Emely"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "3",
+    "club" : "FC Hohenems",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Nola",
+      "lastName" : "RÜDISSER",
+      "fullName" : "RÜDISSER, Nola"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "364290"
+  }, {
+    "participantId" : "4",
+    "club" : "FTS DORNBIRN",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Pia",
+      "lastName" : "SUPPAN",
+      "fullName" : "SUPPAN, Pia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lisa",
+      "lastName" : "WUNDERLE",
+      "fullName" : "WUNDERLE, Lisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363183"
+  } ]
+}

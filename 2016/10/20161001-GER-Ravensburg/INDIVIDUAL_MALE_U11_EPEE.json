@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14476-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christian",
+      "lastName" : "BETZ",
+      "fullName" : "BETZ, Christian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353786"
+  }, {
+    "participantId" : "2",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Nevio",
+      "lastName" : "FUX",
+      "fullName" : "FUX, Nevio"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333745"
+  }, {
+    "participantId" : "3",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Pierric",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Pierric"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332126"
+  }, {
+    "participantId" : "4",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "HUCHLER",
+      "fullName" : "HUCHLER, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347798"
+  }, {
+    "participantId" : "5",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Dario",
+      "lastName" : "KNÖR",
+      "fullName" : "KNÖR, Dario"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342597"
+  }, {
+    "participantId" : "6",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Phillip",
+      "lastName" : "NEUMANN",
+      "fullName" : "NEUMANN, Phillip"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351952"
+  }, {
+    "participantId" : "7",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Moritz",
+      "lastName" : "STRASSNER",
+      "fullName" : "STRASSNER, Moritz"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355221"
+  } ]
+}

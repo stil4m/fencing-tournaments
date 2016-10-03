@@ -1,0 +1,202 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1754-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "11",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "ATSV Saarbrücken",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lucia",
+      "lastName" : "ARNELA",
+      "fullName" : "ARNELA, Lucia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "338045"
+  }, {
+    "participantId" : "2",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annemarie",
+      "lastName" : "BRAUN",
+      "fullName" : "BRAUN, Annemarie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348158"
+  }, {
+    "participantId" : "3",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leni",
+      "lastName" : "BREITENFELD",
+      "fullName" : "BREITENFELD, Leni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358214"
+  }, {
+    "participantId" : "4",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Elisabeth",
+      "lastName" : "BROSS",
+      "fullName" : "BROSS, Elisabeth"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "356869"
+  }, {
+    "participantId" : "5",
+    "club" : "s.v. La Prime",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Valerie",
+      "lastName" : "BUIJSE",
+      "fullName" : "BUIJSE, Valerie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355941"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "BEL",
+    "name" : {
+      "firstName" : "Lopke",
+      "lastName" : "GELISSEN",
+      "fullName" : "GELISSEN, Lopke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348092"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Moers",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nicole",
+      "lastName" : "HARTFELDER",
+      "fullName" : "HARTFELDER, Nicole"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353993"
+  }, {
+    "participantId" : "8",
+    "club" : "Eintracht Duisburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Jule",
+      "lastName" : "ISERN",
+      "fullName" : "ISERN, Jule"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348161"
+  }, {
+    "participantId" : "9",
+    "club" : "SCHERMACADEMIE ZAIR",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Elise",
+      "lastName" : "KAHO",
+      "fullName" : "KAHO, Elise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "10",
+    "club" : "S.V. TER WEER",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Döra",
+      "lastName" : "MURAKLÖZY-KIS",
+      "fullName" : "MURAKLÖZY-KIS, Döra"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "11",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henrike",
+      "lastName" : "NOLTENIUS",
+      "fullName" : "NOLTENIUS, Henrike"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358093"
+  }, {
+    "participantId" : "12",
+    "club" : "Dürener FK",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Alrun",
+      "lastName" : "RIDDER",
+      "fullName" : "RIDDER, Alrun"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "359893"
+  } ]
+}

@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2835-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabienne",
+      "lastName" : "ARNDT",
+      "fullName" : "ARNDT, Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339910"
+  }, {
+    "participantId" : "2",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "BONACKER",
+      "fullName" : "BONACKER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360925"
+  }, {
+    "participantId" : "3",
+    "club" : "Wuppertaler FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina Fortuna",
+      "lastName" : "BÖRGER",
+      "fullName" : "BÖRGER, Lina Fortuna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349656"
+  }, {
+    "participantId" : "4",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leni",
+      "lastName" : "GAUSMANN",
+      "fullName" : "GAUSMANN, Leni"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358560"
+  }, {
+    "participantId" : "5",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lina",
+      "lastName" : "KLÖPPER",
+      "fullName" : "KLÖPPER, Lina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333607"
+  }, {
+    "participantId" : "6",
+    "club" : "VFL Wolfsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Leia Johanna",
+      "lastName" : "LEISTER",
+      "fullName" : "LEISTER, Leia Johanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357172"
+  }, {
+    "participantId" : "7",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily",
+      "lastName" : "MILLER",
+      "fullName" : "MILLER, Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363142"
+  }, {
+    "participantId" : "8",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "REITENBACH",
+      "fullName" : "REITENBACH, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335279"
+  } ]
+}

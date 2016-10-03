@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12715-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VFB FRIEDRICHSHAFEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Etienne",
+      "lastName" : "LEBEN",
+      "fullName" : "LEBEN, Etienne"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Luka",
+      "lastName" : "LEPIR",
+      "fullName" : "LEPIR, Luka"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "322959"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355630"
+  }, {
+    "participantId" : "4",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363198"
+  } ]
+}

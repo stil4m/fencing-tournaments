@@ -1,0 +1,174 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12720-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "8",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Fabian",
+      "lastName" : "BEHRENDT",
+      "fullName" : "BEHRENDT, Fabian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "353291"
+  }, {
+    "participantId" : "2",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henry",
+      "lastName" : "BISSINGER",
+      "fullName" : "BISSINGER, Henry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "332524"
+  }, {
+    "participantId" : "3",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Sven",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Sven"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327726"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Augsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Michael",
+      "lastName" : "KRAMER",
+      "fullName" : "KRAMER, Michael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "327346"
+  }, {
+    "participantId" : "5",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Valentin",
+      "lastName" : "ROSENMAYER",
+      "fullName" : "ROSENMAYER, Valentin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "330343"
+  }, {
+    "participantId" : "6",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Henri",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Henri"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355630"
+  }, {
+    "participantId" : "7",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Raphael",
+      "lastName" : "TRABER",
+      "fullName" : "TRABER, Raphael"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333744"
+  }, {
+    "participantId" : "8",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vinicius",
+      "lastName" : "ZANELLA",
+      "fullName" : "ZANELLA, Vinicius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363256"
+  }, {
+    "participantId" : "9",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Florian",
+      "lastName" : "SIMANOWSKI",
+      "fullName" : "SIMANOWSKI, Florian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342600"
+  }, {
+    "participantId" : "10",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ben",
+      "lastName" : "SZALAY",
+      "fullName" : "SZALAY, Ben"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "325254"
+  }, {
+    "participantId" : "11",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Michele",
+      "lastName" : "GUGLIELMI",
+      "fullName" : "GUGLIELMI, Michele"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "364436"
+  } ]
+}

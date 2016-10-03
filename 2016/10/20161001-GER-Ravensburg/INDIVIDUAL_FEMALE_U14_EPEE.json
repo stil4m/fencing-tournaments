@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12718-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Ladina",
+      "lastName" : "PFISTER",
+      "fullName" : "PFISTER, Ladina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346624"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "SCHATTON",
+      "fullName" : "SCHATTON, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342541"
+  }, {
+    "participantId" : "3",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Helena",
+      "lastName" : "ZANELLA",
+      "fullName" : "ZANELLA, Helena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "363255"
+  } ]
+}

@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "2846-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Antonia",
+      "lastName" : "LAU",
+      "fullName" : "LAU, Antonia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362921"
+  }, {
+    "participantId" : "2",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Klara",
+      "lastName" : "MIDDENDORF",
+      "fullName" : "MIDDENDORF, Klara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358567"
+  }, {
+    "participantId" : "3",
+    "club" : "OSNABRÜCKER SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Finja",
+      "lastName" : "STRATEN",
+      "fullName" : "STRATEN, Finja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "4",
+    "club" : "Osnabrücker SC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nele",
+      "lastName" : "STRATEN",
+      "fullName" : "STRATEN, Nele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358569"
+  }, {
+    "participantId" : "5",
+    "club" : "Quernheimer FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "VOSSWINKEL",
+      "fullName" : "VOSSWINKEL, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362923"
+  } ]
+}

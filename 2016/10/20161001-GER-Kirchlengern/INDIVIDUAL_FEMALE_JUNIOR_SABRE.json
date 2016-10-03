@@ -1,0 +1,26 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "1889-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Jahn Siegen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Carolin",
+      "lastName" : "WALTER",
+      "fullName" : "WALTER, Carolin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342310"
+  } ]
+}

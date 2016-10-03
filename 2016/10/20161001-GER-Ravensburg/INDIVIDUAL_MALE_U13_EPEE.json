@@ -1,0 +1,122 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12721-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "SSV Ulm 1846",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "BIRKMEIER",
+      "fullName" : "BIRKMEIER, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "355215"
+  }, {
+    "participantId" : "2",
+    "club" : "VFB Friedrichshafen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cornelius",
+      "lastName" : "KUHLMANN",
+      "fullName" : "KUHLMANN, Cornelius"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "342599"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luca-Leon",
+      "lastName" : "PEUKER",
+      "fullName" : "PEUKER, Luca-Leon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "346413"
+  }, {
+    "participantId" : "4",
+    "club" : "FCSG St. Gallen",
+    "country" : "SUI",
+    "name" : {
+      "firstName" : "Jonas",
+      "lastName" : "RIGERT",
+      "fullName" : "RIGERT, Jonas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "364434"
+  }, {
+    "participantId" : "5",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Stefan",
+      "lastName" : "RONER",
+      "fullName" : "RONER, Stefan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347797"
+  }, {
+    "participantId" : "6",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Johannes",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, Johannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "363198"
+  }, {
+    "participantId" : "7",
+    "club" : "FC Hohenems",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "SCHWÄRZLER",
+      "fullName" : "SCHWÄRZLER, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "364292"
+  } ]
+}

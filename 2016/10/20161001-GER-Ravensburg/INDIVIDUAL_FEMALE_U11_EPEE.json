@@ -1,0 +1,70 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "14475-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luisa",
+      "lastName" : "FREY",
+      "fullName" : "FREY, Luisa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353785"
+  }, {
+    "participantId" : "2",
+    "club" : "FTSJD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lilly",
+      "lastName" : "HARTMANN",
+      "fullName" : "HARTMANN, Lilly"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335888"
+  }, {
+    "participantId" : "3",
+    "club" : "Fechtakademie Ravensburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "LEINER",
+      "fullName" : "LEINER, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "344801"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Oberammergau",
+    "country" : "OMA",
+    "name" : {
+      "firstName" : "Yara",
+      "lastName" : "AL AUJAILI KLEIBER",
+      "fullName" : "AL AUJAILI KLEIBER, Yara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "355318"
+  } ]
+}
