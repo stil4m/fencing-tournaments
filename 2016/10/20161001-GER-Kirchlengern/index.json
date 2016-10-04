@@ -1,0 +1,200 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Kirchlengern",
+    "name" : "Quernheimer Spatzenturnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "de73a5fb-448a-496c-b929-b3e0861a215a",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "916d6976-9a6a-4e20-8094-8c178c890ccd",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "23421e43-377d-4129-90a1-15483c689d8c",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "77622a7d-0d2f-4b5a-a761-fa464a845a41",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "a9701634-aa79-415c-b76a-1153f7b9532b",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "ee3f1060-f4d8-4e2f-94d8-6aeec6955809",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0f8e35c4-d0ee-41f0-9e6e-f259ebde3909",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "d021d7cf-d422-497e-b476-13046a1bf652",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_MALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "89016501-8ad0-49e3-bf48-75e82f5d4bcc",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7eec0853-244f-4050-8a02-10235971780a",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_MALE_JUNIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "932d5034-5c09-4d92-9cf2-a49f6371c7a3",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_MALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "1bc94237-d039-4df1-9e93-173d267b7dc4",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3f4c677e-15aa-4540-8acd-c48f5e357063",
+    "path" : "/2016/10/20161001-GER-Kirchlengern/INDIVIDUAL_MALE_U12_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

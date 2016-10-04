@@ -1,0 +1,74 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Mülheim an der Ruhr",
+    "name" : "Internationales Säbel-Pokalturnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c00231f4-4d47-4196-8229-0bab9c06c205",
+    "path" : "/2016/10/20161001-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "17a669ee-b866-4a0f-ad2b-c9754634896f",
+    "path" : "/2016/10/20161001-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_FEMALE_U13_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "3911f41a-7c8d-4bea-8cf4-1f7007adc7b8",
+    "path" : "/2016/10/20161001-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "7851c252-afeb-4e46-9a8d-2e3b131257e3",
+    "path" : "/2016/10/20161001-GER-Mulheim_an_der_Ruhr/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

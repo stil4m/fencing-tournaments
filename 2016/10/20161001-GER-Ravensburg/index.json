@@ -1,0 +1,172 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Ravensburg",
+    "name" : "FWF Jugend Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "f83bfd5e-51bd-42bb-b20e-ae58fc7bb808",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_FEMALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "48a7076c-4b5b-4139-89a2-8efde67ad969",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_FEMALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "9ef9dbbe-098d-4605-bdb6-50fa9a781884",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_FEMALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "0952a1b6-4f69-4706-9302-4f50f5fa12db",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_FEMALE_U12_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "adb80435-0662-445b-a040-f02a13f7fbe6",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_FEMALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5b1b2f54-654b-4765-9ece-e0bec32b3d3e",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_FEMALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "22c910ec-73ae-4f97-baa3-f66533e7e8df",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "5c58469d-85a1-4f55-97af-1735fe07a92e",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_MALE_U10_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "f55bfaf5-dc75-4d99-a75c-f7d09fd4f5b6",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2ddebc69-e7ab-477a-b571-3d6a5e7b18bf",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "524d3c4f-5428-4bd7-aae8-a5e3afc610c9",
+    "path" : "/2016/10/20161001-GER-Ravensburg/INDIVIDUAL_MALE_U14_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

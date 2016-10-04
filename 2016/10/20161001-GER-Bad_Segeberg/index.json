@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Bad Segeberg",
+    "name" : "Nord-Ostsee-Pokal",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 2
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "1b97d4d8-6b07-4e1c-86d0-c5bb21767552",
+    "path" : "/2016/10/20161001-GER-Bad_Segeberg/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 1
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}
