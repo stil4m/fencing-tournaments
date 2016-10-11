@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Ingolstadt",
+    "name" : "Ingolstädter Degen",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 8
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 9
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "2ec04879-48df-4747-a911-3bcc77d87b31",
+    "path" : "/2016/10/20161008-GER-Ingolstadt/INDIVIDUAL_MALE_CADET_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 9
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

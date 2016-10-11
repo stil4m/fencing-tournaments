@@ -1,0 +1,246 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7628-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Grenoble PAR",
+    "country" : "FRA",
+    "teamName" : "FRANCE",
+    "members" : [ {
+      "firstName" : "Charline",
+      "lastName" : "KERGUERIS",
+      "fullName" : "KERGUERIS, Charline"
+    }, {
+      "firstName" : "Emma",
+      "lastName" : "LAUVRAY",
+      "fullName" : "LAUVRAY, Emma"
+    }, {
+      "firstName" : "Louise-Amelie",
+      "lastName" : "VILLARD",
+      "fullName" : "VILLARD, Louise-Amelie"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15817"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GER",
+    "teamName" : "GERMANY",
+    "members" : [ {
+      "firstName" : "Celine",
+      "lastName" : "STUMPF",
+      "fullName" : "STUMPF, Celine"
+    }, {
+      "firstName" : "Constanze",
+      "lastName" : "LANDTE",
+      "fullName" : "LANDTE, Constanze"
+    }, {
+      "firstName" : "Anna",
+      "lastName" : "ZENS",
+      "fullName" : "ZENS, Anna"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15787"
+  }, {
+    "participantId" : "3",
+    "club" : "Tricolori",
+    "country" : "ITA",
+    "teamName" : "ITALY",
+    "members" : [ {
+      "firstName" : "Matilde",
+      "lastName" : "BARBIERI",
+      "fullName" : "BARBIERI, Matilde"
+    }, {
+      "firstName" : "Erica",
+      "lastName" : "VERRI",
+      "fullName" : "VERRI, Erica"
+    }, {
+      "firstName" : "Ilaria Sofia",
+      "lastName" : "TOSCANO",
+      "fullName" : "TOSCANO, Ilaria Sofia"
+    }, {
+      "firstName" : "Gaia Rebecca",
+      "lastName" : "BOMBIERI",
+      "fullName" : "BOMBIERI, Gaia Rebecca"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15833"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "ROU",
+    "teamName" : "ROMANIA",
+    "members" : [ {
+      "firstName" : "Mihaela",
+      "lastName" : "LEONTE",
+      "fullName" : "LEONTE, Mihaela"
+    }, {
+      "firstName" : "Diana",
+      "lastName" : "ZOTA",
+      "fullName" : "ZOTA, Diana"
+    }, {
+      "firstName" : "Zsuzsa",
+      "lastName" : "SCHLIER",
+      "fullName" : "SCHLIER, Zsuzsa"
+    }, {
+      "firstName" : "Talida",
+      "lastName" : "ENACHE",
+      "fullName" : "ENACHE, Talida"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15860"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "ROU",
+    "teamName" : "ROMANIA 2",
+    "members" : [ {
+      "firstName" : "Irina",
+      "lastName" : "STAN",
+      "fullName" : "STAN, Irina"
+    }, {
+      "firstName" : "Bianca",
+      "lastName" : "MOROIANU",
+      "fullName" : "MOROIANU, Bianca"
+    }, {
+      "firstName" : "Cristina",
+      "lastName" : "CONSTANTINESCU",
+      "fullName" : "CONSTANTINESCU, Cristina"
+    }, {
+      "firstName" : "Andreea",
+      "lastName" : "CONSTANTIN",
+      "fullName" : "CONSTANTIN, Andreea"
+    } ],
+    "fieId" : null,
+    "fwwId" : "347940"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "ROU",
+    "teamName" : "ROMANIA 3",
+    "members" : [ {
+      "firstName" : "Andrada",
+      "lastName" : "GHICA",
+      "fullName" : "GHICA, Andrada"
+    }, {
+      "firstName" : "Ana Maria",
+      "lastName" : "MELINTESCU",
+      "fullName" : "MELINTESCU, Ana Maria"
+    }, {
+      "firstName" : "Ioana",
+      "lastName" : "DRAGHICI",
+      "fullName" : "DRAGHICI, Ioana"
+    } ],
+    "fieId" : null,
+    "fwwId" : "358753"
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "SUI",
+    "teamName" : "SWITZERLAND",
+    "members" : [ {
+      "firstName" : "Elin",
+      "lastName" : "VILLIGER",
+      "fullName" : "VILLIGER, Elin"
+    }, {
+      "firstName" : "Alyssa",
+      "lastName" : "PASCHE",
+      "fullName" : "PASCHE, Alyssa"
+    }, {
+      "firstName" : "Alessandra",
+      "lastName" : "LUNA",
+      "fullName" : "LUNA, Alessandra"
+    }, {
+      "firstName" : "Angeline",
+      "lastName" : "FAVRE",
+      "fullName" : "FAVRE, Angeline"
+    } ],
+    "fieId" : null,
+    "fwwId" : "15869"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "SUI",
+    "teamName" : "SWITZERLAND 2",
+    "members" : [ {
+      "firstName" : "Victoria",
+      "lastName" : "BOSCHERINI",
+      "fullName" : "BOSCHERINI, Victoria"
+    }, {
+      "firstName" : "Audrey",
+      "lastName" : "BOUILLANT",
+      "fullName" : "BOUILLANT, Audrey"
+    }, {
+      "firstName" : "Galadrielle Tünde",
+      "lastName" : "SAPIN",
+      "fullName" : "SAPIN, Galadrielle Tünde"
+    }, {
+      "firstName" : "Anne Clémence",
+      "lastName" : "PIVETEAU",
+      "fullName" : "PIVETEAU, Anne Clémence"
+    } ],
+    "fieId" : null,
+    "fwwId" : "331826"
+  }, {
+    "participantId" : "9",
+    "club" : "BFC Basel",
+    "country" : "SUI",
+    "teamName" : "SWITZERLAND 3",
+    "members" : [ {
+      "firstName" : "Maren",
+      "lastName" : "BUERGIN",
+      "fullName" : "BUERGIN, Maren"
+    }, {
+      "firstName" : "Ronja",
+      "lastName" : "SCHIBLER",
+      "fullName" : "SCHIBLER, Ronja"
+    }, {
+      "firstName" : "Sofie",
+      "lastName" : "KELLER",
+      "fullName" : "KELLER, Sofie"
+    } ],
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}
