@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7211-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "5",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "ALTENRIEDER",
+      "fullName" : "ALTENRIEDER, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "318563"
+  }, {
+    "participantId" : "2",
+    "club" : "TSG Füssen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lukas",
+      "lastName" : "BÖCK",
+      "fullName" : "BÖCK, Lukas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "333782"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "FUCHS",
+      "fullName" : "FUCHS, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331695"
+  }, {
+    "participantId" : "4",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arwin-Tobias",
+      "lastName" : "KAPPL",
+      "fullName" : "KAPPL, Arwin-Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "335622"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tobias",
+      "lastName" : "KIESSLING",
+      "fullName" : "KIESSLING, Tobias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "306974"
+  }, {
+    "participantId" : "6",
+    "club" : "FS Geisingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Tim",
+      "lastName" : "MARTINI",
+      "fullName" : "MARTINI, Tim"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323737"
+  }, {
+    "participantId" : "7",
+    "club" : "MTV Ludwigsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Georg",
+      "lastName" : "NAPOLSKICH",
+      "fullName" : "NAPOLSKICH, Georg"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "311799"
+  }, {
+    "participantId" : "8",
+    "club" : "MTV München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Martin",
+      "lastName" : "PEARCE",
+      "fullName" : "PEARCE, Martin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350869"
+  }, {
+    "participantId" : "9",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "David",
+      "lastName" : "SCHNEIDER",
+      "fullName" : "SCHNEIDER, David"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "331699"
+  }, {
+    "participantId" : "10",
+    "club" : "MTV Ludwigsburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Till",
+      "lastName" : "STEEGMÜLLER",
+      "fullName" : "STEEGMÜLLER, Till"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "338878"
+  } ]
+}

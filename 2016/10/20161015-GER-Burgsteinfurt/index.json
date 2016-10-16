@@ -1,0 +1,32 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Burgsteinfurt",
+    "name" : "Internationales Turnier",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "afb5251f-6237-4a41-a1c4-2c2e096f1d03",
+    "path" : "/2016/10/20161015-GER-Burgsteinfurt/INDIVIDUAL_MALE_JUNIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

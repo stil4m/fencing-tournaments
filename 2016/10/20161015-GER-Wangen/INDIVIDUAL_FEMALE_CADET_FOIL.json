@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7208-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSV Neu-Ulm",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sophia",
+      "lastName" : "KIESSLING",
+      "fullName" : "KIESSLING, Sophia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "335473"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Kempten",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "RILL",
+      "fullName" : "RILL, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348977"
+  }, {
+    "participantId" : "3",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Magdalena",
+      "lastName" : "RIST",
+      "fullName" : "RIST, Magdalena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "307292"
+  }, {
+    "participantId" : "4",
+    "club" : "TV KEMPTEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "STEFIKOVA",
+      "fullName" : "STEFIKOVA, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "5",
+    "club" : "FC Jengen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Luzia",
+      "lastName" : "WEIN",
+      "fullName" : "WEIN, Luzia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "305603"
+  } ]
+}

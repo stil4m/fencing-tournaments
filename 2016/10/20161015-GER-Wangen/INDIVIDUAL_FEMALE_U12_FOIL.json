@@ -1,0 +1,162 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7212-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSG FÜSSEN",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Safiya",
+      "lastName" : "BAREISS",
+      "fullName" : "BAREISS, Safiya"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "2",
+    "club" : "TSV Bad Reichenhall",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Megan",
+      "lastName" : "CHAU",
+      "fullName" : "CHAU, Megan"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349722"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Biberach",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Filiz Celine",
+      "lastName" : "DURAN",
+      "fullName" : "DURAN, Filiz Celine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "358890"
+  }, {
+    "participantId" : "4",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Pauline",
+      "lastName" : "JENDROSSEK",
+      "fullName" : "JENDROSSEK, Pauline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "348933"
+  }, {
+    "participantId" : "5",
+    "club" : "TSV NEU-ULM",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Lara",
+      "lastName" : "KAST",
+      "fullName" : "KAST, Lara"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "6",
+    "club" : "FS Geisingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah Fabienne",
+      "lastName" : "MAJER",
+      "fullName" : "MAJER, Sarah Fabienne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347480"
+  }, {
+    "participantId" : "7",
+    "club" : "MTG Wangen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "MATH",
+      "fullName" : "MATH, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346678"
+  }, {
+    "participantId" : "8",
+    "club" : "TSV NEU-ULM",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Cisel",
+      "lastName" : "TAN",
+      "fullName" : "TAN, Cisel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  }, {
+    "participantId" : "9",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Livia",
+      "lastName" : "OLIVIERI",
+      "fullName" : "OLIVIERI, Livia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339563"
+  }, {
+    "participantId" : "10",
+    "club" : "Fechtclub München",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christina",
+      "lastName" : "TSOGIDIS",
+      "fullName" : "TSOGIDIS, Christina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "339562"
+  } ]
+}
