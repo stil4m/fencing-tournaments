@@ -1,0 +1,58 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10673-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Annaluise",
+      "lastName" : "BIPPES",
+      "fullName" : "BIPPES, Annaluise"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349378"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Aline",
+      "lastName" : "GETTO",
+      "fullName" : "GETTO, Aline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "349373"
+  }, {
+    "participantId" : "3",
+    "club" : "STRASBOURG SE",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Camille",
+      "lastName" : "RONDE",
+      "fullName" : "RONDE, Camille"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : null
+  } ]
+}

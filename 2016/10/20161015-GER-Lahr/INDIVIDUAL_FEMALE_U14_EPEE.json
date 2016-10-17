@@ -1,0 +1,90 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7369-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FTSD Dornbirn",
+    "country" : "AUT",
+    "name" : {
+      "firstName" : "Lilly-Eleonore",
+      "lastName" : "KLEINERT",
+      "fullName" : "KLEINERT, Lilly-Eleonore"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "331555"
+  }, {
+    "participantId" : "2",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Laura",
+      "lastName" : "LEIER",
+      "fullName" : "LEIER, Laura"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312803"
+  }, {
+    "participantId" : "3",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Sarah",
+      "lastName" : "SCHATTON",
+      "fullName" : "SCHATTON, Sarah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "342541"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emily",
+      "lastName" : "SCHEID",
+      "fullName" : "SCHEID, Emily"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "124662"
+  }, {
+    "participantId" : "5",
+    "club" : "TV Oberndorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Paula",
+      "lastName" : "ZAZZARINI",
+      "fullName" : "ZAZZARINI, Paula"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "377119"
+  } ]
+}

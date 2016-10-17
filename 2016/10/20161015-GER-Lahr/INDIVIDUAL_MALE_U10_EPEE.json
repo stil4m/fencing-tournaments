@@ -1,0 +1,74 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "13240-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 4,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TV Oberndorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Arthur",
+      "lastName" : "DIFFENHARD",
+      "fullName" : "DIFFENHARD, Arthur"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356490"
+  }, {
+    "participantId" : "2",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Marwin",
+      "lastName" : "JETTER",
+      "fullName" : "JETTER, Marwin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "351957"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Max",
+      "lastName" : "MALETZ",
+      "fullName" : "MALETZ, Max"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "350900"
+  }, {
+    "participantId" : "4",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hagen",
+      "lastName" : "SCHEID",
+      "fullName" : "SCHEID, Hagen"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "337018"
+  } ]
+}

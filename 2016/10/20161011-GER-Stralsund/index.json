@@ -1,0 +1,102 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Stralsund",
+    "name" : "2016 20th World Championships Veterans",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 11
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "7418cf99-1d05-440a-a7d8-8874eedba094",
+    "path" : "/2016/10/20161011-GER-Stralsund/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2dfd54bb-be93-4a88-8b59-b51bcdb3df65",
+    "path" : "/2016/10/20161011-GER-Stralsund/INDIVIDUAL_FEMALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 13
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "e9df27b6-dd07-45b5-81fb-9061503abb7b",
+    "path" : "/2016/10/20161011-GER-Stralsund/INDIVIDUAL_FEMALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "cb63c143-dde6-44d1-8b0d-f09ab257bead",
+    "path" : "/2016/10/20161011-GER-Stralsund/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 14
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "87c4f0ff-9cd5-4687-ad19-46b5733d5228",
+    "path" : "/2016/10/20161011-GER-Stralsund/INDIVIDUAL_MALE_SENIOR_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 11
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "825f80eb-da1f-4a2f-b0ee-09e1c3f6aa40",
+    "path" : "/2016/10/20161011-GER-Stralsund/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 12
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

@@ -1,0 +1,126 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8057-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Heinrich",
+      "lastName" : "DEMANDT",
+      "fullName" : "DEMANDT, Heinrich"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359279"
+  }, {
+    "participantId" : "2",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Natan",
+      "lastName" : "NILEK",
+      "fullName" : "NILEK, Natan"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "362927"
+  }, {
+    "participantId" : "3",
+    "club" : "Berliner FC",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Benjamin",
+      "lastName" : "PFEIFFER",
+      "fullName" : "PFEIFFER, Benjamin"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "359282"
+  }, {
+    "participantId" : "4",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nadja",
+      "lastName" : "WILHELM",
+      "fullName" : "WILHELM, Nadja"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "377224"
+  }, {
+    "participantId" : "5",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Feliks",
+      "lastName" : "WISNIK",
+      "fullName" : "WISNIK, Feliks"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "358631"
+  }, {
+    "participantId" : "6",
+    "club" : "FC Berlin Südwest",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Amanda",
+      "lastName" : "GARBULOWSKI",
+      "fullName" : "GARBULOWSKI, Amanda"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "348547"
+  }, {
+    "participantId" : "7",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Igancy",
+      "lastName" : "MICHALUK",
+      "fullName" : "MICHALUK, Igancy"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "349043"
+  }, {
+    "participantId" : "8",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Ignacy",
+      "lastName" : "KUSIAK",
+      "fullName" : "KUSIAK, Ignacy"
+    },
+    "gender" : null,
+    "fieId" : null,
+    "fwwId" : "377212"
+  } ]
+}

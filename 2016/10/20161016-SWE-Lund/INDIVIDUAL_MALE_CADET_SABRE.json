@@ -1,0 +1,102 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10044-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Nanjing",
+    "country" : "CHN",
+    "name" : {
+      "firstName" : "Xuelong",
+      "lastName" : "JI",
+      "fullName" : "JI, Xuelong"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375764"
+  }, {
+    "participantId" : "2",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "MALM",
+      "fullName" : "MALM, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347253"
+  }, {
+    "participantId" : "3",
+    "club" : "FFF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Lucas",
+      "lastName" : "SVÄRD",
+      "fullName" : "SVÄRD, Lucas"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376033"
+  }, {
+    "participantId" : "4",
+    "club" : null,
+    "country" : "ESP",
+    "name" : {
+      "firstName" : "TESTOR",
+      "lastName" : "",
+      "fullName" : ", TESTOR"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "2432"
+  }, {
+    "participantId" : "5",
+    "club" : "Nanjing",
+    "country" : "CHN",
+    "name" : {
+      "firstName" : "Haoran",
+      "lastName" : "XU",
+      "fullName" : "XU, Haoran"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375765"
+  }, {
+    "participantId" : "6",
+    "club" : "Nanjing",
+    "country" : "CHN",
+    "name" : {
+      "firstName" : "Xingyu",
+      "lastName" : "ZHU",
+      "fullName" : "ZHU, Xingyu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375766"
+  } ]
+}

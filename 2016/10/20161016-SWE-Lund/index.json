@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "SWE",
+    "city" : "Lund",
+    "name" : "LUGI-Sabeln",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "dbe81aee-c811-43e9-9134-bfb44c476a7b",
+    "path" : "/2016/10/20161016-SWE-Lund/INDIVIDUAL_MALE_CADET_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "CADET",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  }, {
+    "identifier" : "2acf25c2-ab8b-4890-bcb1-ed58f4ff8024",
+    "path" : "/2016/10/20161016-SWE-Lund/INDIVIDUAL_MALE_SENIOR_SABRE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "SABRE"
+    }
+  } ]
+}

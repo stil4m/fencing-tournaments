@@ -1,0 +1,170 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "7762-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "10",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "BÜHNER",
+      "fullName" : "BÜHNER, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121843"
+  }, {
+    "participantId" : "2",
+    "club" : "Päd. Baden Baden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "BÜRCK",
+      "fullName" : "BÜRCK, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117419"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ilsabé",
+      "lastName" : "FRANKE",
+      "fullName" : "FRANKE, Ilsabé"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "13971"
+  }, {
+    "participantId" : "4",
+    "club" : "FS Pforzheim",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silke",
+      "lastName" : "HARGINA",
+      "fullName" : "HARGINA, Silke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "11335"
+  }, {
+    "participantId" : "5",
+    "club" : "OFC Castrop-Rauxel",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Nathalie",
+      "lastName" : "HIRT-JABLONOWSKI",
+      "fullName" : "HIRT-JABLONOWSKI, Nathalie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320056"
+  }, {
+    "participantId" : "6",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Katharina",
+      "lastName" : "JOHN",
+      "fullName" : "JOHN, Katharina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "19935"
+  }, {
+    "participantId" : "7",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  }, {
+    "participantId" : "8",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Judith",
+      "lastName" : "STIHL",
+      "fullName" : "STIHL, Judith"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "308641"
+  }, {
+    "participantId" : "9",
+    "club" : "SV Waldkirch",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Silke",
+      "lastName" : "TEBEL-HAAS",
+      "fullName" : "TEBEL-HAAS, Silke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341817"
+  }, {
+    "participantId" : "10",
+    "club" : "TV Oberndorf",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anja",
+      "lastName" : "WANNENMACHER",
+      "fullName" : "WANNENMACHER, Anja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "43471"
+  } ]
+}

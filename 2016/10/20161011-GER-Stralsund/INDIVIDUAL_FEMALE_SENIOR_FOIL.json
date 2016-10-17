@@ -1,0 +1,538 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "4770-15",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "24",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "33",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "19",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "25",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "22",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "28",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "23",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "32",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 16,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 17,
+    "participantId" : "26",
+    "abandon" : false
+  }, {
+    "position" : 18,
+    "participantId" : "18",
+    "abandon" : false
+  }, {
+    "position" : 19,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 20,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 21,
+    "participantId" : "27",
+    "abandon" : false
+  }, {
+    "position" : 22,
+    "participantId" : "29",
+    "abandon" : false
+  }, {
+    "position" : 23,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 24,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 25,
+    "participantId" : "20",
+    "abandon" : false
+  }, {
+    "position" : 26,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 27,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 28,
+    "participantId" : "30",
+    "abandon" : false
+  }, {
+    "position" : 29,
+    "participantId" : "31",
+    "abandon" : false
+  }, {
+    "position" : 30,
+    "participantId" : "21",
+    "abandon" : false
+  }, {
+    "position" : 31,
+    "participantId" : "17",
+    "abandon" : false
+  }, {
+    "position" : 32,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : null,
+    "participantId" : "1",
+    "abandon" : true
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Olga",
+      "lastName" : "ALEKSANDROVA",
+      "fullName" : "ALEKSANDROVA, Olga"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "321683"
+  }, {
+    "participantId" : "2",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Kati",
+      "lastName" : "ARCHER",
+      "fullName" : "ARCHER, Kati"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "56910"
+  }, {
+    "participantId" : "3",
+    "club" : null,
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Monika",
+      "lastName" : "BIRO",
+      "fullName" : "BIRO, Monika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306690"
+  }, {
+    "participantId" : "4",
+    "club" : "ROANNE CER",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Benedicte",
+      "lastName" : "BISSON",
+      "fullName" : "BISSON, Benedicte"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "50619"
+  }, {
+    "participantId" : "5",
+    "club" : null,
+    "country" : "AUS",
+    "name" : {
+      "firstName" : "Jenny",
+      "lastName" : "BONNEY-MILLETT",
+      "fullName" : "BONNEY-MILLETT, Jenny"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "24626"
+  }, {
+    "participantId" : "6",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Lynn",
+      "lastName" : "BOTELHO",
+      "fullName" : "BOTELHO, Lynn"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "51209"
+  }, {
+    "participantId" : "7",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Rachel",
+      "lastName" : "BROWN",
+      "fullName" : "BROWN, Rachel"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "375475"
+  }, {
+    "participantId" : "8",
+    "club" : null,
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Margherita",
+      "lastName" : "CAMERIN",
+      "fullName" : "CAMERIN, Margherita"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "309381"
+  }, {
+    "participantId" : "9",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Ludmila",
+      "lastName" : "CHERNOVA",
+      "fullName" : "CHERNOVA, Ludmila"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23669"
+  }, {
+    "participantId" : "10",
+    "club" : "s.v. Scaramouche",
+    "country" : "NED",
+    "name" : {
+      "firstName" : "Mieke",
+      "lastName" : "DE GRAAF-STOEL",
+      "fullName" : "DE GRAAF-STOEL, Mieke"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "23682"
+  }, {
+    "participantId" : "11",
+    "club" : "AMIENS CE",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Dominique",
+      "lastName" : "ELIN",
+      "fullName" : "ELIN, Dominique"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "166737"
+  }, {
+    "participantId" : "12",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Elena",
+      "lastName" : "FILYANSKAYA",
+      "fullName" : "FILYANSKAYA, Elena"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306687"
+  }, {
+    "participantId" : "13",
+    "club" : "REIMS CE",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Veronique",
+      "lastName" : "GLASSER CARETTE",
+      "fullName" : "GLASSER CARETTE, Veronique"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "172497"
+  }, {
+    "participantId" : "14",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Caron",
+      "lastName" : "HALE",
+      "fullName" : "HALE, Caron"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "93410"
+  }, {
+    "participantId" : "15",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Jacqueline",
+      "lastName" : "HIBBERT",
+      "fullName" : "HIBBERT, Jacqueline"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "357636"
+  }, {
+    "participantId" : "16",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Kanako",
+      "lastName" : "INOKUCHI",
+      "fullName" : "INOKUCHI, Kanako"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333465"
+  }, {
+    "participantId" : "17",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Mikiko",
+      "lastName" : "ITSUKI",
+      "fullName" : "ITSUKI, Mikiko"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333463"
+  }, {
+    "participantId" : "18",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Georgina",
+      "lastName" : "LOVE",
+      "fullName" : "LOVE, Georgina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "375474"
+  }, {
+    "participantId" : "19",
+    "club" : null,
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Magda",
+      "lastName" : "MELANDRI",
+      "fullName" : "MELANDRI, Magda"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "5643"
+  }, {
+    "participantId" : "20",
+    "club" : null,
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Mariagrazia",
+      "lastName" : "MICHIELI",
+      "fullName" : "MICHIELI, Mariagrazia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "328591"
+  }, {
+    "participantId" : "21",
+    "club" : null,
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Andrea",
+      "lastName" : "NOVOSZELSZKY",
+      "fullName" : "NOVOSZELSZKY, Andrea"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360299"
+  }, {
+    "participantId" : "22",
+    "club" : null,
+    "country" : "JPN",
+    "name" : {
+      "firstName" : "Emiko",
+      "lastName" : "OISHI",
+      "fullName" : "OISHI, Emiko"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "346738"
+  }, {
+    "participantId" : "23",
+    "club" : "ARIEGE",
+    "country" : "FRA",
+    "name" : {
+      "firstName" : "Tatiana",
+      "lastName" : "PETROVA",
+      "fullName" : "PETROVA, Tatiana"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "126501"
+  }, {
+    "participantId" : "24",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Stefanie",
+      "lastName" : "REESE",
+      "fullName" : "REESE, Stefanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "1001"
+  }, {
+    "participantId" : "25",
+    "club" : null,
+    "country" : "RUS",
+    "name" : {
+      "firstName" : "Galina",
+      "lastName" : "SAFRONOVA",
+      "fullName" : "SAFRONOVA, Galina"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "306688"
+  }, {
+    "participantId" : "26",
+    "club" : null,
+    "country" : "ITA",
+    "name" : {
+      "firstName" : "Enza",
+      "lastName" : "SARACINO",
+      "fullName" : "SARACINO, Enza"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353845"
+  }, {
+    "participantId" : "27",
+    "club" : "FG Rotation Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Karla",
+      "lastName" : "SEELIGER",
+      "fullName" : "SEELIGER, Karla"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "42923"
+  }, {
+    "participantId" : "28",
+    "club" : "OFC Bonn",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Ines",
+      "lastName" : "SOLIMAN",
+      "fullName" : "SOLIMAN, Ines"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "36568"
+  }, {
+    "participantId" : "29",
+    "club" : null,
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Judith Marta",
+      "lastName" : "SZEREDAY",
+      "fullName" : "SZEREDAY, Judith Marta"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333464"
+  }, {
+    "participantId" : "30",
+    "club" : null,
+    "country" : "USA",
+    "name" : {
+      "firstName" : "Kristin",
+      "lastName" : "VINES",
+      "fullName" : "VINES, Kristin"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "320294"
+  }, {
+    "participantId" : "31",
+    "club" : "LPM",
+    "country" : "FIN",
+    "name" : {
+      "firstName" : "Varpu",
+      "lastName" : "WIENS",
+      "fullName" : "WIENS, Varpu"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "332443"
+  }, {
+    "participantId" : "32",
+    "club" : null,
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Gillian",
+      "lastName" : "WORMAN",
+      "fullName" : "WORMAN, Gillian"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "56908"
+  }, {
+    "participantId" : "33",
+    "club" : "ETV Hamburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Christine",
+      "lastName" : "ZOPPKE-DONALDSON",
+      "fullName" : "ZOPPKE-DONALDSON, Christine"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "35624"
+  } ]
+}

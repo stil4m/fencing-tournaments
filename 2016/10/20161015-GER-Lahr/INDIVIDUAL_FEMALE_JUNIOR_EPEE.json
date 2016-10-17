@@ -1,0 +1,106 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "11498-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "6",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "TSF Ditzingen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Theresa",
+      "lastName" : "BÜHNER",
+      "fullName" : "BÜHNER, Theresa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "121843"
+  }, {
+    "participantId" : "2",
+    "club" : "Päd. Baden Baden",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Anna",
+      "lastName" : "BÜRCK",
+      "fullName" : "BÜRCK, Anna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "117419"
+  }, {
+    "participantId" : "3",
+    "club" : "TV Lahr",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Myléne",
+      "lastName" : "LEIER",
+      "fullName" : "LEIER, Myléne"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "312804"
+  }, {
+    "participantId" : "4",
+    "club" : "TG Schwenningen",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Melanie",
+      "lastName" : "LIPPERT",
+      "fullName" : "LIPPERT, Melanie"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "90131"
+  }, {
+    "participantId" : "5",
+    "club" : "ETSV Offenburg",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Vanessa",
+      "lastName" : "NIEMANN",
+      "fullName" : "NIEMANN, Vanessa"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "353016"
+  }, {
+    "participantId" : "6",
+    "club" : "TV Haueneberstein",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Julia",
+      "lastName" : "SCHÄFFER",
+      "fullName" : "SCHÄFFER, Julia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "324869"
+  } ]
+}

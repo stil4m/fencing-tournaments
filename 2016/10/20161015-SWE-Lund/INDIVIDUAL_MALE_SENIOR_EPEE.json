@@ -1,0 +1,262 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "12735-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "13",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "16",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 11,
+    "participantId" : "12",
+    "abandon" : false
+  }, {
+    "position" : 12,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 13,
+    "participantId" : "14",
+    "abandon" : false
+  }, {
+    "position" : 14,
+    "participantId" : "15",
+    "abandon" : false
+  }, {
+    "position" : 15,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "André",
+      "lastName" : "ANDANÉ",
+      "fullName" : "ANDANÉ, André"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "313605"
+  }, {
+    "participantId" : "2",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Sven",
+      "lastName" : "ANDERSSON",
+      "fullName" : "ANDERSSON, Sven"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360599"
+  }, {
+    "participantId" : "3",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Lennart",
+      "lastName" : "ÅSTRÖM",
+      "fullName" : "ÅSTRÖM, Lennart"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "70433"
+  }, {
+    "participantId" : "4",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Sebastian",
+      "lastName" : "AVILAN",
+      "fullName" : "AVILAN, Sebastian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "377033"
+  }, {
+    "participantId" : "5",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Roberto",
+      "lastName" : "CRUZ",
+      "fullName" : "CRUZ, Roberto"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "145086"
+  }, {
+    "participantId" : "6",
+    "club" : "ARA Helsingborg",
+    "country" : "ROU",
+    "name" : {
+      "firstName" : "Octavian",
+      "lastName" : "DIACONITA",
+      "fullName" : "DIACONITA, Octavian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "364724"
+  }, {
+    "participantId" : "7",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Harald",
+      "lastName" : "ERICI",
+      "fullName" : "ERICI, Harald"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "120225"
+  }, {
+    "participantId" : "8",
+    "club" : "KFK Kalmar",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Dennis",
+      "lastName" : "ERIKSSON",
+      "fullName" : "ERIKSSON, Dennis"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "339162"
+  }, {
+    "participantId" : "9",
+    "club" : "LjFK Ljungby",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Hannes",
+      "lastName" : "HJERT",
+      "fullName" : "HJERT, Hannes"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "119694"
+  }, {
+    "participantId" : "10",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "KRONA",
+      "fullName" : "KRONA, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "34199"
+  }, {
+    "participantId" : "11",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "LARSSON",
+      "fullName" : "LARSSON, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "34647"
+  }, {
+    "participantId" : "12",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "LAZER",
+      "fullName" : "LAZER, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "360578"
+  }, {
+    "participantId" : "13",
+    "club" : "FmFK Såtenäs",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "LINDHOLM",
+      "fullName" : "LINDHOLM, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "16898"
+  }, {
+    "participantId" : "14",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Peter",
+      "lastName" : "ROSENBERG",
+      "fullName" : "ROSENBERG, Peter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "328948"
+  }, {
+    "participantId" : "15",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Christoffer",
+      "lastName" : "SCHEDIN",
+      "fullName" : "SCHEDIN, Christoffer"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376385"
+  }, {
+    "participantId" : "16",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Petter",
+      "lastName" : "SUNDKVIST",
+      "fullName" : "SUNDKVIST, Petter"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "123400"
+  } ]
+}

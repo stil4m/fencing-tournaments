@@ -1,0 +1,182 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "10037-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "11",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "9",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "10",
+    "abandon" : false
+  }, {
+    "position" : 9,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 10,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Theo",
+      "lastName" : "ASK",
+      "fullName" : "ASK, Theo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347259"
+  }, {
+    "participantId" : "2",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Ludvig",
+      "lastName" : "AXELSSON",
+      "fullName" : "AXELSSON, Ludvig"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376561"
+  }, {
+    "participantId" : "3",
+    "club" : "MF19 Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "GUSTAFSSON",
+      "fullName" : "GUSTAFSSON, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356691"
+  }, {
+    "participantId" : "4",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "HEDIN",
+      "fullName" : "HEDIN, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376740"
+  }, {
+    "participantId" : "5",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Mehdi Abdul Salam",
+      "lastName" : "HUSSEIN ALI",
+      "fullName" : "HUSSEIN ALI, Mehdi Abdul Salam"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "357944"
+  }, {
+    "participantId" : "6",
+    "club" : "MFFG Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Simon",
+      "lastName" : "KOLARE",
+      "fullName" : "KOLARE, Simon"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347285"
+  }, {
+    "participantId" : "7",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Mohammed",
+      "lastName" : "MOHSIN",
+      "fullName" : "MOHSIN, Mohammed"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376627"
+  }, {
+    "participantId" : "8",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Yahia",
+      "lastName" : "MOHSIN",
+      "fullName" : "MOHSIN, Yahia"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356853"
+  }, {
+    "participantId" : "9",
+    "club" : "YFK Ystad",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Caspian",
+      "lastName" : "PERSSON TÖRN",
+      "fullName" : "PERSSON TÖRN, Caspian"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347788"
+  }, {
+    "participantId" : "10",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Erik",
+      "lastName" : "SIMONSSON",
+      "fullName" : "SIMONSSON, Erik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376821"
+  }, {
+    "participantId" : "11",
+    "club" : "MFFG Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Albin",
+      "lastName" : "WINQVIST",
+      "fullName" : "WINQVIST, Albin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "362348"
+  } ]
+}

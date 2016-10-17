@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8060-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "4",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Maja",
+      "lastName" : "NAUMANN",
+      "fullName" : "NAUMANN, Maja"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "377144"
+  }, {
+    "participantId" : "2",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Dominika",
+      "lastName" : "NELZA",
+      "fullName" : "NELZA, Dominika"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "333237"
+  }, {
+    "participantId" : "3",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zofia",
+      "lastName" : "NOWAKOWSKA",
+      "fullName" : "NOWAKOWSKA, Zofia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "347946"
+  }, {
+    "participantId" : "4",
+    "club" : "MKS Kusy Szczecin",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Hanna",
+      "lastName" : "POSADZY",
+      "fullName" : "POSADZY, Hanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "354635"
+  }, {
+    "participantId" : "5",
+    "club" : "AZS AWF Poznan",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Zuzanna",
+      "lastName" : "WOJEWODZKA",
+      "fullName" : "WOJEWODZKA, Zuzanna"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "341078"
+  }, {
+    "participantId" : "6",
+    "club" : "Polonia Leszno",
+    "country" : "POL",
+    "name" : {
+      "firstName" : "Emilia",
+      "lastName" : "BOGACKA",
+      "fullName" : "BOGACKA, Emilia"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "362925"
+  }, {
+    "participantId" : "7",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Emma",
+      "lastName" : "ROTHBAUER",
+      "fullName" : "ROTHBAUER, Emma"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "377165"
+  }, {
+    "participantId" : "8",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Bele",
+      "lastName" : "KARIUS",
+      "fullName" : "KARIUS, Bele"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "360116"
+  }, {
+    "participantId" : "9",
+    "club" : "SC Berlin",
+    "country" : "GER",
+    "name" : {
+      "firstName" : "Hannah",
+      "lastName" : "ROTHBAUER",
+      "fullName" : "ROTHBAUER, Hannah"
+    },
+    "gender" : "FEMALE",
+    "fieId" : null,
+    "fwwId" : "377164"
+  } ]
+}

@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Potsdam",
+    "name" : "Sanssouci-Pokal",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "c4158f48-1337-43ab-8139-a0e0451ce85a",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_FEMALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "685fbb53-28ed-4908-abac-4117f7c93407",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_FEMALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "8729c6af-e586-4651-84fd-160ba3eb08ff",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "56693dfc-8a29-4fcb-8116-393d9c2c0a51",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_MALE_U10_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U10",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "07d4c6e9-fb2a-4f67-bb18-b1610322f388",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_MALE_U12_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U12",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b28768b1-af29-47cd-af11-49a4212da1dd",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "97b718d4-1e05-4272-a50c-0095f11714d0",
+    "path" : "/2016/10/20161015-GER-Potsdam/INDIVIDUAL_MIXED_U9_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U9",
+      "gender" : "MIXED",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

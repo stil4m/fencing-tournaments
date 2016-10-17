@@ -1,0 +1,116 @@
+{
+  "eventInformation" : {
+    "country" : "SWE",
+    "city" : "Lund",
+    "name" : "Sydsvenska Cupen - Edling Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "45ce85a7-486e-4ee4-9ada-86fab56cf168",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_FEMALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "bf6262f4-324d-45e6-a606-28356a96b546",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_FEMALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "FEMALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "27da5db1-eb77-43cf-9252-f9df5ad4b55f",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_MALE_SENIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "SENIOR",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "6f36f142-6737-4712-9fd6-9f7ec1b51067",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_MALE_U11_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U11",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "2b92d95c-7cb4-44a7-8b78-4783dedd5368",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_MALE_U13_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "8d2bc467-42ea-4dc8-960c-1ed7789a60f6",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_MALE_U13_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U13",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  }, {
+    "identifier" : "b57e5707-305e-4046-a52f-6a4f3a894fe1",
+    "path" : "/2016/10/20161015-SWE-Lund/INDIVIDUAL_MALE_U14_FOIL.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "U14",
+      "gender" : "MALE",
+      "weapon" : "FOIL"
+    }
+  } ]
+}

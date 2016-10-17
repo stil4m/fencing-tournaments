@@ -1,0 +1,46 @@
+{
+  "eventInformation" : {
+    "country" : "GER",
+    "city" : "Laupheim",
+    "name" : "49. Uhlmann-Cup",
+    "startDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "endDate" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    }
+  },
+  "tournaments" : [ {
+    "identifier" : "442e6df7-af39-4022-8d20-9bb0b2bc7241",
+    "path" : "/2016/10/20161015-GER-Laupheim/EQUIPE_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 16
+    },
+    "category" : {
+      "composition" : "EQUIPE",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  }, {
+    "identifier" : "1a38a83b-4002-4c5b-9264-bd98c569e927",
+    "path" : "/2016/10/20161015-GER-Laupheim/INDIVIDUAL_FEMALE_JUNIOR_EPEE.json",
+    "date" : {
+      "y" : 2016,
+      "m" : 10,
+      "d" : 15
+    },
+    "category" : {
+      "composition" : "INDIVIDUAL",
+      "ageGroup" : "JUNIOR",
+      "gender" : "FEMALE",
+      "weapon" : "EPEE"
+    }
+  } ]
+}

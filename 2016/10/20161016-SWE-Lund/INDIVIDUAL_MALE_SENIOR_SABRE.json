@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8536-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "3",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "7",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "FFF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Johan",
+      "lastName" : "CEDERLUND",
+      "fullName" : "CEDERLUND, Johan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "377053"
+  }, {
+    "participantId" : "2",
+    "club" : "FFF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Johan",
+      "lastName" : "ERIKSSON",
+      "fullName" : "ERIKSSON, Johan"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375168"
+  }, {
+    "participantId" : "3",
+    "club" : "Nanjing",
+    "country" : "CHN",
+    "name" : {
+      "firstName" : "Haoyu",
+      "lastName" : "GUO",
+      "fullName" : "GUO, Haoyu"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375763"
+  }, {
+    "participantId" : "4",
+    "club" : "LUGI Lund",
+    "country" : "HUN",
+    "name" : {
+      "firstName" : "Balazs",
+      "lastName" : "KONYA",
+      "fullName" : "KONYA, Balazs"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "70584"
+  }, {
+    "participantId" : "5",
+    "club" : "FFF Stockholm",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Frederik",
+      "lastName" : "LUNDBORG",
+      "fullName" : "LUNDBORG, Frederik"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "375078"
+  }, {
+    "participantId" : "6",
+    "club" : "LUGI Lund",
+    "country" : "GBR",
+    "name" : {
+      "firstName" : "Harry",
+      "lastName" : "MONCREIFF",
+      "fullName" : "MONCREIFF, Harry"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "24709"
+  }, {
+    "participantId" : "7",
+    "club" : "YFK Ystad",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Magnus",
+      "lastName" : "NORD",
+      "fullName" : "NORD, Magnus"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "70310"
+  }, {
+    "participantId" : "8",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Alexander",
+      "lastName" : "WAGNER",
+      "fullName" : "WAGNER, Alexander"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "340117"
+  } ]
+}

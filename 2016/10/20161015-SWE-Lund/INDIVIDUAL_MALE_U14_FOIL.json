@@ -1,0 +1,138 @@
+{
+  "sources" : {
+    "engarde" : null,
+    "fww" : "8537-16",
+    "fieId" : null,
+    "fencingTime" : null
+  },
+  "ranking" : [ {
+    "position" : 1,
+    "participantId" : "7",
+    "abandon" : false
+  }, {
+    "position" : 2,
+    "participantId" : "8",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "2",
+    "abandon" : false
+  }, {
+    "position" : 3,
+    "participantId" : "4",
+    "abandon" : false
+  }, {
+    "position" : 5,
+    "participantId" : "1",
+    "abandon" : false
+  }, {
+    "position" : 6,
+    "participantId" : "5",
+    "abandon" : false
+  }, {
+    "position" : 7,
+    "participantId" : "6",
+    "abandon" : false
+  }, {
+    "position" : 8,
+    "participantId" : "3",
+    "abandon" : false
+  } ],
+  "participants" : [ {
+    "participantId" : "1",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Oscar",
+      "lastName" : "ANDERSSON",
+      "fullName" : "ANDERSSON, Oscar"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347254"
+  }, {
+    "participantId" : "2",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Paul",
+      "lastName" : "BERGGREN",
+      "fullName" : "BERGGREN, Paul"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "326815"
+  }, {
+    "participantId" : "3",
+    "club" : "MFFG Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Olle",
+      "lastName" : "BERGLUND",
+      "fullName" : "BERGLUND, Olle"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "376875"
+  }, {
+    "participantId" : "4",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Viggo",
+      "lastName" : "MOGENSEN",
+      "fullName" : "MOGENSEN, Viggo"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341378"
+  }, {
+    "participantId" : "5",
+    "club" : "LUGI Lund",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Elias",
+      "lastName" : "PALMQVIST",
+      "fullName" : "PALMQVIST, Elias"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "347257"
+  }, {
+    "participantId" : "6",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Odin",
+      "lastName" : "ROSENQVIST",
+      "fullName" : "ROSENQVIST, Odin"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "356051"
+  }, {
+    "participantId" : "7",
+    "club" : "MFFG Malmö",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Daniel",
+      "lastName" : "VON POST",
+      "fullName" : "VON POST, Daniel"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "323081"
+  }, {
+    "participantId" : "8",
+    "club" : "ARA Helsingborg",
+    "country" : "SWE",
+    "name" : {
+      "firstName" : "Jakob",
+      "lastName" : "WIMARK",
+      "fullName" : "WIMARK, Jakob"
+    },
+    "gender" : "MALE",
+    "fieId" : null,
+    "fwwId" : "341394"
+  } ]
+}
